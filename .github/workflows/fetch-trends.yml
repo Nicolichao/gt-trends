@@ -53,7 +53,7 @@ jobs:
       - name: Install Python deps
         run: pip install --quiet requests
 
-      # 精确相对热度曲线（0-100）：内联，不需要额外脚本文件
+      # 精确相对热度曲线（0-100）：内联 Python，失败原因写入 data/iot/debug.log
       - name: Fetch interest-over-time
         continue-on-error: true
         shell: bash
@@ -74,26 +74,37 @@ jobs:
               "Origin": "https://trends.google.com",
           }
           NS = {"ht": "https://trends.google.com/trending/rss"}
+          LOG = []
+
+          def say(msg):
+              print(msg, flush=True)
+              LOG.append(str(msg))
 
           def clean(t):
               return re.sub(r"^\)\]\}'\s*", "", t.lstrip())
 
-          def get(s, url, params, tries=3):
+          def get(s, url, params, label, tries=2):
               for i in range(1, tries + 1):
                   try:
                       r = s.get(url, params=params, headers=H, timeout=30)
                   except Exception as e:
-                      print("  网络异常:", e); time.sleep(4 * i); continue
+                      say("%s 网络异常: %s" % (label, e))
+                      time.sleep(5 * i)
+                      continue
                   if r.status_code == 200:
                       try:
                           return json.loads(clean(r.text))
                       except Exception:
-                          print("  JSON 解析失败:", r.text[:80]); time.sleep(3 * i); continue
-                  if r.status_code in (429, 500, 502, 503, 504):
-                      w = 6 * i + random.uniform(0, 2)
-                      print("  HTTP", r.status_code, "%.0fs 后重试" % w); time.sleep(w); continue
-                  raise RuntimeError("HTTP %s: %s" % (r.status_code, r.text[:160]))
-              raise RuntimeError("重试耗尽: " + url)
+                          say("%s JSON 解析失败: %r" % (label, r.text[:200]))
+                          return None
+                  if r.status_code == 429:
+                      say("%s HTTP 429 限流，等 45s 重试" % label)
+                      time.sleep(45)
+                      continue
+                  say("%s HTTP %s: %r" % (label, r.status_code, r.text[:300]))
+                  return None
+              say("%s 重试次数用尽" % label)
+              return None
 
           def top_keywords(path, n):
               out = []
@@ -107,14 +118,23 @@ jobs:
 
           def curve(s, kw, geo, tf):
               payload = {"comparisonItem": [{"keyword": kw, "geo": geo, "time": tf}], "category": 0, "property": ""}
-              ex = get(s, BASE + "/explore", {"hl": "en-US", "tz": TZ, "req": json.dumps(payload, separators=(",", ":"))})
+              ex = get(s, BASE + "/explore",
+                      {"hl": "en-US", "tz": TZ, "req": json.dumps(payload, separators=(",", ":"))},
+                      "explore[%s]" % kw)
+              if not ex:
+                  return []
+              ids = [w.get("id") for w in ex.get("widgets", [])]
+              say("explore[%s] widgets=%s" % (kw, ids))
               w = next((x for x in ex.get("widgets", []) if x.get("id") == "TIMESERIES"), None)
               if not w:
-                  raise RuntimeError("无 TIMESERIES")
-              d = get(s, BASE + "/widgetdata/multiline", {
-                  "hl": "en-US", "tz": TZ,
-                  "req": json.dumps(w["request"], separators=(",", ":")),
-                  "token": w["token"]})
+                  return []
+              d = get(s, BASE + "/widgetdata/multiline",
+                      {"hl": "en-US", "tz": TZ,
+                       "req": json.dumps(w["request"], separators=(",", ":")),
+                       "token": w["token"]},
+                      "multiline[%s]" % kw)
+              if not d:
+                  return []
               rows = []
               for p in d.get("default", {}).get("timelineData", []):
                   hd = p.get("hasData")
@@ -134,34 +154,49 @@ jobs:
           today = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d")
           fields = ["keyword", "geo", "timeframe", "point_time", "formatted_time", "value"]
           s = requests.Session()
-          total = 0
 
+          # 先访问一次首页，让 session 带上 NID cookie，降低被 429 的概率
+          try:
+              warm = s.get("https://trends.google.com/?geo=US", headers=H, timeout=30)
+              say("预热首页 HTTP %s，cookies=%s" % (warm.status_code, list(s.cookies.keys())))
+          except Exception as e:
+              say("预热失败: %s" % e)
+
+          total = 0
           for geo, rss in (("HK", "data/latest-hk.xml"), ("US", "data/latest-us.xml")):
               if not os.path.exists(rss):
-                  print("跳过", geo, "：找不到", rss); continue
-              kws = top_keywords(rss, 3)
-              print(geo, "关键词:", kws)
+                  say("跳过 %s：找不到 %s" % (geo, rss))
+                  continue
+              kws = top_keywords(rss, 2)
+              say("%s 关键词: %s" % (geo, kws))
               rows = []
               for i, kw in enumerate(kws):
                   if i:
-                      time.sleep(3 + random.uniform(0, 2))
+                      time.sleep(8 + random.uniform(0, 4))
                   try:
                       got = curve(s, kw, geo, "now 7-d")
-                      rows += got
-                      print("  OK", kw, len(got), "点, 峰值", max([r["value"] for r in got] or [0]))
                   except Exception as e:
-                      print("  FAIL", kw, e)
+                      say("FAIL %s: %s" % (kw, e))
+                      continue
+                  if got:
+                      rows += got
+                      say("OK %s: %d 点, 峰值 %d" % (kw, len(got), max(r["value"] for r in got)))
+                  else:
+                      say("FAIL %s: 无数据点" % kw)
               if not rows:
-                  print(geo, "没有数据，跳过写出"); continue
+                  say("%s 没有数据，跳过写出" % geo)
+                  continue
               for p in ("data/iot/%s-%s.csv" % (geo, today), "data/iot/latest-%s.csv" % geo.lower()):
                   with open(p, "w", newline="", encoding="utf-8") as f:
                       w = csv.DictWriter(f, fieldnames=fields)
                       w.writeheader()
                       w.writerows(rows)
-                  print("  写出", p, len(rows), "行")
+                  say("写出 %s (%d 行)" % (p, len(rows)))
               total += len(rows)
 
-          print("完成，共", total, "行")
+          say("完成，共 %d 行" % total)
+          with open("data/iot/debug.log", "w", encoding="utf-8") as fh:
+              fh.write("\n".join(LOG) + "\n")
           sys.exit(0 if total else 1)
           PY
 
