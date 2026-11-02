@@ -1,0 +1,64 @@
+name: fetch-google-trends
+
+on:
+  schedule:
+    # UTC 00:50 = 北京时间 08:50
+    - cron: "50 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Google Trends RSS
+        shell: bash
+        run: |
+          set -uo pipefail
+          mkdir -p data
+          DATE=$(TZ=Asia/Shanghai date +%F)
+          echo "DATE=$DATE" >> "$GITHUB_ENV"
+          ok=0
+          for GEO in CN US; do
+            out="data/${GEO}-${DATE}.xml"
+            code=$(curl -sS -L --max-time 40 --retry 2 --retry-delay 5 \
+              -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+              -H "Accept: application/rss+xml,application/xml" \
+              -w '%{http_code}' -o "$out" \
+              "https://trends.google.com/trending/rss?geo=${GEO}") || code=000
+            echo "${GEO}: HTTP ${code}, $(wc -c < "$out" 2>/dev/null || echo 0) bytes"
+            if [ "$code" = "200" ] && grep -q "<item>" "$out" 2>/dev/null; then
+              cp "$out" "data/latest-${GEO,,}.xml"
+              ok=1
+            else
+              rm -f "$out"
+            fi
+          done
+          if [ "$ok" = "0" ]; then
+            echo "::error::所有地区抓取失败"
+            exit 1
+          fi
+
+      - name: Prune old snapshots (keep 90 days)
+        shell: bash
+        run: |
+          find data -name '*-*.xml' -mtime +90 -delete || true
+          ls -la data
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          git config user.name  "trends-bot"
+          git config user.email "trends-bot@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "trends: ${DATE} snapshot"
+            git push
+          fi
