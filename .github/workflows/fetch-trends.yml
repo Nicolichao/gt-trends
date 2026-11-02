@@ -24,6 +24,7 @@ jobs:
           DATE=$(TZ=Asia/Shanghai date +%F)
           echo "DATE=$DATE" >> "$GITHUB_ENV"
           ok=0
+          # Google Trends 不提供 geo=CN，中文热搜用 HK / TW / SG
           for GEO in HK US; do
             out="data/${GEO}-${DATE}.xml"
             code=$(curl -sS -L --max-time 40 --retry 2 --retry-delay 5 \
@@ -52,19 +53,125 @@ jobs:
       - name: Install Python deps
         run: pip install --quiet requests
 
-      - name: Fetch interest-over-time (HK)
+      # 精确相对热度曲线（0-100）：内联，不需要额外脚本文件
+      - name: Fetch interest-over-time
         continue-on-error: true
-        run: python scripts/fetch_iot.py --geo HK --rss data/latest-hk.xml --top 3
+        shell: bash
+        run: |
+          python - <<'PY'
+          import csv, json, os, random, re, sys, time
+          from datetime import datetime, timezone
+          import xml.etree.ElementTree as ET
+          import requests
 
-      - name: Fetch interest-over-time (US)
-        continue-on-error: true
-        run: python scripts/fetch_iot.py --geo US --rss data/latest-us.xml --top 3
+          BASE = "https://trends.google.com/trends/api"
+          TZ = "-480"
+          H = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "application/json, text/plain, */*",
+              "Accept-Language": "en-US,en;q=0.9",
+              "Referer": "https://trends.google.com/",
+              "Origin": "https://trends.google.com",
+          }
+          NS = {"ht": "https://trends.google.com/trending/rss"}
+
+          def clean(t):
+              return re.sub(r"^\)\]\}'\s*", "", t.lstrip())
+
+          def get(s, url, params, tries=3):
+              for i in range(1, tries + 1):
+                  try:
+                      r = s.get(url, params=params, headers=H, timeout=30)
+                  except Exception as e:
+                      print("  网络异常:", e); time.sleep(4 * i); continue
+                  if r.status_code == 200:
+                      try:
+                          return json.loads(clean(r.text))
+                      except Exception:
+                          print("  JSON 解析失败:", r.text[:80]); time.sleep(3 * i); continue
+                  if r.status_code in (429, 500, 502, 503, 504):
+                      w = 6 * i + random.uniform(0, 2)
+                      print("  HTTP", r.status_code, "%.0fs 后重试" % w); time.sleep(w); continue
+                  raise RuntimeError("HTTP %s: %s" % (r.status_code, r.text[:160]))
+              raise RuntimeError("重试耗尽: " + url)
+
+          def top_keywords(path, n):
+              out = []
+              for item in ET.parse(path).getroot().iter("item"):
+                  t = (item.findtext("title") or "").strip()
+                  tr = item.findtext("ht:approx_traffic", default="", namespaces=NS) or ""
+                  if t:
+                      out.append((int(re.sub(r"[^0-9]", "", tr) or 0), t))
+              out.sort(key=lambda x: -x[0])
+              return [t for _, t in out[:n]]
+
+          def curve(s, kw, geo, tf):
+              payload = {"comparisonItem": [{"keyword": kw, "geo": geo, "time": tf}], "category": 0, "property": ""}
+              ex = get(s, BASE + "/explore", {"hl": "en-US", "tz": TZ, "req": json.dumps(payload, separators=(",", ":"))})
+              w = next((x for x in ex.get("widgets", []) if x.get("id") == "TIMESERIES"), None)
+              if not w:
+                  raise RuntimeError("无 TIMESERIES")
+              d = get(s, BASE + "/widgetdata/multiline", {
+                  "hl": "en-US", "tz": TZ,
+                  "req": json.dumps(w["request"], separators=(",", ":")),
+                  "token": w["token"]})
+              rows = []
+              for p in d.get("default", {}).get("timelineData", []):
+                  hd = p.get("hasData")
+                  if hd and not any(hd):
+                      continue
+                  v = (p.get("value") or [None])[0]
+                  if v is None:
+                      continue
+                  ts = p.get("time")
+                  rows.append({
+                      "keyword": kw, "geo": geo, "timeframe": tf,
+                      "point_time": datetime.fromtimestamp(int(ts), tz=timezone.utc).isoformat() if ts else "",
+                      "formatted_time": p.get("formattedTime", ""), "value": int(v)})
+              return rows
+
+          os.makedirs("data/iot", exist_ok=True)
+          today = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d")
+          fields = ["keyword", "geo", "timeframe", "point_time", "formatted_time", "value"]
+          s = requests.Session()
+          total = 0
+
+          for geo, rss in (("HK", "data/latest-hk.xml"), ("US", "data/latest-us.xml")):
+              if not os.path.exists(rss):
+                  print("跳过", geo, "：找不到", rss); continue
+              kws = top_keywords(rss, 3)
+              print(geo, "关键词:", kws)
+              rows = []
+              for i, kw in enumerate(kws):
+                  if i:
+                      time.sleep(3 + random.uniform(0, 2))
+                  try:
+                      got = curve(s, kw, geo, "now 7-d")
+                      rows += got
+                      print("  OK", kw, len(got), "点, 峰值", max([r["value"] for r in got] or [0]))
+                  except Exception as e:
+                      print("  FAIL", kw, e)
+              if not rows:
+                  print(geo, "没有数据，跳过写出"); continue
+              for p in ("data/iot/%s-%s.csv" % (geo, today), "data/iot/latest-%s.csv" % geo.lower()):
+                  with open(p, "w", newline="", encoding="utf-8") as f:
+                      w = csv.DictWriter(f, fieldnames=fields)
+                      w.writeheader()
+                      w.writerows(rows)
+                  print("  写出", p, len(rows), "行")
+              total += len(rows)
+
+          print("完成，共", total, "行")
+          sys.exit(0 if total else 1)
+          PY
 
       - name: Prune old snapshots (keep 90 days)
         shell: bash
         run: |
           find data -name '*-*.xml' -mtime +90 -delete || true
+          find data/iot -name '*-*.csv' -mtime +90 -delete 2>/dev/null || true
           ls -la data
+          ls -la data/iot 2>/dev/null || true
 
       - name: Commit and push
         shell: bash
