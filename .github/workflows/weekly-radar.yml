@@ -1,0 +1,210 @@
+name: weekly-radar
+
+on:
+  schedule:
+    # UTC 01:00 周日 = 北京时间 09:00 周日
+    - cron: "0 1 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 周度机会雷达：百度下拉词（需求） + Hacker News（技术窗口） + GitHub 星速（供给缺口）
+      - name: Build radar
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os, re, time, urllib.parse, urllib.request
+          from datetime import datetime, timezone
+
+          # ====== 要改就改这里 ======
+          SEEDS = [
+              "ai工具", "ai写作", "ai绘画", "提示词", "自动化",
+              "副业", "跨境电商", "独立站", "外贸", "简历",
+              "小红书", "论文", "翻译", "视频剪辑", "客服机器人",
+          ]
+          REPOS = [
+              "langgenius/dify", "n8n-io/n8n", "ollama/ollama",
+              "comfyanonymous/ComfyUI", "browser-use/browser-use",
+              "langchain-ai/langchain", "microsoft/autogen", "danny-avila/LibreChat",
+          ]
+          HN_TOP = 15
+          # ========================
+
+          UA = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "*/*",
+          }
+
+          def http(url, timeout=25):
+              req = urllib.request.Request(url, headers=UA)
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read()
+
+          def baidu_suggest(seed):
+              url = "https://suggestion.baidu.com/su?wd=%s&cb=cb&ie=utf-8" % urllib.parse.quote(seed)
+              raw = http(url)
+              text = None
+              for enc in ("utf-8", "gbk"):
+                  try:
+                      text = raw.decode(enc)
+                      break
+                  except Exception:
+                      continue
+              if text is None:
+                  text = raw.decode("utf-8", "ignore")
+              m = re.search(r"s:\[(.*?)\]", text, re.S)
+              if not m:
+                  return []
+              return re.findall(r'"([^"]*)"', m.group(1))[:12]
+
+          def hn_top(n):
+              ids = json.loads(http("https://hacker-news.firebaseio.com/v0/topstories.json"))
+              out = []
+              for i in ids[:n]:
+                  try:
+                      it = json.loads(http("https://hacker-news.firebaseio.com/v0/item/%s.json" % i))
+                  except Exception:
+                      continue
+                  if not it or not it.get("title"):
+                      continue
+                  out.append({
+                      "title": it.get("title", ""),
+                      "score": it.get("score", 0),
+                      "url": it.get("url", ""),
+                  })
+                  time.sleep(0.15)
+              return out
+
+          def gh_stars(repo):
+              d = json.loads(http("https://api.github.com/repos/%s" % repo))
+              return int(d.get("stargazers_count", 0))
+
+          os.makedirs("data/radar", exist_ok=True)
+          today = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d")
+          state_path = "data/radar/state.json"
+
+          prev = {}
+          if os.path.exists(state_path):
+              try:
+                  with open(state_path, encoding="utf-8") as f:
+                      prev = json.load(f)
+              except Exception:
+                  prev = {}
+          prev_seeds = prev.get("seeds", {})
+          prev_stars = prev.get("stars", {})
+          prev_date = prev.get("date", "")
+
+          seeds_out, new_terms, seed_errors = {}, [], []
+          for seed in SEEDS:
+              try:
+                  got = baidu_suggest(seed)
+              except Exception as e:
+                  seed_errors.append("%s（%s）" % (seed, e))
+                  got = []
+              seeds_out[seed] = got
+              old = set(prev_seeds.get(seed, []))
+              for t in got:
+                  if t and t not in old and prev_seeds:
+                      new_terms.append((seed, t))
+
+          try:
+              hn = hn_top(HN_TOP)
+          except Exception as e:
+              hn = []
+              seed_errors.append("Hacker News（%s）" % e)
+
+          stars_out, star_rows = {}, []
+          for repo in REPOS:
+              try:
+                  n = gh_stars(repo)
+              except Exception as e:
+                  star_rows.append((repo, None, None, str(e)))
+                  continue
+              stars_out[repo] = n
+              before = prev_stars.get(repo)
+              delta = (n - before) if isinstance(before, int) else None
+              star_rows.append((repo, n, delta, ""))
+
+          star_rows.sort(key=lambda r: (r[2] is None, -(r[2] or 0)))
+
+          lines = []
+          lines.append("# 周度机会雷达 %s" % today)
+          lines.append("")
+          lines.append("上一份快照：%s" % (prev_date or "无（首次运行，无环比）"))
+          lines.append("")
+          lines.append("## 一、需求侧：百度下拉词")
+          if new_terms:
+              lines.append("本期新出现的联想词（相比上期）%d 条：" % len(new_terms))
+              for seed, t in new_terms[:40]:
+                  lines.append("- [%s] %s" % (seed, t))
+          else:
+              lines.append("本期无新增联想词，或首次运行无对比基线。")
+          lines.append("")
+          lines.append("各种子词的全部联想词：")
+          for seed in SEEDS:
+              items = seeds_out.get(seed, [])
+              lines.append("- %s：%s" % (seed, " / ".join(items) if items else "（无数据）"))
+          lines.append("")
+          lines.append("## 二、技术窗口：Hacker News Top %d" % HN_TOP)
+          if hn:
+              for i, it in enumerate(hn, 1):
+                  lines.append("%d. %s（%s 分）%s" % (i, it["title"], it["score"], it["url"]))
+          else:
+              lines.append("（抓取失败）")
+          lines.append("")
+          lines.append("## 三、供给缺口：GitHub 星速（对比上期）")
+          lines.append("| 仓库 | 星数 | 一周增量 | 备注 |")
+          lines.append("|---|---|---|---|")
+          for repo, n, delta, err in star_rows:
+              if n is None:
+                  lines.append("| %s | — | — | %s |" % (repo, err))
+              else:
+                  lines.append("| %s | %s | %s | |" % (repo, n, "—" if delta is None else "+%d" % delta))
+          lines.append("")
+          if seed_errors:
+              lines.append("## 抓取异常")
+              for e in seed_errors:
+                  lines.append("- %s" % e)
+              lines.append("")
+
+          with open("data/radar/latest.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+
+          state = {"date": today, "seeds": seeds_out, "stars": stars_out}
+          with open(state_path, "w", encoding="utf-8") as f:
+              json.dump(state, f, ensure_ascii=False, indent=1)
+
+          print("已写出 data/radar/latest.md 与 state.json")
+          print("新联想词 %d 条，HN %d 条，GitHub %d 个仓库" % (len(new_terms), len(hn), len(stars_out)))
+          PY
+
+      - name: Prune old radar snapshots
+        shell: bash
+        run: |
+          ls -la data/radar || true
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add -A data/radar
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "radar: $(TZ=Asia/Shanghai date +%F) weekly snapshot"
+            git push
+          fi
