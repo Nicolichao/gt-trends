@@ -6,32 +6,122 @@
 		<link>https://trends.google.com/trending/rss?geo=US</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=US" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>casper ruud</title>
+			<title>spx</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 06:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCFNTjgOiGVDAn6mRA8JF7Ojra3hjYc6U1C9y3Zi9k6CslXXlftNEbuAa4V1g</ht:picture>
+			<ht:picture_source>Seeking Alpha</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>S&amp;P500: This Setup Is 19-0 (SP500)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://seekingalpha.com/article/4960718-sp500-this-setup-is-19-0</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCFNTjgOiGVDAn6mRA8JF7Ojra3hjYc6U1C9y3Zi9k6CslXXlftNEbuAa4V1g</ht:news_item_picture>
+				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Charting the Markets: The S&amp;P 500 Is Following a Script</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://pro.thestreet.com/portfolio/charting-the-markets-the-sp-500-is-following-a-script</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmrekVm0jWm1QLp8gn9DS7igCa4DHuO0fnGaGi9LqgLxNbpRM0NCf0NtbdaIM</ht:news_item_picture>
+				<ht:news_item_source>RealMoney Pro</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Is Market Fear Overblown Amid S&amp;P 500 Breakdown?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.schaeffersresearch.com/content/analysis/2026/11/02/is-market-fear-overblown-amid-s-p-500-breakdown</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTfZ_cyujYR2mWNfkRjhDTw3N91TG-4l5OqTTAZCYdOVHv9Sfpqn76TkpzsrY</ht:news_item_picture>
+				<ht:news_item_source>Schaeffer&apos;s Investment Research</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>orcl stock</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 06:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5ohVtSvqCiKi9QQv0GEBnDMRbwl4LV7L34lpkl7xQajorzfyDazFPqnpwIY</ht:picture>
+			<ht:picture_source>CNBC</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Oracle files to sell $20 billion in new stock, bonds to finance AI buildout</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5ohVtSvqCiKi9QQv0GEBnDMRbwl4LV7L34lpkl7xQajorzfyDazFPqnpwIY</ht:news_item_picture>
+				<ht:news_item_source>CNBC</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Oracle shares fall after $10 billion stock offering</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://finance.yahoo.com/markets/stocks/articles/oracle-shares-fall-10-billion-140042883.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXYQwE3dUFsin5-rWuTRJ3JStM9OPAS5GO7TW21Fx2dabbXrMA86-Q4jXaMRM</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Oracle Is Offering $10 Billion of High-Grade Dollar Bonds</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu4hESoYi0vrDXFw69oCalrRl8TPn1Pev_5W9YoZBA9W9IE5sf8QOtWazrZ10</ht:news_item_picture>
+				<ht:news_item_source>Bloomberg</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>nhl shop</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 06:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLQRnfEdSaTCpbOHwNo500ml9ZZ31d73grI5G8GMF7y37mVwSNM_6Gc2Xg3RI</ht:picture>
+			<ht:picture_source>NHL.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Stamkos talks getting Predators over hump, time with Kucherov, Lightning</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nhl.com/news/nhl-chat-room-steven-stamkos-talks-predators-former-lightning-teammate-nikita-kucherov</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLQRnfEdSaTCpbOHwNo500ml9ZZ31d73grI5G8GMF7y37mVwSNM_6Gc2Xg3RI</ht:news_item_picture>
+				<ht:news_item_source>NHL.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Seattle Kraken trade Shane Wright to Nashville Predators for Matthew Wood: Sources</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nytimes.com/athletic/7452215/2026/11/01/shane-wright-kraken-predators-trade/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG47zBBao-6lGK5Yyws-M2f-UFeuOgTPi9Vbf_Zaci3f4Tynng2quYPr9KbEI</ht:news_item_picture>
+				<ht:news_item_source>The New York Times</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Dan’s Daily: Kraken Trade Wright; Edvinsson Offers; Penguins Limits</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.yahoo.com/articles/dan-daily-kraken-trade-wright-130732007.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREf8EqgaufUf0PCFGfgUwW6Z-Nwk2PYPT37rwKpnqq1ZtMAQfbrwom4XUO8hI</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>casper ruud</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
 			<pubDate>Mon, 2 Nov 2026 06:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh8fYNqLefmUCXLXunZreaR33scFyyInNnERM2fEoJ8XnLY6mKvPZ_YMdX5o</ht:picture>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_aubpQJ4U-WRH0cWVc1u7dzKu9-AJF1xk2-sQwAlWrdjSVuxKLLJ_lWFm_i0</ht:picture>
 			<ht:picture_source>Robinhood</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>November 3, 2026: Caniato vs Giustino Tennis Prediction Market</ht:news_item_title>
+				<ht:news_item_title>November 3, 2026: Alexander Zverev vs Lorenzo Musetti: Game Spread Tennis Prediction Market</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://robinhood.com/us/en/prediction-markets/tennis/events/caniato-vs-giustino-nov-03-2026/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh8fYNqLefmUCXLXunZreaR33scFyyInNnERM2fEoJ8XnLY6mKvPZ_YMdX5o</ht:news_item_picture>
+				<ht:news_item_url>https://robinhood.com/us/en/prediction-markets/tennis/events/alexander-zverev-vs-lorenzo-musetti-game-spread-nov-03-2026/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_aubpQJ4U-WRH0cWVc1u7dzKu9-AJF1xk2-sQwAlWrdjSVuxKLLJ_lWFm_i0</ht:news_item_picture>
 				<ht:news_item_source>Robinhood</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>November 3, 2026: Adkar / Bhosale vs Brooks / Rajecki Tennis Prediction Market</ht:news_item_title>
+				<ht:news_item_title>November 3, 2026: Janice Tjen vs Katherine Hui: Set 1 Winner Tennis Prediction Market</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://robinhood.com/us/en/prediction-markets/tennis/events/adkar-bhosale-vs-brooks-rajecki-nov-03-2026/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK8d_pybYq8S6pAye_6T61UrpqUADk1nrTA1hW1Bj1Tx1MucUZTBZFI5eq1Wc</ht:news_item_picture>
+				<ht:news_item_url>https://robinhood.com/us/en/prediction-markets/tennis/events/janice-tjen-vs-katherine-hui-set-1-winner-nov-03-2026/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlHtUoO1Qw6hBALZEnhX5gm1w4mNGJdkY6IQzsyfAtFPpZ_Qwysz65luzD9aM</ht:news_item_picture>
 				<ht:news_item_source>Robinhood</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>November 3, 2026: Rajeshwaran Revathi vs Kawa Prediction Market</ht:news_item_title>
+				<ht:news_item_title>November 3, 2026: Jil Teichmann vs Joanna Garland: Set 2 Winner Tennis Prediction Market</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://robinhood.com/us/en/prediction-markets/tennis/events/rajeshwaran-revathi-vs-kawa-nov-03-2026/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn8uFB27Cq8ETmn0fI8f0-zUbkWSXhNLstdB77a3lENysAJOmD6pzBtY-7GBc</ht:news_item_picture>
+				<ht:news_item_url>https://robinhood.com/us/en/prediction-markets/tennis/events/jil-teichmann-vs-joanna-garland-set-2-winner-nov-03-2026/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO3fI_9fb4c78PiaQwFKA0HUtel-lpilEMZOM6dYqsz6ZoD5ESWzGA0n4U6jY</ht:news_item_picture>
 				<ht:news_item_source>Robinhood</ht:news_item_source>
 			</ht:news_item>
 		</item>
@@ -63,36 +153,6 @@
 				<ht:news_item_url>https://finance.biggo.com/news/9e8a28dc-9ca9-4226-a88b-048129d5a4ef</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKEhhs6zS-s5m_bkaw_3PRxJ-5cwqyjYSNRSYK2RAx22Rd3-f9HTVpZP7iIaU</ht:news_item_picture>
 				<ht:news_item_source>BigGo Finance</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>diwali 2026</title>
-			<ht:approx_traffic>5000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 05:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYGYYfO89ie0vr8mIjCAgWho1SxSV8xsMofvQBD7XmmhGfY82ZEjCj4gA9wbE</ht:picture>
-			<ht:picture_source>The Economic Times</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Diwali firecracker curbs: SC sets two time periods for fireworks, bans bursting near hospitals</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.economictimes.com/news/india/diwali-firecracker-curbs-sc-sets-two-time-periods-for-fireworks-bans-bursting-near-hospitals/articleshow/135453944.cms</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYGYYfO89ie0vr8mIjCAgWho1SxSV8xsMofvQBD7XmmhGfY82ZEjCj4gA9wbE</ht:news_item_picture>
-				<ht:news_item_source>The Economic Times</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Delhi AQI at 312 this morning, Supreme Court says ok to ‘green’ firecrackers</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://indianexpress.com/article/cities/delhi/only-green-firecrackers-allowed-in-delhi-ncr-nov-7-8-at-certain-times-says-supreme-court-10947264/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQASTgUc0EYIpJz1PEnEEpGgQ4W4KJuPAt1H2Aa6gUyQE_PjYW9L1IVo8f0OqY</ht:news_item_picture>
-				<ht:news_item_source>The Indian Express</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘Bada pataka’ under the counter, fake green labels on display: Banned firecrackers flood Delhi markets after Supreme Court nod</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.thehindu.com/news/cities/Delhi/bada-pataka-under-the-counter-fake-green-labels-on-display-banned-firecrackers-flood-delhi-markets-after-supreme-court-nod/article71657021.ece</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvwB5mv1QZqZQR_YtRfegKlQOJt1sFRm1jGrdkLgeF65ucDFttGRKmA_7kOAo</ht:news_item_picture>
-				<ht:news_item_source>The Hindu</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -186,8 +246,38 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>trader joe mystery pack release</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 05:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIDvpCs5ZBrv7vMmugpeUZvNg_xnAW5aoRl9wONxRQUw1RbQDwdrlJnH99p4</ht:picture>
+			<ht:picture_source>USA Today</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Trader Joe&apos;s mystery packs are returning this month with new bags</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.usatoday.com/story/grocery/2026/11/02/new-trader-joes-mystery-packs-releasing-november-2026/92498900007/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIDvpCs5ZBrv7vMmugpeUZvNg_xnAW5aoRl9wONxRQUw1RbQDwdrlJnH99p4</ht:news_item_picture>
+				<ht:news_item_source>USA Today</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Trader Joe’s is bringing back its mystery bags. Here’s what shoppers can expect</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.kare11.com/article/news/nation-world/trader-joes-mystery-bags/507-9954b647-510d-4a46-9f55-5d45dfc99a3c</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbK-WcBMxPVC7pmmVH4JiVi6PqFQWfua3f30T5iAO1jfVb-cK35dYYFdx9L2I</ht:news_item_picture>
+				<ht:news_item_source>kare11.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Trader Joe&apos;s mystery packs are returning this month with new bags</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.star-telegram.com/news/business/article317880661.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcNwlDzgjel6eG-BDGVtdvsm6urGTpS4QzWLyWeWINZHL0cVNcF6q0X2I89GY</ht:news_item_picture>
+				<ht:news_item_source>Fort Worth Star-Telegram</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>pagosa springs flooding</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
 			<pubDate>Mon, 2 Nov 2026 05:30:00 -0800</pubDate>
@@ -213,96 +303,6 @@
 				<ht:news_item_url>https://www.9news.com/article/weather/severe-weather/colorado-flood-evacuees-forced-out-again-new-storm-hits-before-recovery-begins/73-a24df4b0-242a-482e-a03f-f072ec1af3e1</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpet19d4zjEQG86MgiMQKT0qtiniwkLJAorFSGdikLw4egVrQCm95dbXVgkeI</ht:news_item_picture>
 				<ht:news_item_source>9News</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>andy richter</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 05:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVC3wDO4bOb1flMY229KH30EJhGUqe1ZzbcVCYDWO874Eu64KHJ22XwTkgNeA</ht:picture>
-			<ht:picture_source>People.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Alfonso Ribeiro Responds After Alexa PenaVega Claims ‘Dancing with the Stars’ Is ‘Rigged’</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://people.com/alfonso-ribeiro-responds-after-alexa-penavega-claims-dancing-with-the-stars-is-rigged-12195821</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVC3wDO4bOb1flMY229KH30EJhGUqe1ZzbcVCYDWO874Eu64KHJ22XwTkgNeA</ht:news_item_picture>
-				<ht:news_item_source>People.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>DWTS alum Andy Richter lifts the lid on top-secret voting process as show battles &apos;rigged&apos; claims</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.the-sun.com/tv/17229978/dwts-andy-richter-voting-secrets-results-judges-cast-vote/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuoO6E4eXoMWFNhOCcm2Au8Us9xPYVra_dFTIaK3S7vDzxe-6IHEGvSSKOXs8</ht:news_item_picture>
-				<ht:news_item_source>The Sun</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>DWTS’ Alfonso Ribeiro Reacts to ‘Rigged’ Show Joke, Dax Shepard’s Marriage Revelation, More Top Stories</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aol.com/articles/dwts-alfonso-ribeiro-reacts-rigged-215834000.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbWJq3llKGBu9DeD70FtLo8ejjWns3e2iYI0D0XZlLfxXDsnF5OqXOpSC80CU</ht:news_item_picture>
-				<ht:news_item_source>AOL.com</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>bill murray</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 05:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSocuXctnrxDrPe28kodNadDTqZ8HW9yDfOk7nKwEC1oaIX9sgOFa81QVsJGes</ht:picture>
-			<ht:picture_source>CNBC</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Watch CNBC&apos;s full interview with Bill Murray, author Tom Coyne on &apos;A Course Called Ireland&apos;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cnbc.com/video/2026/11/02/watch-cnbcs-full-interview-with-bill-murray-author-tom-coyne-on-a-course-called-ireland.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSocuXctnrxDrPe28kodNadDTqZ8HW9yDfOk7nKwEC1oaIX9sgOFa81QVsJGes</ht:news_item_picture>
-				<ht:news_item_source>CNBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Bill Murray, 76, Says Fame Doesn&apos;t Make Him Happy After Decades in Hollywood: ‘In a Word, No’</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yahoo.com/entertainment/celebrity/articles/bill-murray-76-says-fame-153055052.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfLiH3rYHEgTeslq9cNXax7CYfr9POoMZ-CORbgK2SulckFBmRXPrxkwJ_fQ0</ht:news_item_picture>
-				<ht:news_item_source>Yahoo</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Why Bill Murray Misses the Autograph ‘Era’ and More Surprising Revelations From His New Golf Documentary</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://people.com/bill-murray-a-course-called-ireland-docuseries-12203071</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyOY3lTPGwA0IPbixQJ2Oi1Ytrd603NnWs5P6ezcq1sTyG33HEZCqYaqlTrZI</ht:news_item_picture>
-				<ht:news_item_source>People.com</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>internet invitational</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 05:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY9gO_lJdfAvtbJpofefEv7PXUCrJ5geZtYxTECNFaZB5y5xGRH9MRDxdGBfg</ht:picture>
-			<ht:picture_source>GOLF.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Why Barstool’s latest golf swing is about much more than virality</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://golf.com/news/internet-invitational-glimpse-golf-tv-watching-future/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY9gO_lJdfAvtbJpofefEv7PXUCrJ5geZtYxTECNFaZB5y5xGRH9MRDxdGBfg</ht:news_item_picture>
-				<ht:news_item_source>GOLF.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Check out the handicap indexes of the biggest Internet Invitational stars (and scrubs)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.golfdigest.com/story/internet-invitational-season-2-player-handicap-indexes-brad-dalke-paige-spiranac-bob-does-sports</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDoO6hPYJbSIKkuIzZmWcSEyDgQHNClE-GCd_zkWfNsJLd-vZ8cBRm6YZ6P9k</ht:news_item_picture>
-				<ht:news_item_source>Golf Digest</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Emotional tribute paid to Barstool employee who died at 31 as Dave Portnoy makes touching gesture</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aol.com/articles/emotional-tribute-paid-barstool-employee-142411000.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGKUe-_X1rljb2-qdjlG8FqRF3MHjQEzCOIK68TrEssQQO1VAAnWy6pcHYMUc</ht:news_item_picture>
-				<ht:news_item_source>AOL.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
