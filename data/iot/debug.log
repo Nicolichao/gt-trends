@@ -1,18 +1,16 @@
 预热首页 HTTP 200，cookies=['NID']
 HK 关键词: ['明天的天氣', 'weather tomorrow']
 explore[明天的天氣] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-multiline[明天的天氣] JSON 解析失败: ')]}\',\n{"default":{"timelineData":[{"time":"1793026800","formattedTime":"Oct 26, 2026 at 11:00\\u202fPM","formattedAxisTime":"Oct 26 at 11:00\\u202fPM","value":[24],"hasData":[true],"formattedValue":["24'
-FAIL 明天的天氣: 无数据点
+OK 明天的天氣: 47 点, 峰值 100
 explore[weather tomorrow] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-multiline[weather tomorrow] JSON 解析失败: ')]}\',\n{"default":{"timelineData":[{"time":"1793026800","formattedTime":"Oct 26, 2026 at 11:00\\u202fPM","formattedAxisTime":"Oct 26 at 11:00\\u202fPM","value":[19],"hasData":[true],"formattedValue":["19'
-FAIL weather tomorrow: 无数据点
-HK 没有数据，跳过写出
+OK weather tomorrow: 60 点, 峰值 100
+写出 data/iot/HK-2026-11-02.csv (107 行)
+写出 data/iot/latest-hk.csv (107 行)
 US 关键词: ['nhl shop', 'ice post release immigrant detentions']
 explore[nhl shop] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-multiline[nhl shop] JSON 解析失败: ')]}\',\n{"default":{"timelineData":[{"time":"1793026800","formattedTime":"Oct 26, 2026 at 11:00\\u202fPM","formattedAxisTime":"Oct 26 at 11:00\\u202fPM","value":[1],"hasData":[true],"formattedValue":["1"]'
-FAIL nhl shop: 无数据点
+OK nhl shop: 126 点, 峰值 100
 explore[ice post release immigrant detentions] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-multiline[ice post release immigrant detentions] JSON 解析失败: ')]}\',\n{"default":{"timelineData":[{"time":"1793026800","formattedTime":"Oct 26, 2026 at 11:00\\u202fPM","formattedAxisTime":"Oct 26 at 11:00\\u202fPM","value":[0],"hasData":[false],"formattedValue":["0"'
-FAIL ice post release immigrant detentions: 无数据点
-US 没有数据，跳过写出
-完成，共 0 行
+OK ice post release immigrant detentions: 3 点, 峰值 100
+写出 data/iot/US-2026-11-02.csv (129 行)
+写出 data/iot/latest-us.csv (129 行)
+完成，共 236 行

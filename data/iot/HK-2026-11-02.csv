@@ -1,0 +1,108 @@
+keyword,geo,timeframe,point_time,formatted_time,value
+明天的天氣,HK,now 7-d,2026-10-26T15:00:00+00:00,"Oct 26, 2026 at 11:00 PM",23
+明天的天氣,HK,now 7-d,2026-10-26T16:00:00+00:00,"Oct 27, 2026 at 12:00 AM",8
+明天的天氣,HK,now 7-d,2026-10-27T11:00:00+00:00,"Oct 27, 2026 at 7:00 PM",1
+明天的天氣,HK,now 7-d,2026-10-27T12:00:00+00:00,"Oct 27, 2026 at 8:00 PM",78
+明天的天氣,HK,now 7-d,2026-10-27T13:00:00+00:00,"Oct 27, 2026 at 9:00 PM",66
+明天的天氣,HK,now 7-d,2026-10-27T14:00:00+00:00,"Oct 27, 2026 at 10:00 PM",48
+明天的天氣,HK,now 7-d,2026-10-27T15:00:00+00:00,"Oct 27, 2026 at 11:00 PM",36
+明天的天氣,HK,now 7-d,2026-10-27T16:00:00+00:00,"Oct 28, 2026 at 12:00 AM",13
+明天的天氣,HK,now 7-d,2026-10-27T17:00:00+00:00,"Oct 28, 2026 at 1:00 AM",3
+明天的天氣,HK,now 7-d,2026-10-27T19:00:00+00:00,"Oct 28, 2026 at 3:00 AM",9
+明天的天氣,HK,now 7-d,2026-10-27T23:00:00+00:00,"Oct 28, 2026 at 7:00 AM",5
+明天的天氣,HK,now 7-d,2026-10-28T00:00:00+00:00,"Oct 28, 2026 at 8:00 AM",2
+明天的天氣,HK,now 7-d,2026-10-28T01:00:00+00:00,"Oct 28, 2026 at 9:00 AM",1
+明天的天氣,HK,now 7-d,2026-10-28T05:00:00+00:00,"Oct 28, 2026 at 1:00 PM",1
+明天的天氣,HK,now 7-d,2026-10-28T12:00:00+00:00,"Oct 28, 2026 at 8:00 PM",46
+明天的天氣,HK,now 7-d,2026-10-28T13:00:00+00:00,"Oct 28, 2026 at 9:00 PM",51
+明天的天氣,HK,now 7-d,2026-10-28T14:00:00+00:00,"Oct 28, 2026 at 10:00 PM",37
+明天的天氣,HK,now 7-d,2026-10-28T15:00:00+00:00,"Oct 28, 2026 at 11:00 PM",29
+明天的天氣,HK,now 7-d,2026-10-28T16:00:00+00:00,"Oct 29, 2026 at 12:00 AM",9
+明天的天氣,HK,now 7-d,2026-10-29T07:00:00+00:00,"Oct 29, 2026 at 3:00 PM",1
+明天的天氣,HK,now 7-d,2026-10-29T12:00:00+00:00,"Oct 29, 2026 at 8:00 PM",42
+明天的天氣,HK,now 7-d,2026-10-29T13:00:00+00:00,"Oct 29, 2026 at 9:00 PM",49
+明天的天氣,HK,now 7-d,2026-10-29T14:00:00+00:00,"Oct 29, 2026 at 10:00 PM",30
+明天的天氣,HK,now 7-d,2026-10-29T15:00:00+00:00,"Oct 29, 2026 at 11:00 PM",26
+明天的天氣,HK,now 7-d,2026-10-29T16:00:00+00:00,"Oct 30, 2026 at 12:00 AM",8
+明天的天氣,HK,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",47
+明天的天氣,HK,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",50
+明天的天氣,HK,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",36
+明天的天氣,HK,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",27
+明天的天氣,HK,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",9
+明天的天氣,HK,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",51
+明天的天氣,HK,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",59
+明天的天氣,HK,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",37
+明天的天氣,HK,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",28
+明天的天氣,HK,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",10
+明天的天氣,HK,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",78
+明天的天氣,HK,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",70
+明天的天氣,HK,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",50
+明天的天氣,HK,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",34
+明天的天氣,HK,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",12
+明天的天氣,HK,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",1
+明天的天氣,HK,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",1
+明天的天氣,HK,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",1
+明天的天氣,HK,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",100
+明天的天氣,HK,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",86
+明天的天氣,HK,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",53
+明天的天氣,HK,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",42
+weather tomorrow,HK,now 7-d,2026-10-26T15:00:00+00:00,"Oct 26, 2026 at 11:00 PM",19
+weather tomorrow,HK,now 7-d,2026-10-27T04:00:00+00:00,"Oct 27, 2026 at 12:00 PM",4
+weather tomorrow,HK,now 7-d,2026-10-27T06:00:00+00:00,"Oct 27, 2026 at 2:00 PM",2
+weather tomorrow,HK,now 7-d,2026-10-27T12:00:00+00:00,"Oct 27, 2026 at 8:00 PM",90
+weather tomorrow,HK,now 7-d,2026-10-27T13:00:00+00:00,"Oct 27, 2026 at 9:00 PM",62
+weather tomorrow,HK,now 7-d,2026-10-27T14:00:00+00:00,"Oct 27, 2026 at 10:00 PM",43
+weather tomorrow,HK,now 7-d,2026-10-27T15:00:00+00:00,"Oct 27, 2026 at 11:00 PM",28
+weather tomorrow,HK,now 7-d,2026-10-27T16:00:00+00:00,"Oct 28, 2026 at 12:00 AM",16
+weather tomorrow,HK,now 7-d,2026-10-27T23:00:00+00:00,"Oct 28, 2026 at 7:00 AM",10
+weather tomorrow,HK,now 7-d,2026-10-28T00:00:00+00:00,"Oct 28, 2026 at 8:00 AM",8
+weather tomorrow,HK,now 7-d,2026-10-28T08:00:00+00:00,"Oct 28, 2026 at 4:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-28T09:00:00+00:00,"Oct 28, 2026 at 5:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-28T10:00:00+00:00,"Oct 28, 2026 at 6:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-28T12:00:00+00:00,"Oct 28, 2026 at 8:00 PM",34
+weather tomorrow,HK,now 7-d,2026-10-28T13:00:00+00:00,"Oct 28, 2026 at 9:00 PM",45
+weather tomorrow,HK,now 7-d,2026-10-28T14:00:00+00:00,"Oct 28, 2026 at 10:00 PM",28
+weather tomorrow,HK,now 7-d,2026-10-28T15:00:00+00:00,"Oct 28, 2026 at 11:00 PM",25
+weather tomorrow,HK,now 7-d,2026-10-29T01:00:00+00:00,"Oct 29, 2026 at 9:00 AM",6
+weather tomorrow,HK,now 7-d,2026-10-29T02:00:00+00:00,"Oct 29, 2026 at 10:00 AM",4
+weather tomorrow,HK,now 7-d,2026-10-29T04:00:00+00:00,"Oct 29, 2026 at 12:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-29T05:00:00+00:00,"Oct 29, 2026 at 1:00 PM",4
+weather tomorrow,HK,now 7-d,2026-10-29T09:00:00+00:00,"Oct 29, 2026 at 5:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-29T12:00:00+00:00,"Oct 29, 2026 at 8:00 PM",30
+weather tomorrow,HK,now 7-d,2026-10-29T13:00:00+00:00,"Oct 29, 2026 at 9:00 PM",37
+weather tomorrow,HK,now 7-d,2026-10-29T14:00:00+00:00,"Oct 29, 2026 at 10:00 PM",31
+weather tomorrow,HK,now 7-d,2026-10-29T15:00:00+00:00,"Oct 29, 2026 at 11:00 PM",19
+weather tomorrow,HK,now 7-d,2026-10-29T16:00:00+00:00,"Oct 30, 2026 at 12:00 AM",8
+weather tomorrow,HK,now 7-d,2026-10-30T02:00:00+00:00,"Oct 30, 2026 at 10:00 AM",4
+weather tomorrow,HK,now 7-d,2026-10-30T04:00:00+00:00,"Oct 30, 2026 at 12:00 PM",4
+weather tomorrow,HK,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-30T09:00:00+00:00,"Oct 30, 2026 at 5:00 PM",3
+weather tomorrow,HK,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",4
+weather tomorrow,HK,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",37
+weather tomorrow,HK,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",43
+weather tomorrow,HK,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",32
+weather tomorrow,HK,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",16
+weather tomorrow,HK,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",7
+weather tomorrow,HK,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",7
+weather tomorrow,HK,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",6
+weather tomorrow,HK,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",43
+weather tomorrow,HK,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",47
+weather tomorrow,HK,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",32
+weather tomorrow,HK,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",26
+weather tomorrow,HK,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",6
+weather tomorrow,HK,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",4
+weather tomorrow,HK,now 7-d,2026-11-01T08:00:00+00:00,"Nov 1, 2026 at 4:00 PM",4
+weather tomorrow,HK,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",62
+weather tomorrow,HK,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",48
+weather tomorrow,HK,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",37
+weather tomorrow,HK,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",28
+weather tomorrow,HK,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",11
+weather tomorrow,HK,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",3
+weather tomorrow,HK,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",4
+weather tomorrow,HK,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",3
+weather tomorrow,HK,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",2
+weather tomorrow,HK,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",100
+weather tomorrow,HK,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",73
+weather tomorrow,HK,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",48
+weather tomorrow,HK,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",31
