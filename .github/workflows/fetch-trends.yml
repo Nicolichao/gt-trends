@@ -24,7 +24,7 @@ jobs:
           DATE=$(TZ=Asia/Shanghai date +%F)
           echo "DATE=$DATE" >> "$GITHUB_ENV"
           ok=0
-          for GEO in CN US; do
+          for GEO in HK US; do
             out="data/${GEO}-${DATE}.xml"
             code=$(curl -sS -L --max-time 40 --retry 2 --retry-delay 5 \
               -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
@@ -43,6 +43,22 @@ jobs:
             echo "::error::所有地区抓取失败"
             exit 1
           fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps
+        run: pip install --quiet requests
+
+      - name: Fetch interest-over-time (HK)
+        continue-on-error: true
+        run: python scripts/fetch_iot.py --geo HK --rss data/latest-hk.xml --top 3
+
+      - name: Fetch interest-over-time (US)
+        continue-on-error: true
+        run: python scripts/fetch_iot.py --geo US --rss data/latest-us.xml --top 3
 
       - name: Prune old snapshots (keep 90 days)
         shell: bash
