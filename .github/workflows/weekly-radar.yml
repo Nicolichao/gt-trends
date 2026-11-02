@@ -118,12 +118,13 @@ jobs:
                       if _attempt == 2:
                           seed_errors.append("%s（%s）" % (seed, e))
                       time.sleep(3)
-              seeds_out[seed] = got
+          seeds_out[seed] = got
               old = set(prev_seeds.get(seed, []))
-              # 只有该种子词在上一期基线里存在时才做环比，避免新增种子被误判成"全部是新词"
-              for t in got:
-                  if t and t not in old and seed in prev_seeds:
-                      new_terms.append((seed, t))
+              # 上期该词必须有非空基线才做环比：新增种子、或上期抓取失败（空列表）都跳过
+              if old:
+                  for t in got:
+                      if t and t not in old:
+                          new_terms.append((seed, t))
 
           try:
               hn = hn_top(HN_TOP)
