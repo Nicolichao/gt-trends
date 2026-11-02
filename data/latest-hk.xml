@@ -97,7 +97,7 @@
 		</item>
 		<item>
 			<title>周慧賢</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 05:50:00 -0800</pubDate>
@@ -126,43 +126,34 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>美股</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Mon, 2 Nov 2026 05:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEgK6nTN_ZYb-p17FP8CsEJ-8NUW9OFggAlfPEEa27W_hFAYayL6DezrNvtBg</ht:picture>
-			<ht:picture_source>etnet 經濟通</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>美股動向｜原油價格急挫，市場聚焦科技股業績及地緣局勢 | 即時新聞 - 新聞</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.etnet.com.hk/www/tc/news/news-article.php?section=categorized&amp;category=us&amp;newsid=415083</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEgK6nTN_ZYb-p17FP8CsEJ-8NUW9OFggAlfPEEa27W_hFAYayL6DezrNvtBg</ht:news_item_picture>
-				<ht:news_item_source>etnet 經濟通</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>美股盤前／AI股回穩 那指期貨漲逾0.8%，市場聚焦蘋果財報與期中選舉</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.cnyes.com/news/id/6644295</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHytpUAxAXAnVY3pm4nNm2NsvpvKyzWZi6-nvXgoZBkes_IlG5Sd56jS2fkuU</ht:news_item_picture>
-				<ht:news_item_source>鉅亨網</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>美股开盘，道指涨0.73%</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tw.tradingview.com/news/panews:710473ea5acdf:0/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYNps_qBxNdSh8bV6xijZIi-7yxj4bWSENEEIfC_5AsixQD-4Wdt8JT_ycVSk</ht:news_item_picture>
-				<ht:news_item_source>TradingView</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
 			<title>美股冬令時間</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 05:20:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlZOify8doZzJspcZMQjB3uwRogwdfvxNo1Q-eKKz6l1dAIEE-p3GMhSaHNYA</ht:picture>
+			<ht:picture_source>Yahoo 財經</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>摩根士丹利首席美股策略師稱無論誰贏得中期選舉 都應逢低買進股票</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.finance.yahoo.com/news/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E9%A6%96%E5%B8%AD%E7%BE%8E%E8%82%A1%E7%AD%96%E7%95%A5%E5%B8%AB%E7%A8%B1%E7%84%A1%E8%AB%96%E8%AA%B0%E8%B4%8F%E5%BE%97%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E9%83%BD%E6%87%89%E9%80%A2%E4%BD%8E%E8%B2%B7%E9%80%B2%E8%82%A1%E7%A5%A8-050029768.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlZOify8doZzJspcZMQjB3uwRogwdfvxNo1Q-eKKz6l1dAIEE-p3GMhSaHNYA</ht:news_item_picture>
+				<ht:news_item_source>Yahoo 財經</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>中期選舉 | 中期選舉分析．美元篇：民主黨若橫掃國會，將形成美元下行壓力</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.etnet.com.hk/mobile/tc/news/topic_news_detail.php?category=focus&amp;newsid=415031</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_FaRtx-sBoAbacr4yEno2I00OSagGQsGvkTKfMCo2FHczo0qkA0ksEzzG9Q</ht:news_item_picture>
+				<ht:news_item_source>etnet 經濟通</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>解讀｜ 特朗普力挺，共和黨人踩煞車：反數據中心浪潮如何攪動中期選舉？</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://theinitium.com/20261102-international-republicans-turn-against-ai-data-centers-ahead-of-midterms/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo7fCMmeeyPbDsnMcYgCdB14WskmGjiI4fVEtVWCMsRG7rw8pmdBkQlNg6AxY</ht:news_item_picture>
+				<ht:news_item_source>端傳媒Initium Media</ht:news_item_source>
+			</ht:news_item>
 		</item>
 		<item>
 			<title>蔡楓華</title>
@@ -200,28 +191,28 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 05:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlWT0bCmTvovbMLzoehfEnfFHP6QZviScmQB-B9yhTUJarnESXz_NwYb7rmfE</ht:picture>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJMBZQL2nqkX0Fe8zvYPYU_deirqdihz6_vOaN-HP5tvCKH0hR3H-asW2cPY</ht:picture>
 			<ht:picture_source>RM.ID</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Cuaca Besok Di Jakarta Apakah Hujan Atau Panas? Ini Info BMKG Selasa (3/11)</ht:news_item_title>
+				<ht:news_item_title>Info BMKG: Cuaca Besok Di Depok, Selasa (3/11) Mendung, Apakah Hujan Atau Panas?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://rm.id/baca-berita/nasional/332754/cuaca-besok-di-jakarta-apakah-hujan-atau-panas-ini-info-bmkg-selasa-311</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlWT0bCmTvovbMLzoehfEnfFHP6QZviScmQB-B9yhTUJarnESXz_NwYb7rmfE</ht:news_item_picture>
+				<ht:news_item_url>https://rm.id/baca-berita/nasional/332771/info-bmkg-cuaca-besok-di-depok-selasa-311-mendung-apakah-hujan-atau-panas</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJMBZQL2nqkX0Fe8zvYPYU_deirqdihz6_vOaN-HP5tvCKH0hR3H-asW2cPY</ht:news_item_picture>
 				<ht:news_item_source>RM.ID</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Prakiraan Cuaca Perairan DKI Jakarta dan Utara Jawa Barat 2 November 2026</ht:news_item_title>
+				<ht:news_item_title>Prakiraan Cuaca Depok Hari Ini: Pagi Cerah Berawan, Waspada Potensi Hujan Ringan Jelang Sore</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://rri.co.id/jakarta/regional/2863431/prakiraan-cuaca-perairan-dki-jakarta-dan-utara-jawa-barat-2-november-2026</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7fsTYJdxRiKrmx83Df4jO8AReuq-HCJypi4AsXchJlbDmKjtuXlrwFqU3X1g</ht:news_item_picture>
-				<ht:news_item_source>RRI.co.id</ht:news_item_source>
+				<ht:news_item_url>https://depok.tribunnews.com/news/53191/prakiraan-cuaca-depok-hari-ini-pagi-cerah-berawan-waspada-potensi-hujan-ringan-jelang-sore</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHusnK3TfNFHrlS49QnQoGhzI1svLfOEuqxgHsVCs2rzF2uuxlhHt7Wv5jn64</ht:news_item_picture>
+				<ht:news_item_source>Tribunnewsdepok.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Jaksel dan Jaktim Berpeluang Hujan Sore Hari</ht:news_item_title>
+				<ht:news_item_title>BMKG: Kota Depok Hujan Petir Malam Ini</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.beritajakarta.id/read/156511/jaksel-dan-jaktim-berpeluang-hujan-sore-hari</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrVpHn3UIn1AS0NCyADAUW9_QWPUnYcDqZb2P7MDg22enLeBFcM-rGf8p2eOE</ht:news_item_picture>
-				<ht:news_item_source>Beritajakarta.id</ht:news_item_source>
+				<ht:news_item_url>https://databoks.katadata.co.id/layanan-konsumen-kesehatan/statistik/75d49ac987e9d3d/bmkg-kota-depok-hujan-petir-malam-ini</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiZnBsidL_0SJBekkrNmrnBddFukj0FXv3Vh7TFXsaPloyn7gIgRUS6K0PgpI</ht:news_item_picture>
+				<ht:news_item_source>Databoks</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -240,18 +231,18 @@
 				<ht:news_item_source>東森新聞</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>午後變天了！東北季風接力2波 降雨熱區出爐</ht:news_item_title>
+				<ht:news_item_title>東北季風兩小波強颱煙花無威脅</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tw.news.yahoo.com/%E5%8D%88%E5%BE%8C%E8%AE%8A%E5%A4%A9%E4%BA%86-%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E6%8E%A5%E5%8A%9B2%E6%B3%A2-%E9%99%8D%E9%9B%A8%E7%86%B1%E5%8D%80%E5%87%BA%E7%88%90-065224506.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVu3jF3oI9wNEeBMLvaHyHTKKllMLyoBtuEFyEL_VIne3g4kU2k5wLnVtxmlo</ht:news_item_picture>
-				<ht:news_item_source>Yahoo新聞</ht:news_item_source>
+				<ht:news_item_url>http://www.metapp.org.tw/pages/post-ea5dc04b2009cc1b429c.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz55_WopJoNwKT5ACoO4P0nSwbKhNXkQADfxzsnDUk6mQ5IfBZcbC4oKslMmI</ht:news_item_picture>
+				<ht:news_item_source>氣象應用推廣基金會</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>要變天了！北方雲系南下「幫台灣蓋被」瞬間曝光 這天起北東轉濕涼</ht:news_item_title>
+				<ht:news_item_title>要變天了！北方雲系南下「幫台灣蓋被」瞬間曝 | 民視新聞網</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ftvnews.com.tw/news/detail/2026B02W0562</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYmradI4lk8RVIM2LhjcJ50FVkd8f-2hjHF3Bu6FTl1Ax11E1rPpiqGqiyjA</ht:news_item_picture>
-				<ht:news_item_source>民視新聞網</ht:news_item_source>
+				<ht:news_item_url>https://today.line.me/tw/v3/article/60oPmp6</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn4vJ10AnPtaivKLcp1QXeL9mx0kFWKh0K_zre6uFr4ivgYTFt2hG6Pgb_U6U</ht:news_item_picture>
+				<ht:news_item_source>LINE TODAY</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -282,6 +273,36 @@
 				<ht:news_item_url>https://whatson.ae/2026/10/dubai-rain-el-nino-stormwater-drainage/</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwxBqPlQiNnebREmPxvKzCl4BNeKmbvwaT7cBZOnKjSJy0WGRyZshTjiXkuAA</ht:news_item_picture>
 				<ht:news_item_source>What&apos;s On</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>樊亦敏</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 2 Nov 2026 04:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgAYOoj9IA6LVox1MKsRJJ775v2AwadDKLSkGaO6ze0f7hYBr3uYGhZ7MeTXg</ht:picture>
+			<ht:picture_source>明報 Our Lifestyle</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>三代同糖｜羅毓儀加盟演長駐角色 爆男友知劇情甜蜜呷醋 (18:04) - 20261102</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://ol.mingpao.com/ldy/showbiz/latest/20261102/1793612210150/%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E7%BE%85%E6%AF%93%E5%84%80%E5%8A%A0%E7%9B%9F%E6%BC%94%E9%95%B7%E9%A7%90%E8%A7%92%E8%89%B2-%E7%88%86%E7%94%B7%E5%8F%8B%E7%9F%A5%E5%8A%87%E6%83%85%E7%94%9C%E8%9C%9C%E5%91%B7%E9%86%8B</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgAYOoj9IA6LVox1MKsRJJ775v2AwadDKLSkGaO6ze0f7hYBr3uYGhZ7MeTXg</ht:news_item_picture>
+				<ht:news_item_source>明報 Our Lifestyle</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>愛回家之三代同糖｜甄敏芳穎喬女僕裝甜蜜餵食侯雋熙 車婉婉瞓梳化晒索腿吸睛</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.tvb.com/dramanews-c/%E6%84%9B%E5%9B%9E%E5%AE%B6%E4%B9%8B%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E7%94%84%E6%95%8F%E8%8A%B3%E7%A9%8E%E5%96%AC%E5%A5%B3%E5%83%95%E8%A3%9D%E7%94%9C%E8%9C%9C%E9%A4%B5%E9%A3%9F%E4%BE%AF%E9%9B%8B%E7%86%99-%E8%BB%8A%E5%A9%89%E5%A9%89%E7%9E%93%E6%A2%B3%E5%8C%96%E6%99%92%E7%B4%A2%E8%85%BF%E5%90%B8%E7%9D%9B-1016883</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_czIR_V3IC7QC7bFWZXQVRaiXlhPc0WYGZ2aP_hCno2ESZy_S_ag7Yp4WsLM</ht:news_item_picture>
+				<ht:news_item_source>TVB</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>車婉婉談曾志偉批評收視論 稱前輩經驗寶貴：對我是很大鼓勵</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wenweipo.com/a/202611/02/AP6ae84db4e4b0fa89498b85f5.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI3JbjQInFaISS2PKd0EYfjucE--gQ3GqgLGeqkKWXJL9OwQATg9DUrMqOvr8</ht:news_item_picture>
+				<ht:news_item_source>香港文匯報</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
