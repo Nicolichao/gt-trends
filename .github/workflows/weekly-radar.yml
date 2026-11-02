@@ -109,15 +109,20 @@ jobs:
 
           seeds_out, new_terms, seed_errors = {}, [], []
           for seed in SEEDS:
-              try:
-                  got = baidu_suggest(seed)
-              except Exception as e:
-                  seed_errors.append("%s（%s）" % (seed, e))
-                  got = []
+              got = []
+              for _attempt in range(3):
+                  try:
+                      got = baidu_suggest(seed)
+                      break
+                  except Exception as e:
+                      if _attempt == 2:
+                          seed_errors.append("%s（%s）" % (seed, e))
+                      time.sleep(3)
               seeds_out[seed] = got
               old = set(prev_seeds.get(seed, []))
+              # 只有该种子词在上一期基线里存在时才做环比，避免新增种子被误判成"全部是新词"
               for t in got:
-                  if t and t not in old and prev_seeds:
+                  if t and t not in old and seed in prev_seeds:
                       new_terms.append((seed, t))
 
           try:
@@ -135,7 +140,8 @@ jobs:
                   continue
               stars_out[repo] = n
               before = prev_stars.get(repo)
-              delta = (n - before) if isinstance(before, int) else None
+              # 同一天重跑时增量没有意义，留空
+              delta = (n - before) if isinstance(before, int) and prev_date and prev_date != today else None
               star_rows.append((repo, n, delta, ""))
 
           star_rows.sort(key=lambda r: (r[2] is None, -(r[2] or 0)))
