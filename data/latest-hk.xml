@@ -6,8 +6,17 @@
 		<link>https://trends.google.com/trending/rss?geo=HK</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=HK" rel="self" type="application/rss+xml"/>
 		<item>
+			<title>優惠 券</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 2 Nov 2026 22:20:00 -0800</pubDate>
+			<ht:picture/>
+			<ht:picture_source/>
+		</item>
+		<item>
 			<title>樊亦敏</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 21:40:00 -0800</pubDate>
@@ -21,23 +30,23 @@
 				<ht:news_item_source>TVB</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
+				<ht:news_item_title>《愛·回家之三代同糖》再有新驚喜？「龔水CP」呂慧儀張景淳誤洩「回家」相 引爆期待</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.stheadline.com/film-drama/3632981/%E6%84%9B%E5%9B%9E%E5%AE%B6%E4%B9%8B%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96%E5%86%8D%E6%9C%89%E6%96%B0%E9%A9%9A%E5%96%9C%E9%BE%94%E6%B0%B4CP%E5%91%82%E6%85%A7%E5%84%80%E5%BC%B5%E6%99%AF%E6%B7%B3%E8%AA%A4%E6%B4%A9%E5%9B%9E%E5%AE%B6%E7%9B%B8-%E5%BC%95%E7%88%86%E6%9C%9F%E5%BE%85</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWetSFAP42v5m1NqFyrY1qVCBGuXdPTRbv8k0mvJPRuBjfiEDtoLAYBGHnHQQ</ht:news_item_picture>
+				<ht:news_item_source>星島頭條</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
 				<ht:news_item_title>《開心速遞》沈可欣羅毓儀加盟 車婉婉避談《三代同糖》舊酒新瓶 - 20261103 - 娛樂</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://news.mingpao.com/pns/%E5%A8%9B%E6%A8%82/article/20261103/s00016/1793639844742/%E3%80%8A%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E3%80%8B%E6%B2%88%E5%8F%AF%E6%AC%A3%E7%BE%85%E6%AF%93%E5%84%80%E5%8A%A0%E7%9B%9F-%E8%BB%8A%E5%A9%89%E5%A9%89%E9%81%BF%E8%AB%87%E3%80%8A%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96%E3%80%8B%E8%88%8A%E9%85%92%E6%96%B0%E7%93%B6</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSdbzDEF-NrxlvKFGRzNb5qoNgnIPrw15R569PyKf-cVsDrVEN_2YYAlUMzok</ht:news_item_picture>
 				<ht:news_item_source>明報新聞網</ht:news_item_source>
 			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>車婉婉談曾志偉批評收視論 稱前輩經驗寶貴：對我是很大鼓勵</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wenweipo.com/a/202611/02/AP6ae84db4e4b0fa89498b85f5.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI3JbjQInFaISS2PKd0EYfjucE--gQ3GqgLGeqkKWXJL9OwQATg9DUrMqOvr8</ht:news_item_picture>
-				<ht:news_item_source>香港文匯報</ht:news_item_source>
-			</ht:news_item>
 		</item>
 		<item>
 			<title>電信詐騙</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 21:20:00 -0800</pubDate>
@@ -50,28 +59,28 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 20:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxRtZWysYlDLWGnKfSbRrDbQjfuQMs7g2P2t09kKeES-60r13umk7dgQ8uKjI</ht:picture>
-			<ht:picture_source>EssentiallySports</ht:picture_source>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWUMw98Qo4vLyf0EG3QfKqsf8Y8AxLcRXBdtkKM2915UD7VQ-9TG0peUWNx2U</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Erik Spoelstra Seemingly Concedes Luka Doncic’s Shotmaking Ability as He Lays Down 3 Demands for Heat Players</ht:news_item_title>
+				<ht:news_item_title>Lakers 138-117 Heat (Nov 2, 2026) Game Recap</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.essentiallysports.com/nba-active-basketball-news-erik-spoelstra-seemingly-concedes-luka-doncic-s-shotmaking-ability-as-he-lays-down-three-demands-for-miami-heat-players/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxRtZWysYlDLWGnKfSbRrDbQjfuQMs7g2P2t09kKeES-60r13umk7dgQ8uKjI</ht:news_item_picture>
-				<ht:news_item_source>EssentiallySports</ht:news_item_source>
+				<ht:news_item_url>https://www.espn.com/nba/recap?gameId=401909921</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWUMw98Qo4vLyf0EG3QfKqsf8Y8AxLcRXBdtkKM2915UD7VQ-9TG0peUWNx2U</ht:news_item_picture>
+				<ht:news_item_source>ESPN</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Miami Heat 117-138 Los Angeles Lakers, Highlights and points in NBA</ht:news_item_title>
+				<ht:news_item_title>HEAT Drop Opening Game of West Coast Trip to Lakers, 138-117</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.vavel.com/en-us/nba/2026/11/02/1277708-miami-heat-vs-los-angeles-lakers-live-score-nba.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSrx_04yMS-etAe6WuEM7zg2gomVBM2yTB_BT3gnxA7kxMQIroQSND5dvYL_Q</ht:news_item_picture>
-				<ht:news_item_source>VAVEL.com</ht:news_item_source>
+				<ht:news_item_url>https://www.nba.com/heat/news/coups-takeaways-heat-drop-start-west-coast-lakers-doncic-antetokounmpo</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqxLUjf5YDuiDfb_CDleWIye3hgOpIYevAwsivkBjqVMtXFkDJG3Z0YjqIoco</ht:news_item_picture>
+				<ht:news_item_source>NBA.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>“It has to be a whole lot more effort, focus …</ht:news_item_title>
+				<ht:news_item_title>Luka Dončić continues to achieve Lakers feats not seen since Kobe Bryant</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hoopshype.com/story/sports/nba/rumors/2026/11/02/it-has-to-be-a-whole-lot-more-effort-focus/92573438007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuy59MOPiYhr5tJ0dr0EQDONk8D9ev4qy_XR3PsaMM4fM9RTzMg6oqafwkyb8</ht:news_item_picture>
-				<ht:news_item_source>HoopsHype</ht:news_item_source>
+				<ht:news_item_url>https://nypost.com/2026/11/03/sports/luka-doncic-continues-to-join-kobe-byrant-in-lakers-history/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIS43AhmZxH8h4N2UM75yml5V8N0yLR8cU3BM_c7dcizwomH2FWQyiF-jeomM</ht:news_item_picture>
+				<ht:news_item_source>New York Post</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -80,21 +89,21 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 20:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDS1PG66A2Yps8ENQ4ni3HsQBLgY7LhyIMP_NlhDx9ZLt87hunwHRHjS8FPTA</ht:picture>
-			<ht:picture_source>BBC</ht:picture_source>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83etZJWG_LijwoNtSv6XBUknF6YAZAdSkGchoWZT421NDHHEixyv1PHAiL3I</ht:picture>
+			<ht:picture_source>香港電台</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Patience pays off at Melbourne Cup for Point Of Law</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1876378-20261103.htm?spTabChangeable=0</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83etZJWG_LijwoNtSv6XBUknF6YAZAdSkGchoWZT421NDHHEixyv1PHAiL3I</ht:news_item_picture>
+				<ht:news_item_source>香港電台</ht:news_item_source>
+			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Melbourne Cup: King&apos;s former horse Point Of Law wins prestigious Australian race</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.bbc.com/sport/horse-racing/articles/cr3wv0476z5do</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDS1PG66A2Yps8ENQ4ni3HsQBLgY7LhyIMP_NlhDx9ZLt87hunwHRHjS8FPTA</ht:news_item_picture>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqS921Bg5uNl1eK9QQQ7gcLVV2-ZylIEp_KfjFmiWeNq2bUJjsLkYooYnPwno</ht:news_item_picture>
 				<ht:news_item_source>BBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Live: Ciaron Maher becomes first trainer to sweep Melbourne Cup placings</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.abc.net.au/news/2026-11-03/melbourne-cup-2026-live-flemington/107335812</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMc4zYiIIyZbKCvuBS9nhk8ECB7MfXQCjakzChYkJPwA0gKccgLluyquMSCDs</ht:news_item_picture>
-				<ht:news_item_source>ABC News &amp; Headlines – Australian Broadcasting Corporation</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>2026 Melbourne Cup Field - complete guide - jockeys, trainers, tips, odds and form</ht:news_item_title>
@@ -106,7 +115,7 @@
 		</item>
 		<item>
 			<title>湖人對熱火</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 19:50:00 -0800</pubDate>
@@ -115,32 +124,32 @@
 		</item>
 		<item>
 			<title>warriors vs suns</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 19:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvdttOeMtDn3VfkI1OdD6DrvcwOhUffgWUaZKl-JgDXp03-cKVi4oyYGKM7Nk</ht:picture>
-			<ht:picture_source>巴士的報</ht:picture_source>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ1I66U4ZcoTU5BExA28rOPAikWD6m_2zO4u7kUi3d2R0Yv0YkSvQQ6xg-mCE</ht:picture>
+			<ht:picture_source>Golden State Of Mind</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Warriors center Draymond Green ejected after consecutive technical fouls on one play against Suns</ht:news_item_title>
+				<ht:news_item_title>Preview: Warriors take on Suns in Chase Center with Curry, Green back</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bastillepost.com/global/article/6319054-warriors-center-draymond-green-ejected-after-consecutive-technical-fouls-on-one-play-against-suns</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvdttOeMtDn3VfkI1OdD6DrvcwOhUffgWUaZKl-JgDXp03-cKVi4oyYGKM7Nk</ht:news_item_picture>
-				<ht:news_item_source>巴士的報</ht:news_item_source>
+				<ht:news_item_url>https://www.goldenstateofmind.com/general/113177/preview-warriors-take-on-suns-in-chase-center-with-curry-green-back</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ1I66U4ZcoTU5BExA28rOPAikWD6m_2zO4u7kUi3d2R0Yv0YkSvQQ6xg-mCE</ht:news_item_picture>
+				<ht:news_item_source>Golden State Of Mind</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Dillon Brooks defends Khaman Maluach in Draymond Green altercation</ht:news_item_title>
+				<ht:news_item_title>Stephen Curry (knee) available Monday</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.brightsideofthesun.com/suns-news/112972/draymond-green-ejected-dillon-brooks-altercation-khaman-maluach-warriors-technical-fouls</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdOhmhHTqS8A6w8OlGgdS1vHke_330rHFutrk_I2xUSDtHQrv6eYfYEpe8Koo</ht:news_item_picture>
-				<ht:news_item_source>Bright Side Of The Sun</ht:news_item_source>
+				<ht:news_item_url>https://www.fantasypros.com/nba/news/617361/stephen-curry-knee-available-monday.php</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB-TKcEzv53il-bzaT4i_xsNQWjqwlMKgzxUBbc4c0Il4-DlupK6xWp-pQLlU</ht:news_item_picture>
+				<ht:news_item_source>FantasyPros</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Following Green’s ejection, Warriors extend winning streak to five behind Curry’s big night</ht:news_item_title>
+				<ht:news_item_title>Game Preview: Warriors vs. Suns - 11/2/26</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mercurynews.com/2026/11/02/following-greens-ejection-warriors-extend-winning-streak-to-five-behind-currys-big-night/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdyfiy7kp0QobEtsJ8qFvclQvxben5vj-2_bvA7LyjFN0H3ljoyk1jvF_mVgY</ht:news_item_picture>
-				<ht:news_item_source>The Mercury News</ht:news_item_source>
+				<ht:news_item_url>https://www.nba.com/warriors/news/gameday-preview-20261102</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzuNyIlgARywwTRcOJgPahMhw7KQr0uTI6XNA2fwlvicSUOw99bb4fMyRSn9A</ht:news_item_picture>
+				<ht:news_item_source>NBA.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -158,14 +167,14 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
 			<pubDate>Mon, 2 Nov 2026 19:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGjIg1NaEFIFEOJ58zRywVwxrSUr5iSzExahetDuBgtRkWuNpW1c8HQCj6iic</ht:picture>
-			<ht:picture_source>香港電台新聞網</ht:picture_source>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-qT8JkA6yJFm7OFTZW0GJ84Dt1qYZIisRVOLSqYE7RGvsWUyHDd8WIhBCt5w</ht:picture>
+			<ht:picture_source>明報新聞網</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>陳美寶稱咪錶故障完成復修前 警方暫不對路旁泊車位執法</ht:news_item_title>
+				<ht:news_item_title>咪表泊車系統故障近4小時 政府要求營辦商調查 (12:19) - 20261103 - 港聞</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.rthk.hk/rthk/ch/component/k2/1876361-20261103.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGjIg1NaEFIFEOJ58zRywVwxrSUr5iSzExahetDuBgtRkWuNpW1c8HQCj6iic</ht:news_item_picture>
-				<ht:news_item_source>香港電台新聞網</ht:news_item_source>
+				<ht:news_item_url>https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261103/s00001/1793671562556/%E5%92%AA%E8%A1%A8%E6%B3%8A%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C%E8%BF%914%E5%B0%8F%E6%99%82-%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E7%87%9F%E8%BE%A6%E5%95%86%E8%AA%BF%E6%9F%A5</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-qT8JkA6yJFm7OFTZW0GJ84Dt1qYZIisRVOLSqYE7RGvsWUyHDd8WIhBCt5w</ht:news_item_picture>
+				<ht:news_item_source>明報新聞網</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>運輸署：經營運商全力搶修 咪表泊車系統已恢復正常運作</ht:news_item_title>
@@ -175,11 +184,11 @@
 				<ht:news_item_source>TVB</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>全港咪錶故障｜記者親歷HKeMeter故障 信用卡被重複扣款3次 議員促自動退款</ht:news_item_title>
+				<ht:news_item_title>咪錶故障｜陳美寶稱未復修前警方不會執法 促香港電訊盡快交報告</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.stheadline.com/society/3632935/%E5%85%A8%E6%B8%AF%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C%E8%A8%98%E8%80%85%E8%A6%AA%E6%AD%B7HKeMeter%E6%95%85%E9%9A%9C-%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A2%AB%E9%87%8D%E8%A4%87%E6%89%A3%E6%AC%BE3%E6%AC%A1-%E8%AD%B0%E5%93%A1%E4%BF%83%E8%87%AA%E5%8B%95%E9%80%80%E6%AC%BE</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR06oYeGhspcvW_wP4JXR5Aoo3u8pn0Nz9RwAOSHTcRJ0fxDzi5DF6JXoJdsIw</ht:news_item_picture>
-				<ht:news_item_source>星島頭條</ht:news_item_source>
+				<ht:news_item_url>https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406504/%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C-%E9%99%B3%E7%BE%8E%E5%AF%B6%E7%A8%B1%E6%9C%AA%E5%BE%A9%E4%BF%AE%E5%89%8D%E8%AD%A6%E6%96%B9%E4%B8%8D%E6%9C%83%E5%9F%B7%E6%B3%95-%E4%BF%83%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E7%9B%A1%E5%BF%AB%E4%BA%A4%E5%A0%B1%E5%91%8A</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZf3BctBu0_Xo4twQx1tYaMkT6Ko6yHTlEJv750_AP-00BkxvMuNb3GZJ3Qus</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -190,36 +199,6 @@
 			<pubDate>Mon, 2 Nov 2026 19:20:00 -0800</pubDate>
 			<ht:picture/>
 			<ht:picture_source/>
-		</item>
-		<item>
-			<title>76人對公牛</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Mon, 2 Nov 2026 17:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA35-UDxXuOEF0l4SZ2bqbzeESDfHGEWagN07aqTZsrXckA-gvJt_zOQS-RFI</ht:picture>
-			<ht:picture_source>7M体育</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>76人首发五虎全部得分15+ 大胜公牛迎四连胜</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://lq.7m.com.cn/news/20261103/283365.shtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA35-UDxXuOEF0l4SZ2bqbzeESDfHGEWagN07aqTZsrXckA-gvJt_zOQS-RFI</ht:news_item_picture>
-				<ht:news_item_source>7M体育</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[流言板]埃奇库姆采访全文：积极空切创造良机，专注赢球不在意数据</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.hupu.com/bbs/643591077</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8pvSpqTwo-rfFzl4Jv8v2TltiEQMf_Qc_knvOkLMxToHHGSBMWy4vBMtkmUY</ht:news_item_picture>
-				<ht:news_item_source>虎扑体育网</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>韦德：詹姆斯的传球让比赛变得简单 我们获得了很多空位投篮机会</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.zhibo8.com/nba/2026-11-03/6ae9590aadaaanative.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuE4AHbXu7OifTr8w-yeu8O62eANOuURpJW1SbGWjhOn2JynPLDIxlPmuUcwo</ht:news_item_picture>
-				<ht:news_item_source>直播吧</ht:news_item_source>
-			</ht:news_item>
 		</item>
 	</channel>
 </rss>
