@@ -53,7 +53,7 @@ jobs:
       - name: Install Python deps
         run: pip install --quiet requests
 
-      # 精确相对热度曲线（0-100）：内联 Python，失败原因写入 data/iot/debug.log
+      # 当日热搜的精确相对热度曲线（0-100），失败原因写入 data/iot/debug.log
       - name: Fetch interest-over-time
         continue-on-error: true
         shell: bash
@@ -204,34 +204,33 @@ jobs:
           PY
 
       # 常青种子词：不看"今天什么爆了"，看"哪个需求在悄悄抬头"
+      # 周尺度信号，只在周日跑，避免和日报抢额度
       - name: Fetch seed keyword curves
         continue-on-error: true
         shell: bash
         run: |
+          if [ "$(TZ=Asia/Shanghai date +%u)" != "7" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "今天不是周日，跳过种子词抓取"
+            exit 0
+          fi
           python - <<'PY'
-          import csv, json, os, re, sys, time, random
+          import csv, json, os, random, sys, time
           import urllib.parse, urllib.request
           from datetime import datetime, timezone, timedelta
 
           BASE = "https://trends.google.com/trends/api"
           TZ = "-480"
           BJ = timezone(timedelta(hours=8))
-          CFG = {
-              "geo": "US",
-              "timeframe": "now 7-d",
-              # 要改就改这里：这些是"常年有人搜、工具属性强"的词
-              # 曲线平稳是常态；某一周开始抬头，才是真信号
-              "keywords": [
-                  "ai resume",
-                  "resume builder",
-                  "pdf converter",
-                  "remove background",
-                  "youtube transcript",
-                  "invoice generator",
-                  "ai voice generator",
-                  "logo maker",
-              ],
-          }
+          GEO = "US"
+          TF = "now 7-d"
+          # 要改就改这里：常年有人搜、工具属性强的词。曲线平稳是常态，抬头才是信号
+          KEYWORDS = [
+              "ai resume",
+              "pdf converter",
+              "remove background",
+              "youtube transcript",
+              "logo maker",
+          ]
           UA = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
               "Accept": "application/json, text/plain, */*",
@@ -240,31 +239,30 @@ jobs:
               "Origin": "https://trends.google.com",
           }
           LOG = []
+          STATE = {"quota": 0}
 
           def say(m):
               print(m, flush=True)
               LOG.append(str(m))
 
-          def http(url, params, tries=2):
+          def http(url, params):
               qs = urllib.parse.urlencode(params)
-              full = url + "?" + qs
-              for i in range(1, tries + 1):
-                  try:
-                      req = urllib.request.Request(full, headers=UA)
-                      with urllib.request.urlopen(req, timeout=30) as r:
-                          raw = r.read().decode("utf-8", "ignore")
-                      return json.loads(raw[raw.find("{"):])
-                  except Exception as e:
-                      if "429" in str(e):
-                          say("  429 限流，等 45s")
-                          time.sleep(45)
-                          continue
-                      say("  请求失败(第%d次): %s" % (i, e))
-                      time.sleep(5 * i)
-              return None
+              try:
+                  req = urllib.request.Request(url + "?" + qs, headers=UA)
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      raw = r.read().decode("utf-8", "ignore")
+                  return json.loads(raw[raw.find("{"):])
+              except Exception as e:
+                  msg = str(e)
+                  if "429" in msg:
+                      STATE["quota"] += 1
+                      say("  429 限流（第 %d 次），放弃该请求" % STATE["quota"])
+                      return None
+                  say("  请求失败: %s" % msg[:120])
+                  return None
 
-          def curve(kw, geo, tf):
-              payload = {"comparisonItem": [{"keyword": kw, "geo": geo, "time": tf}], "category": 0, "property": ""}
+          def curve(kw):
+              payload = {"comparisonItem": [{"keyword": kw, "geo": GEO, "time": TF}], "category": 0, "property": ""}
               ex = http(BASE + "/explore",
                         {"hl": "en-US", "tz": TZ, "req": json.dumps(payload, separators=(",", ":"))})
               if not ex:
@@ -284,21 +282,23 @@ jobs:
                   if hd and not any(hd):
                       continue
                   v = (p.get("value") or [None])[0]
-                  if v is None:
-                      continue
                   ts = p.get("time")
-                  if not ts:
+                  if v is None or not ts:
                       continue
-                  pts.append((datetime.fromtimestamp(int(ts), tz=timezone.utc).astimezone(BJ)
-                              .strftime("%Y-%m-%d"), int(v)))
+                  day = datetime.fromtimestamp(int(ts), tz=timezone.utc).astimezone(BJ).strftime("%Y-%m-%d")
+                  pts.append((day, int(v)))
               return pts
 
           os.makedirs("data/seed", exist_ok=True)
           out_rows = []
-          for idx, kw in enumerate(CFG["keywords"]):
+          for idx, kw in enumerate(KEYWORDS):
+              # 连续两次限流就整体收工，不再硬耗
+              if STATE["quota"] >= 2:
+                  say("连续限流，提前终止（已完成 %d/%d 个词）" % (idx, len(KEYWORDS)))
+                  break
               if idx:
-                  time.sleep(6 + random.uniform(0, 3))
-              pts = curve(kw, CFG["geo"], CFG["timeframe"])
+                  time.sleep(18 + random.uniform(0, 6))
+              pts = curve(kw)
               if not pts:
                   say("FAIL %s" % kw)
                   continue
