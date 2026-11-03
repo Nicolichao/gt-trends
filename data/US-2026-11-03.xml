@@ -6,63 +6,243 @@
 		<link>https://trends.google.com/trending/rss?geo=US</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=US" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>clippers</title>
-			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<title>robin montgomery</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDMEzNci2jT28OZrJgXit80Na4GraRweplfrKc1tPHTkU36vKaJrG1uSh6MqA</ht:picture>
-			<ht:picture_source>ESPN</ht:picture_source>
+			<pubDate>Mon, 2 Nov 2026 22:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2xOmTxgmr-XSgarWE8As0EJ2mA-v5dt9FUZOYEYMuc-IffxXuF0H91-cDaCU</ht:picture>
+			<ht:picture_source>The New York Times</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Yaxel Lendeborg scores 37 points, most by a Warriors rookie since Stephen Curry</ht:news_item_title>
+				<ht:news_item_title>How to watch the women’s Chennai Open: Streaming options for the Round of 32</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espn.com/nba/story/_/id/50356142/yaxel-lendeborg-scores-37-points-most-warriors-rookie-stephen-curry</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDMEzNci2jT28OZrJgXit80Na4GraRweplfrKc1tPHTkU36vKaJrG1uSh6MqA</ht:news_item_picture>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Yaxel Lendeborg nets 37 in highest scoring game by Warriors rookie since Steph Curry in 2010</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/athletic/7746646/2026/11/01/yaxel-lendeborg-37-points-steph-curry-wilt-chamberlain-warriors-rookie/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYNRQMrlzsX_8esfqQ-vnUzkl5ZuVtvFb-81J4vKaAGmV2hN8Rh-jp-ZjnCKk</ht:news_item_picture>
+				<ht:news_item_url>https://www.nytimes.com/athletic/7746330/2026/11/01/womens-chennai-open-stream-how-to-watch-november-3/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2xOmTxgmr-XSgarWE8As0EJ2mA-v5dt9FUZOYEYMuc-IffxXuF0H91-cDaCU</ht:news_item_picture>
 				<ht:news_item_source>The New York Times</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Game Recap: Warriors 124, Clippers 112</ht:news_item_title>
+				<ht:news_item_title>Udvardy vs. Montgomery Prediction at the Chennai Open – Monday, November 2</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nba.com/watch/video/game-recap-warriors-124-clippers-112</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe_--QNsC7fc7XgHbtwqyLO3RwWliyRwK2Qa8GrQ4vqyyN6sZaH5bdfuKWCUQ</ht:news_item_picture>
+				<ht:news_item_url>https://www.bleachernation.com/picks/2026/11/01/udvardy-vs-montgomery-prediction-at-the-chennai-open-monday-november-2/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz2AqfIxLVYjKB6CzKl-_zqPaD9maLWp4gER1slBqqm7N1hEb3nQphDRGSAqo</ht:news_item_picture>
+				<ht:news_item_source>Bleacher Nation</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>WTA Chennai Day 2 Predictions Including Panna Udvardy vs Robin Montgomery</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://lastwordonsports.com/tennis/2026/11/02/wta-chennai-day-2-predictions-udvardy-montgomery/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0GDxKQpCvUaedk6NiUS7xi4RcUU1FCSxMs3NMX146ek6JA2Gis05BaWHi3P4</ht:news_item_picture>
+				<ht:news_item_source>Last Word On Sports</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>nba standings</title>
+			<ht:approx_traffic>5000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 21:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKVe3qthcZxrCrqqbyJ3VKnVG4SQke6sCQBlcBHjKLenDB1IN1nkWFRD8AkmU</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>LeBron James takes sip of wine after crashing into 76ers fan</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.espn.com/nba/story/_/id/50365929/lebron-james-takes-sip-wine-crashing-76ers-fan</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKVe3qthcZxrCrqqbyJ3VKnVG4SQke6sCQBlcBHjKLenDB1IN1nkWFRD8AkmU</ht:news_item_picture>
+				<ht:news_item_source>ESPN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘Framing the cup’ – NBA fans can’t believe LeBron James sipped a fan’s drink during a game</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.yahoo.com/articles/framing-cup-nba-fans-t-050809660.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaq-tyWBZamTTd8GwggUJyZ5JykAQyhArKe5I8-3HjqS0iViOGvWLhywkSN3E</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>A toast to a win? LeBron James takes a sip of wine after crashing into 76ers fan</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.10tv.com/article/syndication/associatedpress/a-toast-to-a-win-lebron-james-takes-a-sip-of-wine-after-crashing-into-76ers-fan/616-6d4fb6bc-7d3f-4143-92fd-48b716484bf2</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-eiooycUBSEvRVWk4QdqJwYIDU4-P3IQ1ahNSnu6zhOqx88iPZ1DXii8hMk</ht:news_item_picture>
+				<ht:news_item_source>10TV</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>bassey warriors</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 21:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ97vkfXuB90eCoUKiUEigLTcBCs0sL8Ujv4dBSc8rqDohLztGyXqSqqt8pOI</ht:picture>
+			<ht:picture_source>Yahoo Sports</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Warriors&apos; Rotation Analysis: What Kerr Is Getting Right and Wrong After 5 Games</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.yahoo.com/articles/warriors-rotation-analysis-kerr-getting-210750515.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ97vkfXuB90eCoUKiUEigLTcBCs0sL8Ujv4dBSc8rqDohLztGyXqSqqt8pOI</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Warriors need to test their Charles Bassey insurance policy sooner rather than later</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://bluemanhoop.com/warriors-need-to-test-their-charles-bassey-insurance-policy-sooner-rather-than-later</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBsJmW9f6elsQx97TB8F-iznuLbGOyeEoEKvRkhLqcRgNDZ7AzHIT3ZQGx4ug</ht:news_item_picture>
+				<ht:news_item_source>Blue Man Hoop</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Charles Bassey hints at a solution to Warriors’ Kristaps Porzingis problem</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://bluemanhoop.com/charles-bassey-hints-solution-warriors-kristaps-porzingis-problem</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ73Jvz2XlJwRKTumS3IAQNZhaTkkcJFFg4ZtMmrupZGZffHRWVnHOx9BLunBo</ht:news_item_picture>
+				<ht:news_item_source>Blue Man Hoop</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>rj barrett</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 21:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRRLGurSzubtZ4eZ1OfpBjYk0j2V28cX4J3kFrQpFoLvxYjQf8JIVUaIXCZMs</ht:picture>
+			<ht:picture_source>NBA.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>RJ Barrett | Post Game vs Los Angeles Lakers | November 01, 2026</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nba.com/raptors/videos/rj-barrett-post-game-vs-los-angeles-lakers-november-01-2026</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRRLGurSzubtZ4eZ1OfpBjYk0j2V28cX4J3kFrQpFoLvxYjQf8JIVUaIXCZMs</ht:news_item_picture>
+				<ht:news_item_source>NBA.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>RJ Barrett News: Hits for 22 in loss to Lakers</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.rotowire.com/basketball/headlines/rj-barrett-news-hits-for-22-in-loss-to-lakers-537159</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEg0yAHrQhtNfOHJbIxHssPWdqu2wRupkg4Nz2dNIRFb79lO4xSNcTdxhe8U</ht:news_item_picture>
+				<ht:news_item_source>RotoWire</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Raptors&apos; RJ Barrett: Hits for 22 in loss to Lakers</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cbssports.com/fantasy/basketball/news/raptors-rj-barrett-hits-for-22-in-loss-to-lakers/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMi-dEkRy0UmecxQztWM5OUrrnk3QTko6eG2OiiyPoVsnmylVJHS_w23ejvX8</ht:news_item_picture>
+				<ht:news_item_source>CBS Sports</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>california lottery</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 21:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfi7GQfayw9ShJ0hpy0SehkUHS7uERlyZcfWrjFTaQJDYhw55yH1qdriDCaz0</ht:picture>
+			<ht:picture_source>The Desert Sun</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>California Lottery Powerball, Daily 3 Midday winning numbers for Oct. 28, 2026</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.desertsun.com/story/news/local/2026/10/28/california-lottery-results-wednesday-october-28-2026/92492556007/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfi7GQfayw9ShJ0hpy0SehkUHS7uERlyZcfWrjFTaQJDYhw55yH1qdriDCaz0</ht:news_item_picture>
+				<ht:news_item_source>The Desert Sun</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Powerball winner in Ohio hits prize worth $150K: See where the winning ticket was sold and check the lucky numbers for Oct. 31</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.wkyc.com/article/news/lottery/powerball-winner-ohio-hits-prize-worth-150k-see-where-winning-ticket-was-sold-check-lucky-numbers-oct-31-ohio-lottery-results/95-de04cc2b-4bc1-422d-ba93-793b6c16d824</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQF-BY4XE7bj5x7nuCJgzWIQduoQMaHfUOv2WheYjijZDHNZGVIJ61t0OOA4</ht:news_item_picture>
+				<ht:news_item_source>WKYC</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Cabarrus County ticket scores $2 million win in Halloween Powerball drawing</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://nclottery.com/NewsBlogDetails/2026/11/1/Cabarrus-County-ticket-scores-2-million-win-in-Halloween-Powerball-drawing</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNlZgtKCP1gw8gmCiHqtdEgU5yvjkq85aGTznyLp5EV89zxeqEWOfs-0bRKJU</ht:news_item_picture>
+				<ht:news_item_source>NC Education Lottery</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>georges niang</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 21:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMi-dEkRy0UmecxQztWM5OUrrnk3QTko6eG2OiiyPoVsnmylVJHS_w23ejvX8</ht:picture>
+			<ht:picture_source>CBS Sports</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Warriors&apos; Georges Niang: Reverting to bench role</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cbssports.com/fantasy/basketball/news/warriors-georges-niang-reverting-to-bench-role/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMi-dEkRy0UmecxQztWM5OUrrnk3QTko6eG2OiiyPoVsnmylVJHS_w23ejvX8</ht:news_item_picture>
+				<ht:news_item_source>CBS Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Georges Niang News: Will start Sunday</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.rotowire.com/basketball/headlines/georges-niang-news-will-start-sunday-537142</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSElJp5ZT4MYt8KK0cEvtdGA5gTj8LIDbAannpr1ozsHwcnYzK69vPMe4FPYO4</ht:news_item_picture>
+				<ht:news_item_source>RotoWire</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>GSW starts Curry, Podz, Niang, Lendeborg, Green</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-28/gsw-starts-curry-podz-niang-lendeborg-green</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc4nN4xg5xUOoZWVAZG71YQmT7UBIKHwBdNjGswK7bjSShwwnacaAowX8_bJA</ht:news_item_picture>
+				<ht:news_item_source>NBC Sports</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>luke kennard</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Mon, 2 Nov 2026 21:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkDAN-KvuM7dEq1Osm3Pvn185tslorcdVc3jrdXYlmK38uj6tAzyHaAnr9M4Q</ht:picture>
+			<ht:picture_source>The New York Times</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>As Devin Booker turns 30, the Suns star enters a defining next chapter</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nytimes.com/athletic/7712183/2026/10/28/devin-booker-suns-nba-next-chapter/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkDAN-KvuM7dEq1Osm3Pvn185tslorcdVc3jrdXYlmK38uj6tAzyHaAnr9M4Q</ht:news_item_picture>
+				<ht:news_item_source>The New York Times</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Celebrating Devin Booker’s career and legacy on his 30th birthday</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.yahoo.com/articles/celebrating-devin-booker-career-legacy-120000506.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2vipeS0F8EMxePfHXa6Rx2pl0IE752UwEIYOUkUOS8aRyCSyLrsCmz-xILxw</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Devin Booker&apos;s Top 10 career plays so far</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nba.com/watch/video/devin-booker-top-10-career-plays-so-far?plsrc=nba&amp;collection=must-watch-videos</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkS5Hiv8bYM97VrrjXXZt-6-CwZsQH9dPRR1ZhlAIeTMeFIfJSxUTfSHSB30</ht:news_item_picture>
 				<ht:news_item_source>NBA.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>tim hardaway jr.</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<title>devin booker</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
 			<pubDate>Mon, 2 Nov 2026 21:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLLpFkBaVwHBUt8RLYlGkajSPWQtJZK7UgiD0MPGbbXYFy-ZYG-nRpgza2At4</ht:picture>
-			<ht:picture_source>Yahoo Sports</ht:picture_source>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT5NS1gdjNyy6zIjDfslMB9oUGTudXfQc6OQvS53K9VRJoBQkpw2xymELbbcw</ht:picture>
+			<ht:picture_source>NBC Sports</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Tim Hardaway Jr. has joined the Heat in Los Angeles. …</ht:news_item_title>
+				<ht:news_item_title>Devin Booker scores 26 points, fouls out late</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/articles/tim-hardaway-jr-joined-heat-203455471.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLLpFkBaVwHBUt8RLYlGkajSPWQtJZK7UgiD0MPGbbXYFy-ZYG-nRpgza2At4</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+				<ht:news_item_url>https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-03/devin-booker-scores-26-points-fouls-out-late</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT5NS1gdjNyy6zIjDfslMB9oUGTudXfQc6OQvS53K9VRJoBQkpw2xymELbbcw</ht:news_item_picture>
+				<ht:news_item_source>NBC Sports</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Full injury report released for Heat vs. Lakers matchup on Monday</ht:news_item_title>
+				<ht:news_item_title>Miles Bridges records 21/6/3/4/1 line vs. GSW</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://heatnation.com/team-news/full-injury-report-released-for-heat-vs-lakers-matchup-on-monday/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZS_XXU1nuBu1VNFXchPEgPwOha4IOyQlMHSy3rdXAGhYTEfTEgdwQQ2VAILI</ht:news_item_picture>
-				<ht:news_item_source>Heat Nation</ht:news_item_source>
+				<ht:news_item_url>https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-03/miles-bridges-records-21-6-3-4-1-line-vs-gsw</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU_Jy1lWpKWOmNkpqsP-tml7q6FTXZESNtwjXFm_30YUj3apLFrEI9ciZmMPU</ht:news_item_picture>
+				<ht:news_item_source>NBC Sports</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>The Heat ruled out Tre Donaldson (G League) and Vlad …</ht:news_item_title>
+				<ht:news_item_title>Dillon Brooks records 18 points, eight rebounds</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hoopshype.com/story/sports/nba/rumors/2026/11/01/the-heat-ruled-out-tre-donaldson-g-league-and-vlad/92556807007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQi-GGdFUQtYDTh_kBnNLzWo2I1-Ov0XsTOBtPKyOCdg8wjg5F9KBTRqmFynHw</ht:news_item_picture>
-				<ht:news_item_source>HoopsHype</ht:news_item_source>
+				<ht:news_item_url>https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-03/dillon-brooks-records-18-points-eight-rebounds</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU_Jy1lWpKWOmNkpqsP-tml7q6FTXZESNtwjXFm_30YUj3apLFrEI9ciZmMPU</ht:news_item_picture>
+				<ht:news_item_source>NBC Sports</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -96,36 +276,6 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>jesus de miguel</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzUGLnJi8MGCArn_SUrMNywDZQtR9akMS24UacCJI_NWWuRuhyLE5sPoPibI</ht:picture>
-			<ht:picture_source>ESPN</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Tenerife forward Jesús De Miguel &apos;stable&apos; after in-game cardiac arrest</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espn.com/soccer/story/_/id/50361749/tenerife-de-miguel-stable-cardiac-arrest</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzUGLnJi8MGCArn_SUrMNywDZQtR9akMS24UacCJI_NWWuRuhyLE5sPoPibI</ht:news_item_picture>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Tenerife striker Jesus de Miguel stable after serious head injury during Segunda Division match with Andorra</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/sport/football/articles/ck62yvz046pjo</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTz_vhqBwa-6nYvV_LozYW1gWJwPbp7MwgFwAvN8jhWeb8QsYeEPRPUste0V6w</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Tenerife’s Jesus de Miguel in ‘serious but stable’ condition in hospital as game abandoned</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/athletic/7748117/2026/11/02/tenerife-player-injury-andorra-spain/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYI00gqUyTUbTo7O4Uca1HexbLbUeTnXmoUzmpzKtCyjUEmeQYPxxxhUFy73s</ht:news_item_picture>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
 			<title>max strus</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
@@ -153,156 +303,6 @@
 				<ht:news_item_url>https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-28/max-strus-foot-wont-travel-on-upcoming-trip</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOmpP3W_bNueCfnEd-OfWz-VNXIgnEHwH8yGB-YSgrkwMrM07tovkOVdvz7I</ht:news_item_picture>
 				<ht:news_item_source>NBC Sports</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>warriors</title>
-			<ht:approx_traffic>20000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTT1qO068JoL2zyVFso92X1bc3_ZhLA2oJh_129IfJDczlnP618e731uDuUPpQ</ht:picture>
-			<ht:picture_source>Yahoo Sports</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>3 Burning Questions Ahead of Suns&apos; Rematch With Warriors</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/articles/3-burning-questions-ahead-suns-140631303.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTT1qO068JoL2zyVFso92X1bc3_ZhLA2oJh_129IfJDczlnP618e731uDuUPpQ</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Is Steph Curry Playing Tonight? (Injury Update, Betting Impact for Suns vs. Warriors)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.si.com/betting/steph-curry-playing-tonight-injury-update-betting-impact-for-suns-vs-warriors-2026</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqhM3hAYoYKMc-Oe85ilo6ij3aqQsuQ5GWnj91C9YS_x1kVOkCwiFIHmtySg</ht:news_item_picture>
-				<ht:news_item_source>Sports Illustrated</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Game Preview: Warriors vs. Suns - 11/2/26</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nba.com/warriors/news/gameday-preview-20261102</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzuNyIlgARywwTRcOJgPahMhw7KQr0uTI6XNA2fwlvicSUOw99bb4fMyRSn9A</ht:news_item_picture>
-				<ht:news_item_source>NBA.com</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>miles bridges</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStzJ2qJEwH4LyxXHmYe1HFuMEY31EqqdoD_0tMNh6lY1XQT3u8nlTPbgDsVqU</ht:picture>
-			<ht:picture_source>Yahoo Sports</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>“Is this sincere remorse?” - Michael Jordan and Hornets faced a difficult decision on Miles Bridges amid domestic violence charge</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/articles/sincere-remorse-michael-jordan-hornets-045800757.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStzJ2qJEwH4LyxXHmYe1HFuMEY31EqqdoD_0tMNh6lY1XQT3u8nlTPbgDsVqU</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Fantasy basketball: Seven preseason assumptions already being challenged</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espn.com/fantasy/basketball/story/_/id/50312576/fantasy-basketball-preseason-assumptions-being-challenged</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgFTP_a_vO-LkxD5u2d5wm7CnvT48XbB9r3XAObKUJe9tT6k0njsKV5MllRzA</ht:news_item_picture>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Fantasy Basketball Waiver Wire: The Playlist for your Week 3 lineup</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/fantasy/article/fantasy-basketball-waiver-wire-the-playlist-for-your-week-3-lineup-160632625.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR99VTjZykjaC27oNUQHAOPGsjsvtFKIDsc092ueowpY3Bv-V-6MOz8Bg7AWD8</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>klay thompson</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiC6qdH3QMV4_5wcm8VAaukGjHnZgOrnAwieDmhWivBXZeLxhjzqEFf5wP2o</ht:picture>
-			<ht:picture_source>Sun Sentinel</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>ASK IRA: Is the complete Klay something the Heat yet can realize?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.sun-sentinel.com/2026/11/02/ask-ira-is-the-complete-klay-something-the-heat-yet-can-realize/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiC6qdH3QMV4_5wcm8VAaukGjHnZgOrnAwieDmhWivBXZeLxhjzqEFf5wP2o</ht:news_item_picture>
-				<ht:news_item_source>Sun Sentinel</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Klay Thompson&apos;s Struggles Addressed By Heat&apos;s Erik Spoelstra Amid 1-4 Start to NBA Season</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://bleacherreport.com/articles/25527377-klay-thompsons-struggles-addressed-heats-erik-spoelstra-amid-1-4-start-nba-season</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyDc766yIX7j_VGTHNEMLcoPBsnPqxjTdWeXVrlX2tuEvkduf6hqXr2QpwWpQ</ht:news_item_picture>
-				<ht:news_item_source>Bleacher Report</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Warriors legend Klay Thompson risks quickly wearing out Heat’s patience</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://bluemanhoop.com/warriors-legend-klay-thompson-risks-quickly-wearing-out-heat-patience</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnJzB-AiiL-GbyBdIavwKc-iF9-b5Z76CUrsm_beZdfWMtTX8z9j2_H-FADoc</ht:news_item_picture>
-				<ht:news_item_source>Blue Man Hoop</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>austin reaves</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaxOqXx8vRhEisoWzmXtowP8Bdd9mIaRBJfcgxAbwBsqrpoo56AUkNQN9D24</ht:picture>
-			<ht:picture_source>Lakers Nation</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>JJ Redick sent a warning to his team after almost collapsing against Raptors</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://lakersnation.com/lakers-news-jj-redick-warns-bench-players-after-poor-finish-against-raptors/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaxOqXx8vRhEisoWzmXtowP8Bdd9mIaRBJfcgxAbwBsqrpoo56AUkNQN9D24</ht:news_item_picture>
-				<ht:news_item_source>Lakers Nation</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Lakers’ Austin Reaves forced to take headband away from fan for most understandable reason</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://nypost.com/2026/11/02/sports/lakers-austin-reaves-take-headband-away-from-fan/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8lGGvPvqRZJdreSKr6m2LjKObYqTMgrOFPEuqK69jR-VN_fxYbJnUns0dxYk</ht:news_item_picture>
-				<ht:news_item_source>New York Post</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Lakers collapse forces star into wild fan request in bizarre late-game drama: NBA Wrap</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.foxsports.com.au/basketball/nba/nba-2026-boston-celtics-win-fifth-straight-jayson-tatum-praises-paul-george-yaxel-lendeborg-scores-37-for-golden-state-warriors-nba-wrap/news-story/d24bb04c1222a1ebd133b78c34f13bb9</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcQUmnouxr7k1YDE2jvzPE2jSU1OTSMF8VxZgRRsxBTKyG8oREeaA4R7IOg5o</ht:news_item_picture>
-				<ht:news_item_source>Fox Sports</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>diddy</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Mon, 2 Nov 2026 21:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmVj6LI7jbQ9oUi4es1lvIc1uuDPaXn94S5kRLDj-Vz-U-m6HI6OMQV1yYtpk</ht:picture>
-			<ht:picture_source>Syracuse.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Jailed rapper, 56, gets new release date following prison transfer</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.syracuse.com/entertainment/2026/11/jailed-rapper-56-gets-new-release-date-following-prison-transfer.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmVj6LI7jbQ9oUi4es1lvIc1uuDPaXn94S5kRLDj-Vz-U-m6HI6OMQV1yYtpk</ht:news_item_picture>
-				<ht:news_item_source>Syracuse.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Sean &apos;Diddy&apos; Comb&apos;s New Prison Release Date Revealed</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tmz.com/2026/11/02/diddy-new-prison-release-date/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZopgFmbUH4DNVW-RO2SOwJsCnzJF_uEnhgAVnrVmbj-MDX-9Rutsfxh9ky0</ht:news_item_picture>
-				<ht:news_item_source>TMZ</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Sean ‘Diddy’ Combs’ new release date revealed after his prison transfer</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://pagesix.com/2026/11/02/celebrity-news/sean-diddy-combs-new-release-date-revealed-after-his-prison-transfer/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8wGXqHrZAxt_XhcP2tz024qMtea1Pkfxm3Tx5utacMPTB2v4xF0M7b046ktM</ht:news_item_picture>
-				<ht:news_item_source>Page Six</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>

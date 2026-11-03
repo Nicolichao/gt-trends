@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['勇士對太陽', '施駿興', '電信詐騙', '湖人對熱火']
+HK 关键词: ['樊亦敏', '勇士對太陽', '施駿興', '電信詐騙']
+explore[樊亦敏] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 樊亦敏: 33 点, 峰值 100
 explore[勇士對太陽] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 勇士對太陽: 6 点, 峰值 100
+OK 勇士對太陽: 7 点, 峰值 100
 explore[施駿興] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
 OK 施駿興: 23 点, 峰值 100
 explore[電信詐騙] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 電信詐騙: 3 点, 峰值 100
-explore[湖人對熱火] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 湖人對熱火: 4 点, 峰值 100
-写出 data/iot/HK-2026-11-03.csv (36 行)
-写出 data/iot/latest-hk.csv (36 行)
-US 关键词: ['warriors', 'clippers', 'miles bridges', 'klay thompson']
-explore[warriors] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK warriors: 169 点, 峰值 100
-explore[clippers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK clippers: 169 点, 峰值 100
-explore[miles bridges] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK miles bridges: 131 点, 峰值 100
-explore[klay thompson] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK klay thompson: 169 点, 峰值 100
-写出 data/iot/US-2026-11-03.csv (638 行)
-写出 data/iot/latest-us.csv (638 行)
-完成，共 674 行
+OK 電信詐騙: 4 点, 峰值 100
+写出 data/iot/HK-2026-11-03.csv (67 行)
+写出 data/iot/latest-hk.csv (67 行)
+US 关键词: ['nba standings', 'devin booker', 'georges niang', 'robin montgomery']
+explore[nba standings] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK nba standings: 169 点, 峰值 100
+explore[devin booker] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK devin booker: 168 点, 峰值 100
+explore[georges niang] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK georges niang: 107 点, 峰值 100
+explore[robin montgomery] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK robin montgomery: 10 点, 峰值 100
+写出 data/iot/US-2026-11-03.csv (454 行)
+写出 data/iot/latest-us.csv (454 行)
+完成，共 521 行
