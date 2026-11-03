@@ -168,7 +168,7 @@ jobs:
               if not os.path.exists(rss):
                   say("跳过 %s：找不到 %s" % (geo, rss))
                   continue
-              kws = top_keywords(rss, 2)
+              kws = top_keywords(rss, 4)
               say("%s 关键词: %s" % (geo, kws))
               rows = []
               for i, kw in enumerate(kws):
