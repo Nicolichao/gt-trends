@@ -74,6 +74,7 @@ jobs:
               "Origin": "https://trends.google.com",
           }
           NS = {"ht": "https://trends.google.com/trending/rss"}
+          TOP_N = 4
           LOG = []
 
           def say(msg):
@@ -81,6 +82,7 @@ jobs:
               LOG.append(str(msg))
 
           def clean(t):
+              # Google 返回的前缀是 )]}' 后面可能还跟一个逗号，直接切到第一个 { 最稳
               i = t.find("{")
               return t[i:] if i >= 0 else t
 
@@ -168,7 +170,7 @@ jobs:
               if not os.path.exists(rss):
                   say("跳过 %s：找不到 %s" % (geo, rss))
                   continue
-              kws = top_keywords(rss, 4)
+              kws = top_keywords(rss, TOP_N)
               say("%s 关键词: %s" % (geo, kws))
               rows = []
               for i, kw in enumerate(kws):
@@ -201,13 +203,139 @@ jobs:
           sys.exit(0 if total else 1)
           PY
 
+      # 常青种子词：不看"今天什么爆了"，看"哪个需求在悄悄抬头"
+      - name: Fetch seed keyword curves
+        continue-on-error: true
+        shell: bash
+        run: |
+          python - <<'PY'
+          import csv, json, os, re, sys, time, random
+          import urllib.parse, urllib.request
+          from datetime import datetime, timezone, timedelta
+
+          BASE = "https://trends.google.com/trends/api"
+          TZ = "-480"
+          BJ = timezone(timedelta(hours=8))
+          CFG = {
+              "geo": "US",
+              "timeframe": "now 7-d",
+              # 要改就改这里：这些是"常年有人搜、工具属性强"的词
+              # 曲线平稳是常态；某一周开始抬头，才是真信号
+              "keywords": [
+                  "ai resume",
+                  "resume builder",
+                  "pdf converter",
+                  "remove background",
+                  "youtube transcript",
+                  "invoice generator",
+                  "ai voice generator",
+                  "logo maker",
+              ],
+          }
+          UA = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "application/json, text/plain, */*",
+              "Accept-Language": "en-US,en;q=0.9",
+              "Referer": "https://trends.google.com/",
+              "Origin": "https://trends.google.com",
+          }
+          LOG = []
+
+          def say(m):
+              print(m, flush=True)
+              LOG.append(str(m))
+
+          def http(url, params, tries=2):
+              qs = urllib.parse.urlencode(params)
+              full = url + "?" + qs
+              for i in range(1, tries + 1):
+                  try:
+                      req = urllib.request.Request(full, headers=UA)
+                      with urllib.request.urlopen(req, timeout=30) as r:
+                          raw = r.read().decode("utf-8", "ignore")
+                      return json.loads(raw[raw.find("{"):])
+                  except Exception as e:
+                      if "429" in str(e):
+                          say("  429 限流，等 45s")
+                          time.sleep(45)
+                          continue
+                      say("  请求失败(第%d次): %s" % (i, e))
+                      time.sleep(5 * i)
+              return None
+
+          def curve(kw, geo, tf):
+              payload = {"comparisonItem": [{"keyword": kw, "geo": geo, "time": tf}], "category": 0, "property": ""}
+              ex = http(BASE + "/explore",
+                        {"hl": "en-US", "tz": TZ, "req": json.dumps(payload, separators=(",", ":"))})
+              if not ex:
+                  return []
+              w = next((x for x in ex.get("widgets", []) if x.get("id") == "TIMESERIES"), None)
+              if not w:
+                  return []
+              d = http(BASE + "/widgetdata/multiline",
+                       {"hl": "en-US", "tz": TZ,
+                        "req": json.dumps(w["request"], separators=(",", ":")),
+                        "token": w["token"]})
+              if not d:
+                  return []
+              pts = []
+              for p in d.get("default", {}).get("timelineData", []):
+                  hd = p.get("hasData")
+                  if hd and not any(hd):
+                      continue
+                  v = (p.get("value") or [None])[0]
+                  if v is None:
+                      continue
+                  ts = p.get("time")
+                  if not ts:
+                      continue
+                  pts.append((datetime.fromtimestamp(int(ts), tz=timezone.utc).astimezone(BJ)
+                              .strftime("%Y-%m-%d"), int(v)))
+              return pts
+
+          os.makedirs("data/seed", exist_ok=True)
+          out_rows = []
+          for idx, kw in enumerate(CFG["keywords"]):
+              if idx:
+                  time.sleep(6 + random.uniform(0, 3))
+              pts = curve(kw, CFG["geo"], CFG["timeframe"])
+              if not pts:
+                  say("FAIL %s" % kw)
+                  continue
+              by_day = {}
+              for day, v in pts:
+                  by_day[day] = max(by_day.get(day, 0), v)
+              for day in sorted(by_day):
+                  out_rows.append({"keyword": kw, "date": day,
+                                   "peak": by_day[day], "points": len(pts)})
+              say("OK %s: %d 天, 峰值 %d" % (kw, len(by_day), max(by_day.values())))
+
+          if out_rows:
+              fields = ["keyword", "date", "peak", "points"]
+              for p in ("data/seed/latest.csv",
+                        "data/seed/%s.csv" % datetime.now(BJ).strftime("%Y-%m-%d")):
+                  with open(p, "w", newline="", encoding="utf-8") as f:
+                      w = csv.DictWriter(f, fieldnames=fields)
+                      w.writeheader()
+                      w.writerows(out_rows)
+                  say("写出 %s (%d 行)" % (p, len(out_rows)))
+          else:
+              say("种子词全部失败，未写出")
+
+          with open("data/seed/debug.log", "w", encoding="utf-8") as fh:
+              fh.write("\n".join(LOG) + "\n")
+          sys.exit(0 if out_rows else 1)
+          PY
+
       - name: Prune old snapshots (keep 90 days)
         shell: bash
         run: |
           find data -name '*-*.xml' -mtime +90 -delete || true
           find data/iot -name '*-*.csv' -mtime +90 -delete 2>/dev/null || true
+          find data/seed -name '*-*-*.csv' -mtime +90 -delete 2>/dev/null || true
           ls -la data
           ls -la data/iot 2>/dev/null || true
+          ls -la data/seed 2>/dev/null || true
 
       - name: Commit and push
         shell: bash
