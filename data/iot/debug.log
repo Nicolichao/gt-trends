@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['電信詐騙', '湖人對熱火', 'warriors vs suns', '勇士對太陽']
-explore[電信詐騙] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 電信詐騙: 6 点, 峰值 100
-explore[湖人對熱火] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 湖人對熱火: 6 点, 峰值 100
-explore[warriors vs suns] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK warriors vs suns: 6 点, 峰值 100
-explore[勇士對太陽] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 勇士對太陽: 7 点, 峰值 100
-写出 data/iot/HK-2026-11-03.csv (25 行)
-写出 data/iot/latest-hk.csv (25 行)
-US 关键词: ['nba standings', 'talia gibson', 'paris jackson', 'robin montgomery']
-explore[nba standings] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK nba standings: 169 点, 峰值 100
-explore[talia gibson] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK talia gibson: 34 点, 峰值 100
-explore[paris jackson] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK paris jackson: 154 点, 峰值 100
-explore[robin montgomery] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK robin montgomery: 11 点, 峰值 100
-写出 data/iot/US-2026-11-03.csv (368 行)
-写出 data/iot/latest-us.csv (368 行)
-完成，共 393 行
+HK 关键词: ['香港航空', '劉彩玉', 'abdul el-sayed', '黄碧娇']
+explore[香港航空] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 香港航空: 145 点, 峰值 100
+explore[劉彩玉] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 劉彩玉: 4 点, 峰值 100
+explore[abdul el-sayed] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK abdul el-sayed: 7 点, 峰值 100
+explore[黄碧娇] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 黄碧娇: 2 点, 峰值 100
+写出 data/iot/HK-2026-11-04.csv (158 行)
+写出 data/iot/latest-hk.csv (158 行)
+US 关键词: ['hawaii news now', 'alina charaeva', 'ontario california election results', 'bill huizenga']
+explore[hawaii news now] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK hawaii news now: 137 点, 峰值 100
+explore[alina charaeva] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK alina charaeva: 23 点, 峰值 100
+explore[ontario california election results] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK ontario california election results: 4 点, 峰值 100
+explore[bill huizenga] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK bill huizenga: 33 点, 峰值 100
+写出 data/iot/US-2026-11-04.csv (197 行)
+写出 data/iot/latest-us.csv (197 行)
+完成，共 355 行
