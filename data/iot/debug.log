@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['香港航空', '劉彩玉', 'abdul el-sayed', '黄碧娇']
-explore[香港航空] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 香港航空: 145 点, 峰值 100
-explore[劉彩玉] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 劉彩玉: 4 点, 峰值 100
-explore[abdul el-sayed] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK abdul el-sayed: 7 点, 峰值 100
-explore[黄碧娇] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 黄碧娇: 2 点, 峰值 100
-写出 data/iot/HK-2026-11-04.csv (158 行)
-写出 data/iot/latest-hk.csv (158 行)
-US 关键词: ['hawaii news now', 'alina charaeva', 'ontario california election results', 'bill huizenga']
-explore[hawaii news now] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK hawaii news now: 137 点, 峰值 100
-explore[alina charaeva] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK alina charaeva: 23 点, 峰值 100
-explore[ontario california election results] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK ontario california election results: 4 点, 峰值 100
-explore[bill huizenga] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK bill huizenga: 33 点, 峰值 100
-写出 data/iot/US-2026-11-04.csv (197 行)
-写出 data/iot/latest-us.csv (197 行)
-完成，共 355 行
+HK 关键词: ['胡 楓', '國泰航空', '秦漢', '警察']
+explore[胡 楓] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 胡 楓: 25 点, 峰值 100
+explore[國泰航空] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 國泰航空: 134 点, 峰值 100
+explore[秦漢] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 秦漢: 4 点, 峰值 100
+explore[警察] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 警察: 153 点, 峰值 100
+写出 data/iot/HK-2026-11-05.csv (316 行)
+写出 data/iot/latest-hk.csv (316 行)
+US 关键词: ['giannis antetokounmpo', 'brook lopez', 'tennis club', 'los angeles dodgers']
+explore[giannis antetokounmpo] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK giannis antetokounmpo: 167 点, 峰值 100
+explore[brook lopez] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK brook lopez: 115 点, 峰值 100
+explore[tennis club] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK tennis club: 151 点, 峰值 100
+explore[los angeles dodgers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK los angeles dodgers: 160 点, 峰值 100
+写出 data/iot/US-2026-11-05.csv (593 行)
+写出 data/iot/latest-us.csv (593 行)
+完成，共 909 行
