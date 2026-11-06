@@ -1,594 +1,409 @@
 keyword,geo,timeframe,point_time,formatted_time,value
-giannis antetokounmpo,US,now 7-d,2026-10-29T07:00:00+00:00,"Oct 29, 2026 at 3:00 PM",23
-giannis antetokounmpo,US,now 7-d,2026-10-29T08:00:00+00:00,"Oct 29, 2026 at 4:00 PM",21
-giannis antetokounmpo,US,now 7-d,2026-10-29T09:00:00+00:00,"Oct 29, 2026 at 5:00 PM",21
-giannis antetokounmpo,US,now 7-d,2026-10-29T10:00:00+00:00,"Oct 29, 2026 at 6:00 PM",21
-giannis antetokounmpo,US,now 7-d,2026-10-29T11:00:00+00:00,"Oct 29, 2026 at 7:00 PM",17
-giannis antetokounmpo,US,now 7-d,2026-10-29T12:00:00+00:00,"Oct 29, 2026 at 8:00 PM",14
-giannis antetokounmpo,US,now 7-d,2026-10-29T13:00:00+00:00,"Oct 29, 2026 at 9:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-10-29T14:00:00+00:00,"Oct 29, 2026 at 10:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-10-29T15:00:00+00:00,"Oct 29, 2026 at 11:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-10-29T16:00:00+00:00,"Oct 30, 2026 at 12:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-29T17:00:00+00:00,"Oct 30, 2026 at 1:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-29T18:00:00+00:00,"Oct 30, 2026 at 2:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-10-29T19:00:00+00:00,"Oct 30, 2026 at 3:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-29T20:00:00+00:00,"Oct 30, 2026 at 4:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-29T21:00:00+00:00,"Oct 30, 2026 at 5:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-29T22:00:00+00:00,"Oct 30, 2026 at 6:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-29T23:00:00+00:00,"Oct 30, 2026 at 7:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-30T00:00:00+00:00,"Oct 30, 2026 at 8:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-10-30T01:00:00+00:00,"Oct 30, 2026 at 9:00 AM",9
-giannis antetokounmpo,US,now 7-d,2026-10-30T02:00:00+00:00,"Oct 30, 2026 at 10:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-10-30T03:00:00+00:00,"Oct 30, 2026 at 11:00 AM",9
-giannis antetokounmpo,US,now 7-d,2026-10-30T04:00:00+00:00,"Oct 30, 2026 at 12:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-10-30T05:00:00+00:00,"Oct 30, 2026 at 1:00 PM",13
-giannis antetokounmpo,US,now 7-d,2026-10-30T06:00:00+00:00,"Oct 30, 2026 at 2:00 PM",11
-giannis antetokounmpo,US,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",15
-giannis antetokounmpo,US,now 7-d,2026-10-30T09:00:00+00:00,"Oct 30, 2026 at 5:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-10-30T11:00:00+00:00,"Oct 30, 2026 at 7:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",11
-giannis antetokounmpo,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",12
-giannis antetokounmpo,US,now 7-d,2026-10-30T17:00:00+00:00,"Oct 31, 2026 at 1:00 AM",12
-giannis antetokounmpo,US,now 7-d,2026-10-30T18:00:00+00:00,"Oct 31, 2026 at 2:00 AM",12
-giannis antetokounmpo,US,now 7-d,2026-10-30T19:00:00+00:00,"Oct 31, 2026 at 3:00 AM",14
-giannis antetokounmpo,US,now 7-d,2026-10-30T20:00:00+00:00,"Oct 31, 2026 at 4:00 AM",14
-giannis antetokounmpo,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",18
-giannis antetokounmpo,US,now 7-d,2026-10-30T22:00:00+00:00,"Oct 31, 2026 at 6:00 AM",19
-giannis antetokounmpo,US,now 7-d,2026-10-30T23:00:00+00:00,"Oct 31, 2026 at 7:00 AM",22
-giannis antetokounmpo,US,now 7-d,2026-10-31T00:00:00+00:00,"Oct 31, 2026 at 8:00 AM",26
-giannis antetokounmpo,US,now 7-d,2026-10-31T01:00:00+00:00,"Oct 31, 2026 at 9:00 AM",35
-giannis antetokounmpo,US,now 7-d,2026-10-31T02:00:00+00:00,"Oct 31, 2026 at 10:00 AM",71
-giannis antetokounmpo,US,now 7-d,2026-10-31T03:00:00+00:00,"Oct 31, 2026 at 11:00 AM",54
-giannis antetokounmpo,US,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",39
-giannis antetokounmpo,US,now 7-d,2026-10-31T05:00:00+00:00,"Oct 31, 2026 at 1:00 PM",39
-giannis antetokounmpo,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",32
-giannis antetokounmpo,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",26
-giannis antetokounmpo,US,now 7-d,2026-10-31T08:00:00+00:00,"Oct 31, 2026 at 4:00 PM",28
-giannis antetokounmpo,US,now 7-d,2026-10-31T09:00:00+00:00,"Oct 31, 2026 at 5:00 PM",32
-giannis antetokounmpo,US,now 7-d,2026-10-31T10:00:00+00:00,"Oct 31, 2026 at 6:00 PM",25
-giannis antetokounmpo,US,now 7-d,2026-10-31T11:00:00+00:00,"Oct 31, 2026 at 7:00 PM",25
-giannis antetokounmpo,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",20
-giannis antetokounmpo,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",15
-giannis antetokounmpo,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",15
-giannis antetokounmpo,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",11
-giannis antetokounmpo,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",12
-giannis antetokounmpo,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",9
-giannis antetokounmpo,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",9
-giannis antetokounmpo,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",12
-giannis antetokounmpo,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",10
-giannis antetokounmpo,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-01T08:00:00+00:00,"Nov 1, 2026 at 4:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-11-01T09:00:00+00:00,"Nov 1, 2026 at 5:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",6
-giannis antetokounmpo,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",5
-giannis antetokounmpo,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",4
-giannis antetokounmpo,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",11
-giannis antetokounmpo,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",6
-giannis antetokounmpo,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",6
-giannis antetokounmpo,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",13
-giannis antetokounmpo,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",15
-giannis antetokounmpo,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",16
-giannis antetokounmpo,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",14
-giannis antetokounmpo,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",27
-giannis antetokounmpo,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",44
-giannis antetokounmpo,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",66
-giannis antetokounmpo,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",98
-giannis antetokounmpo,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",60
-giannis antetokounmpo,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",38
-giannis antetokounmpo,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",31
-giannis antetokounmpo,US,now 7-d,2026-11-03T09:00:00+00:00,"Nov 3, 2026 at 5:00 PM",33
-giannis antetokounmpo,US,now 7-d,2026-11-03T10:00:00+00:00,"Nov 3, 2026 at 6:00 PM",30
-giannis antetokounmpo,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",33
-giannis antetokounmpo,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",24
-giannis antetokounmpo,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",16
-giannis antetokounmpo,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",13
-giannis antetokounmpo,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",6
-giannis antetokounmpo,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",13
-giannis antetokounmpo,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",12
-giannis antetokounmpo,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",9
-giannis antetokounmpo,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",13
-giannis antetokounmpo,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",4
-giannis antetokounmpo,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",8
-giannis antetokounmpo,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",7
-giannis antetokounmpo,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",6
-giannis antetokounmpo,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",9
-giannis antetokounmpo,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",7
-giannis antetokounmpo,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",8
-giannis antetokounmpo,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",10
-giannis antetokounmpo,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",12
-giannis antetokounmpo,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",19
-giannis antetokounmpo,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",16
-giannis antetokounmpo,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",22
-giannis antetokounmpo,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",27
-giannis antetokounmpo,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",35
-giannis antetokounmpo,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",72
-giannis antetokounmpo,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",100
-giannis antetokounmpo,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",100
-giannis antetokounmpo,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",86
-brook lopez,US,now 7-d,2026-10-29T07:00:00+00:00,"Oct 29, 2026 at 3:00 PM",29
-brook lopez,US,now 7-d,2026-10-29T08:00:00+00:00,"Oct 29, 2026 at 4:00 PM",26
-brook lopez,US,now 7-d,2026-10-29T09:00:00+00:00,"Oct 29, 2026 at 5:00 PM",13
-brook lopez,US,now 7-d,2026-10-29T10:00:00+00:00,"Oct 29, 2026 at 6:00 PM",23
-brook lopez,US,now 7-d,2026-10-29T11:00:00+00:00,"Oct 29, 2026 at 7:00 PM",14
-brook lopez,US,now 7-d,2026-10-29T12:00:00+00:00,"Oct 29, 2026 at 8:00 PM",10
-brook lopez,US,now 7-d,2026-10-29T13:00:00+00:00,"Oct 29, 2026 at 9:00 PM",7
-brook lopez,US,now 7-d,2026-10-29T14:00:00+00:00,"Oct 29, 2026 at 10:00 PM",6
-brook lopez,US,now 7-d,2026-10-29T15:00:00+00:00,"Oct 29, 2026 at 11:00 PM",6
-brook lopez,US,now 7-d,2026-10-29T16:00:00+00:00,"Oct 30, 2026 at 12:00 AM",5
-brook lopez,US,now 7-d,2026-10-29T17:00:00+00:00,"Oct 30, 2026 at 1:00 AM",3
-brook lopez,US,now 7-d,2026-10-29T18:00:00+00:00,"Oct 30, 2026 at 2:00 AM",4
-brook lopez,US,now 7-d,2026-10-29T19:00:00+00:00,"Oct 30, 2026 at 3:00 AM",4
-brook lopez,US,now 7-d,2026-10-29T20:00:00+00:00,"Oct 30, 2026 at 4:00 AM",3
-brook lopez,US,now 7-d,2026-10-29T21:00:00+00:00,"Oct 30, 2026 at 5:00 AM",3
-brook lopez,US,now 7-d,2026-10-29T22:00:00+00:00,"Oct 30, 2026 at 6:00 AM",4
-brook lopez,US,now 7-d,2026-10-29T23:00:00+00:00,"Oct 30, 2026 at 7:00 AM",2
-brook lopez,US,now 7-d,2026-10-30T01:00:00+00:00,"Oct 30, 2026 at 9:00 AM",7
-brook lopez,US,now 7-d,2026-10-30T02:00:00+00:00,"Oct 30, 2026 at 10:00 AM",10
-brook lopez,US,now 7-d,2026-10-30T03:00:00+00:00,"Oct 30, 2026 at 11:00 AM",9
-brook lopez,US,now 7-d,2026-10-30T04:00:00+00:00,"Oct 30, 2026 at 12:00 PM",9
-brook lopez,US,now 7-d,2026-10-30T05:00:00+00:00,"Oct 30, 2026 at 1:00 PM",8
-brook lopez,US,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",10
-brook lopez,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",2
-brook lopez,US,now 7-d,2026-10-30T17:00:00+00:00,"Oct 31, 2026 at 1:00 AM",3
-brook lopez,US,now 7-d,2026-10-30T19:00:00+00:00,"Oct 31, 2026 at 3:00 AM",3
-brook lopez,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",2
-brook lopez,US,now 7-d,2026-10-30T22:00:00+00:00,"Oct 31, 2026 at 6:00 AM",4
-brook lopez,US,now 7-d,2026-10-30T23:00:00+00:00,"Oct 31, 2026 at 7:00 AM",7
-brook lopez,US,now 7-d,2026-10-31T00:00:00+00:00,"Oct 31, 2026 at 8:00 AM",20
-brook lopez,US,now 7-d,2026-10-31T01:00:00+00:00,"Oct 31, 2026 at 9:00 AM",25
-brook lopez,US,now 7-d,2026-10-31T02:00:00+00:00,"Oct 31, 2026 at 10:00 AM",20
-brook lopez,US,now 7-d,2026-10-31T03:00:00+00:00,"Oct 31, 2026 at 11:00 AM",14
-brook lopez,US,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",13
-brook lopez,US,now 7-d,2026-10-31T05:00:00+00:00,"Oct 31, 2026 at 1:00 PM",15
-brook lopez,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",15
-brook lopez,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",17
-brook lopez,US,now 7-d,2026-10-31T09:00:00+00:00,"Oct 31, 2026 at 5:00 PM",18
-brook lopez,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",5
-brook lopez,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",4
-brook lopez,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",3
-brook lopez,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",4
-brook lopez,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",6
-brook lopez,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",3
-brook lopez,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",4
-brook lopez,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",5
-brook lopez,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",4
-brook lopez,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",4
-brook lopez,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",5
-brook lopez,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",7
-brook lopez,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",10
-brook lopez,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",9
-brook lopez,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",7
-brook lopez,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",5
-brook lopez,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",5
-brook lopez,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",7
-brook lopez,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",5
-brook lopez,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",6
-brook lopez,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",9
-brook lopez,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",9
-brook lopez,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",11
-brook lopez,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",21
-brook lopez,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",27
-brook lopez,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",40
-brook lopez,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",54
-brook lopez,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",78
-brook lopez,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",37
-brook lopez,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",23
-brook lopez,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",16
-brook lopez,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",27
-brook lopez,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",20
-brook lopez,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",18
-brook lopez,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",14
-brook lopez,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",7
-brook lopez,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",6
-brook lopez,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",5
-brook lopez,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",5
-brook lopez,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",3
-brook lopez,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",3
-brook lopez,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",2
-brook lopez,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",4
-brook lopez,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",4
-brook lopez,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",3
-brook lopez,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",8
-brook lopez,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",4
-brook lopez,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",3
-brook lopez,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",3
-brook lopez,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",5
-brook lopez,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",12
-brook lopez,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",30
-brook lopez,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",53
-brook lopez,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",17
-brook lopez,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",12
-brook lopez,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",3
-brook lopez,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",3
-brook lopez,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",2
-brook lopez,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",2
-brook lopez,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",2
-brook lopez,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",4
-brook lopez,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",3
-brook lopez,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",3
-brook lopez,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",4
-brook lopez,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",3
-brook lopez,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",3
-brook lopez,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",3
-brook lopez,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",3
-brook lopez,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",4
-brook lopez,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",2
-brook lopez,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",5
-brook lopez,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",7
-brook lopez,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",18
-brook lopez,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",53
-brook lopez,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",100
-brook lopez,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",98
-brook lopez,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",48
-tennis club,US,now 7-d,2026-10-29T08:00:00+00:00,"Oct 29, 2026 at 4:00 PM",15
-tennis club,US,now 7-d,2026-10-29T09:00:00+00:00,"Oct 29, 2026 at 5:00 PM",19
-tennis club,US,now 7-d,2026-10-29T10:00:00+00:00,"Oct 29, 2026 at 6:00 PM",12
-tennis club,US,now 7-d,2026-10-29T11:00:00+00:00,"Oct 29, 2026 at 7:00 PM",11
-tennis club,US,now 7-d,2026-10-29T12:00:00+00:00,"Oct 29, 2026 at 8:00 PM",19
-tennis club,US,now 7-d,2026-10-29T13:00:00+00:00,"Oct 29, 2026 at 9:00 PM",17
-tennis club,US,now 7-d,2026-10-29T14:00:00+00:00,"Oct 29, 2026 at 10:00 PM",17
-tennis club,US,now 7-d,2026-10-29T15:00:00+00:00,"Oct 29, 2026 at 11:00 PM",20
-tennis club,US,now 7-d,2026-10-29T16:00:00+00:00,"Oct 30, 2026 at 12:00 AM",18
-tennis club,US,now 7-d,2026-10-29T17:00:00+00:00,"Oct 30, 2026 at 1:00 AM",20
-tennis club,US,now 7-d,2026-10-29T18:00:00+00:00,"Oct 30, 2026 at 2:00 AM",18
-tennis club,US,now 7-d,2026-10-29T19:00:00+00:00,"Oct 30, 2026 at 3:00 AM",19
-tennis club,US,now 7-d,2026-10-29T20:00:00+00:00,"Oct 30, 2026 at 4:00 AM",17
-tennis club,US,now 7-d,2026-10-29T21:00:00+00:00,"Oct 30, 2026 at 5:00 AM",21
-tennis club,US,now 7-d,2026-10-29T22:00:00+00:00,"Oct 30, 2026 at 6:00 AM",18
-tennis club,US,now 7-d,2026-10-29T23:00:00+00:00,"Oct 30, 2026 at 7:00 AM",17
-tennis club,US,now 7-d,2026-10-30T00:00:00+00:00,"Oct 30, 2026 at 8:00 AM",16
-tennis club,US,now 7-d,2026-10-30T01:00:00+00:00,"Oct 30, 2026 at 9:00 AM",17
-tennis club,US,now 7-d,2026-10-30T02:00:00+00:00,"Oct 30, 2026 at 10:00 AM",15
-tennis club,US,now 7-d,2026-10-30T03:00:00+00:00,"Oct 30, 2026 at 11:00 AM",16
-tennis club,US,now 7-d,2026-10-30T04:00:00+00:00,"Oct 30, 2026 at 12:00 PM",17
-tennis club,US,now 7-d,2026-10-30T05:00:00+00:00,"Oct 30, 2026 at 1:00 PM",23
-tennis club,US,now 7-d,2026-10-30T06:00:00+00:00,"Oct 30, 2026 at 2:00 PM",32
-tennis club,US,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",19
-tennis club,US,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",15
-tennis club,US,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",9
-tennis club,US,now 7-d,2026-10-30T11:00:00+00:00,"Oct 30, 2026 at 7:00 PM",16
-tennis club,US,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",15
-tennis club,US,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",21
-tennis club,US,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",15
-tennis club,US,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",18
-tennis club,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",16
-tennis club,US,now 7-d,2026-10-30T17:00:00+00:00,"Oct 31, 2026 at 1:00 AM",18
-tennis club,US,now 7-d,2026-10-30T18:00:00+00:00,"Oct 31, 2026 at 2:00 AM",16
-tennis club,US,now 7-d,2026-10-30T19:00:00+00:00,"Oct 31, 2026 at 3:00 AM",19
-tennis club,US,now 7-d,2026-10-30T20:00:00+00:00,"Oct 31, 2026 at 4:00 AM",21
-tennis club,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",20
-tennis club,US,now 7-d,2026-10-30T22:00:00+00:00,"Oct 31, 2026 at 6:00 AM",20
-tennis club,US,now 7-d,2026-10-30T23:00:00+00:00,"Oct 31, 2026 at 7:00 AM",16
-tennis club,US,now 7-d,2026-10-31T00:00:00+00:00,"Oct 31, 2026 at 8:00 AM",18
-tennis club,US,now 7-d,2026-10-31T01:00:00+00:00,"Oct 31, 2026 at 9:00 AM",14
-tennis club,US,now 7-d,2026-10-31T02:00:00+00:00,"Oct 31, 2026 at 10:00 AM",17
-tennis club,US,now 7-d,2026-10-31T03:00:00+00:00,"Oct 31, 2026 at 11:00 AM",14
-tennis club,US,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",15
-tennis club,US,now 7-d,2026-10-31T05:00:00+00:00,"Oct 31, 2026 at 1:00 PM",13
-tennis club,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",11
-tennis club,US,now 7-d,2026-10-31T10:00:00+00:00,"Oct 31, 2026 at 6:00 PM",15
-tennis club,US,now 7-d,2026-10-31T11:00:00+00:00,"Oct 31, 2026 at 7:00 PM",20
-tennis club,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",27
-tennis club,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",22
-tennis club,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",21
-tennis club,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",21
-tennis club,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",19
-tennis club,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",21
-tennis club,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",20
-tennis club,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",20
-tennis club,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",19
-tennis club,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",16
-tennis club,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",16
-tennis club,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",15
-tennis club,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",20
-tennis club,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",17
-tennis club,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",10
-tennis club,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",15
-tennis club,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",14
-tennis club,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",11
-tennis club,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",15
-tennis club,US,now 7-d,2026-11-01T11:00:00+00:00,"Nov 1, 2026 at 7:00 PM",18
-tennis club,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",21
-tennis club,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",21
-tennis club,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",21
-tennis club,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",23
-tennis club,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",28
-tennis club,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",21
-tennis club,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",20
-tennis club,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",22
-tennis club,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",23
-tennis club,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",22
-tennis club,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",19
-tennis club,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",20
-tennis club,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",17
-tennis club,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",22
-tennis club,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",19
-tennis club,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",18
-tennis club,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",17
-tennis club,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",13
-tennis club,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",13
-tennis club,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",16
-tennis club,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",13
-tennis club,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",14
-tennis club,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",15
-tennis club,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",14
-tennis club,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",19
-tennis club,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",20
-tennis club,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",19
-tennis club,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",21
-tennis club,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",21
-tennis club,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",18
-tennis club,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",20
-tennis club,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",21
-tennis club,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",22
-tennis club,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",19
-tennis club,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",17
-tennis club,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",16
-tennis club,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",18
-tennis club,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",18
-tennis club,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",18
-tennis club,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",19
-tennis club,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",12
-tennis club,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",9
-tennis club,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",8
-tennis club,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",16
-tennis club,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",15
-tennis club,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",19
-tennis club,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",19
-tennis club,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",20
-tennis club,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",20
-tennis club,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",22
-tennis club,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",20
-tennis club,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",20
-tennis club,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",18
-tennis club,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",18
-tennis club,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",20
-tennis club,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",16
-tennis club,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",13
-tennis club,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",13
-tennis club,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",12
-tennis club,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",11
-tennis club,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",8
-tennis club,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",11
-tennis club,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",11
-tennis club,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",8
-tennis club,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",11
-tennis club,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",17
-tennis club,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",15
-tennis club,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",13
-tennis club,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",15
-tennis club,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",17
-tennis club,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",18
-tennis club,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",16
-tennis club,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",20
-tennis club,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",17
-tennis club,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",17
-tennis club,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",16
-tennis club,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",15
-tennis club,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",17
-tennis club,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",14
-tennis club,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",14
-tennis club,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",15
-tennis club,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",19
-tennis club,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",100
-los angeles dodgers,US,now 7-d,2026-10-29T09:00:00+00:00,"Oct 29, 2026 at 5:00 PM",26
-los angeles dodgers,US,now 7-d,2026-10-29T10:00:00+00:00,"Oct 29, 2026 at 6:00 PM",14
-los angeles dodgers,US,now 7-d,2026-10-29T11:00:00+00:00,"Oct 29, 2026 at 7:00 PM",20
-los angeles dodgers,US,now 7-d,2026-10-29T12:00:00+00:00,"Oct 29, 2026 at 8:00 PM",20
-los angeles dodgers,US,now 7-d,2026-10-29T13:00:00+00:00,"Oct 29, 2026 at 9:00 PM",17
-los angeles dodgers,US,now 7-d,2026-10-29T14:00:00+00:00,"Oct 29, 2026 at 10:00 PM",14
-los angeles dodgers,US,now 7-d,2026-10-29T15:00:00+00:00,"Oct 29, 2026 at 11:00 PM",19
-los angeles dodgers,US,now 7-d,2026-10-29T16:00:00+00:00,"Oct 30, 2026 at 12:00 AM",21
-los angeles dodgers,US,now 7-d,2026-10-29T17:00:00+00:00,"Oct 30, 2026 at 1:00 AM",20
-los angeles dodgers,US,now 7-d,2026-10-29T18:00:00+00:00,"Oct 30, 2026 at 2:00 AM",19
-los angeles dodgers,US,now 7-d,2026-10-29T19:00:00+00:00,"Oct 30, 2026 at 3:00 AM",22
-los angeles dodgers,US,now 7-d,2026-10-29T20:00:00+00:00,"Oct 30, 2026 at 4:00 AM",19
-los angeles dodgers,US,now 7-d,2026-10-29T21:00:00+00:00,"Oct 30, 2026 at 5:00 AM",23
-los angeles dodgers,US,now 7-d,2026-10-29T22:00:00+00:00,"Oct 30, 2026 at 6:00 AM",33
-los angeles dodgers,US,now 7-d,2026-10-29T23:00:00+00:00,"Oct 30, 2026 at 7:00 AM",30
-los angeles dodgers,US,now 7-d,2026-10-30T00:00:00+00:00,"Oct 30, 2026 at 8:00 AM",26
-los angeles dodgers,US,now 7-d,2026-10-30T01:00:00+00:00,"Oct 30, 2026 at 9:00 AM",29
-los angeles dodgers,US,now 7-d,2026-10-30T02:00:00+00:00,"Oct 30, 2026 at 10:00 AM",28
-los angeles dodgers,US,now 7-d,2026-10-30T03:00:00+00:00,"Oct 30, 2026 at 11:00 AM",37
-los angeles dodgers,US,now 7-d,2026-10-30T04:00:00+00:00,"Oct 30, 2026 at 12:00 PM",81
-los angeles dodgers,US,now 7-d,2026-10-30T05:00:00+00:00,"Oct 30, 2026 at 1:00 PM",100
-los angeles dodgers,US,now 7-d,2026-10-30T06:00:00+00:00,"Oct 30, 2026 at 2:00 PM",84
-los angeles dodgers,US,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",75
-los angeles dodgers,US,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",74
-los angeles dodgers,US,now 7-d,2026-10-30T09:00:00+00:00,"Oct 30, 2026 at 5:00 PM",65
-los angeles dodgers,US,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",50
-los angeles dodgers,US,now 7-d,2026-10-30T11:00:00+00:00,"Oct 30, 2026 at 7:00 PM",38
-los angeles dodgers,US,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",32
-los angeles dodgers,US,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",30
-los angeles dodgers,US,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",25
-los angeles dodgers,US,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",24
-los angeles dodgers,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",22
-los angeles dodgers,US,now 7-d,2026-10-30T17:00:00+00:00,"Oct 31, 2026 at 1:00 AM",19
-los angeles dodgers,US,now 7-d,2026-10-30T18:00:00+00:00,"Oct 31, 2026 at 2:00 AM",22
-los angeles dodgers,US,now 7-d,2026-10-30T19:00:00+00:00,"Oct 31, 2026 at 3:00 AM",18
-los angeles dodgers,US,now 7-d,2026-10-30T20:00:00+00:00,"Oct 31, 2026 at 4:00 AM",17
-los angeles dodgers,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",22
-los angeles dodgers,US,now 7-d,2026-10-30T22:00:00+00:00,"Oct 31, 2026 at 6:00 AM",23
-los angeles dodgers,US,now 7-d,2026-10-30T23:00:00+00:00,"Oct 31, 2026 at 7:00 AM",17
-los angeles dodgers,US,now 7-d,2026-10-31T00:00:00+00:00,"Oct 31, 2026 at 8:00 AM",15
-los angeles dodgers,US,now 7-d,2026-10-31T01:00:00+00:00,"Oct 31, 2026 at 9:00 AM",17
-los angeles dodgers,US,now 7-d,2026-10-31T02:00:00+00:00,"Oct 31, 2026 at 10:00 AM",14
-los angeles dodgers,US,now 7-d,2026-10-31T03:00:00+00:00,"Oct 31, 2026 at 11:00 AM",20
-los angeles dodgers,US,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",15
-los angeles dodgers,US,now 7-d,2026-10-31T05:00:00+00:00,"Oct 31, 2026 at 1:00 PM",17
-los angeles dodgers,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",18
-los angeles dodgers,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",19
-los angeles dodgers,US,now 7-d,2026-10-31T08:00:00+00:00,"Oct 31, 2026 at 4:00 PM",22
-los angeles dodgers,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",12
-los angeles dodgers,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",9
-los angeles dodgers,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",13
-los angeles dodgers,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",13
-los angeles dodgers,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",16
-los angeles dodgers,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",12
-los angeles dodgers,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",13
-los angeles dodgers,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",15
-los angeles dodgers,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",13
-los angeles dodgers,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",12
-los angeles dodgers,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",14
-los angeles dodgers,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",17
-los angeles dodgers,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",17
-los angeles dodgers,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",16
-los angeles dodgers,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",15
-los angeles dodgers,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",20
-los angeles dodgers,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",20
-los angeles dodgers,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",20
-los angeles dodgers,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",18
-los angeles dodgers,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",17
-los angeles dodgers,US,now 7-d,2026-11-01T09:00:00+00:00,"Nov 1, 2026 at 5:00 PM",22
-los angeles dodgers,US,now 7-d,2026-11-01T11:00:00+00:00,"Nov 1, 2026 at 7:00 PM",17
-los angeles dodgers,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",14
-los angeles dodgers,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",18
-los angeles dodgers,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",19
-los angeles dodgers,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",17
-los angeles dodgers,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",19
-los angeles dodgers,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",19
-los angeles dodgers,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",28
-los angeles dodgers,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",33
-los angeles dodgers,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",35
-los angeles dodgers,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",38
-los angeles dodgers,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",42
-los angeles dodgers,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",37
-los angeles dodgers,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",35
-los angeles dodgers,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",29
-los angeles dodgers,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",35
-los angeles dodgers,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",35
-los angeles dodgers,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",30
-los angeles dodgers,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",24
-los angeles dodgers,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",37
-los angeles dodgers,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",30
-los angeles dodgers,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",32
-los angeles dodgers,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",48
-los angeles dodgers,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",20
-los angeles dodgers,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",35
-los angeles dodgers,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",18
-los angeles dodgers,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",20
-los angeles dodgers,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",19
-los angeles dodgers,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",19
-los angeles dodgers,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",16
-los angeles dodgers,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",16
-los angeles dodgers,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",16
-los angeles dodgers,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",13
-los angeles dodgers,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",13
-los angeles dodgers,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",13
-los angeles dodgers,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",17
-los angeles dodgers,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",15
-los angeles dodgers,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",17
-los angeles dodgers,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",16
-los angeles dodgers,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",16
-los angeles dodgers,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",18
-los angeles dodgers,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",19
-los angeles dodgers,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",26
-los angeles dodgers,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",23
-los angeles dodgers,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",18
-los angeles dodgers,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",21
-los angeles dodgers,US,now 7-d,2026-11-03T10:00:00+00:00,"Nov 3, 2026 at 6:00 PM",15
-los angeles dodgers,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",14
-los angeles dodgers,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",7
-los angeles dodgers,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",8
-los angeles dodgers,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",10
-los angeles dodgers,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",8
-los angeles dodgers,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",11
-los angeles dodgers,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",14
-los angeles dodgers,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",15
-los angeles dodgers,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",18
-los angeles dodgers,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",18
-los angeles dodgers,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",24
-los angeles dodgers,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",23
-los angeles dodgers,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",22
-los angeles dodgers,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",18
-los angeles dodgers,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",21
-los angeles dodgers,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",19
-los angeles dodgers,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",18
-los angeles dodgers,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",18
-los angeles dodgers,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",15
-los angeles dodgers,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",22
-los angeles dodgers,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",25
-los angeles dodgers,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",21
-los angeles dodgers,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",13
-los angeles dodgers,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",11
-los angeles dodgers,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",12
-los angeles dodgers,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",11
-los angeles dodgers,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",9
-los angeles dodgers,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",13
-los angeles dodgers,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",11
-los angeles dodgers,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",10
-los angeles dodgers,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",10
-los angeles dodgers,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",9
-los angeles dodgers,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",11
-los angeles dodgers,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",9
-los angeles dodgers,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",10
-los angeles dodgers,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",12
-los angeles dodgers,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",23
-los angeles dodgers,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",21
-los angeles dodgers,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",23
-los angeles dodgers,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",26
-los angeles dodgers,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",28
-los angeles dodgers,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",55
-los angeles dodgers,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",65
-los angeles dodgers,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",75
+zeynep sonmez,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",3
+zeynep sonmez,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",4
+zeynep sonmez,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",10
+zeynep sonmez,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",37
+zeynep sonmez,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",39
+zeynep sonmez,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",13
+zeynep sonmez,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",5
+zeynep sonmez,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",6
+zeynep sonmez,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",16
+zeynep sonmez,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",30
+zeynep sonmez,US,now 7-d,2026-11-05T08:00:00+00:00,"Nov 5, 2026 at 4:00 PM",55
+zeynep sonmez,US,now 7-d,2026-11-05T09:00:00+00:00,"Nov 5, 2026 at 5:00 PM",74
+zeynep sonmez,US,now 7-d,2026-11-05T10:00:00+00:00,"Nov 5, 2026 at 6:00 PM",45
+zeynep sonmez,US,now 7-d,2026-11-05T11:00:00+00:00,"Nov 5, 2026 at 7:00 PM",11
+zeynep sonmez,US,now 7-d,2026-11-05T12:00:00+00:00,"Nov 5, 2026 at 8:00 PM",4
+zeynep sonmez,US,now 7-d,2026-11-05T13:00:00+00:00,"Nov 5, 2026 at 9:00 PM",3
+zeynep sonmez,US,now 7-d,2026-11-05T14:00:00+00:00,"Nov 5, 2026 at 10:00 PM",2
+zeynep sonmez,US,now 7-d,2026-11-05T18:00:00+00:00,"Nov 6, 2026 at 2:00 AM",2
+zeynep sonmez,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",2
+zeynep sonmez,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",3
+zeynep sonmez,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",3
+zeynep sonmez,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",10
+zeynep sonmez,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",32
+zeynep sonmez,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",100
+zeynep sonmez,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",88
+when is black friday,US,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",48
+when is black friday,US,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",35
+when is black friday,US,now 7-d,2026-10-30T09:00:00+00:00,"Oct 30, 2026 at 5:00 PM",34
+when is black friday,US,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",35
+when is black friday,US,now 7-d,2026-10-30T11:00:00+00:00,"Oct 30, 2026 at 7:00 PM",39
+when is black friday,US,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",30
+when is black friday,US,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",29
+when is black friday,US,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",28
+when is black friday,US,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",35
+when is black friday,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",30
+when is black friday,US,now 7-d,2026-10-30T17:00:00+00:00,"Oct 31, 2026 at 1:00 AM",30
+when is black friday,US,now 7-d,2026-10-30T18:00:00+00:00,"Oct 31, 2026 at 2:00 AM",32
+when is black friday,US,now 7-d,2026-10-30T19:00:00+00:00,"Oct 31, 2026 at 3:00 AM",32
+when is black friday,US,now 7-d,2026-10-30T20:00:00+00:00,"Oct 31, 2026 at 4:00 AM",30
+when is black friday,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",27
+when is black friday,US,now 7-d,2026-10-30T22:00:00+00:00,"Oct 31, 2026 at 6:00 AM",26
+when is black friday,US,now 7-d,2026-10-30T23:00:00+00:00,"Oct 31, 2026 at 7:00 AM",29
+when is black friday,US,now 7-d,2026-10-31T00:00:00+00:00,"Oct 31, 2026 at 8:00 AM",29
+when is black friday,US,now 7-d,2026-10-31T01:00:00+00:00,"Oct 31, 2026 at 9:00 AM",29
+when is black friday,US,now 7-d,2026-10-31T02:00:00+00:00,"Oct 31, 2026 at 10:00 AM",29
+when is black friday,US,now 7-d,2026-10-31T03:00:00+00:00,"Oct 31, 2026 at 11:00 AM",29
+when is black friday,US,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",33
+when is black friday,US,now 7-d,2026-10-31T05:00:00+00:00,"Oct 31, 2026 at 1:00 PM",38
+when is black friday,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",36
+when is black friday,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",35
+when is black friday,US,now 7-d,2026-10-31T08:00:00+00:00,"Oct 31, 2026 at 4:00 PM",37
+when is black friday,US,now 7-d,2026-10-31T09:00:00+00:00,"Oct 31, 2026 at 5:00 PM",33
+when is black friday,US,now 7-d,2026-10-31T10:00:00+00:00,"Oct 31, 2026 at 6:00 PM",33
+when is black friday,US,now 7-d,2026-10-31T11:00:00+00:00,"Oct 31, 2026 at 7:00 PM",31
+when is black friday,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",35
+when is black friday,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",34
+when is black friday,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",36
+when is black friday,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",34
+when is black friday,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",39
+when is black friday,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",33
+when is black friday,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",36
+when is black friday,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",37
+when is black friday,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",26
+when is black friday,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",28
+when is black friday,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",28
+when is black friday,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",29
+when is black friday,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",29
+when is black friday,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",29
+when is black friday,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",29
+when is black friday,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",38
+when is black friday,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",42
+when is black friday,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",42
+when is black friday,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",44
+when is black friday,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",44
+when is black friday,US,now 7-d,2026-11-01T08:00:00+00:00,"Nov 1, 2026 at 4:00 PM",42
+when is black friday,US,now 7-d,2026-11-01T09:00:00+00:00,"Nov 1, 2026 at 5:00 PM",49
+when is black friday,US,now 7-d,2026-11-01T10:00:00+00:00,"Nov 1, 2026 at 6:00 PM",40
+when is black friday,US,now 7-d,2026-11-01T11:00:00+00:00,"Nov 1, 2026 at 7:00 PM",40
+when is black friday,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",51
+when is black friday,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",53
+when is black friday,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",64
+when is black friday,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",71
+when is black friday,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",71
+when is black friday,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",58
+when is black friday,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",62
+when is black friday,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",60
+when is black friday,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",65
+when is black friday,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",59
+when is black friday,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",56
+when is black friday,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",55
+when is black friday,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",57
+when is black friday,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",52
+when is black friday,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",62
+when is black friday,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",54
+when is black friday,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",64
+when is black friday,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",62
+when is black friday,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",68
+when is black friday,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",60
+when is black friday,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",62
+when is black friday,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",63
+when is black friday,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",65
+when is black friday,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",60
+when is black friday,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",53
+when is black friday,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",57
+when is black friday,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",58
+when is black friday,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",62
+when is black friday,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",60
+when is black friday,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",63
+when is black friday,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",56
+when is black friday,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",57
+when is black friday,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",54
+when is black friday,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",55
+when is black friday,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",57
+when is black friday,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",56
+when is black friday,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",53
+when is black friday,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",53
+when is black friday,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",57
+when is black friday,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",57
+when is black friday,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",58
+when is black friday,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",65
+when is black friday,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",62
+when is black friday,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",64
+when is black friday,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",65
+when is black friday,US,now 7-d,2026-11-03T09:00:00+00:00,"Nov 3, 2026 at 5:00 PM",55
+when is black friday,US,now 7-d,2026-11-03T10:00:00+00:00,"Nov 3, 2026 at 6:00 PM",45
+when is black friday,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",47
+when is black friday,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",52
+when is black friday,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",52
+when is black friday,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",55
+when is black friday,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",57
+when is black friday,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",61
+when is black friday,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",55
+when is black friday,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",59
+when is black friday,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",52
+when is black friday,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",54
+when is black friday,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",54
+when is black friday,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",48
+when is black friday,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",53
+when is black friday,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",52
+when is black friday,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",43
+when is black friday,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",47
+when is black friday,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",52
+when is black friday,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",46
+when is black friday,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",52
+when is black friday,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",52
+when is black friday,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",69
+when is black friday,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",57
+when is black friday,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",51
+when is black friday,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",42
+when is black friday,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",38
+when is black friday,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",46
+when is black friday,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",49
+when is black friday,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",50
+when is black friday,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",56
+when is black friday,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",56
+when is black friday,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",58
+when is black friday,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",55
+when is black friday,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",53
+when is black friday,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",57
+when is black friday,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",60
+when is black friday,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",58
+when is black friday,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",63
+when is black friday,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",64
+when is black friday,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",64
+when is black friday,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",65
+when is black friday,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",76
+when is black friday,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",74
+when is black friday,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",91
+when is black friday,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",76
+when is black friday,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",77
+when is black friday,US,now 7-d,2026-11-05T08:00:00+00:00,"Nov 5, 2026 at 4:00 PM",87
+when is black friday,US,now 7-d,2026-11-05T09:00:00+00:00,"Nov 5, 2026 at 5:00 PM",57
+when is black friday,US,now 7-d,2026-11-05T10:00:00+00:00,"Nov 5, 2026 at 6:00 PM",69
+when is black friday,US,now 7-d,2026-11-05T11:00:00+00:00,"Nov 5, 2026 at 7:00 PM",62
+when is black friday,US,now 7-d,2026-11-05T12:00:00+00:00,"Nov 5, 2026 at 8:00 PM",66
+when is black friday,US,now 7-d,2026-11-05T13:00:00+00:00,"Nov 5, 2026 at 9:00 PM",58
+when is black friday,US,now 7-d,2026-11-05T14:00:00+00:00,"Nov 5, 2026 at 10:00 PM",58
+when is black friday,US,now 7-d,2026-11-05T15:00:00+00:00,"Nov 5, 2026 at 11:00 PM",66
+when is black friday,US,now 7-d,2026-11-05T16:00:00+00:00,"Nov 6, 2026 at 12:00 AM",60
+when is black friday,US,now 7-d,2026-11-05T17:00:00+00:00,"Nov 6, 2026 at 1:00 AM",57
+when is black friday,US,now 7-d,2026-11-05T18:00:00+00:00,"Nov 6, 2026 at 2:00 AM",58
+when is black friday,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",54
+when is black friday,US,now 7-d,2026-11-05T20:00:00+00:00,"Nov 6, 2026 at 4:00 AM",55
+when is black friday,US,now 7-d,2026-11-05T21:00:00+00:00,"Nov 6, 2026 at 5:00 AM",60
+when is black friday,US,now 7-d,2026-11-05T22:00:00+00:00,"Nov 6, 2026 at 6:00 AM",64
+when is black friday,US,now 7-d,2026-11-05T23:00:00+00:00,"Nov 6, 2026 at 7:00 AM",67
+when is black friday,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",69
+when is black friday,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",65
+when is black friday,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",75
+when is black friday,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",76
+when is black friday,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",75
+when is black friday,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",84
+when is black friday,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",96
+when is black friday,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",100
+claire liu,US,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",20
+claire liu,US,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",29
+claire liu,US,now 7-d,2026-10-30T09:00:00+00:00,"Oct 30, 2026 at 5:00 PM",37
+claire liu,US,now 7-d,2026-10-30T10:00:00+00:00,"Oct 30, 2026 at 6:00 PM",51
+claire liu,US,now 7-d,2026-10-30T11:00:00+00:00,"Oct 30, 2026 at 7:00 PM",63
+claire liu,US,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",21
+claire liu,US,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",4
+claire liu,US,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",2
+claire liu,US,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",2
+claire liu,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",1
+claire liu,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",2
+claire liu,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",3
+claire liu,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",1
+claire liu,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",2
+claire liu,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",2
+claire liu,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",16
+claire liu,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",21
+claire liu,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",60
+claire liu,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",69
+claire liu,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",9
+claire liu,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",11
+claire liu,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",2
+claire liu,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",2
+claire liu,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",2
+claire liu,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",1
+claire liu,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",2
+claire liu,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",3
+claire liu,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",4
+claire liu,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",9
+claire liu,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",13
+claire liu,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",18
+claire liu,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",39
+claire liu,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",74
+claire liu,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",29
+claire liu,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",4
+claire liu,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",4
+claire liu,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",2
+claire liu,US,now 7-d,2026-11-05T14:00:00+00:00,"Nov 5, 2026 at 10:00 PM",1
+claire liu,US,now 7-d,2026-11-05T15:00:00+00:00,"Nov 5, 2026 at 11:00 PM",1
+claire liu,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",2
+claire liu,US,now 7-d,2026-11-05T22:00:00+00:00,"Nov 6, 2026 at 6:00 AM",1
+claire liu,US,now 7-d,2026-11-05T23:00:00+00:00,"Nov 6, 2026 at 7:00 AM",2
+claire liu,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",2
+claire liu,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",2
+claire liu,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",2
+claire liu,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",3
+claire liu,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",10
+claire liu,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",39
+claire liu,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",86
+claire liu,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",100
+ryan clark,US,now 7-d,2026-10-30T07:00:00+00:00,"Oct 30, 2026 at 3:00 PM",16
+ryan clark,US,now 7-d,2026-10-30T08:00:00+00:00,"Oct 30, 2026 at 4:00 PM",14
+ryan clark,US,now 7-d,2026-10-30T11:00:00+00:00,"Oct 30, 2026 at 7:00 PM",9
+ryan clark,US,now 7-d,2026-10-30T12:00:00+00:00,"Oct 30, 2026 at 8:00 PM",9
+ryan clark,US,now 7-d,2026-10-30T13:00:00+00:00,"Oct 30, 2026 at 9:00 PM",11
+ryan clark,US,now 7-d,2026-10-30T14:00:00+00:00,"Oct 30, 2026 at 10:00 PM",9
+ryan clark,US,now 7-d,2026-10-30T15:00:00+00:00,"Oct 30, 2026 at 11:00 PM",7
+ryan clark,US,now 7-d,2026-10-30T16:00:00+00:00,"Oct 31, 2026 at 12:00 AM",8
+ryan clark,US,now 7-d,2026-10-30T17:00:00+00:00,"Oct 31, 2026 at 1:00 AM",8
+ryan clark,US,now 7-d,2026-10-30T18:00:00+00:00,"Oct 31, 2026 at 2:00 AM",8
+ryan clark,US,now 7-d,2026-10-30T19:00:00+00:00,"Oct 31, 2026 at 3:00 AM",9
+ryan clark,US,now 7-d,2026-10-30T20:00:00+00:00,"Oct 31, 2026 at 4:00 AM",8
+ryan clark,US,now 7-d,2026-10-30T21:00:00+00:00,"Oct 31, 2026 at 5:00 AM",10
+ryan clark,US,now 7-d,2026-10-30T22:00:00+00:00,"Oct 31, 2026 at 6:00 AM",10
+ryan clark,US,now 7-d,2026-10-30T23:00:00+00:00,"Oct 31, 2026 at 7:00 AM",9
+ryan clark,US,now 7-d,2026-10-31T00:00:00+00:00,"Oct 31, 2026 at 8:00 AM",12
+ryan clark,US,now 7-d,2026-10-31T01:00:00+00:00,"Oct 31, 2026 at 9:00 AM",12
+ryan clark,US,now 7-d,2026-10-31T02:00:00+00:00,"Oct 31, 2026 at 10:00 AM",12
+ryan clark,US,now 7-d,2026-10-31T03:00:00+00:00,"Oct 31, 2026 at 11:00 AM",15
+ryan clark,US,now 7-d,2026-10-31T04:00:00+00:00,"Oct 31, 2026 at 12:00 PM",15
+ryan clark,US,now 7-d,2026-10-31T05:00:00+00:00,"Oct 31, 2026 at 1:00 PM",18
+ryan clark,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",21
+ryan clark,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",12
+ryan clark,US,now 7-d,2026-10-31T08:00:00+00:00,"Oct 31, 2026 at 4:00 PM",13
+ryan clark,US,now 7-d,2026-10-31T09:00:00+00:00,"Oct 31, 2026 at 5:00 PM",12
+ryan clark,US,now 7-d,2026-10-31T10:00:00+00:00,"Oct 31, 2026 at 6:00 PM",21
+ryan clark,US,now 7-d,2026-10-31T11:00:00+00:00,"Oct 31, 2026 at 7:00 PM",18
+ryan clark,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",11
+ryan clark,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",10
+ryan clark,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",9
+ryan clark,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",11
+ryan clark,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",8
+ryan clark,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",11
+ryan clark,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",6
+ryan clark,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",9
+ryan clark,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",9
+ryan clark,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",7
+ryan clark,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",7
+ryan clark,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",6
+ryan clark,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",9
+ryan clark,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",8
+ryan clark,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",7
+ryan clark,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",11
+ryan clark,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",12
+ryan clark,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",9
+ryan clark,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",14
+ryan clark,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",12
+ryan clark,US,now 7-d,2026-11-01T08:00:00+00:00,"Nov 1, 2026 at 4:00 PM",16
+ryan clark,US,now 7-d,2026-11-01T09:00:00+00:00,"Nov 1, 2026 at 5:00 PM",13
+ryan clark,US,now 7-d,2026-11-01T11:00:00+00:00,"Nov 1, 2026 at 7:00 PM",19
+ryan clark,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",7
+ryan clark,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",9
+ryan clark,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",8
+ryan clark,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",9
+ryan clark,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",8
+ryan clark,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",6
+ryan clark,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",6
+ryan clark,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",7
+ryan clark,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",6
+ryan clark,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",4
+ryan clark,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",7
+ryan clark,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",4
+ryan clark,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",6
+ryan clark,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",7
+ryan clark,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",6
+ryan clark,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",11
+ryan clark,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",10
+ryan clark,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",13
+ryan clark,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",17
+ryan clark,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",16
+ryan clark,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",15
+ryan clark,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",12
+ryan clark,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",16
+ryan clark,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",8
+ryan clark,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",4
+ryan clark,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",7
+ryan clark,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",8
+ryan clark,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",7
+ryan clark,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",7
+ryan clark,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",5
+ryan clark,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",5
+ryan clark,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",7
+ryan clark,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",8
+ryan clark,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",7
+ryan clark,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",7
+ryan clark,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",9
+ryan clark,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",13
+ryan clark,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",12
+ryan clark,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",15
+ryan clark,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",13
+ryan clark,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",12
+ryan clark,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",19
+ryan clark,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",17
+ryan clark,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",16
+ryan clark,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",17
+ryan clark,US,now 7-d,2026-11-03T09:00:00+00:00,"Nov 3, 2026 at 5:00 PM",15
+ryan clark,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",12
+ryan clark,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",7
+ryan clark,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",12
+ryan clark,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",9
+ryan clark,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",6
+ryan clark,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",11
+ryan clark,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",7
+ryan clark,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",9
+ryan clark,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",9
+ryan clark,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",10
+ryan clark,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",12
+ryan clark,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",12
+ryan clark,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",14
+ryan clark,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",10
+ryan clark,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",14
+ryan clark,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",13
+ryan clark,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",14
+ryan clark,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",13
+ryan clark,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",13
+ryan clark,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",10
+ryan clark,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",21
+ryan clark,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",19
+ryan clark,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",11
+ryan clark,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",9
+ryan clark,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",11
+ryan clark,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",9
+ryan clark,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",6
+ryan clark,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",7
+ryan clark,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",7
+ryan clark,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",7
+ryan clark,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",8
+ryan clark,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",10
+ryan clark,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",9
+ryan clark,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",9
+ryan clark,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",13
+ryan clark,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",10
+ryan clark,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",11
+ryan clark,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",12
+ryan clark,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",14
+ryan clark,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",14
+ryan clark,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",18
+ryan clark,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",16
+ryan clark,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",17
+ryan clark,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",26
+ryan clark,US,now 7-d,2026-11-05T08:00:00+00:00,"Nov 5, 2026 at 4:00 PM",21
+ryan clark,US,now 7-d,2026-11-05T09:00:00+00:00,"Nov 5, 2026 at 5:00 PM",14
+ryan clark,US,now 7-d,2026-11-05T10:00:00+00:00,"Nov 5, 2026 at 6:00 PM",13
+ryan clark,US,now 7-d,2026-11-05T11:00:00+00:00,"Nov 5, 2026 at 7:00 PM",14
+ryan clark,US,now 7-d,2026-11-05T12:00:00+00:00,"Nov 5, 2026 at 8:00 PM",10
+ryan clark,US,now 7-d,2026-11-05T13:00:00+00:00,"Nov 5, 2026 at 9:00 PM",7
+ryan clark,US,now 7-d,2026-11-05T14:00:00+00:00,"Nov 5, 2026 at 10:00 PM",9
+ryan clark,US,now 7-d,2026-11-05T15:00:00+00:00,"Nov 5, 2026 at 11:00 PM",9
+ryan clark,US,now 7-d,2026-11-05T16:00:00+00:00,"Nov 6, 2026 at 12:00 AM",8
+ryan clark,US,now 7-d,2026-11-05T17:00:00+00:00,"Nov 6, 2026 at 1:00 AM",9
+ryan clark,US,now 7-d,2026-11-05T18:00:00+00:00,"Nov 6, 2026 at 2:00 AM",8
+ryan clark,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",9
+ryan clark,US,now 7-d,2026-11-05T20:00:00+00:00,"Nov 6, 2026 at 4:00 AM",10
+ryan clark,US,now 7-d,2026-11-05T21:00:00+00:00,"Nov 6, 2026 at 5:00 AM",11
+ryan clark,US,now 7-d,2026-11-05T22:00:00+00:00,"Nov 6, 2026 at 6:00 AM",13
+ryan clark,US,now 7-d,2026-11-05T23:00:00+00:00,"Nov 6, 2026 at 7:00 AM",13
+ryan clark,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",14
+ryan clark,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",14
+ryan clark,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",18
+ryan clark,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",20
+ryan clark,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",17
+ryan clark,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",44
+ryan clark,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",55
+ryan clark,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",100

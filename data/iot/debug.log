@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['胡 楓', '國泰航空', '秦漢', '警察']
-explore[胡 楓] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 胡 楓: 25 点, 峰值 100
-explore[國泰航空] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 國泰航空: 134 点, 峰值 100
-explore[秦漢] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 秦漢: 4 点, 峰值 100
-explore[警察] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 警察: 153 点, 峰值 100
-写出 data/iot/HK-2026-11-05.csv (316 行)
-写出 data/iot/latest-hk.csv (316 行)
-US 关键词: ['giannis antetokounmpo', 'brook lopez', 'tennis club', 'los angeles dodgers']
-explore[giannis antetokounmpo] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK giannis antetokounmpo: 167 点, 峰值 100
-explore[brook lopez] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK brook lopez: 115 点, 峰值 100
-explore[tennis club] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK tennis club: 151 点, 峰值 100
-explore[los angeles dodgers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK los angeles dodgers: 160 点, 峰值 100
-写出 data/iot/US-2026-11-05.csv (593 行)
-写出 data/iot/latest-us.csv (593 行)
-完成，共 909 行
+HK 关键词: ['warriors vs heat', '勇士對熱火', '惠 康 優惠', '蘇民峰']
+explore[warriors vs heat] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK warriors vs heat: 5 点, 峰值 100
+explore[勇士對熱火] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 勇士對熱火: 7 点, 峰值 100
+explore[惠 康 優惠] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 惠 康 優惠: 24 点, 峰值 100
+explore[蘇民峰] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 蘇民峰: 25 点, 峰值 100
+写出 data/iot/HK-2026-11-06.csv (61 行)
+写出 data/iot/latest-hk.csv (61 行)
+US 关键词: ['zeynep sonmez', 'when is black friday', 'claire liu', 'ryan clark']
+explore[zeynep sonmez] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK zeynep sonmez: 25 点, 峰值 100
+explore[when is black friday] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK when is black friday: 169 点, 峰值 100
+explore[claire liu] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK claire liu: 50 点, 峰值 100
+explore[ryan clark] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK ryan clark: 164 点, 峰值 100
+写出 data/iot/US-2026-11-06.csv (408 行)
+写出 data/iot/latest-us.csv (408 行)
+完成，共 469 行

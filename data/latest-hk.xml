@@ -6,241 +6,283 @@
 		<link>https://trends.google.com/trending/rss?geo=HK</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=HK" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>陳妙瑛</title>
+			<title>黎芷珊</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 22:20:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>快艇對熱火</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 22:10:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>國泰航空</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 22:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREtPncRcUdSHjkrfk91egvVuhj1x4yiZyGkInn0DQFwkO5YfD29eYedfFAJFQ</ht:picture>
-			<ht:picture_source>信報網站</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>派花紅丨國泰向香港員工派1個月酌情花紅</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hkej.com/instantnews/stock/article/4558304/%E6%B4%BE%E8%8A%B1%E7%B4%85%E4%B8%A8%E5%9C%8B%E6%B3%B0%E5%90%91%E9%A6%99%E6%B8%AF%E5%93%A1%E5%B7%A5%E6%B4%BE1%E5%80%8B%E6%9C%88%E9%85%8C%E6%83%85%E8%8A%B1%E7%B4%85</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREtPncRcUdSHjkrfk91egvVuhj1x4yiZyGkInn0DQFwkO5YfD29eYedfFAJFQ</ht:news_item_picture>
-				<ht:news_item_source>信報網站</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>國泰向香港員工派一個月薪酬花紅 明年1月發放</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.orangenews.hk/biz/Va4KhrM/%E5%9C%8B%E6%B3%B0%E5%90%91%E9%A6%99%E6%B8%AF%E5%93%A1%E5%B7%A5%E6%B4%BE%E4%B8%80%E5%80%8B%E6%9C%88%E8%96%AA%E9%85%AC%E8%8A%B1%E7%B4%85-%E6%98%8E%E5%B9%B41%E6%9C%88%E7%99%BC%E6%94%BE.shtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLR7YJ8dfHT4t-INsfRCLYd8q51jYEzUozEAdXTgQ00nY9gI8g-NQqzWmLTw</ht:news_item_picture>
-				<ht:news_item_source>橙新聞</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>國泰向香港員工發放一個月酌情花紅 (12:41) - 20261105 - 即時財經新聞</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://finance.mingpao.com/fin/instantf/20261105/1793854381720/%E5%9C%8B%E6%B3%B0%E5%90%91%E9%A6%99%E6%B8%AF%E5%93%A1%E5%B7%A5%E7%99%BC%E6%94%BE%E4%B8%80%E5%80%8B%E6%9C%88%E9%85%8C%E6%83%85%E8%8A%B1%E7%B4%85</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv-0_YcRSu8xL7C5_73Y7AXELfhUMRb3dt-WOGcZPJWzX8z5eVZtnIkvaQyco</ht:news_item_picture>
-				<ht:news_item_source>明報財經網</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>胡 楓</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 21:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxSKvPQFJ9zGMQQfkKMwdKarLeWkf7nNcl1aeCJvz4IJshKgpgAcuy73Arxf8</ht:picture>
+			<pubDate>Thu, 5 Nov 2026 23:10:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHbYxwcMwRWfCUQCMehxsIrtB3wLKlChwD6w7SmcULpZSojZ6x4MM_asMxCO0</ht:picture>
 			<ht:picture_source>香港01</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>陈妙瑛相约胡枫罗兰茶聚 被爆“大笑姑婆”真面目冻龄状态极惊人</ht:news_item_title>
+				<ht:news_item_title>赌王长房千金何超雄罕露面 行事低调多年与黎芷珊聚会近况曝光</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60407124/%E9%99%88%E5%A6%99%E7%91%9B%E7%9B%B8%E7%BA%A6%E8%83%A1%E6%9E%AB%E7%BD%97%E5%85%B0%E8%8C%B6%E8%81%9A-%E8%A2%AB%E7%88%86-%E5%A4%A7%E7%AC%91%E5%A7%91%E5%A9%86-%E7%9C%9F%E9%9D%A2%E7%9B%AE%E5%86%BB%E9%BE%84%E7%8A%B6%E6%80%81%E6%9E%81%E6%83%8A%E4%BA%BA</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxSKvPQFJ9zGMQQfkKMwdKarLeWkf7nNcl1aeCJvz4IJshKgpgAcuy73Arxf8</ht:news_item_picture>
+				<ht:news_item_url>https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60406655/%E8%B5%8C%E7%8E%8B%E9%95%BF%E6%88%BF%E5%8D%83%E9%87%91%E4%BD%95%E8%B6%85%E9%9B%84%E7%BD%95%E9%9C%B2%E9%9D%A2-%E8%A1%8C%E4%BA%8B%E4%BD%8E%E8%B0%83%E5%A4%9A%E5%B9%B4%E4%B8%8E%E9%BB%8E%E8%8A%B7%E7%8F%8A%E8%81%9A%E4%BC%9A%E8%BF%91%E5%86%B5%E6%9B%9D%E5%85%89</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHbYxwcMwRWfCUQCMehxsIrtB3wLKlChwD6w7SmcULpZSojZ6x4MM_asMxCO0</ht:news_item_picture>
 				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>被爆“大笑姑婆”真面目 54岁陈妙锳冻龄状态惊人</ht:news_item_title>
+				<ht:news_item_title>賭王長房千金何超雄罕露面 行事低調多年與黎芷珊聚會近況曝光</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chinapress.com.my/20261105/%E8%A2%AB%E7%88%86%E5%A4%A7%E7%AC%91%E5%A7%91%E5%A9%86%E7%9C%9F%E9%9D%A2%E7%9B%AE-54%E5%B2%81%E9%99%88%E5%A6%99%E9%94%B3%E5%86%BB%E9%BE%84%E7%8A%B6%E6%80%81%E6%83%8A%E4%BA%BA/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXNEz2ZVA5YXYtpijNZ4iXUQi3uKN1j3fBTuIUlac9gV1-Q85hP9LyGb9_FaM</ht:news_item_picture>
-				<ht:news_item_source>China Press</ht:news_item_source>
+				<ht:news_item_url>https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406655/%E8%B3%AD%E7%8E%8B%E9%95%B7%E6%88%BF%E5%8D%83%E9%87%91%E4%BD%95%E8%B6%85%E9%9B%84%E7%BD%95%E9%9C%B2%E9%9D%A2-%E8%A1%8C%E4%BA%8B%E4%BD%8E%E8%AA%BF%E5%A4%9A%E5%B9%B4%E8%88%87%E9%BB%8E%E8%8A%B7%E7%8F%8A%E8%81%9A%E6%9C%83%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHbYxwcMwRWfCUQCMehxsIrtB3wLKlChwD6w7SmcULpZSojZ6x4MM_asMxCO0</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>94歲胡楓大病後首公開現身 獲頒終身成就獎自認「威水」</ht:news_item_title>
+				<ht:news_item_title>黎芷珊曬家族聚會照 賭王長房千金何超雄近況曝光</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tvb.com/artiste-news-c/94%E6%AD%B2%E8%83%A1%E6%A5%93%E5%A4%A7%E7%97%85%E5%BE%8C%E9%A6%96%E5%85%AC%E9%96%8B%E7%8F%BE%E8%BA%AB-%E7%8D%B2%E9%A0%92%E7%B5%82%E8%BA%AB%E6%88%90%E5%B0%B1%E7%8D%8E%E8%87%AA%E8%AA%8D-%E5%A8%81%E6%B0%B4--1016907</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCn1FNEM-uev5Sr-WPURh4LLH1OAv7OED7RO74u3rywk5i2xoGwg1iGtpYIaE</ht:news_item_picture>
-				<ht:news_item_source>TVB</ht:news_item_source>
+				<ht:news_item_url>https://www.kinliu.hk/news/%E6%9C%80%E7%86%B1/%E9%BB%8E%E8%8A%B7%E7%8F%8A%E6%9B%AC%E5%AE%B6%E6%97%8F%E8%81%9A%E6%9C%83%E7%85%A7-%E8%B3%AD%E7%8E%8B%E9%95%B7%E6%88%BF%E5%8D%83%E9%87%91%E4%BD%95%E8%B6%85%E9%9B%84%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89/452944.html?id=94&amp;from=home&amp;bc1=%E9%A6%96%E9%A0%81&amp;bc1to=%2F</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0_DNDgMcxexHPMWqbnhB0O6FoiMoGEq7xvEBFaPH5bbqvtHw6g9uPRcTSWY</ht:news_item_picture>
+				<ht:news_item_source>堅料網</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>秦漢</title>
+			<title>李嘉欣</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 23:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbcfreyne6BgGpTk2Tl2vHISXNeidTEQyrg1qh3Dp_fpRq4M130UlFqzu3BU</ht:picture>
+			<ht:picture_source>星島頭條</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>李嘉欣约「百亿名媛闺密团」聚会 无惧死亡光线靓到震 稳坐C位展最美港姐风范</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.stheadline.com/zh-hans/film-drama/3633927/%E6%9D%8E%E5%98%89%E6%AC%A3%E7%BA%A6%E7%99%BE%E4%BA%BF%E5%90%8D%E5%AA%9B%E9%97%BA%E5%AF%86%E5%9B%A2%E8%81%9A%E4%BC%9A-%E6%97%A0%E6%83%A7%E6%AD%BB%E4%BA%A1%E5%85%89%E7%BA%BF%E9%9D%93%E5%88%B0%E9%9C%87-%E7%A8%B3%E5%9D%90C%E4%BD%8D%E5%B1%95%E6%9C%80%E7%BE%8E%E6%B8%AF%E5%A7%90%E9%A3%8E%E8%8C%83</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbcfreyne6BgGpTk2Tl2vHISXNeidTEQyrg1qh3Dp_fpRq4M130UlFqzu3BU</ht:news_item_picture>
+				<ht:news_item_source>星島頭條</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>许晋亨李嘉欣结婚18年：一亿婚礼后她冻龄他拄拐，钱再多也填不平岁月差</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.sohu.com/a/1097267440_122094388?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5xw4S6WHHCDoSFMNYTw1P2Dcd9mZR2RmlUb6IIBMP4mWljMfjZoHbqGmeYc</ht:news_item_picture>
+				<ht:news_item_source>搜狐网</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>李嘉欣約「百億名媛閨密團」聚會 無懼死亡光線靚到震 穩坐C位展最美港姐風範</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.stheadline.com/film-drama/3633927/%E6%9D%8E%E5%98%89%E6%AC%A3%E7%B4%84%E7%99%BE%E5%84%84%E5%90%8D%E5%AA%9B%E9%96%A8%E5%AF%86%E5%9C%98%E8%81%9A%E6%9C%83-%E7%84%A1%E6%87%BC%E6%AD%BB%E4%BA%A1%E5%85%89%E7%B7%9A%E9%9D%9A%E5%88%B0%E9%9C%87-%E7%A9%A9%E5%9D%90C%E4%BD%8D%E5%B1%95%E6%9C%80%E7%BE%8E%E6%B8%AF%E5%A7%90%E9%A2%A8%E7%AF%84</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoZF_t_3qbTMM33KF1CzHmOJeM0_nvGtBntF5JYVC8fUZOAX5pv5tBsiTKAc</ht:news_item_picture>
+				<ht:news_item_source>星島頭條</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>惠 康 優惠</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 21:30:00 -0800</pubDate>
+			<pubDate>Thu, 5 Nov 2026 22:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrJG3dY9I0te7iK0qkpPOtmjIgNJtY78XZKQrG6r_9YhPWdS5ninzj2xhvA2k</ht:picture>
+			<ht:picture_source>etnet 經濟通</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>百佳88折｜11月6、7日連續2日買滿$150全單88折 以WeChat Pay HK付款88折後滿$200再減$20</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.etnet.com.hk/www/tc/lifestyle/415253/%E7%99%BE%E4%BD%B388%E6%8A%98%EF%BD%9C11%E6%9C%886%E3%80%817%E6%97%A5%E9%80%A3%E7%BA%8C2%E6%97%A5%E8%B2%B7%E6%BB%BF%24150%E5%85%A8%E5%96%AE88%E6%8A%98%E3%80%80%E4%BB%A5WeChat+Pay+HK%E4%BB%98%E6%AC%BE88%E6%8A%98%E5%BE%8C%E6%BB%BF%24200%E5%86%8D%E6%B8%9B%2420</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrJG3dY9I0te7iK0qkpPOtmjIgNJtY78XZKQrG6r_9YhPWdS5ninzj2xhvA2k</ht:news_item_picture>
+				<ht:news_item_source>etnet 經濟通</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>買牙膏送24吋行李箱！HKTVmall多謝祭壓軸回饋 同場加送超過$800家品</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://utravel.com.hk/news/detail/20116456/hktvmall%E5%A4%9A%E8%AC%9D%E7%A5%AD%E6%8E%A8%E5%A3%93%E8%BB%B8%E7%A6%AE%E9%81%87-%E8%B2%B7%E6%8C%87%E5%AE%9A%E7%89%99%E8%86%8F%E9%80%81-%E5%90%8B%E8%A1%8C%E6%9D%8E%E7%AE%B1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROM6o84Ia3vapQmOKusTRIHet_Pv4P1ozB39lvvQ9AHFuBUbM9zlAZ48ipKGo</ht:news_item_picture>
+				<ht:news_item_source>U Travel</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>超市優惠｜惠康/百佳88折滿$200再減$20！佳宝8折/崇光超市23折起</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hk01.com/%E6%95%99%E7%85%AE/60406760/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E7%99%BE%E4%BD%B388%E6%8A%98%E6%BB%BF-200%E5%86%8D%E6%B8%9B-20-%E4%BD%B3%E5%AE%9D8%E6%8A%98-%E5%B4%87%E5%85%89%E8%B6%85%E5%B8%8223%E6%8A%98%E8%B5%B7</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVvktkXGkbvANLQhz6sYUoqPplpKLkqMMC8bsFg69wSzyYT_KbgkpTwUUH0SM</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>李澤楷</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 21:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA0as8T4_HXoDKZHMOoD0WdPwflYUwPpMVGxwax4Ybs1C3uC83DP38UFOoxIM</ht:picture>
+			<ht:picture_source>香港經濟日報HKET</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>特首選舉2027｜李澤楷：未來行政長官要懂世界大局 知道香港脆弱和長處在哪裡</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.hket.com/article/4220432/%E7%89%B9%E9%A6%96%E9%81%B8%E8%88%892027%EF%BD%9C%E6%9D%8E%E6%BE%A4%E6%A5%B7%EF%BC%9A%E6%9C%AA%E4%BE%86%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E8%A6%81%E6%87%82%E4%B8%96%E7%95%8C%E5%A4%A7%E5%B1%80%E3%80%80%E7%9F%A5%E9%81%93%E9%A6%99%E6%B8%AF%E8%84%86%E5%BC%B1%E5%92%8C%E9%95%B7%E8%99%95%E5%9C%A8%E5%93%AA%E8%A3%A1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA0as8T4_HXoDKZHMOoD0WdPwflYUwPpMVGxwax4Ybs1C3uC83DP38UFOoxIM</ht:news_item_picture>
+				<ht:news_item_source>香港經濟日報HKET</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>【高端訪問】盈科拓展集團主席李澤楷接受本報專訪：融入國家發展</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hkcd.com.hk/hkcdweb/content/2026/11/05/content_8783652.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuF9fH0SLKgOFSCVrhAgPXLQygOQlCFOp-oe9o3qnC9r1RVjw3wlXB4KUh454</ht:news_item_picture>
+				<ht:news_item_source>香港商报</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>李澤楷談未來特首提3期望：團結香港解決民生問題 懂世界大局</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.am730.com.hk/%E8%B2%A1%E7%B6%93/1062389/%E6%9D%8E%E6%BE%A4%E6%A5%B7%E8%AB%87%E6%9C%AA%E4%BE%86%E7%89%B9%E9%A6%96%E6%8F%903%E6%9C%9F%E6%9C%9B-%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E8%A7%A3%E6%B1%BA%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C-%E6%87%82%E4%B8%96%E7%95%8C%E5%A4%A7%E5%B1%80</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLhFDginAazLM5DNDJLc1gj-sc5ShNLTrVvAM9dwowqDslTEgVCUeEJXNx18</ht:news_item_picture>
+				<ht:news_item_source>am730</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>manning</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 21:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsgcoevZABsEOyFQOcXNrZ_i0guG_dNKSaWMLU-gFwI4fnEEx-FeVL1cr88dM</ht:picture>
+			<ht:picture_source>Bleacher Report</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Todd McShay Predicts Arch Manning Will Forgo 2027 NFL Draft Amid Up-And-Down Season at Texas</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://bleacherreport.com/articles/25529401-todd-mcshay-predicts-arch-manning-will-forgo-2027-nfl-draft-amid-and-down-season-texas</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsgcoevZABsEOyFQOcXNrZ_i0guG_dNKSaWMLU-gFwI4fnEEx-FeVL1cr88dM</ht:news_item_picture>
+				<ht:news_item_source>Bleacher Report</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Todd McShay Urges Arch Manning to Return to College for Another Season</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.yahoo.com/articles/todd-mcshay-urges-arch-manning-010514030.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1Z59MHzFLAqRgJN8_XOOmbAD_GxAJ-y9mgCkJF7QOLiTLPk2KwX_Va5RGFpg</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Should Arch “Finish What He Started” in Texas? | Don&apos;t @ Me w/ Dan Dakich</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.foxnews.com/video/6407793822112</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrIIYQ02He2IUlynK0xP5DCXJK4EsY10BXOUKj-Y5PjaxHh7ZQ-_joYcwjQs</ht:news_item_picture>
+				<ht:news_item_source>Fox News</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>7-11</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 20:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8BO2xc9TPL3eyagWJCIDDrrvTkAOJULFBeVgPQdTEKdewtERTCIyTD23IK4o</ht:picture>
+			<ht:picture_source>Cosmopolitan</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>7-ELEVEN「戰鬥陀螺」11/4開賣，3款「BEYBLADE X 隨機強化組盲盒」價格、購買方式一次看！</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g74307369/7-eleven-1104-1/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8BO2xc9TPL3eyagWJCIDDrrvTkAOJULFBeVgPQdTEKdewtERTCIyTD23IK4o</ht:news_item_picture>
+				<ht:news_item_source>Cosmopolitan</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>戰鬥陀螺 BX-54「西格超級龍」11月登場！全新橢圓刀刃、攻守兼備</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nownews.com/news/6887810</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7o1FEUXysW9yDVG9opavxAJgk5W2-4aZRIa4KN06AwmdoKmtpoA8odx5OtzU</ht:news_item_picture>
+				<ht:news_item_source>NOWnews今日新聞</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>準備開搶！「全家行動購」限量開賣《BEYBLADE X 戰鬥陀螺》3款新品</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://udn.com/news/story/7270/9840146</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjgVn9L_74Y9P8S-hkTGy35TN3-rF2b-3c8cowhUfrsnXXbkTnEvmLrfAOp0</ht:news_item_picture>
+				<ht:news_item_source>UDN</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>旺角</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 20:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWyeeDg5fMvGMqkjJiICEIoyhiFB47j-xINdmKzJzzEKM56NuFgZ1fA8HUk9E</ht:picture>
+			<ht:picture_source>Yahoo</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>旺角單位疑熱水爐爆炸 女戶主受傷送院</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.news.yahoo.com/%E6%97%BA%E8%A7%92%E5%96%AE%E4%BD%8D%E7%96%91%E7%86%B1%E6%B0%B4%E7%88%90%E7%88%86%E7%82%B8-%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-010936936.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWyeeDg5fMvGMqkjJiICEIoyhiFB47j-xINdmKzJzzEKM56NuFgZ1fA8HUk9E</ht:news_item_picture>
+				<ht:news_item_source>Yahoo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>太子住宅單位熱水爐疑漏氣傳爆炸聲 女住戶受驚走避撞傷前額</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hk01.com/%E7%AA%81%E7%99%BC/60407714/%E5%A4%AA%E5%AD%90%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E7%86%B1%E6%B0%B4%E7%88%90%E7%96%91%E6%BC%8F%E6%B0%A3%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E5%A5%B3%E4%BD%8F%E6%88%B6%E5%8F%97%E9%A9%9A%E8%B5%B0%E9%81%BF%E6%92%9E%E5%82%B7%E5%89%8D%E9%A1%8D</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYh9nvujl9Z7ZB4it_ECsmuS_8nB_iufNWn-a-A2ru4Ame2YP6hDQjvjwtB2s</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>太子單位熱水爐爆炸起火 女子遭碎片擊傷額頭送院</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.on.cc/hk/bkn/cnt/news/20261106/bkn-20261106073442557-1106_00822_001.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf3RYIvUhD_N0qKc3fC1HpUqpL3-N_aLaqlyrqg4-TsYxn2MoWy1d9Kzgnh2g</ht:news_item_picture>
+				<ht:news_item_source>on.cc東網</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>蘇民峰</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 19:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyHm0az_9eHOeE1TqtU3sQCpypyc6KdHlNxGo2zpTNSVHDlnz23OB81bA_b18</ht:picture>
+			<ht:picture_source>香港01</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>屬龍、蛇、馬蘇民峰2027羊年運程｜屬龍權力提升+屬馬脫單睇2個月</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hk01.com/%E9%96%8B%E7%BD%90/60406571/%E5%B1%AC%E9%BE%8D-%E8%9B%87-%E9%A6%AC%E8%98%87%E6%B0%91%E5%B3%B02027%E7%BE%8A%E5%B9%B4%E9%81%8B%E7%A8%8B-%E5%B1%AC%E9%BE%8D%E6%AC%8A%E5%8A%9B%E6%8F%90%E5%8D%87-%E5%B1%AC%E9%A6%AC%E8%84%AB%E5%96%AE%E7%9D%872%E5%80%8B%E6%9C%88</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyHm0az_9eHOeE1TqtU3sQCpypyc6KdHlNxGo2zpTNSVHDlnz23OB81bA_b18</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>跨過這年皮繃緊！香港命理大師蘇民峰親解「2027紅羊劫」12生肖運勢</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://ent.ltn.com.tw/news/breakingnews/5629798</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMmPRbWJ5vCgpOm5iw8WeL1ligM5rrrl1S_lJ7h67M1ycXRPPH_qZgd7hHZys</ht:news_item_picture>
+				<ht:news_item_source>自由娛樂</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>4生肖用堅持熬過挫折年底喜迎大單與提拔- 好運到</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://truemii.chinatimes.com/content/20261105001774-265005</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC_h86HWEZi5LYb-QwHBzEN7zwpcu2PjafClTKeggpPJ3wx6MmRT2AbmBZj4g</ht:news_item_picture>
+				<ht:news_item_source>觸mii</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>warriors vs heat</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 19:10:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlMHE0iMAV4HkH9i4AVYarLgInCrud4UF8WGuhjUMANUyuQe2fh_9c3toQt8</ht:picture>
+			<ht:picture_source>شبكة تواصل الإخبارية</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Gui Santos remains out for second straight game as Heat Vs Warriors takes shape around the injury report</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://twaslnews1.twaslnews.com/7191397/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlMHE0iMAV4HkH9i4AVYarLgInCrud4UF8WGuhjUMANUyuQe2fh_9c3toQt8</ht:news_item_picture>
+				<ht:news_item_source>شبكة تواصل الإخبارية</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>(LIVE!NBA) Golden State Warriors vs Miami Heat Live Free NBA Basketball Game On TV Channel</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.prpeak.com/classifieds/real-estate-rentals/accommodation-wanted/2163629</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlcH_VP3WWS14HlTZ81hqy8BLEBghk2uoKXBVtV48icV0UFZEqKa6f9fwbk_0</ht:news_item_picture>
+				<ht:news_item_source>Powell River Peak</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXAmHN3UhTram59FrAkn2zZOKJOEHCHmWHWpA1Tth2d5ay0v3jfBIqXN9on0</ht:news_item_picture>
+				<ht:news_item_source>Hot Hot Hoops</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>勇士對熱火</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Thu, 5 Nov 2026 19:10:00 -0800</pubDate>
 			<ht:picture/>
 			<ht:picture_source/>
-		</item>
-		<item>
-			<title>警察</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 21:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj39Bll2nHuBTk_qRC3k52XO6Ex_Y3K46k_j-LGsRWHvTuziwe1PtbxMFfnXw</ht:picture>
-			<ht:picture_source>Caixin Global</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>印尼政坛动荡加剧 前警察总长涉嫌窃听总统被捕</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://international.caixin.com/2026-11-04/102501013.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj39Bll2nHuBTk_qRC3k52XO6Ex_Y3K46k_j-LGsRWHvTuziwe1PtbxMFfnXw</ht:news_item_picture>
-				<ht:news_item_source>Caixin Global</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>印尼总统及多名部长遭监听 警界高官涉非法窃听</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://military.china.com/news/13004177/20261105/49841285.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX6IlGwyt_TggwSrIOoxPj1itb4kI5zhkMxoIa9kNmXNBZBFez5lS8L8hjgWI</ht:news_item_picture>
-				<ht:news_item_source>中华军事</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>“总统遭到监听，部长们也遭到监听” 印尼总统遭窃听案迷雾重重</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.sohu.com/a/1097224367_121443915?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2_UXdOXs9cZ1A5C1lVHdvzbfEo8sGSmv2JSvadE9f9euKLCEeA4EO97xdWYs</ht:news_item_picture>
-				<ht:news_item_source>搜狐网</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>馬刺對獨行俠</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 21:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUVR4USvN6ARtMLCTuhS3D7kXDAzItpByjKCDYwcz-5lXVVm-qXo_C9TBY3Ow</ht:picture>
-			<ht:picture_source>Yahoo運動</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>NBA》斑馬半場數據太鬼成史上第一人 馬刺擋住獨行俠大反撲收6連勝</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tw.sports.yahoo.com/news/nba-%E6%96%91%E9%A6%AC%E5%8D%8A%E5%A0%B4%E6%95%B8%E6%93%9A%E5%A4%AA%E9%AC%BC%E6%88%90%E5%8F%B2%E4%B8%8A%E7%AC%AC-%E4%BA%BA-%E9%A6%AC%E5%88%BA%E6%93%8B%E4%BD%8F%E7%8D%A8%E8%A1%8C%E4%BF%A0%E5%A4%A7%E5%8F%8D%E6%92%B2%E6%94%B66%E9%80%A3%E5%8B%9D-061636045.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUVR4USvN6ARtMLCTuhS3D7kXDAzItpByjKCDYwcz-5lXVVm-qXo_C9TBY3Ow</ht:news_item_picture>
-				<ht:news_item_source>Yahoo運動</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>雲班耶馬狂轟52分24 籃板馬刺險勝獨行俠</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bastillepost.com/hongkong/article/17120952-%E9%9B%B2%E7%8F%AD%E8%80%B6%E9%A6%AC%E7%8B%82%E8%BD%9F52%E5%88%8624%E7%B1%83%E6%9D%BF-%E9%A6%AC%E5%88%BA%E9%9A%AA%E5%8B%9D%E7%8D%A8%E8%A1%8C%E4%BF%A0</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNs2DaScIGKRrg7pF3A6Aq5A8UPgeRYG1qo6EsMeD6hmHpAjf4wSRUn9MLZE</ht:news_item_picture>
-				<ht:news_item_source>巴士的報</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Victor Wembanyama 從兩米外撲前正面對阻了 Kuminga 的三分球，再快攻入樽，旁述員：「這不公平」</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://basketball.fanpiece.com/basketball-court/Victor-Wembanyama-%E5%BE%9E%E5%85%A9%E7%B1%B3%E5%A4%96%E6%92%B2%E5%89%8D%E6%AD%A3%E9%9D%A2%E5%B0%8D%E9%98%BB%E4%BA%86-Kuminga-%E7%9A%84%E4%B8%89%E5%88%86%E7%90%83-%E5%86%8D%E5%BF%AB%E6%94%BB%E5%85%A5%E6%A8%BD-%E6%97%81%E8%BF%B0%E5%93%A1-%E9%80%99%E4%B8%8D%E5%85%AC%E5%B9%B3-c1513785.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQsc1Xh06X0azL5ghBu4qCMHQC9eeVd28T8GGq0_yZmHu2SudgnvQ2Gm7YhyA</ht:news_item_picture>
-				<ht:news_item_source>籃球地帶</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>spurs vs mavericks</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 21:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSlgzbs9v_708GHb4QVTFYiJ_og1xd8URjG2eBVkxC8dJydLpOANzHYSRZhY0</ht:picture>
-			<ht:picture_source>Eurohoops</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>NBA Roundup: Wemby scored 52, Doncic had 40, triple-double for Jokic and overtime win for Giannis</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.eurohoops.net/en/nba-news/2030924/nba-roundup-wemby-scored-52-doncic-had-40-triple-double-for-jokic-and-overtime-win-for-giannis/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSlgzbs9v_708GHb4QVTFYiJ_og1xd8URjG2eBVkxC8dJydLpOANzHYSRZhY0</ht:news_item_picture>
-				<ht:news_item_source>Eurohoops</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Wembanyama score 52 and grab 24 boards as Spurs clip Mavericks, 112-111</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nba.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsNq3xIUBI0d5rNHNFfRT7vkriQ67q2f9M1FQI4Lt3dx2gbOPI50KXygWlG2w</ht:news_item_picture>
-				<ht:news_item_source>NBA.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Stats Rundown: 3 numbers to know as the Mavericks drop 112-111 heartbreaker at San Antonio Spurs</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/63633/stats-rundown-dallas-mavericks-vs-san-antonio-spurs-flagg-wembanyama-irving-final-score-112-111</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeoeukqpTbnwtqpEF3QtqLf29RBYtzaQS6Nfdws_cIG7ddZOas4O3yOp4WhE</ht:news_item_picture>
-				<ht:news_item_source>Mavs Moneyball</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>溫瑞博</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 20:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjEMc-u-w46cnbD7ndbuTie1jpli9g0W6JFGl3oEXXpYfO3W5MhelP1M41W0</ht:picture>
-			<ht:picture_source>新华网客户端</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>WTT法兰克福冠军赛：王艺迪首轮出局 温瑞博晋级</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://app.xinhuanet.com/news/article.html?articleId=2026110571befb1fead34d32ad93ffa18e3d5b4c</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjEMc-u-w46cnbD7ndbuTie1jpli9g0W6JFGl3oEXXpYfO3W5MhelP1M41W0</ht:news_item_picture>
-				<ht:news_item_source>新华网客户端</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>世界杯亚军一轮游！今晚国乒两场硬仗</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.ifeng.com/c/8xloq76obcN</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZsi4WgQ2ewKp33TyYIZEOMm7VkPTCamvWxy2NXKTrpRAHVH5sxkrkCtkFju4</ht:news_item_picture>
-				<ht:news_item_source>凤凰网</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>王艺迪0-3韩莹首轮游！马琳暂停时机存争议 日媒：43岁老将辉煌一刻</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.sohu.com/a/1097366792_343291?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkAs_wVa8chmoy1avtmjUETOzM3P5xddANNc9PF2stQN4yV6uhaFd9IYOwf8Y</ht:news_item_picture>
-				<ht:news_item_source>搜狐网</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>joshua wong</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Wed, 4 Nov 2026 20:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStBT_RJMuKr5n4Ossk8B9Whyt-uliDzXerR0mvlAr5raz_qsPoGQYWQUtdnrk</ht:picture>
-			<ht:picture_source>South China Morning Post</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStBT_RJMuKr5n4Ossk8B9Whyt-uliDzXerR0mvlAr5raz_qsPoGQYWQUtdnrk</ht:news_item_picture>
-				<ht:news_item_source>South China Morning Post</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Joshua Wong, face of Hong Kong&apos;s pro-democracy protests, jailed for 10 years</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/news/articles/cwp9g3rlp8jlo</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrVoa5MWp0a9noTM5MPRXwR5kqsb8pfbnzm8KOsxADl5v37K8p9N_4kfanSA4</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Joshua Wong sentenced to 10 years over foreign collusion charge</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.thestandard.com.hk/news/article/347574/Joshua-Wong-sentenced-to-10-years-over-foreign-collusion-charge</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5pFFxf5pOU1dIsxGA6EgX9US3jrXb_vxGbByDc99fHv6TmHwSlkJhzfVn1gk</ht:news_item_picture>
-				<ht:news_item_source>The Standard (HK)</ht:news_item_source>
-			</ht:news_item>
 		</item>
 	</channel>
 </rss>
