@@ -1,0 +1,447 @@
+keyword,geo,timeframe,point_time,formatted_time,value
+lakers,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",40
+lakers,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",30
+lakers,US,now 7-d,2026-10-31T08:00:00+00:00,"Oct 31, 2026 at 4:00 PM",27
+lakers,US,now 7-d,2026-10-31T09:00:00+00:00,"Oct 31, 2026 at 5:00 PM",27
+lakers,US,now 7-d,2026-10-31T10:00:00+00:00,"Oct 31, 2026 at 6:00 PM",26
+lakers,US,now 7-d,2026-10-31T11:00:00+00:00,"Oct 31, 2026 at 7:00 PM",24
+lakers,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",20
+lakers,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",15
+lakers,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",12
+lakers,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",10
+lakers,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",8
+lakers,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",6
+lakers,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",5
+lakers,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",5
+lakers,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",4
+lakers,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",4
+lakers,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",4
+lakers,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",4
+lakers,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",3
+lakers,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",4
+lakers,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",4
+lakers,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",4
+lakers,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",4
+lakers,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",4
+lakers,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",4
+lakers,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",4
+lakers,US,now 7-d,2026-11-01T08:00:00+00:00,"Nov 1, 2026 at 4:00 PM",3
+lakers,US,now 7-d,2026-11-01T09:00:00+00:00,"Nov 1, 2026 at 5:00 PM",3
+lakers,US,now 7-d,2026-11-01T10:00:00+00:00,"Nov 1, 2026 at 6:00 PM",3
+lakers,US,now 7-d,2026-11-01T11:00:00+00:00,"Nov 1, 2026 at 7:00 PM",2
+lakers,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",2
+lakers,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",2
+lakers,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",2
+lakers,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",3
+lakers,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",3
+lakers,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",3
+lakers,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",3
+lakers,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",3
+lakers,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",3
+lakers,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",3
+lakers,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",4
+lakers,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",5
+lakers,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",6
+lakers,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",20
+lakers,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",30
+lakers,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",37
+lakers,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",53
+lakers,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",20
+lakers,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",14
+lakers,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",14
+lakers,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",13
+lakers,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",12
+lakers,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",11
+lakers,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",10
+lakers,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",8
+lakers,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",5
+lakers,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",4
+lakers,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",4
+lakers,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",4
+lakers,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",4
+lakers,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",3
+lakers,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",3
+lakers,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",3
+lakers,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",3
+lakers,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",4
+lakers,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",4
+lakers,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",5
+lakers,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",5
+lakers,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",15
+lakers,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",26
+lakers,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",38
+lakers,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",54
+lakers,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",25
+lakers,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",16
+lakers,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",13
+lakers,US,now 7-d,2026-11-03T09:00:00+00:00,"Nov 3, 2026 at 5:00 PM",13
+lakers,US,now 7-d,2026-11-03T10:00:00+00:00,"Nov 3, 2026 at 6:00 PM",12
+lakers,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",11
+lakers,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",8
+lakers,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",6
+lakers,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",5
+lakers,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",4
+lakers,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",3
+lakers,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",3
+lakers,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",3
+lakers,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",2
+lakers,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",2
+lakers,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",2
+lakers,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",2
+lakers,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",3
+lakers,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",3
+lakers,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",2
+lakers,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",3
+lakers,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",3
+lakers,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",3
+lakers,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",3
+lakers,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",3
+lakers,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",4
+lakers,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",3
+lakers,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",3
+lakers,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",2
+lakers,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",2
+lakers,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",2
+lakers,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",2
+lakers,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",2
+lakers,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",2
+lakers,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",2
+lakers,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",2
+lakers,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",2
+lakers,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",2
+lakers,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",2
+lakers,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",2
+lakers,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",3
+lakers,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",4
+lakers,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",4
+lakers,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",6
+lakers,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",17
+lakers,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",32
+lakers,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",40
+lakers,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",59
+lakers,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",30
+lakers,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",15
+lakers,US,now 7-d,2026-11-05T08:00:00+00:00,"Nov 5, 2026 at 4:00 PM",14
+lakers,US,now 7-d,2026-11-05T09:00:00+00:00,"Nov 5, 2026 at 5:00 PM",14
+lakers,US,now 7-d,2026-11-05T10:00:00+00:00,"Nov 5, 2026 at 6:00 PM",13
+lakers,US,now 7-d,2026-11-05T11:00:00+00:00,"Nov 5, 2026 at 7:00 PM",11
+lakers,US,now 7-d,2026-11-05T12:00:00+00:00,"Nov 5, 2026 at 8:00 PM",8
+lakers,US,now 7-d,2026-11-05T13:00:00+00:00,"Nov 5, 2026 at 9:00 PM",6
+lakers,US,now 7-d,2026-11-05T14:00:00+00:00,"Nov 5, 2026 at 10:00 PM",4
+lakers,US,now 7-d,2026-11-05T15:00:00+00:00,"Nov 5, 2026 at 11:00 PM",4
+lakers,US,now 7-d,2026-11-05T16:00:00+00:00,"Nov 6, 2026 at 12:00 AM",3
+lakers,US,now 7-d,2026-11-05T17:00:00+00:00,"Nov 6, 2026 at 1:00 AM",3
+lakers,US,now 7-d,2026-11-05T18:00:00+00:00,"Nov 6, 2026 at 2:00 AM",3
+lakers,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",3
+lakers,US,now 7-d,2026-11-05T20:00:00+00:00,"Nov 6, 2026 at 4:00 AM",3
+lakers,US,now 7-d,2026-11-05T21:00:00+00:00,"Nov 6, 2026 at 5:00 AM",3
+lakers,US,now 7-d,2026-11-05T22:00:00+00:00,"Nov 6, 2026 at 6:00 AM",3
+lakers,US,now 7-d,2026-11-05T23:00:00+00:00,"Nov 6, 2026 at 7:00 AM",3
+lakers,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",3
+lakers,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",4
+lakers,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",5
+lakers,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",5
+lakers,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",6
+lakers,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",6
+lakers,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",6
+lakers,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",6
+lakers,US,now 7-d,2026-11-06T08:00:00+00:00,"Nov 6, 2026 at 4:00 PM",5
+lakers,US,now 7-d,2026-11-06T09:00:00+00:00,"Nov 6, 2026 at 5:00 PM",4
+lakers,US,now 7-d,2026-11-06T10:00:00+00:00,"Nov 6, 2026 at 6:00 PM",4
+lakers,US,now 7-d,2026-11-06T11:00:00+00:00,"Nov 6, 2026 at 7:00 PM",3
+lakers,US,now 7-d,2026-11-06T12:00:00+00:00,"Nov 6, 2026 at 8:00 PM",3
+lakers,US,now 7-d,2026-11-06T13:00:00+00:00,"Nov 6, 2026 at 9:00 PM",2
+lakers,US,now 7-d,2026-11-06T14:00:00+00:00,"Nov 6, 2026 at 10:00 PM",2
+lakers,US,now 7-d,2026-11-06T15:00:00+00:00,"Nov 6, 2026 at 11:00 PM",2
+lakers,US,now 7-d,2026-11-06T16:00:00+00:00,"Nov 7, 2026 at 12:00 AM",2
+lakers,US,now 7-d,2026-11-06T17:00:00+00:00,"Nov 7, 2026 at 1:00 AM",2
+lakers,US,now 7-d,2026-11-06T18:00:00+00:00,"Nov 7, 2026 at 2:00 AM",2
+lakers,US,now 7-d,2026-11-06T19:00:00+00:00,"Nov 7, 2026 at 3:00 AM",2
+lakers,US,now 7-d,2026-11-06T20:00:00+00:00,"Nov 7, 2026 at 4:00 AM",3
+lakers,US,now 7-d,2026-11-06T21:00:00+00:00,"Nov 7, 2026 at 5:00 AM",3
+lakers,US,now 7-d,2026-11-06T22:00:00+00:00,"Nov 7, 2026 at 6:00 AM",3
+lakers,US,now 7-d,2026-11-06T23:00:00+00:00,"Nov 7, 2026 at 7:00 AM",4
+lakers,US,now 7-d,2026-11-07T00:00:00+00:00,"Nov 7, 2026 at 8:00 AM",4
+lakers,US,now 7-d,2026-11-07T01:00:00+00:00,"Nov 7, 2026 at 9:00 AM",6
+lakers,US,now 7-d,2026-11-07T02:00:00+00:00,"Nov 7, 2026 at 10:00 AM",22
+lakers,US,now 7-d,2026-11-07T03:00:00+00:00,"Nov 7, 2026 at 11:00 AM",47
+lakers,US,now 7-d,2026-11-07T04:00:00+00:00,"Nov 7, 2026 at 12:00 PM",59
+lakers,US,now 7-d,2026-11-07T05:00:00+00:00,"Nov 7, 2026 at 1:00 PM",92
+lakers,US,now 7-d,2026-11-07T06:00:00+00:00,"Nov 7, 2026 at 2:00 PM",100
+freeze warning,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",5
+freeze warning,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",2
+freeze warning,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",3
+freeze warning,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",2
+freeze warning,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",1
+freeze warning,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",1
+freeze warning,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",2
+freeze warning,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",1
+freeze warning,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",1
+freeze warning,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",2
+freeze warning,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",1
+freeze warning,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",1
+freeze warning,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",1
+freeze warning,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",1
+freeze warning,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",1
+freeze warning,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",1
+freeze warning,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",1
+freeze warning,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",2
+freeze warning,US,now 7-d,2026-11-05T15:00:00+00:00,"Nov 5, 2026 at 11:00 PM",1
+freeze warning,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",1
+freeze warning,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",1
+freeze warning,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",1
+freeze warning,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",16
+freeze warning,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",67
+freeze warning,US,now 7-d,2026-11-06T08:00:00+00:00,"Nov 6, 2026 at 4:00 PM",63
+freeze warning,US,now 7-d,2026-11-06T09:00:00+00:00,"Nov 6, 2026 at 5:00 PM",66
+freeze warning,US,now 7-d,2026-11-06T10:00:00+00:00,"Nov 6, 2026 at 6:00 PM",95
+freeze warning,US,now 7-d,2026-11-06T11:00:00+00:00,"Nov 6, 2026 at 7:00 PM",100
+freeze warning,US,now 7-d,2026-11-06T12:00:00+00:00,"Nov 6, 2026 at 8:00 PM",84
+freeze warning,US,now 7-d,2026-11-06T13:00:00+00:00,"Nov 6, 2026 at 9:00 PM",55
+freeze warning,US,now 7-d,2026-11-06T14:00:00+00:00,"Nov 6, 2026 at 10:00 PM",29
+freeze warning,US,now 7-d,2026-11-06T15:00:00+00:00,"Nov 6, 2026 at 11:00 PM",22
+freeze warning,US,now 7-d,2026-11-06T16:00:00+00:00,"Nov 7, 2026 at 12:00 AM",17
+freeze warning,US,now 7-d,2026-11-06T17:00:00+00:00,"Nov 7, 2026 at 1:00 AM",16
+freeze warning,US,now 7-d,2026-11-06T18:00:00+00:00,"Nov 7, 2026 at 2:00 AM",17
+freeze warning,US,now 7-d,2026-11-06T19:00:00+00:00,"Nov 7, 2026 at 3:00 AM",16
+freeze warning,US,now 7-d,2026-11-06T20:00:00+00:00,"Nov 7, 2026 at 4:00 AM",15
+freeze warning,US,now 7-d,2026-11-06T21:00:00+00:00,"Nov 7, 2026 at 5:00 AM",15
+freeze warning,US,now 7-d,2026-11-06T22:00:00+00:00,"Nov 7, 2026 at 6:00 AM",18
+freeze warning,US,now 7-d,2026-11-06T23:00:00+00:00,"Nov 7, 2026 at 7:00 AM",14
+freeze warning,US,now 7-d,2026-11-07T00:00:00+00:00,"Nov 7, 2026 at 8:00 AM",14
+freeze warning,US,now 7-d,2026-11-07T01:00:00+00:00,"Nov 7, 2026 at 9:00 AM",13
+freeze warning,US,now 7-d,2026-11-07T02:00:00+00:00,"Nov 7, 2026 at 10:00 AM",9
+freeze warning,US,now 7-d,2026-11-07T03:00:00+00:00,"Nov 7, 2026 at 11:00 AM",13
+freeze warning,US,now 7-d,2026-11-07T04:00:00+00:00,"Nov 7, 2026 at 12:00 PM",13
+freeze warning,US,now 7-d,2026-11-07T05:00:00+00:00,"Nov 7, 2026 at 1:00 PM",57
+freeze warning,US,now 7-d,2026-11-07T06:00:00+00:00,"Nov 7, 2026 at 2:00 PM",60
+claire liu,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",2
+claire liu,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",3
+claire liu,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",3
+claire liu,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",2
+claire liu,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",17
+claire liu,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",22
+claire liu,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",62
+claire liu,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",75
+claire liu,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",11
+claire liu,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",11
+claire liu,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",2
+claire liu,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",3
+claire liu,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",1
+claire liu,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",2
+claire liu,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",2
+claire liu,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",4
+claire liu,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",4
+claire liu,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",8
+claire liu,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",12
+claire liu,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",19
+claire liu,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",41
+claire liu,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",78
+claire liu,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",35
+claire liu,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",6
+claire liu,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",4
+claire liu,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",2
+claire liu,US,now 7-d,2026-11-05T13:00:00+00:00,"Nov 5, 2026 at 9:00 PM",3
+claire liu,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",2
+claire liu,US,now 7-d,2026-11-05T20:00:00+00:00,"Nov 6, 2026 at 4:00 AM",2
+claire liu,US,now 7-d,2026-11-05T21:00:00+00:00,"Nov 6, 2026 at 5:00 AM",2
+claire liu,US,now 7-d,2026-11-05T22:00:00+00:00,"Nov 6, 2026 at 6:00 AM",2
+claire liu,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",3
+claire liu,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",2
+claire liu,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",2
+claire liu,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",5
+claire liu,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",12
+claire liu,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",44
+claire liu,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",100
+claire liu,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",86
+claire liu,US,now 7-d,2026-11-06T08:00:00+00:00,"Nov 6, 2026 at 4:00 PM",24
+claire liu,US,now 7-d,2026-11-06T09:00:00+00:00,"Nov 6, 2026 at 5:00 PM",15
+claire liu,US,now 7-d,2026-11-06T10:00:00+00:00,"Nov 6, 2026 at 6:00 PM",19
+claire liu,US,now 7-d,2026-11-06T11:00:00+00:00,"Nov 6, 2026 at 7:00 PM",13
+claire liu,US,now 7-d,2026-11-06T12:00:00+00:00,"Nov 6, 2026 at 8:00 PM",9
+claire liu,US,now 7-d,2026-11-06T13:00:00+00:00,"Nov 6, 2026 at 9:00 PM",2
+claire liu,US,now 7-d,2026-11-06T14:00:00+00:00,"Nov 6, 2026 at 10:00 PM",2
+claire liu,US,now 7-d,2026-11-06T15:00:00+00:00,"Nov 6, 2026 at 11:00 PM",4
+claire liu,US,now 7-d,2026-11-06T16:00:00+00:00,"Nov 7, 2026 at 12:00 AM",3
+claire liu,US,now 7-d,2026-11-06T17:00:00+00:00,"Nov 7, 2026 at 1:00 AM",3
+claire liu,US,now 7-d,2026-11-06T18:00:00+00:00,"Nov 7, 2026 at 2:00 AM",2
+claire liu,US,now 7-d,2026-11-06T19:00:00+00:00,"Nov 7, 2026 at 3:00 AM",2
+claire liu,US,now 7-d,2026-11-06T20:00:00+00:00,"Nov 7, 2026 at 4:00 AM",2
+claire liu,US,now 7-d,2026-11-06T21:00:00+00:00,"Nov 7, 2026 at 5:00 AM",2
+claire liu,US,now 7-d,2026-11-06T22:00:00+00:00,"Nov 7, 2026 at 6:00 AM",2
+claire liu,US,now 7-d,2026-11-06T23:00:00+00:00,"Nov 7, 2026 at 7:00 AM",3
+claire liu,US,now 7-d,2026-11-07T00:00:00+00:00,"Nov 7, 2026 at 8:00 AM",3
+claire liu,US,now 7-d,2026-11-07T01:00:00+00:00,"Nov 7, 2026 at 9:00 AM",3
+claire liu,US,now 7-d,2026-11-07T02:00:00+00:00,"Nov 7, 2026 at 10:00 AM",5
+claire liu,US,now 7-d,2026-11-07T03:00:00+00:00,"Nov 7, 2026 at 11:00 AM",8
+claire liu,US,now 7-d,2026-11-07T04:00:00+00:00,"Nov 7, 2026 at 12:00 PM",11
+claire liu,US,now 7-d,2026-11-07T05:00:00+00:00,"Nov 7, 2026 at 1:00 PM",18
+claire liu,US,now 7-d,2026-11-07T06:00:00+00:00,"Nov 7, 2026 at 2:00 PM",88
+austin reaves,US,now 7-d,2026-10-31T06:00:00+00:00,"Oct 31, 2026 at 2:00 PM",14
+austin reaves,US,now 7-d,2026-10-31T07:00:00+00:00,"Oct 31, 2026 at 3:00 PM",14
+austin reaves,US,now 7-d,2026-10-31T08:00:00+00:00,"Oct 31, 2026 at 4:00 PM",11
+austin reaves,US,now 7-d,2026-10-31T09:00:00+00:00,"Oct 31, 2026 at 5:00 PM",10
+austin reaves,US,now 7-d,2026-10-31T10:00:00+00:00,"Oct 31, 2026 at 6:00 PM",12
+austin reaves,US,now 7-d,2026-10-31T11:00:00+00:00,"Oct 31, 2026 at 7:00 PM",7
+austin reaves,US,now 7-d,2026-10-31T12:00:00+00:00,"Oct 31, 2026 at 8:00 PM",8
+austin reaves,US,now 7-d,2026-10-31T13:00:00+00:00,"Oct 31, 2026 at 9:00 PM",6
+austin reaves,US,now 7-d,2026-10-31T14:00:00+00:00,"Oct 31, 2026 at 10:00 PM",4
+austin reaves,US,now 7-d,2026-10-31T15:00:00+00:00,"Oct 31, 2026 at 11:00 PM",3
+austin reaves,US,now 7-d,2026-10-31T16:00:00+00:00,"Nov 1, 2026 at 12:00 AM",3
+austin reaves,US,now 7-d,2026-10-31T17:00:00+00:00,"Nov 1, 2026 at 1:00 AM",3
+austin reaves,US,now 7-d,2026-10-31T18:00:00+00:00,"Nov 1, 2026 at 2:00 AM",3
+austin reaves,US,now 7-d,2026-10-31T19:00:00+00:00,"Nov 1, 2026 at 3:00 AM",3
+austin reaves,US,now 7-d,2026-10-31T20:00:00+00:00,"Nov 1, 2026 at 4:00 AM",2
+austin reaves,US,now 7-d,2026-10-31T21:00:00+00:00,"Nov 1, 2026 at 5:00 AM",3
+austin reaves,US,now 7-d,2026-10-31T22:00:00+00:00,"Nov 1, 2026 at 6:00 AM",2
+austin reaves,US,now 7-d,2026-10-31T23:00:00+00:00,"Nov 1, 2026 at 7:00 AM",3
+austin reaves,US,now 7-d,2026-11-01T00:00:00+00:00,"Nov 1, 2026 at 8:00 AM",2
+austin reaves,US,now 7-d,2026-11-01T01:00:00+00:00,"Nov 1, 2026 at 9:00 AM",2
+austin reaves,US,now 7-d,2026-11-01T02:00:00+00:00,"Nov 1, 2026 at 10:00 AM",2
+austin reaves,US,now 7-d,2026-11-01T03:00:00+00:00,"Nov 1, 2026 at 11:00 AM",2
+austin reaves,US,now 7-d,2026-11-01T04:00:00+00:00,"Nov 1, 2026 at 12:00 PM",4
+austin reaves,US,now 7-d,2026-11-01T05:00:00+00:00,"Nov 1, 2026 at 1:00 PM",5
+austin reaves,US,now 7-d,2026-11-01T06:00:00+00:00,"Nov 1, 2026 at 2:00 PM",2
+austin reaves,US,now 7-d,2026-11-01T07:00:00+00:00,"Nov 1, 2026 at 3:00 PM",4
+austin reaves,US,now 7-d,2026-11-01T08:00:00+00:00,"Nov 1, 2026 at 4:00 PM",7
+austin reaves,US,now 7-d,2026-11-01T09:00:00+00:00,"Nov 1, 2026 at 5:00 PM",4
+austin reaves,US,now 7-d,2026-11-01T10:00:00+00:00,"Nov 1, 2026 at 6:00 PM",4
+austin reaves,US,now 7-d,2026-11-01T12:00:00+00:00,"Nov 1, 2026 at 8:00 PM",3
+austin reaves,US,now 7-d,2026-11-01T13:00:00+00:00,"Nov 1, 2026 at 9:00 PM",3
+austin reaves,US,now 7-d,2026-11-01T14:00:00+00:00,"Nov 1, 2026 at 10:00 PM",3
+austin reaves,US,now 7-d,2026-11-01T15:00:00+00:00,"Nov 1, 2026 at 11:00 PM",4
+austin reaves,US,now 7-d,2026-11-01T16:00:00+00:00,"Nov 2, 2026 at 12:00 AM",4
+austin reaves,US,now 7-d,2026-11-01T17:00:00+00:00,"Nov 2, 2026 at 1:00 AM",4
+austin reaves,US,now 7-d,2026-11-01T18:00:00+00:00,"Nov 2, 2026 at 2:00 AM",3
+austin reaves,US,now 7-d,2026-11-01T19:00:00+00:00,"Nov 2, 2026 at 3:00 AM",3
+austin reaves,US,now 7-d,2026-11-01T20:00:00+00:00,"Nov 2, 2026 at 4:00 AM",5
+austin reaves,US,now 7-d,2026-11-01T21:00:00+00:00,"Nov 2, 2026 at 5:00 AM",4
+austin reaves,US,now 7-d,2026-11-01T22:00:00+00:00,"Nov 2, 2026 at 6:00 AM",5
+austin reaves,US,now 7-d,2026-11-01T23:00:00+00:00,"Nov 2, 2026 at 7:00 AM",7
+austin reaves,US,now 7-d,2026-11-02T00:00:00+00:00,"Nov 2, 2026 at 8:00 AM",9
+austin reaves,US,now 7-d,2026-11-02T01:00:00+00:00,"Nov 2, 2026 at 9:00 AM",11
+austin reaves,US,now 7-d,2026-11-02T02:00:00+00:00,"Nov 2, 2026 at 10:00 AM",12
+austin reaves,US,now 7-d,2026-11-02T03:00:00+00:00,"Nov 2, 2026 at 11:00 AM",27
+austin reaves,US,now 7-d,2026-11-02T04:00:00+00:00,"Nov 2, 2026 at 12:00 PM",57
+austin reaves,US,now 7-d,2026-11-02T05:00:00+00:00,"Nov 2, 2026 at 1:00 PM",24
+austin reaves,US,now 7-d,2026-11-02T06:00:00+00:00,"Nov 2, 2026 at 2:00 PM",16
+austin reaves,US,now 7-d,2026-11-02T07:00:00+00:00,"Nov 2, 2026 at 3:00 PM",15
+austin reaves,US,now 7-d,2026-11-02T08:00:00+00:00,"Nov 2, 2026 at 4:00 PM",15
+austin reaves,US,now 7-d,2026-11-02T09:00:00+00:00,"Nov 2, 2026 at 5:00 PM",19
+austin reaves,US,now 7-d,2026-11-02T10:00:00+00:00,"Nov 2, 2026 at 6:00 PM",12
+austin reaves,US,now 7-d,2026-11-02T11:00:00+00:00,"Nov 2, 2026 at 7:00 PM",13
+austin reaves,US,now 7-d,2026-11-02T12:00:00+00:00,"Nov 2, 2026 at 8:00 PM",9
+austin reaves,US,now 7-d,2026-11-02T13:00:00+00:00,"Nov 2, 2026 at 9:00 PM",7
+austin reaves,US,now 7-d,2026-11-02T14:00:00+00:00,"Nov 2, 2026 at 10:00 PM",5
+austin reaves,US,now 7-d,2026-11-02T15:00:00+00:00,"Nov 2, 2026 at 11:00 PM",5
+austin reaves,US,now 7-d,2026-11-02T16:00:00+00:00,"Nov 3, 2026 at 12:00 AM",4
+austin reaves,US,now 7-d,2026-11-02T17:00:00+00:00,"Nov 3, 2026 at 1:00 AM",5
+austin reaves,US,now 7-d,2026-11-02T18:00:00+00:00,"Nov 3, 2026 at 2:00 AM",5
+austin reaves,US,now 7-d,2026-11-02T19:00:00+00:00,"Nov 3, 2026 at 3:00 AM",5
+austin reaves,US,now 7-d,2026-11-02T20:00:00+00:00,"Nov 3, 2026 at 4:00 AM",4
+austin reaves,US,now 7-d,2026-11-02T21:00:00+00:00,"Nov 3, 2026 at 5:00 AM",4
+austin reaves,US,now 7-d,2026-11-02T22:00:00+00:00,"Nov 3, 2026 at 6:00 AM",5
+austin reaves,US,now 7-d,2026-11-02T23:00:00+00:00,"Nov 3, 2026 at 7:00 AM",5
+austin reaves,US,now 7-d,2026-11-03T00:00:00+00:00,"Nov 3, 2026 at 8:00 AM",5
+austin reaves,US,now 7-d,2026-11-03T01:00:00+00:00,"Nov 3, 2026 at 9:00 AM",4
+austin reaves,US,now 7-d,2026-11-03T02:00:00+00:00,"Nov 3, 2026 at 10:00 AM",8
+austin reaves,US,now 7-d,2026-11-03T03:00:00+00:00,"Nov 3, 2026 at 11:00 AM",11
+austin reaves,US,now 7-d,2026-11-03T04:00:00+00:00,"Nov 3, 2026 at 12:00 PM",22
+austin reaves,US,now 7-d,2026-11-03T05:00:00+00:00,"Nov 3, 2026 at 1:00 PM",42
+austin reaves,US,now 7-d,2026-11-03T06:00:00+00:00,"Nov 3, 2026 at 2:00 PM",25
+austin reaves,US,now 7-d,2026-11-03T07:00:00+00:00,"Nov 3, 2026 at 3:00 PM",25
+austin reaves,US,now 7-d,2026-11-03T08:00:00+00:00,"Nov 3, 2026 at 4:00 PM",18
+austin reaves,US,now 7-d,2026-11-03T09:00:00+00:00,"Nov 3, 2026 at 5:00 PM",16
+austin reaves,US,now 7-d,2026-11-03T10:00:00+00:00,"Nov 3, 2026 at 6:00 PM",12
+austin reaves,US,now 7-d,2026-11-03T11:00:00+00:00,"Nov 3, 2026 at 7:00 PM",12
+austin reaves,US,now 7-d,2026-11-03T12:00:00+00:00,"Nov 3, 2026 at 8:00 PM",9
+austin reaves,US,now 7-d,2026-11-03T13:00:00+00:00,"Nov 3, 2026 at 9:00 PM",6
+austin reaves,US,now 7-d,2026-11-03T14:00:00+00:00,"Nov 3, 2026 at 10:00 PM",5
+austin reaves,US,now 7-d,2026-11-03T15:00:00+00:00,"Nov 3, 2026 at 11:00 PM",5
+austin reaves,US,now 7-d,2026-11-03T16:00:00+00:00,"Nov 4, 2026 at 12:00 AM",5
+austin reaves,US,now 7-d,2026-11-03T17:00:00+00:00,"Nov 4, 2026 at 1:00 AM",4
+austin reaves,US,now 7-d,2026-11-03T18:00:00+00:00,"Nov 4, 2026 at 2:00 AM",3
+austin reaves,US,now 7-d,2026-11-03T19:00:00+00:00,"Nov 4, 2026 at 3:00 AM",4
+austin reaves,US,now 7-d,2026-11-03T20:00:00+00:00,"Nov 4, 2026 at 4:00 AM",3
+austin reaves,US,now 7-d,2026-11-03T21:00:00+00:00,"Nov 4, 2026 at 5:00 AM",3
+austin reaves,US,now 7-d,2026-11-03T22:00:00+00:00,"Nov 4, 2026 at 6:00 AM",3
+austin reaves,US,now 7-d,2026-11-03T23:00:00+00:00,"Nov 4, 2026 at 7:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T00:00:00+00:00,"Nov 4, 2026 at 8:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T01:00:00+00:00,"Nov 4, 2026 at 9:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T02:00:00+00:00,"Nov 4, 2026 at 10:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T03:00:00+00:00,"Nov 4, 2026 at 11:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T04:00:00+00:00,"Nov 4, 2026 at 12:00 PM",4
+austin reaves,US,now 7-d,2026-11-04T05:00:00+00:00,"Nov 4, 2026 at 1:00 PM",3
+austin reaves,US,now 7-d,2026-11-04T06:00:00+00:00,"Nov 4, 2026 at 2:00 PM",4
+austin reaves,US,now 7-d,2026-11-04T07:00:00+00:00,"Nov 4, 2026 at 3:00 PM",5
+austin reaves,US,now 7-d,2026-11-04T08:00:00+00:00,"Nov 4, 2026 at 4:00 PM",4
+austin reaves,US,now 7-d,2026-11-04T09:00:00+00:00,"Nov 4, 2026 at 5:00 PM",4
+austin reaves,US,now 7-d,2026-11-04T10:00:00+00:00,"Nov 4, 2026 at 6:00 PM",2
+austin reaves,US,now 7-d,2026-11-04T11:00:00+00:00,"Nov 4, 2026 at 7:00 PM",2
+austin reaves,US,now 7-d,2026-11-04T12:00:00+00:00,"Nov 4, 2026 at 8:00 PM",2
+austin reaves,US,now 7-d,2026-11-04T13:00:00+00:00,"Nov 4, 2026 at 9:00 PM",2
+austin reaves,US,now 7-d,2026-11-04T14:00:00+00:00,"Nov 4, 2026 at 10:00 PM",1
+austin reaves,US,now 7-d,2026-11-04T15:00:00+00:00,"Nov 4, 2026 at 11:00 PM",2
+austin reaves,US,now 7-d,2026-11-04T16:00:00+00:00,"Nov 5, 2026 at 12:00 AM",2
+austin reaves,US,now 7-d,2026-11-04T17:00:00+00:00,"Nov 5, 2026 at 1:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T18:00:00+00:00,"Nov 5, 2026 at 2:00 AM",2
+austin reaves,US,now 7-d,2026-11-04T19:00:00+00:00,"Nov 5, 2026 at 3:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T20:00:00+00:00,"Nov 5, 2026 at 4:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T21:00:00+00:00,"Nov 5, 2026 at 5:00 AM",3
+austin reaves,US,now 7-d,2026-11-04T22:00:00+00:00,"Nov 5, 2026 at 6:00 AM",4
+austin reaves,US,now 7-d,2026-11-04T23:00:00+00:00,"Nov 5, 2026 at 7:00 AM",4
+austin reaves,US,now 7-d,2026-11-05T00:00:00+00:00,"Nov 5, 2026 at 8:00 AM",4
+austin reaves,US,now 7-d,2026-11-05T01:00:00+00:00,"Nov 5, 2026 at 9:00 AM",4
+austin reaves,US,now 7-d,2026-11-05T02:00:00+00:00,"Nov 5, 2026 at 10:00 AM",10
+austin reaves,US,now 7-d,2026-11-05T03:00:00+00:00,"Nov 5, 2026 at 11:00 AM",13
+austin reaves,US,now 7-d,2026-11-05T04:00:00+00:00,"Nov 5, 2026 at 12:00 PM",21
+austin reaves,US,now 7-d,2026-11-05T05:00:00+00:00,"Nov 5, 2026 at 1:00 PM",42
+austin reaves,US,now 7-d,2026-11-05T06:00:00+00:00,"Nov 5, 2026 at 2:00 PM",24
+austin reaves,US,now 7-d,2026-11-05T07:00:00+00:00,"Nov 5, 2026 at 3:00 PM",17
+austin reaves,US,now 7-d,2026-11-05T08:00:00+00:00,"Nov 5, 2026 at 4:00 PM",15
+austin reaves,US,now 7-d,2026-11-05T09:00:00+00:00,"Nov 5, 2026 at 5:00 PM",12
+austin reaves,US,now 7-d,2026-11-05T10:00:00+00:00,"Nov 5, 2026 at 6:00 PM",10
+austin reaves,US,now 7-d,2026-11-05T11:00:00+00:00,"Nov 5, 2026 at 7:00 PM",8
+austin reaves,US,now 7-d,2026-11-05T12:00:00+00:00,"Nov 5, 2026 at 8:00 PM",8
+austin reaves,US,now 7-d,2026-11-05T13:00:00+00:00,"Nov 5, 2026 at 9:00 PM",6
+austin reaves,US,now 7-d,2026-11-05T14:00:00+00:00,"Nov 5, 2026 at 10:00 PM",4
+austin reaves,US,now 7-d,2026-11-05T15:00:00+00:00,"Nov 5, 2026 at 11:00 PM",4
+austin reaves,US,now 7-d,2026-11-05T16:00:00+00:00,"Nov 6, 2026 at 12:00 AM",3
+austin reaves,US,now 7-d,2026-11-05T17:00:00+00:00,"Nov 6, 2026 at 1:00 AM",4
+austin reaves,US,now 7-d,2026-11-05T18:00:00+00:00,"Nov 6, 2026 at 2:00 AM",3
+austin reaves,US,now 7-d,2026-11-05T19:00:00+00:00,"Nov 6, 2026 at 3:00 AM",3
+austin reaves,US,now 7-d,2026-11-05T20:00:00+00:00,"Nov 6, 2026 at 4:00 AM",2
+austin reaves,US,now 7-d,2026-11-05T21:00:00+00:00,"Nov 6, 2026 at 5:00 AM",2
+austin reaves,US,now 7-d,2026-11-05T22:00:00+00:00,"Nov 6, 2026 at 6:00 AM",2
+austin reaves,US,now 7-d,2026-11-05T23:00:00+00:00,"Nov 6, 2026 at 7:00 AM",2
+austin reaves,US,now 7-d,2026-11-06T00:00:00+00:00,"Nov 6, 2026 at 8:00 AM",2
+austin reaves,US,now 7-d,2026-11-06T01:00:00+00:00,"Nov 6, 2026 at 9:00 AM",2
+austin reaves,US,now 7-d,2026-11-06T02:00:00+00:00,"Nov 6, 2026 at 10:00 AM",3
+austin reaves,US,now 7-d,2026-11-06T03:00:00+00:00,"Nov 6, 2026 at 11:00 AM",3
+austin reaves,US,now 7-d,2026-11-06T04:00:00+00:00,"Nov 6, 2026 at 12:00 PM",4
+austin reaves,US,now 7-d,2026-11-06T05:00:00+00:00,"Nov 6, 2026 at 1:00 PM",4
+austin reaves,US,now 7-d,2026-11-06T06:00:00+00:00,"Nov 6, 2026 at 2:00 PM",7
+austin reaves,US,now 7-d,2026-11-06T07:00:00+00:00,"Nov 6, 2026 at 3:00 PM",5
+austin reaves,US,now 7-d,2026-11-06T08:00:00+00:00,"Nov 6, 2026 at 4:00 PM",3
+austin reaves,US,now 7-d,2026-11-06T09:00:00+00:00,"Nov 6, 2026 at 5:00 PM",5
+austin reaves,US,now 7-d,2026-11-06T10:00:00+00:00,"Nov 6, 2026 at 6:00 PM",4
+austin reaves,US,now 7-d,2026-11-06T11:00:00+00:00,"Nov 6, 2026 at 7:00 PM",3
+austin reaves,US,now 7-d,2026-11-06T12:00:00+00:00,"Nov 6, 2026 at 8:00 PM",3
+austin reaves,US,now 7-d,2026-11-06T13:00:00+00:00,"Nov 6, 2026 at 9:00 PM",3
+austin reaves,US,now 7-d,2026-11-06T14:00:00+00:00,"Nov 6, 2026 at 10:00 PM",3
+austin reaves,US,now 7-d,2026-11-06T15:00:00+00:00,"Nov 6, 2026 at 11:00 PM",3
+austin reaves,US,now 7-d,2026-11-06T16:00:00+00:00,"Nov 7, 2026 at 12:00 AM",3
+austin reaves,US,now 7-d,2026-11-06T17:00:00+00:00,"Nov 7, 2026 at 1:00 AM",3
+austin reaves,US,now 7-d,2026-11-06T18:00:00+00:00,"Nov 7, 2026 at 2:00 AM",3
+austin reaves,US,now 7-d,2026-11-06T19:00:00+00:00,"Nov 7, 2026 at 3:00 AM",3
+austin reaves,US,now 7-d,2026-11-06T20:00:00+00:00,"Nov 7, 2026 at 4:00 AM",4
+austin reaves,US,now 7-d,2026-11-06T21:00:00+00:00,"Nov 7, 2026 at 5:00 AM",4
+austin reaves,US,now 7-d,2026-11-06T22:00:00+00:00,"Nov 7, 2026 at 6:00 AM",5
+austin reaves,US,now 7-d,2026-11-06T23:00:00+00:00,"Nov 7, 2026 at 7:00 AM",7
+austin reaves,US,now 7-d,2026-11-07T00:00:00+00:00,"Nov 7, 2026 at 8:00 AM",5
+austin reaves,US,now 7-d,2026-11-07T01:00:00+00:00,"Nov 7, 2026 at 9:00 AM",6
+austin reaves,US,now 7-d,2026-11-07T02:00:00+00:00,"Nov 7, 2026 at 10:00 AM",15
+austin reaves,US,now 7-d,2026-11-07T03:00:00+00:00,"Nov 7, 2026 at 11:00 AM",26
+austin reaves,US,now 7-d,2026-11-07T04:00:00+00:00,"Nov 7, 2026 at 12:00 PM",33
+austin reaves,US,now 7-d,2026-11-07T05:00:00+00:00,"Nov 7, 2026 at 1:00 PM",67
+austin reaves,US,now 7-d,2026-11-07T06:00:00+00:00,"Nov 7, 2026 at 2:00 PM",100
