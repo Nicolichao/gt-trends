@@ -1,25 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['黎芷珊', '蔡天鳳', 'lakers vs trail blazers', '投資']
-explore[黎芷珊] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 黎芷珊: 12 点, 峰值 100
-explore[蔡天鳳] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 蔡天鳳: 137 点, 峰值 100
-explore[lakers vs trail blazers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK lakers vs trail blazers: 6 点, 峰值 100
-explore[投資] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 投資: 141 点, 峰值 100
-写出 data/iot/HK-2026-11-07.csv (296 行)
-写出 data/iot/latest-hk.csv (296 行)
-US 关键词: ['lakers', 'freeze warning', 'claire liu', 'austin reaves']
-explore[lakers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK lakers: 169 点, 峰值 100
-explore[freeze warning] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-multiline[freeze warning] HTTP 429 限流，等 45s 重试
-OK freeze warning: 47 点, 峰值 100
-explore[claire liu] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK claire liu: 62 点, 峰值 100
-explore[austin reaves] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK austin reaves: 168 点, 峰值 100
-写出 data/iot/US-2026-11-07.csv (446 行)
-写出 data/iot/latest-us.csv (446 行)
-完成，共 742 行
+HK 关键词: ['購物', '拓荒者對馬刺', 'nba直播', '設計']
+explore[購物] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 購物: 148 点, 峰值 100
+explore[拓荒者對馬刺] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 拓荒者對馬刺: 4 点, 峰值 100
+explore[nba直播] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK nba直播: 49 点, 峰值 100
+explore[設計] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 設計: 150 点, 峰值 100
+写出 data/iot/HK-2026-11-08.csv (351 行)
+写出 data/iot/latest-hk.csv (351 行)
+US 关键词: ['japan earthquakes', 'i play rocky', 'connor mcdavid', 'ryan garcia']
+explore[japan earthquakes] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK japan earthquakes: 14 点, 峰值 100
+explore[i play rocky] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK i play rocky: 169 点, 峰值 100
+explore[connor mcdavid] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK connor mcdavid: 150 点, 峰值 100
+explore[ryan garcia] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK ryan garcia: 169 点, 峰值 100
+写出 data/iot/US-2026-11-08.csv (502 行)
+写出 data/iot/latest-us.csv (502 行)
+完成，共 853 行
