@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['購物', '拓荒者對馬刺', 'nba直播', '設計']
-explore[購物] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 購物: 148 点, 峰值 100
-explore[拓荒者對馬刺] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 拓荒者對馬刺: 4 点, 峰值 100
-explore[nba直播] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK nba直播: 49 点, 峰值 100
-explore[設計] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 設計: 150 点, 峰值 100
-写出 data/iot/HK-2026-11-08.csv (351 行)
-写出 data/iot/latest-hk.csv (351 行)
-US 关键词: ['japan earthquakes', 'i play rocky', 'connor mcdavid', 'ryan garcia']
-explore[japan earthquakes] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK japan earthquakes: 14 点, 峰值 100
-explore[i play rocky] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK i play rocky: 169 点, 峰值 100
-explore[connor mcdavid] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK connor mcdavid: 150 点, 峰值 100
-explore[ryan garcia] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK ryan garcia: 169 点, 峰值 100
-写出 data/iot/US-2026-11-08.csv (502 行)
-写出 data/iot/latest-us.csv (502 行)
-完成，共 853 行
+HK 关键词: ['血糖', '陈星妤', '壁屋監獄', '超級市場']
+explore[血糖] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 血糖: 141 点, 峰值 100
+explore[陈星妤] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 陈星妤: 6 点, 峰值 100
+explore[壁屋監獄] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 壁屋監獄: 5 点, 峰值 100
+explore[超級市場] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 超級市場: 119 点, 峰值 100
+写出 data/iot/HK-2026-11-09.csv (271 行)
+写出 data/iot/latest-hk.csv (271 行)
+US 关键词: ['10', 'joseph baena', 'rockstar gta 6 new screenshots', 'visionquest episode 8']
+explore[10] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 10: 169 点, 峰值 100
+explore[joseph baena] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK joseph baena: 26 点, 峰值 100
+explore[rockstar gta 6 new screenshots] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK rockstar gta 6 new screenshots: 28 点, 峰值 100
+explore[visionquest episode 8] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK visionquest episode 8: 111 点, 峰值 100
+写出 data/iot/US-2026-11-09.csv (334 行)
+写出 data/iot/latest-us.csv (334 行)
+完成，共 605 行

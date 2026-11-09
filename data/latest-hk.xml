@@ -6,199 +6,255 @@
 		<link>https://trends.google.com/trending/rss?geo=HK</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=HK" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>反潛機</title>
+			<title>加權指數</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 22:00:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>購物</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 21:40:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>trail blazers vs spurs</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 21:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM_rXOnL0NNjhAclsJ9VW50b1wUxcw-vEBX0FDWqCaIo4WZ8q9MVh-fvXW--g</ht:picture>
-			<ht:picture_source>شبكة تواصل الإخبارية</ht:picture_source>
+			<pubDate>Sun, 8 Nov 2026 23:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqRWC6RStmyFzvFUfxevSEclghSkSXpXYYJH6g2WhiK0mpexRnwxmr_ZHbV10</ht:picture>
+			<ht:picture_source>Yahoo 財經</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Spurs chase eighth straight win against 6-2 Trail Blazers — Trail Blazers Vs Spurs preview</ht:news_item_title>
+				<ht:news_item_title>〈台股開盤〉政策利多、美股回彈 台股回神漲逾千點站回4萬1關卡</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://twaslnews1.twaslnews.com/7291590/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM_rXOnL0NNjhAclsJ9VW50b1wUxcw-vEBX0FDWqCaIo4WZ8q9MVh-fvXW--g</ht:news_item_picture>
-				<ht:news_item_source>شبكة تواصل الإخبارية</ht:news_item_source>
+				<ht:news_item_url>https://hk.finance.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E6%94%BF%E7%AD%96%E5%88%A9%E5%A4%9A-%E7%BE%8E%E8%82%A1%E5%9B%9E%E5%BD%88-%E5%8F%B0%E8%82%A1%E5%9B%9E%E7%A5%9E%E6%BC%B2%E9%80%BE%E5%8D%83%E9%BB%9E%E7%AB%99%E5%9B%9E4%E8%90%AC1%E9%97%9C%E5%8D%A1-013610869.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqRWC6RStmyFzvFUfxevSEclghSkSXpXYYJH6g2WhiK0mpexRnwxmr_ZHbV10</ht:news_item_picture>
+				<ht:news_item_source>Yahoo 財經</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>NBA basketball: Portland loses at home to San Antonio, 15 points for Avdija</ht:news_item_title>
+				<ht:news_item_title>台股重越四萬關 收漲1,960點或4.94%</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ynetnews.com/article/ef7lpqnk6</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSabN9G7_0Edttb-IQ0d97cYhekhzvkKX5cXwtO9b2sBJkC3Ujm1N7xkbJDzBk</ht:news_item_picture>
-				<ht:news_item_source>ynetnews</ht:news_item_source>
+				<ht:news_item_url>https://www.bastillepost.com/hongkong/article/17146550-%E5%8F%B0%E8%82%A1%E9%87%8D%E8%B6%8A%E5%9B%9B%E8%90%AC%E9%97%9C-%E6%94%B6%E6%BC%B21960%E9%BB%9E%E6%88%964-94</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEsy3H2HOi1Ycm7Ptv_xrjp2w6PDxQocfZ-QZN5T8by7L0Yfpm6WWAFFaGaTA</ht:news_item_picture>
+				<ht:news_item_source>巴士的報</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Photos: Spurs vs. Portland Trail Blazers | 11/07/26</ht:news_item_title>
+				<ht:news_item_title>國安基金來了 台積電收漲100元拉高大盤收漲1,960點</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nba.com/spurs/photos/photos-spurs-vs-portland-trail-blazers-11-07-26</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkA0nzs_HgMjGqOIIAndT-cZVaGrZJ38nBLZm1t1di-hupsBER2NzZ2Qq88PQ</ht:news_item_picture>
-				<ht:news_item_source>NBA.com</ht:news_item_source>
+				<ht:news_item_url>https://udn.com/news/story/10103/9866722</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5l4THKItUpjU8xN-cc7XHzDlwFJaFzLT1r2Ci21mrYZs8n_T-8gwlXuJ73sE</ht:news_item_picture>
+				<ht:news_item_source>UDN</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>拓荒者對馬刺</title>
+			<title>血糖</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 20:30:00 -0800</pubDate>
+			<pubDate>Sun, 8 Nov 2026 22:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQUB_uf3WwSDfpaV4dfRP10hrreG7BP0C2uXI8th48cEeLh9TBVG43lAQQto0</ht:picture>
+			<ht:picture_source>UA.NEWS</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>HEPA过滤器与糖尿病前期血糖波动降低8%有关联——News-Medical</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://ua.news/cn/dovkolo-svitu/hepa-filtri-poviazali-zi-znizhenniam-kolivan-gliukozi-na-8-pri-prediabeti-news-medical</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQUB_uf3WwSDfpaV4dfRP10hrreG7BP0C2uXI8th48cEeLh9TBVG43lAQQto0</ht:news_item_picture>
+				<ht:news_item_source>UA.NEWS</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>红外测温仪替换件市场展望2035：家庭健康监测驱动增长 - 新闻和统计</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.indexbox.io/zh-hans/blog/infrared-thermometer-replacement-market-forecast-to-2035-driven-by-home-health-monitoring-adoption/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwXgGzMT74a_te_r96JC9iyRGxSazp6IZdyYtQDOv_hWsn3y4TAsaDlOOZYaY</ht:news_item_picture>
+				<ht:news_item_source>IndexBox</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>预计到 2050 年糖尿病患者人数将增加，其中大多数患者年龄在 40 岁以上</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://voi.id/zh/kesehatan/601421</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi5vIlTvnGwiB33_DEq8gyozLUSnKmTw3pAlgrvRf9TaJP8pPrsLx3z_3xc-A</ht:news_item_picture>
+				<ht:news_item_source>VOI.ID</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>pak vs sl</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Sun, 8 Nov 2026 21:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_9UTDrTrQzwdcidoHTlDEKny7IhpBaF3acG6SvNL02dMGYZQ2Wjd4Lb-BQ9c</ht:picture>
+			<ht:picture_source>Cricinfo</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Ball by Ball Commentary &amp; Live Score - PAK vs SL, 1st Test</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-test-1550711/ball-by-ball-commentary</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_9UTDrTrQzwdcidoHTlDEKny7IhpBaF3acG6SvNL02dMGYZQ2Wjd4Lb-BQ9c</ht:news_item_picture>
+				<ht:news_item_source>Cricinfo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Pakistan looks to youngsters to beat Sri Lanka in first test</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.bastillepost.com/global/article/6337620-pakistan-looks-to-youngsters-to-beat-sri-lanka-in-first-test</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9ZcyAdfWbges73dNZztVU5rBlNMDm1H6FxtvilIPaugQx6C6dJTLR52n-v2s</ht:news_item_picture>
+				<ht:news_item_source>巴士的報</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Babar reveals new World Test Championship aim for Pakistan</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.icc-cricket.com/tournaments/world-test-championship/news/babar-reveals-new-world-test-championship-aim-for-pakistan</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9X2vWT-s2s6ziQePAqzT2K0_SXSeAXbXVJCYPrgGPEJpchDQlAa7N_Ix2_g</ht:news_item_picture>
+				<ht:news_item_source>ICC</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>陈星妤</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Sun, 8 Nov 2026 21:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS7665sC8nTBmxhbNdxgzbGSvRrSa-OBBjvTKgRYF29QNn-E0sgPsf4my0s9U</ht:picture>
+			<ht:picture_source>星島頭條</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>陈星妤、梁超怡认「奸角」 《女神2》爱情混战升温 李尔晨搣渣男标签｜名人杂志</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.stheadline.com/zh-hans/film-drama/3634818/%E9%99%88%E6%98%9F%E5%A6%A4%E6%A2%81%E8%B6%85%E6%80%A1%E8%AE%A4%E5%A5%B8%E8%A7%92-%E5%A5%B3%E7%A5%9E2%E7%88%B1%E6%83%85%E6%B7%B7%E6%88%98%E5%8D%87%E6%B8%A9-%E6%9D%8E%E5%B0%94%E6%99%A8%E6%90%A3%E6%B8%A3%E7%94%B7%E6%A0%87%E7%AD%BE%E5%90%8D%E4%BA%BA%E6%9D%82%E5%BF%97</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS7665sC8nTBmxhbNdxgzbGSvRrSa-OBBjvTKgRYF29QNn-E0sgPsf4my0s9U</ht:news_item_picture>
+				<ht:news_item_source>星島頭條</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>女神2｜陈星妤爆喊揭与李尔晨十年未成恋人：我想一路keep住佢</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60405996/%E5%A5%B3%E7%A5%9E2-%E9%99%88%E6%98%9F%E5%A6%A4%E7%88%86%E5%96%8A%E6%8F%AD%E4%B8%8E%E6%9D%8E%E5%B0%94%E6%99%A8%E5%8D%81%E5%B9%B4%E6%9C%AA%E6%88%90%E6%81%8B%E4%BA%BA-%E6%88%91%E6%83%B3%E4%B8%80%E8%B7%AFkeep%E4%BD%8F%E4%BD%A2</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxB-o5NrYyv30rg4xy2KgrHVnXbt1K9OPtqEv888lvDG2lvYB8oI6BMF7co1c</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>女神2｜李尔晨回应陈星妤眼泪 晒亲密照深情告白：你未忘我未忘</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60406130/%E5%A5%B3%E7%A5%9E2-%E6%9D%8E%E5%B0%94%E6%99%A8%E5%9B%9E%E5%BA%94%E9%99%88%E6%98%9F%E5%A6%A4%E7%9C%BC%E6%B3%AA-%E6%99%92%E4%BA%B2%E5%AF%86%E7%85%A7%E6%B7%B1%E6%83%85%E5%91%8A%E7%99%BD-%E4%BD%A0%E6%9C%AA%E5%BF%98%E6%88%91%E6%9C%AA%E5%BF%98</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOPCQiUhQot9YgO1bmTo1ScI-4ebwtJUb7Q4BrkmFgHBbOVXpQlJK_Gks2e8Q</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>壁屋監獄</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Sun, 8 Nov 2026 21:20:00 -0800</pubDate>
 			<ht:picture/>
 			<ht:picture_source/>
 		</item>
 		<item>
-			<title>任天堂switch 2</title>
+			<title>bigbang 香港演唱會</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 20:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3P4qiGEBirP5kKmJ5FCzywWBXqZpgOM_TbQUWj7h7cfGSdrO_Ce40S8bYH3w</ht:picture>
-			<ht:picture_source>The New York Times</ht:picture_source>
+			<pubDate>Sun, 8 Nov 2026 21:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2lK5MxOC6tqwWyUL6ACKZ-YRj7hR8JGxcTOrLYoUotWjAFs_JAsww7eHtZrY</ht:picture>
+			<ht:picture_source>香港經濟日報HKET</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In</ht:news_item_title>
+				<ht:news_item_title>STAGE｜BIGBANG 20週年媒體展《COSMOS》周邊曝光 香港站獨家限定商品同步推出</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3P4qiGEBirP5kKmJ5FCzywWBXqZpgOM_TbQUWj7h7cfGSdrO_Ce40S8bYH3w</ht:news_item_picture>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
+				<ht:news_item_url>https://inews.hket.com/article/4221870/STAGE%EF%BD%9CBIGBANG%2020%E9%80%B1%E5%B9%B4%E5%AA%92%E9%AB%94%E5%B1%95%E3%80%8ACOSMOS%E3%80%8B%E5%91%A8%E9%82%8A%E6%9B%9D%E5%85%89%E3%80%80%E9%A6%99%E6%B8%AF%E7%AB%99%E7%8D%A8%E5%AE%B6%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%87%BA</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2lK5MxOC6tqwWyUL6ACKZ-YRj7hR8JGxcTOrLYoUotWjAFs_JAsww7eHtZrY</ht:news_item_picture>
+				<ht:news_item_source>香港經濟日報HKET</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>The Legend of Zelda: Ocarina of Time is now available - News - Nintendo Official Site</ht:news_item_title>
+				<ht:news_item_title>BIGBANG香港演唱會2026加位｜門票公售攻略+購票連結+座位表</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nintendo.com/us/whatsnew/its-time-experience-the-legend-of-zelda-ocarina-of-time-reborn-exclusively-for-nintendo-switch-2/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzc4XzkP3VhCpLa8uV-23bOQRkzSW8WxlfoP5_O4-G9r54QPTcvsLTohIpCic</ht:news_item_picture>
-				<ht:news_item_source>Nintendo</ht:news_item_source>
+				<ht:news_item_url>https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359124/bigbang%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026%E5%8A%A0%E4%BD%8D-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUMSjRv-xJwx5AYkk2Stn-JqKZhoYYnDGifoOaRGa86FnjGD0_d4qwelxVQQA</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi</ht:news_item_title>
+				<ht:news_item_title>韓團BigBang世巡香港快閃店 逾百粉絲搶購周邊商品 (18:31) - 20261107</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ign.com/articles/our-big-interview-with-ocarina-of-time-producers-eiji-aonuma-and-hidemaro-fujibayashi</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCEfqQP6g5hPgZuKaBsh2vvFNDvOb5WS-K1E2Sa0Ey68b-KqtyB890aqinvlE</ht:news_item_picture>
-				<ht:news_item_source>IGN</ht:news_item_source>
+				<ht:news_item_url>https://ol.mingpao.com/ldy/showbiz/latest/20261107/1794047025020/%E9%9F%93%E5%9C%98bigbang%E4%B8%96%E5%B7%A1%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%96%83%E5%BA%97-%E9%80%BE%E7%99%BE%E7%B2%89%E7%B5%B2%E6%90%B6%E8%B3%BC%E5%91%A8%E9%82%8A%E5%95%86%E5%93%81</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdvf5ZPJfXTLROXvK4dHDhTU07VT1OfuB-4RjkS9MaNg9py0aqKUERYlwH3I</ht:news_item_picture>
+				<ht:news_item_source>明報 Our Lifestyle</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
 			<title>超級市場</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Sun, 8 Nov 2026 20:50:00 -0800</pubDate>
+			<ht:picture/>
+			<ht:picture_source/>
+		</item>
+		<item>
+			<title>yoasobi 香港</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Sun, 8 Nov 2026 20:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdcxyrKwGkAZCi5zOj5miPygOyYK8osF8GkwB7GjEjzKDhv-iAAFfeB6lzHqM</ht:picture>
+			<ht:picture_source>on.cc東網</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>YOASOBI明年1月再袭港重临亚博连开两场｜即时新闻｜缤FUN星网｜on.cc东网</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.on.cc/hk/bkn/cnt/entertainment/20261109/bkn-20261109112806295-1109_00862_001_cn.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdcxyrKwGkAZCi5zOj5miPygOyYK8osF8GkwB7GjEjzKDhv-iAAFfeB6lzHqM</ht:news_item_picture>
+				<ht:news_item_source>on.cc東網</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>YOASOBI明年1月再襲港 重臨亞博連開兩場</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.on.cc/hk/bkn/cnt/entertainment/20261109/bkn-20261109112806295-1109_00862_001.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdcxyrKwGkAZCi5zOj5miPygOyYK8osF8GkwB7GjEjzKDhv-iAAFfeB6lzHqM</ht:news_item_picture>
+				<ht:news_item_source>on.cc東網</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>joey</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 20:00:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>nba直播</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 19:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOHJJoWKv7mC33vt-UlRASE_2QOBYGdwdN9nycmCjX5cCEORKj7XN5OJNNEss</ht:picture>
-			<ht:picture_source>iheima</ht:picture_source>
+			<pubDate>Sun, 8 Nov 2026 20:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmTUxU3XZ5inakkIWUDMHy5vEtme6LVmWIy_xFtvjS2mOcYshYSb1dy1uoMa0</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>NBA直播</ht:news_item_title>
+				<ht:news_item_title>Cowboys WR Pickens, CB Porter, LB Overshown inactive against Colts</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.iheima.com/nsdl/850460/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOHJJoWKv7mC33vt-UlRASE_2QOBYGdwdN9nycmCjX5cCEORKj7XN5OJNNEss</ht:news_item_picture>
-				<ht:news_item_source>iheima</ht:news_item_source>
+				<ht:news_item_url>https://www.espn.com/nfl/story/_/id/50421090/cowboys-wr-pickens-cb-porter-lb-overshown-inactive-vs-colts</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmTUxU3XZ5inakkIWUDMHy5vEtme6LVmWIy_xFtvjS2mOcYshYSb1dy1uoMa0</ht:news_item_picture>
+				<ht:news_item_source>ESPN</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>24篮球直播_手机免费入口高清_NBA常规赛季后赛今日在线看</ht:news_item_title>
+				<ht:news_item_title>Updates: Goodson has career day vs. Colts</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.iheima.com/nsdl/302024/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-2YTxJeqz_r7xscPhRmHYqeE7ZKltQfqANwsOe4a0Uvov_P73LPQFl927DM</ht:news_item_picture>
-				<ht:news_item_source>iheima</ht:news_item_source>
+				<ht:news_item_url>https://www.dallascowboys.com/news/updates-november-2026</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScBE0hrxRVaRMLG10wzGa7Z_TF5yCIiBPAi_3AXaHEjFmP32CHDgJpKzu2TRY</ht:news_item_picture>
+				<ht:news_item_source>Dallas Cowboys | Official Site of the Dallas Cowboys</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>NBA直播_手机视频平台免费高清_今日NBA比赛实时观看</ht:news_item_title>
+				<ht:news_item_title>Dallas Cowboys triumph over Indianapolis Colts in Sunday afternoon showdown</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.iheima.com/nsdl/119119/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjbvgfolZyNrTRwCtO-0gPf3-FCU-dPfyWLdiyuAB2ngAn6emzf7DHDSRVX60</ht:news_item_picture>
-				<ht:news_item_source>iheima</ht:news_item_source>
+				<ht:news_item_url>https://www.nbcdfw.com/news/sports/cowboys-beat-colts/4103255/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKFn_Vop3se8QMVyKvrjDonSaOsj3me6mS7RVW54ddnH5bQqESI6xDUuRGObg</ht:news_item_picture>
+				<ht:news_item_source>NBC 5 Dallas-Fort Worth</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>設計</title>
+			<title>oled电视</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 19:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQydPbAfIBIkmoO5EOoLlBEWzi7tOEV7_7n5g3pBwvfUsjj7ve51mKGUutNa0M</ht:picture>
-			<ht:picture_source>Laodong.vn</ht:picture_source>
+			<pubDate>Sun, 8 Nov 2026 19:10:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSyLjaOql-4OsGgL6SMuClS_w6wW38Jp7uk8IpOBN8RADFG6cDWxsRe1M7nG0</ht:picture>
+			<ht:picture_source>AL.com</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>投資家の建設設計審査機関の選択権に関する規定</ht:news_item_title>
+				<ht:news_item_title>Best Buy’s Samsung OLED smart TV is on sale for $1,200 off</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ja.laodong.vn/bat-dong-san/quy-dinh-ve-quyen-lua-chon-don-vi-tham-tra-thiet-ke-xay-dung-cua-chu-dau-tu-1796675.ldo</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQydPbAfIBIkmoO5EOoLlBEWzi7tOEV7_7n5g3pBwvfUsjj7ve51mKGUutNa0M</ht:news_item_picture>
-				<ht:news_item_source>Laodong.vn</ht:news_item_source>
+				<ht:news_item_url>https://www.al.com/shopping/2026/11/best-buys-samsung-oled-smart-tv-is-on-sale-for-1200-off.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSyLjaOql-4OsGgL6SMuClS_w6wW38Jp7uk8IpOBN8RADFG6cDWxsRe1M7nG0</ht:news_item_picture>
+				<ht:news_item_source>AL.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>坂倉準三設計の名建築で與那城美和さんデビット・マシューズさんら共演 市村記念体育館【佐賀県】</ht:news_item_title>
+				<ht:news_item_title>Samsung 55-Inch S85F OLED TV: 4K/120Hz Gaming &amp; Deep Blacks</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.fnn.jp/articles/-/1148317</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdVmMzZDq_SAX7-fUaq46UYwm4aJAia38_jgyMDKzgQqoNnSgtbXPN4UsrSsk</ht:news_item_picture>
-				<ht:news_item_source>FNNプライムオンライン</ht:news_item_source>
+				<ht:news_item_url>https://theinventory.com/samsung-55-s85f-oled-4k-vision-ai-smart-tv-bundle-with-hdmi-cable-36bd01cd</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYCg35HcwSX0JRBo7BIk8qxwvftBttqMihkN-787-Z33TnoReZOI3JnpO03eY</ht:news_item_picture>
+				<ht:news_item_source>The Inventory</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理</ht:news_item_title>
+				<ht:news_item_title>Amazon deal shaves $500 off the Samsung 65-inch S90H OLED TV ahead of Black Friday</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO8307pzLzLPV-hmW7oFiryIm4F_C8SdgSmZf7di2bDDurghPTPiw2PZFMoOo</ht:news_item_picture>
-				<ht:news_item_source>ITmedia</ht:news_item_source>
+				<ht:news_item_url>https://www.pcguide.com/deals/amazon-deal-shaves-500-off-the-samsung-65-inch-s90h-oled-tv-ahead-of-black-friday/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhXxRypOuy_nZYNUzTFVWhY_DOxcejrI2yS6MAb8WK7KsTxwrxdHgQXW_24Pw</ht:news_item_picture>
+				<ht:news_item_source>PC Guide</ht:news_item_source>
 			</ht:news_item>
-		</item>
-		<item>
-			<title>美国股市</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 19:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0c303lBkAqoHT1SiWLXkSBmCCpfTOobUsvMFkja_e_eNYMQ_I38fpchHBU-s</ht:picture>
-			<ht:picture_source>华尔街见闻</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>AI泡沫破裂了吗？高盛：当下更像1998年，而非2000年</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://wallstreetcn.com/articles/3785440</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0c303lBkAqoHT1SiWLXkSBmCCpfTOobUsvMFkja_e_eNYMQ_I38fpchHBU-s</ht:news_item_picture>
-				<ht:news_item_source>华尔街见闻</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>美国期中选举后，AI放缓忧虑重创全球大型科技股，韩国股市熔断</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/zhongwen/articles/cqlyeen0z8x2o/simp</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXAUu2DxQ3OK41-NkD0IH0Bu-bY29XnuUJK0yZoCtGq27pcOPFbKyO2A9l0G0</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>“暂停数据中心审批”！美股史上“最糟糕交易日之一”背后，得州新州长究竟说了什么？</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://finance.eastmoney.com/a/202611063924750411.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp2uWKT-BAxalh7PdpYtp0WF9PB-Bvs72oxUmDd-dDly53gYbCWZncuKLQSYI</ht:news_item_picture>
-				<ht:news_item_source>东方财富</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>伊斯蘭革命衛隊</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sat, 7 Nov 2026 19:10:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
 		</item>
 	</channel>
 </rss>
