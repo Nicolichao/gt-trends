@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['林淑茵', '幻彩詠香江', '陳百祥', '朱智賢']
-explore[林淑茵] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 林淑茵: 6 点, 峰值 100
-explore[幻彩詠香江] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 幻彩詠香江: 7 点, 峰值 100
-explore[陳百祥] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 陳百祥: 6 点, 峰值 100
-explore[朱智賢] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 朱智賢: 6 点, 峰值 100
-写出 data/iot/HK-2026-11-10.csv (25 行)
-写出 data/iot/latest-hk.csv (25 行)
-US 关键词: ['pluto', 'henry cavill', 'amanda nunes', 'aldo de nigris']
-explore[pluto] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK pluto: 169 点, 峰值 100
-explore[henry cavill] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK henry cavill: 169 点, 峰值 100
-explore[amanda nunes] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK amanda nunes: 146 点, 峰值 100
-explore[aldo de nigris] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK aldo de nigris: 24 点, 峰值 100
-写出 data/iot/US-2026-11-10.csv (508 行)
-写出 data/iot/latest-us.csv (508 行)
-完成，共 533 行
+HK 关键词: ['倪詩蓓', '張柏芝', '居者有其屋計劃', 'trip']
+explore[倪詩蓓] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 倪詩蓓: 5 点, 峰值 100
+explore[張柏芝] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 張柏芝: 10 点, 峰值 100
+explore[居者有其屋計劃] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 居者有其屋計劃: 10 点, 峰值 100
+explore[trip] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK trip: 162 点, 峰值 100
+写出 data/iot/HK-2026-11-11.csv (187 行)
+写出 data/iot/latest-hk.csv (187 行)
+US 关键词: ['gta 6 pc', 'jonbenet ramsey', 'scoot henderson', 'ajay mitchell']
+explore[gta 6 pc] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK gta 6 pc: 169 点, 峰值 100
+explore[jonbenet ramsey] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK jonbenet ramsey: 166 点, 峰值 100
+explore[scoot henderson] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK scoot henderson: 149 点, 峰值 100
+explore[ajay mitchell] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK ajay mitchell: 142 点, 峰值 100
+写出 data/iot/US-2026-11-11.csv (626 行)
+写出 data/iot/latest-us.csv (626 行)
+完成，共 813 行
