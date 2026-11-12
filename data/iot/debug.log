@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['倪詩蓓', '張柏芝', '居者有其屋計劃', 'trip']
-explore[倪詩蓓] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 倪詩蓓: 5 点, 峰值 100
-explore[張柏芝] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 張柏芝: 10 点, 峰值 100
-explore[居者有其屋計劃] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 居者有其屋計劃: 10 点, 峰值 100
-explore[trip] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK trip: 162 点, 峰值 100
-写出 data/iot/HK-2026-11-11.csv (187 行)
-写出 data/iot/latest-hk.csv (187 行)
-US 关键词: ['gta 6 pc', 'jonbenet ramsey', 'scoot henderson', 'ajay mitchell']
-explore[gta 6 pc] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK gta 6 pc: 169 点, 峰值 100
-explore[jonbenet ramsey] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK jonbenet ramsey: 166 点, 峰值 100
-explore[scoot henderson] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK scoot henderson: 149 点, 峰值 100
-explore[ajay mitchell] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK ajay mitchell: 142 点, 峰值 100
-写出 data/iot/US-2026-11-11.csv (626 行)
-写出 data/iot/latest-us.csv (626 行)
-完成，共 813 行
+HK 关键词: ['中 年 好 聲音', '容祖兒演唱會', '火箭對勇士', '彩票']
+explore[中 年 好 聲音] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 中 年 好 聲音: 27 点, 峰值 100
+explore[容祖兒演唱會] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 容祖兒演唱會: 131 点, 峰值 100
+explore[火箭對勇士] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 火箭對勇士: 6 点, 峰值 100
+explore[彩票] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 彩票: 28 点, 峰值 100
+写出 data/iot/HK-2026-11-12.csv (192 行)
+写出 data/iot/latest-hk.csv (192 行)
+US 关键词: ['jeremiah smith ohio state football news', 'hltv', 'cathay pacific', 'ps6']
+explore[jeremiah smith ohio state football news] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK jeremiah smith ohio state football news: 2 点, 峰值 100
+explore[hltv] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK hltv: 167 点, 峰值 100
+explore[cathay pacific] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK cathay pacific: 169 点, 峰值 100
+explore[ps6] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK ps6: 169 点, 峰值 100
+写出 data/iot/US-2026-11-12.csv (507 行)
+写出 data/iot/latest-us.csv (507 行)
+完成，共 699 行
