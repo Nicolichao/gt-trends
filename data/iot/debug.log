@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['死亡', '白牌車', '天文台時間', '吳家樂']
-explore[死亡] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 死亡: 145 点, 峰值 100
-explore[白牌車] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 白牌車: 14 点, 峰值 100
-explore[天文台時間] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 天文台時間: 51 点, 峰值 100
-explore[吳家樂] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 吳家樂: 2 点, 峰值 100
-写出 data/iot/HK-2026-11-13.csv (212 行)
-写出 data/iot/latest-hk.csv (212 行)
-US 关键词: ['matt henry', 'brisbane bullets', 'selena gomez', 'james webb space telescope']
-explore[matt henry] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK matt henry: 18 点, 峰值 100
-explore[brisbane bullets] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK brisbane bullets: 7 点, 峰值 100
-explore[selena gomez] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK selena gomez: 169 点, 峰值 100
-explore[james webb space telescope] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK james webb space telescope: 60 点, 峰值 100
-写出 data/iot/US-2026-11-13.csv (254 行)
-写出 data/iot/latest-us.csv (254 行)
-完成，共 466 行
+HK 关键词: ['香港 迪士尼 樂園', '长者日', 'spurs vs warriors', '肌少症']
+explore[香港 迪士尼 樂園] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 香港 迪士尼 樂園: 15 点, 峰值 100
+explore[长者日] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 长者日: 32 点, 峰值 100
+explore[spurs vs warriors] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK spurs vs warriors: 7 点, 峰值 100
+explore[肌少症] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 肌少症: 5 点, 峰值 100
+写出 data/iot/HK-2026-11-14.csv (59 行)
+写出 data/iot/latest-hk.csv (59 行)
+US 关键词: ['snow storm weather forecast california', 'jonathan kreiss-tomkins', 'big 12 standings', 'japan cyber attack']
+explore[snow storm weather forecast california] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK snow storm weather forecast california: 1 点, 峰值 100
+explore[jonathan kreiss-tomkins] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK jonathan kreiss-tomkins: 150 点, 峰值 100
+explore[big 12 standings] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK big 12 standings: 137 点, 峰值 100
+explore[japan cyber attack] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK japan cyber attack: 11 点, 峰值 100
+写出 data/iot/US-2026-11-14.csv (299 行)
+写出 data/iot/latest-us.csv (299 行)
+完成，共 358 行
