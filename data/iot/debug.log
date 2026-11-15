@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['香港 迪士尼 樂園', '长者日', 'spurs vs warriors', '肌少症']
-explore[香港 迪士尼 樂園] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 香港 迪士尼 樂園: 15 点, 峰值 100
-explore[长者日] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 长者日: 32 点, 峰值 100
-explore[spurs vs warriors] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK spurs vs warriors: 7 点, 峰值 100
-explore[肌少症] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 肌少症: 5 点, 峰值 100
-写出 data/iot/HK-2026-11-14.csv (59 行)
-写出 data/iot/latest-hk.csv (59 行)
-US 关键词: ['snow storm weather forecast california', 'jonathan kreiss-tomkins', 'big 12 standings', 'japan cyber attack']
-explore[snow storm weather forecast california] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK snow storm weather forecast california: 1 点, 峰值 100
-explore[jonathan kreiss-tomkins] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK jonathan kreiss-tomkins: 150 点, 峰值 100
-explore[big 12 standings] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK big 12 standings: 137 点, 峰值 100
-explore[japan cyber attack] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK japan cyber attack: 11 点, 峰值 100
-写出 data/iot/US-2026-11-14.csv (299 行)
-写出 data/iot/latest-us.csv (299 行)
-完成，共 358 行
+HK 关键词: ['李龍基', '維港泳', '葡萄牙國家足球隊', '魏綺清']
+explore[李龍基] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 李龍基: 8 点, 峰值 100
+explore[維港泳] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 維港泳: 16 点, 峰值 100
+explore[葡萄牙國家足球隊] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 葡萄牙國家足球隊: 12 点, 峰值 100
+explore[魏綺清] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 魏綺清: 5 点, 峰值 100
+写出 data/iot/HK-2026-11-15.csv (41 行)
+写出 data/iot/latest-hk.csv (41 行)
+US 关键词: ['spacex starship rocket launch', 'james comey', 'boxing tonight', 'travis barker']
+explore[spacex starship rocket launch] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK spacex starship rocket launch: 9 点, 峰值 100
+explore[james comey] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK james comey: 119 点, 峰值 100
+explore[boxing tonight] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK boxing tonight: 89 点, 峰值 100
+explore[travis barker] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK travis barker: 164 点, 峰值 100
+写出 data/iot/US-2026-11-15.csv (381 行)
+写出 data/iot/latest-us.csv (381 行)
+完成，共 422 行
