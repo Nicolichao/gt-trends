@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['李龍基', '維港泳', '葡萄牙國家足球隊', '魏綺清']
-explore[李龍基] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 李龍基: 8 点, 峰值 100
-explore[維港泳] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 維港泳: 16 点, 峰值 100
-explore[葡萄牙國家足球隊] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 葡萄牙國家足球隊: 12 点, 峰值 100
-explore[魏綺清] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 魏綺清: 5 点, 峰值 100
-写出 data/iot/HK-2026-11-15.csv (41 行)
-写出 data/iot/latest-hk.csv (41 行)
-US 关键词: ['spacex starship rocket launch', 'james comey', 'boxing tonight', 'travis barker']
-explore[spacex starship rocket launch] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK spacex starship rocket launch: 9 点, 峰值 100
-explore[james comey] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK james comey: 119 点, 峰值 100
-explore[boxing tonight] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK boxing tonight: 89 点, 峰值 100
-explore[travis barker] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK travis barker: 164 点, 峰值 100
-写出 data/iot/US-2026-11-15.csv (381 行)
-写出 data/iot/latest-us.csv (381 行)
-完成，共 422 行
+HK 关键词: ['傳承教育', '中田乃愛', '女神配对计划2', '斑馬線']
+explore[傳承教育] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 傳承教育: 4 点, 峰值 100
+explore[中田乃愛] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 中田乃愛: 5 点, 峰值 100
+explore[女神配对计划2] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 女神配对计划2: 19 点, 峰值 100
+explore[斑馬線] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 斑馬線: 5 点, 峰值 100
+写出 data/iot/HK-2026-11-16.csv (33 行)
+写出 data/iot/latest-hk.csv (33 行)
+US 关键词: ['florence pugh', 'fitness', 'anthony mackie', 'alex bolt']
+explore[florence pugh] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK florence pugh: 169 点, 峰值 100
+explore[fitness] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK fitness: 169 点, 峰值 100
+explore[anthony mackie] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK anthony mackie: 151 点, 峰值 100
+explore[alex bolt] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK alex bolt: 24 点, 峰值 100
+写出 data/iot/US-2026-11-16.csv (513 行)
+写出 data/iot/latest-us.csv (513 行)
+完成，共 546 行
