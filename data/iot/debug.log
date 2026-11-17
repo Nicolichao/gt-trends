@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['傳承教育', '中田乃愛', '女神配对计划2', '斑馬線']
-explore[傳承教育] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 傳承教育: 4 点, 峰值 100
-explore[中田乃愛] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 中田乃愛: 5 点, 峰值 100
-explore[女神配对计划2] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 女神配对计划2: 19 点, 峰值 100
-explore[斑馬線] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 斑馬線: 5 点, 峰值 100
-写出 data/iot/HK-2026-11-16.csv (33 行)
-写出 data/iot/latest-hk.csv (33 行)
-US 关键词: ['florence pugh', 'fitness', 'anthony mackie', 'alex bolt']
-explore[florence pugh] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK florence pugh: 169 点, 峰值 100
-explore[fitness] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK fitness: 169 点, 峰值 100
-explore[anthony mackie] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK anthony mackie: 151 点, 峰值 100
-explore[alex bolt] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK alex bolt: 24 点, 峰值 100
-写出 data/iot/US-2026-11-16.csv (513 行)
-写出 data/iot/latest-us.csv (513 行)
-完成，共 546 行
+HK 关键词: ['休班警', 'yoasobi 演唱會', '港 漂', '柏納多·席瓦']
+explore[休班警] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 休班警: 7 点, 峰值 100
+explore[yoasobi 演唱會] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK yoasobi 演唱會: 114 点, 峰值 100
+explore[港 漂] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 港 漂: 9 点, 峰值 100
+explore[柏納多·席瓦] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 柏納多·席瓦: 5 点, 峰值 100
+写出 data/iot/HK-2026-11-17.csv (135 行)
+写出 data/iot/latest-hk.csv (135 行)
+US 关键词: ['norway vs denmark', 'government jobs', 'pluto', 'sam claflin']
+explore[norway vs denmark] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK norway vs denmark: 59 点, 峰值 100
+explore[government jobs] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK government jobs: 169 点, 峰值 100
+explore[pluto] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK pluto: 169 点, 峰值 100
+explore[sam claflin] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK sam claflin: 156 点, 峰值 100
+写出 data/iot/US-2026-11-17.csv (553 行)
+写出 data/iot/latest-us.csv (553 行)
+完成，共 688 行

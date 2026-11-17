@@ -1,514 +1,554 @@
 keyword,geo,timeframe,point_time,formatted_time,value
-florence pugh,US,now 7-d,2026-11-09T07:00:00+00:00,"Nov 9, 2026 at 3:00 PM",46
-florence pugh,US,now 7-d,2026-11-09T08:00:00+00:00,"Nov 9, 2026 at 4:00 PM",36
-florence pugh,US,now 7-d,2026-11-09T09:00:00+00:00,"Nov 9, 2026 at 5:00 PM",38
-florence pugh,US,now 7-d,2026-11-09T10:00:00+00:00,"Nov 9, 2026 at 6:00 PM",41
-florence pugh,US,now 7-d,2026-11-09T11:00:00+00:00,"Nov 9, 2026 at 7:00 PM",31
-florence pugh,US,now 7-d,2026-11-09T12:00:00+00:00,"Nov 9, 2026 at 8:00 PM",28
-florence pugh,US,now 7-d,2026-11-09T13:00:00+00:00,"Nov 9, 2026 at 9:00 PM",19
-florence pugh,US,now 7-d,2026-11-09T14:00:00+00:00,"Nov 9, 2026 at 10:00 PM",19
-florence pugh,US,now 7-d,2026-11-09T15:00:00+00:00,"Nov 9, 2026 at 11:00 PM",19
-florence pugh,US,now 7-d,2026-11-09T16:00:00+00:00,"Nov 10, 2026 at 12:00 AM",20
-florence pugh,US,now 7-d,2026-11-09T17:00:00+00:00,"Nov 10, 2026 at 1:00 AM",20
-florence pugh,US,now 7-d,2026-11-09T18:00:00+00:00,"Nov 10, 2026 at 2:00 AM",19
-florence pugh,US,now 7-d,2026-11-09T19:00:00+00:00,"Nov 10, 2026 at 3:00 AM",20
-florence pugh,US,now 7-d,2026-11-09T20:00:00+00:00,"Nov 10, 2026 at 4:00 AM",22
-florence pugh,US,now 7-d,2026-11-09T21:00:00+00:00,"Nov 10, 2026 at 5:00 AM",25
-florence pugh,US,now 7-d,2026-11-09T22:00:00+00:00,"Nov 10, 2026 at 6:00 AM",29
-florence pugh,US,now 7-d,2026-11-09T23:00:00+00:00,"Nov 10, 2026 at 7:00 AM",27
-florence pugh,US,now 7-d,2026-11-10T00:00:00+00:00,"Nov 10, 2026 at 8:00 AM",32
-florence pugh,US,now 7-d,2026-11-10T01:00:00+00:00,"Nov 10, 2026 at 9:00 AM",38
-florence pugh,US,now 7-d,2026-11-10T02:00:00+00:00,"Nov 10, 2026 at 10:00 AM",44
-florence pugh,US,now 7-d,2026-11-10T03:00:00+00:00,"Nov 10, 2026 at 11:00 AM",51
-florence pugh,US,now 7-d,2026-11-10T04:00:00+00:00,"Nov 10, 2026 at 12:00 PM",47
-florence pugh,US,now 7-d,2026-11-10T05:00:00+00:00,"Nov 10, 2026 at 1:00 PM",58
-florence pugh,US,now 7-d,2026-11-10T06:00:00+00:00,"Nov 10, 2026 at 2:00 PM",62
-florence pugh,US,now 7-d,2026-11-10T07:00:00+00:00,"Nov 10, 2026 at 3:00 PM",54
-florence pugh,US,now 7-d,2026-11-10T08:00:00+00:00,"Nov 10, 2026 at 4:00 PM",38
-florence pugh,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",42
-florence pugh,US,now 7-d,2026-11-10T10:00:00+00:00,"Nov 10, 2026 at 6:00 PM",37
-florence pugh,US,now 7-d,2026-11-10T11:00:00+00:00,"Nov 10, 2026 at 7:00 PM",39
-florence pugh,US,now 7-d,2026-11-10T12:00:00+00:00,"Nov 10, 2026 at 8:00 PM",22
-florence pugh,US,now 7-d,2026-11-10T13:00:00+00:00,"Nov 10, 2026 at 9:00 PM",24
-florence pugh,US,now 7-d,2026-11-10T14:00:00+00:00,"Nov 10, 2026 at 10:00 PM",22
-florence pugh,US,now 7-d,2026-11-10T15:00:00+00:00,"Nov 10, 2026 at 11:00 PM",24
-florence pugh,US,now 7-d,2026-11-10T16:00:00+00:00,"Nov 11, 2026 at 12:00 AM",20
-florence pugh,US,now 7-d,2026-11-10T17:00:00+00:00,"Nov 11, 2026 at 1:00 AM",27
-florence pugh,US,now 7-d,2026-11-10T18:00:00+00:00,"Nov 11, 2026 at 2:00 AM",28
-florence pugh,US,now 7-d,2026-11-10T19:00:00+00:00,"Nov 11, 2026 at 3:00 AM",26
-florence pugh,US,now 7-d,2026-11-10T20:00:00+00:00,"Nov 11, 2026 at 4:00 AM",29
-florence pugh,US,now 7-d,2026-11-10T21:00:00+00:00,"Nov 11, 2026 at 5:00 AM",43
-florence pugh,US,now 7-d,2026-11-10T22:00:00+00:00,"Nov 11, 2026 at 6:00 AM",53
-florence pugh,US,now 7-d,2026-11-10T23:00:00+00:00,"Nov 11, 2026 at 7:00 AM",49
-florence pugh,US,now 7-d,2026-11-11T00:00:00+00:00,"Nov 11, 2026 at 8:00 AM",49
-florence pugh,US,now 7-d,2026-11-11T01:00:00+00:00,"Nov 11, 2026 at 9:00 AM",57
-florence pugh,US,now 7-d,2026-11-11T02:00:00+00:00,"Nov 11, 2026 at 10:00 AM",66
-florence pugh,US,now 7-d,2026-11-11T03:00:00+00:00,"Nov 11, 2026 at 11:00 AM",75
-florence pugh,US,now 7-d,2026-11-11T04:00:00+00:00,"Nov 11, 2026 at 12:00 PM",77
-florence pugh,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",75
-florence pugh,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",67
-florence pugh,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",71
-florence pugh,US,now 7-d,2026-11-11T08:00:00+00:00,"Nov 11, 2026 at 4:00 PM",56
-florence pugh,US,now 7-d,2026-11-11T09:00:00+00:00,"Nov 11, 2026 at 5:00 PM",52
-florence pugh,US,now 7-d,2026-11-11T10:00:00+00:00,"Nov 11, 2026 at 6:00 PM",51
-florence pugh,US,now 7-d,2026-11-11T11:00:00+00:00,"Nov 11, 2026 at 7:00 PM",35
-florence pugh,US,now 7-d,2026-11-11T12:00:00+00:00,"Nov 11, 2026 at 8:00 PM",35
-florence pugh,US,now 7-d,2026-11-11T13:00:00+00:00,"Nov 11, 2026 at 9:00 PM",29
-florence pugh,US,now 7-d,2026-11-11T14:00:00+00:00,"Nov 11, 2026 at 10:00 PM",28
-florence pugh,US,now 7-d,2026-11-11T15:00:00+00:00,"Nov 11, 2026 at 11:00 PM",27
-florence pugh,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",26
-florence pugh,US,now 7-d,2026-11-11T17:00:00+00:00,"Nov 12, 2026 at 1:00 AM",30
-florence pugh,US,now 7-d,2026-11-11T18:00:00+00:00,"Nov 12, 2026 at 2:00 AM",27
-florence pugh,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",35
-florence pugh,US,now 7-d,2026-11-11T20:00:00+00:00,"Nov 12, 2026 at 4:00 AM",29
-florence pugh,US,now 7-d,2026-11-11T21:00:00+00:00,"Nov 12, 2026 at 5:00 AM",26
-florence pugh,US,now 7-d,2026-11-11T22:00:00+00:00,"Nov 12, 2026 at 6:00 AM",28
-florence pugh,US,now 7-d,2026-11-11T23:00:00+00:00,"Nov 12, 2026 at 7:00 AM",36
-florence pugh,US,now 7-d,2026-11-12T00:00:00+00:00,"Nov 12, 2026 at 8:00 AM",41
-florence pugh,US,now 7-d,2026-11-12T01:00:00+00:00,"Nov 12, 2026 at 9:00 AM",42
-florence pugh,US,now 7-d,2026-11-12T02:00:00+00:00,"Nov 12, 2026 at 10:00 AM",51
-florence pugh,US,now 7-d,2026-11-12T03:00:00+00:00,"Nov 12, 2026 at 11:00 AM",51
-florence pugh,US,now 7-d,2026-11-12T04:00:00+00:00,"Nov 12, 2026 at 12:00 PM",61
-florence pugh,US,now 7-d,2026-11-12T05:00:00+00:00,"Nov 12, 2026 at 1:00 PM",65
-florence pugh,US,now 7-d,2026-11-12T06:00:00+00:00,"Nov 12, 2026 at 2:00 PM",61
-florence pugh,US,now 7-d,2026-11-12T07:00:00+00:00,"Nov 12, 2026 at 3:00 PM",57
-florence pugh,US,now 7-d,2026-11-12T08:00:00+00:00,"Nov 12, 2026 at 4:00 PM",59
-florence pugh,US,now 7-d,2026-11-12T09:00:00+00:00,"Nov 12, 2026 at 5:00 PM",52
-florence pugh,US,now 7-d,2026-11-12T10:00:00+00:00,"Nov 12, 2026 at 6:00 PM",41
-florence pugh,US,now 7-d,2026-11-12T11:00:00+00:00,"Nov 12, 2026 at 7:00 PM",38
-florence pugh,US,now 7-d,2026-11-12T12:00:00+00:00,"Nov 12, 2026 at 8:00 PM",36
-florence pugh,US,now 7-d,2026-11-12T13:00:00+00:00,"Nov 12, 2026 at 9:00 PM",31
-florence pugh,US,now 7-d,2026-11-12T14:00:00+00:00,"Nov 12, 2026 at 10:00 PM",30
-florence pugh,US,now 7-d,2026-11-12T15:00:00+00:00,"Nov 12, 2026 at 11:00 PM",25
-florence pugh,US,now 7-d,2026-11-12T16:00:00+00:00,"Nov 13, 2026 at 12:00 AM",22
-florence pugh,US,now 7-d,2026-11-12T17:00:00+00:00,"Nov 13, 2026 at 1:00 AM",27
-florence pugh,US,now 7-d,2026-11-12T18:00:00+00:00,"Nov 13, 2026 at 2:00 AM",26
-florence pugh,US,now 7-d,2026-11-12T19:00:00+00:00,"Nov 13, 2026 at 3:00 AM",27
-florence pugh,US,now 7-d,2026-11-12T20:00:00+00:00,"Nov 13, 2026 at 4:00 AM",30
-florence pugh,US,now 7-d,2026-11-12T21:00:00+00:00,"Nov 13, 2026 at 5:00 AM",27
-florence pugh,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",29
-florence pugh,US,now 7-d,2026-11-12T23:00:00+00:00,"Nov 13, 2026 at 7:00 AM",30
-florence pugh,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",32
-florence pugh,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",41
-florence pugh,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",49
-florence pugh,US,now 7-d,2026-11-13T03:00:00+00:00,"Nov 13, 2026 at 11:00 AM",51
-florence pugh,US,now 7-d,2026-11-13T04:00:00+00:00,"Nov 13, 2026 at 12:00 PM",48
-florence pugh,US,now 7-d,2026-11-13T05:00:00+00:00,"Nov 13, 2026 at 1:00 PM",60
-florence pugh,US,now 7-d,2026-11-13T06:00:00+00:00,"Nov 13, 2026 at 2:00 PM",61
-florence pugh,US,now 7-d,2026-11-13T07:00:00+00:00,"Nov 13, 2026 at 3:00 PM",52
-florence pugh,US,now 7-d,2026-11-13T08:00:00+00:00,"Nov 13, 2026 at 4:00 PM",47
-florence pugh,US,now 7-d,2026-11-13T09:00:00+00:00,"Nov 13, 2026 at 5:00 PM",30
-florence pugh,US,now 7-d,2026-11-13T10:00:00+00:00,"Nov 13, 2026 at 6:00 PM",39
-florence pugh,US,now 7-d,2026-11-13T11:00:00+00:00,"Nov 13, 2026 at 7:00 PM",25
-florence pugh,US,now 7-d,2026-11-13T12:00:00+00:00,"Nov 13, 2026 at 8:00 PM",22
-florence pugh,US,now 7-d,2026-11-13T13:00:00+00:00,"Nov 13, 2026 at 9:00 PM",23
-florence pugh,US,now 7-d,2026-11-13T14:00:00+00:00,"Nov 13, 2026 at 10:00 PM",26
-florence pugh,US,now 7-d,2026-11-13T15:00:00+00:00,"Nov 13, 2026 at 11:00 PM",19
-florence pugh,US,now 7-d,2026-11-13T16:00:00+00:00,"Nov 14, 2026 at 12:00 AM",19
-florence pugh,US,now 7-d,2026-11-13T17:00:00+00:00,"Nov 14, 2026 at 1:00 AM",25
-florence pugh,US,now 7-d,2026-11-13T18:00:00+00:00,"Nov 14, 2026 at 2:00 AM",24
-florence pugh,US,now 7-d,2026-11-13T19:00:00+00:00,"Nov 14, 2026 at 3:00 AM",23
-florence pugh,US,now 7-d,2026-11-13T20:00:00+00:00,"Nov 14, 2026 at 4:00 AM",25
-florence pugh,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",23
-florence pugh,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",27
-florence pugh,US,now 7-d,2026-11-13T23:00:00+00:00,"Nov 14, 2026 at 7:00 AM",29
-florence pugh,US,now 7-d,2026-11-14T00:00:00+00:00,"Nov 14, 2026 at 8:00 AM",36
-florence pugh,US,now 7-d,2026-11-14T01:00:00+00:00,"Nov 14, 2026 at 9:00 AM",41
-florence pugh,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",49
-florence pugh,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",51
-florence pugh,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",62
-florence pugh,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",58
-florence pugh,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",64
-florence pugh,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",66
-florence pugh,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",57
-florence pugh,US,now 7-d,2026-11-14T09:00:00+00:00,"Nov 14, 2026 at 5:00 PM",54
-florence pugh,US,now 7-d,2026-11-14T10:00:00+00:00,"Nov 14, 2026 at 6:00 PM",39
-florence pugh,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",32
-florence pugh,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",31
-florence pugh,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",29
-florence pugh,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",36
-florence pugh,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",29
-florence pugh,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",36
-florence pugh,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",31
-florence pugh,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",33
-florence pugh,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",35
-florence pugh,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",33
-florence pugh,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",33
-florence pugh,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",34
-florence pugh,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",40
-florence pugh,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",41
-florence pugh,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",53
-florence pugh,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",55
-florence pugh,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",60
-florence pugh,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",51
-florence pugh,US,now 7-d,2026-11-15T05:00:00+00:00,"Nov 15, 2026 at 1:00 PM",62
-florence pugh,US,now 7-d,2026-11-15T06:00:00+00:00,"Nov 15, 2026 at 2:00 PM",72
-florence pugh,US,now 7-d,2026-11-15T07:00:00+00:00,"Nov 15, 2026 at 3:00 PM",59
-florence pugh,US,now 7-d,2026-11-15T08:00:00+00:00,"Nov 15, 2026 at 4:00 PM",58
-florence pugh,US,now 7-d,2026-11-15T09:00:00+00:00,"Nov 15, 2026 at 5:00 PM",56
-florence pugh,US,now 7-d,2026-11-15T10:00:00+00:00,"Nov 15, 2026 at 6:00 PM",37
-florence pugh,US,now 7-d,2026-11-15T11:00:00+00:00,"Nov 15, 2026 at 7:00 PM",39
-florence pugh,US,now 7-d,2026-11-15T12:00:00+00:00,"Nov 15, 2026 at 8:00 PM",31
-florence pugh,US,now 7-d,2026-11-15T13:00:00+00:00,"Nov 15, 2026 at 9:00 PM",22
-florence pugh,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",29
-florence pugh,US,now 7-d,2026-11-15T15:00:00+00:00,"Nov 15, 2026 at 11:00 PM",28
-florence pugh,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",27
-florence pugh,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",28
-florence pugh,US,now 7-d,2026-11-15T18:00:00+00:00,"Nov 16, 2026 at 2:00 AM",27
-florence pugh,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",25
-florence pugh,US,now 7-d,2026-11-15T20:00:00+00:00,"Nov 16, 2026 at 4:00 AM",27
-florence pugh,US,now 7-d,2026-11-15T21:00:00+00:00,"Nov 16, 2026 at 5:00 AM",29
-florence pugh,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",28
-florence pugh,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",33
-florence pugh,US,now 7-d,2026-11-16T00:00:00+00:00,"Nov 16, 2026 at 8:00 AM",31
-florence pugh,US,now 7-d,2026-11-16T01:00:00+00:00,"Nov 16, 2026 at 9:00 AM",37
-florence pugh,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",52
-florence pugh,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",56
-florence pugh,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",67
-florence pugh,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",79
-florence pugh,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",86
-florence pugh,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",100
-fitness,US,now 7-d,2026-11-09T07:00:00+00:00,"Nov 9, 2026 at 3:00 PM",34
-fitness,US,now 7-d,2026-11-09T08:00:00+00:00,"Nov 9, 2026 at 4:00 PM",100
-fitness,US,now 7-d,2026-11-09T09:00:00+00:00,"Nov 9, 2026 at 5:00 PM",41
-fitness,US,now 7-d,2026-11-09T10:00:00+00:00,"Nov 9, 2026 at 6:00 PM",42
-fitness,US,now 7-d,2026-11-09T11:00:00+00:00,"Nov 9, 2026 at 7:00 PM",41
-fitness,US,now 7-d,2026-11-09T12:00:00+00:00,"Nov 9, 2026 at 8:00 PM",37
-fitness,US,now 7-d,2026-11-09T13:00:00+00:00,"Nov 9, 2026 at 9:00 PM",37
-fitness,US,now 7-d,2026-11-09T14:00:00+00:00,"Nov 9, 2026 at 10:00 PM",35
-fitness,US,now 7-d,2026-11-09T15:00:00+00:00,"Nov 9, 2026 at 11:00 PM",35
-fitness,US,now 7-d,2026-11-09T16:00:00+00:00,"Nov 10, 2026 at 12:00 AM",35
-fitness,US,now 7-d,2026-11-09T17:00:00+00:00,"Nov 10, 2026 at 1:00 AM",36
-fitness,US,now 7-d,2026-11-09T18:00:00+00:00,"Nov 10, 2026 at 2:00 AM",34
-fitness,US,now 7-d,2026-11-09T19:00:00+00:00,"Nov 10, 2026 at 3:00 AM",36
-fitness,US,now 7-d,2026-11-09T20:00:00+00:00,"Nov 10, 2026 at 4:00 AM",39
-fitness,US,now 7-d,2026-11-09T21:00:00+00:00,"Nov 10, 2026 at 5:00 AM",41
-fitness,US,now 7-d,2026-11-09T22:00:00+00:00,"Nov 10, 2026 at 6:00 AM",42
-fitness,US,now 7-d,2026-11-09T23:00:00+00:00,"Nov 10, 2026 at 7:00 AM",44
-fitness,US,now 7-d,2026-11-10T00:00:00+00:00,"Nov 10, 2026 at 8:00 AM",41
-fitness,US,now 7-d,2026-11-10T01:00:00+00:00,"Nov 10, 2026 at 9:00 AM",40
-fitness,US,now 7-d,2026-11-10T02:00:00+00:00,"Nov 10, 2026 at 10:00 AM",40
-fitness,US,now 7-d,2026-11-10T03:00:00+00:00,"Nov 10, 2026 at 11:00 AM",39
-fitness,US,now 7-d,2026-11-10T04:00:00+00:00,"Nov 10, 2026 at 12:00 PM",39
-fitness,US,now 7-d,2026-11-10T05:00:00+00:00,"Nov 10, 2026 at 1:00 PM",36
-fitness,US,now 7-d,2026-11-10T06:00:00+00:00,"Nov 10, 2026 at 2:00 PM",37
-fitness,US,now 7-d,2026-11-10T07:00:00+00:00,"Nov 10, 2026 at 3:00 PM",37
-fitness,US,now 7-d,2026-11-10T08:00:00+00:00,"Nov 10, 2026 at 4:00 PM",33
-fitness,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",39
-fitness,US,now 7-d,2026-11-10T10:00:00+00:00,"Nov 10, 2026 at 6:00 PM",40
-fitness,US,now 7-d,2026-11-10T11:00:00+00:00,"Nov 10, 2026 at 7:00 PM",41
-fitness,US,now 7-d,2026-11-10T12:00:00+00:00,"Nov 10, 2026 at 8:00 PM",36
-fitness,US,now 7-d,2026-11-10T13:00:00+00:00,"Nov 10, 2026 at 9:00 PM",34
-fitness,US,now 7-d,2026-11-10T14:00:00+00:00,"Nov 10, 2026 at 10:00 PM",34
-fitness,US,now 7-d,2026-11-10T15:00:00+00:00,"Nov 10, 2026 at 11:00 PM",34
-fitness,US,now 7-d,2026-11-10T16:00:00+00:00,"Nov 11, 2026 at 12:00 AM",36
-fitness,US,now 7-d,2026-11-10T17:00:00+00:00,"Nov 11, 2026 at 1:00 AM",37
-fitness,US,now 7-d,2026-11-10T18:00:00+00:00,"Nov 11, 2026 at 2:00 AM",54
-fitness,US,now 7-d,2026-11-10T19:00:00+00:00,"Nov 11, 2026 at 3:00 AM",38
-fitness,US,now 7-d,2026-11-10T20:00:00+00:00,"Nov 11, 2026 at 4:00 AM",38
-fitness,US,now 7-d,2026-11-10T21:00:00+00:00,"Nov 11, 2026 at 5:00 AM",37
-fitness,US,now 7-d,2026-11-10T22:00:00+00:00,"Nov 11, 2026 at 6:00 AM",40
-fitness,US,now 7-d,2026-11-10T23:00:00+00:00,"Nov 11, 2026 at 7:00 AM",42
-fitness,US,now 7-d,2026-11-11T00:00:00+00:00,"Nov 11, 2026 at 8:00 AM",41
-fitness,US,now 7-d,2026-11-11T01:00:00+00:00,"Nov 11, 2026 at 9:00 AM",39
-fitness,US,now 7-d,2026-11-11T02:00:00+00:00,"Nov 11, 2026 at 10:00 AM",39
-fitness,US,now 7-d,2026-11-11T03:00:00+00:00,"Nov 11, 2026 at 11:00 AM",41
-fitness,US,now 7-d,2026-11-11T04:00:00+00:00,"Nov 11, 2026 at 12:00 PM",39
-fitness,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",38
-fitness,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",37
-fitness,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",36
-fitness,US,now 7-d,2026-11-11T08:00:00+00:00,"Nov 11, 2026 at 4:00 PM",36
-fitness,US,now 7-d,2026-11-11T09:00:00+00:00,"Nov 11, 2026 at 5:00 PM",43
-fitness,US,now 7-d,2026-11-11T10:00:00+00:00,"Nov 11, 2026 at 6:00 PM",47
-fitness,US,now 7-d,2026-11-11T11:00:00+00:00,"Nov 11, 2026 at 7:00 PM",45
-fitness,US,now 7-d,2026-11-11T12:00:00+00:00,"Nov 11, 2026 at 8:00 PM",43
-fitness,US,now 7-d,2026-11-11T13:00:00+00:00,"Nov 11, 2026 at 9:00 PM",40
-fitness,US,now 7-d,2026-11-11T14:00:00+00:00,"Nov 11, 2026 at 10:00 PM",40
-fitness,US,now 7-d,2026-11-11T15:00:00+00:00,"Nov 11, 2026 at 11:00 PM",42
-fitness,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",40
-fitness,US,now 7-d,2026-11-11T17:00:00+00:00,"Nov 12, 2026 at 1:00 AM",40
-fitness,US,now 7-d,2026-11-11T18:00:00+00:00,"Nov 12, 2026 at 2:00 AM",38
-fitness,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",40
-fitness,US,now 7-d,2026-11-11T20:00:00+00:00,"Nov 12, 2026 at 4:00 AM",39
-fitness,US,now 7-d,2026-11-11T21:00:00+00:00,"Nov 12, 2026 at 5:00 AM",43
-fitness,US,now 7-d,2026-11-11T22:00:00+00:00,"Nov 12, 2026 at 6:00 AM",42
-fitness,US,now 7-d,2026-11-11T23:00:00+00:00,"Nov 12, 2026 at 7:00 AM",41
-fitness,US,now 7-d,2026-11-12T00:00:00+00:00,"Nov 12, 2026 at 8:00 AM",39
-fitness,US,now 7-d,2026-11-12T01:00:00+00:00,"Nov 12, 2026 at 9:00 AM",41
-fitness,US,now 7-d,2026-11-12T02:00:00+00:00,"Nov 12, 2026 at 10:00 AM",36
-fitness,US,now 7-d,2026-11-12T03:00:00+00:00,"Nov 12, 2026 at 11:00 AM",38
-fitness,US,now 7-d,2026-11-12T04:00:00+00:00,"Nov 12, 2026 at 12:00 PM",36
-fitness,US,now 7-d,2026-11-12T05:00:00+00:00,"Nov 12, 2026 at 1:00 PM",36
-fitness,US,now 7-d,2026-11-12T06:00:00+00:00,"Nov 12, 2026 at 2:00 PM",35
-fitness,US,now 7-d,2026-11-12T07:00:00+00:00,"Nov 12, 2026 at 3:00 PM",31
-fitness,US,now 7-d,2026-11-12T08:00:00+00:00,"Nov 12, 2026 at 4:00 PM",32
-fitness,US,now 7-d,2026-11-12T09:00:00+00:00,"Nov 12, 2026 at 5:00 PM",34
-fitness,US,now 7-d,2026-11-12T10:00:00+00:00,"Nov 12, 2026 at 6:00 PM",37
-fitness,US,now 7-d,2026-11-12T11:00:00+00:00,"Nov 12, 2026 at 7:00 PM",37
-fitness,US,now 7-d,2026-11-12T12:00:00+00:00,"Nov 12, 2026 at 8:00 PM",35
-fitness,US,now 7-d,2026-11-12T13:00:00+00:00,"Nov 12, 2026 at 9:00 PM",36
-fitness,US,now 7-d,2026-11-12T14:00:00+00:00,"Nov 12, 2026 at 10:00 PM",44
-fitness,US,now 7-d,2026-11-12T15:00:00+00:00,"Nov 12, 2026 at 11:00 PM",43
-fitness,US,now 7-d,2026-11-12T16:00:00+00:00,"Nov 13, 2026 at 12:00 AM",39
-fitness,US,now 7-d,2026-11-12T17:00:00+00:00,"Nov 13, 2026 at 1:00 AM",38
-fitness,US,now 7-d,2026-11-12T18:00:00+00:00,"Nov 13, 2026 at 2:00 AM",38
-fitness,US,now 7-d,2026-11-12T19:00:00+00:00,"Nov 13, 2026 at 3:00 AM",37
-fitness,US,now 7-d,2026-11-12T20:00:00+00:00,"Nov 13, 2026 at 4:00 AM",38
-fitness,US,now 7-d,2026-11-12T21:00:00+00:00,"Nov 13, 2026 at 5:00 AM",39
-fitness,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",45
-fitness,US,now 7-d,2026-11-12T23:00:00+00:00,"Nov 13, 2026 at 7:00 AM",42
-fitness,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",35
-fitness,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",37
-fitness,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",35
-fitness,US,now 7-d,2026-11-13T03:00:00+00:00,"Nov 13, 2026 at 11:00 AM",35
-fitness,US,now 7-d,2026-11-13T04:00:00+00:00,"Nov 13, 2026 at 12:00 PM",37
-fitness,US,now 7-d,2026-11-13T05:00:00+00:00,"Nov 13, 2026 at 1:00 PM",36
-fitness,US,now 7-d,2026-11-13T06:00:00+00:00,"Nov 13, 2026 at 2:00 PM",34
-fitness,US,now 7-d,2026-11-13T07:00:00+00:00,"Nov 13, 2026 at 3:00 PM",32
-fitness,US,now 7-d,2026-11-13T08:00:00+00:00,"Nov 13, 2026 at 4:00 PM",30
-fitness,US,now 7-d,2026-11-13T09:00:00+00:00,"Nov 13, 2026 at 5:00 PM",33
-fitness,US,now 7-d,2026-11-13T10:00:00+00:00,"Nov 13, 2026 at 6:00 PM",35
-fitness,US,now 7-d,2026-11-13T11:00:00+00:00,"Nov 13, 2026 at 7:00 PM",35
-fitness,US,now 7-d,2026-11-13T12:00:00+00:00,"Nov 13, 2026 at 8:00 PM",32
-fitness,US,now 7-d,2026-11-13T13:00:00+00:00,"Nov 13, 2026 at 9:00 PM",36
-fitness,US,now 7-d,2026-11-13T14:00:00+00:00,"Nov 13, 2026 at 10:00 PM",32
-fitness,US,now 7-d,2026-11-13T15:00:00+00:00,"Nov 13, 2026 at 11:00 PM",32
-fitness,US,now 7-d,2026-11-13T16:00:00+00:00,"Nov 14, 2026 at 12:00 AM",32
-fitness,US,now 7-d,2026-11-13T17:00:00+00:00,"Nov 14, 2026 at 1:00 AM",31
-fitness,US,now 7-d,2026-11-13T18:00:00+00:00,"Nov 14, 2026 at 2:00 AM",31
-fitness,US,now 7-d,2026-11-13T19:00:00+00:00,"Nov 14, 2026 at 3:00 AM",32
-fitness,US,now 7-d,2026-11-13T20:00:00+00:00,"Nov 14, 2026 at 4:00 AM",30
-fitness,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",30
-fitness,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",31
-fitness,US,now 7-d,2026-11-13T23:00:00+00:00,"Nov 14, 2026 at 7:00 AM",34
-fitness,US,now 7-d,2026-11-14T00:00:00+00:00,"Nov 14, 2026 at 8:00 AM",33
-fitness,US,now 7-d,2026-11-14T01:00:00+00:00,"Nov 14, 2026 at 9:00 AM",35
-fitness,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",36
-fitness,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",34
-fitness,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",31
-fitness,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",30
-fitness,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",31
-fitness,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",29
-fitness,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",28
-fitness,US,now 7-d,2026-11-14T09:00:00+00:00,"Nov 14, 2026 at 5:00 PM",35
-fitness,US,now 7-d,2026-11-14T10:00:00+00:00,"Nov 14, 2026 at 6:00 PM",44
-fitness,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",50
-fitness,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",47
-fitness,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",40
-fitness,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",37
-fitness,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",37
-fitness,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",36
-fitness,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",34
-fitness,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",33
-fitness,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",34
-fitness,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",34
-fitness,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",35
-fitness,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",36
-fitness,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",35
-fitness,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",33
-fitness,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",32
-fitness,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",31
-fitness,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",29
-fitness,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",27
-fitness,US,now 7-d,2026-11-15T05:00:00+00:00,"Nov 15, 2026 at 1:00 PM",29
-fitness,US,now 7-d,2026-11-15T06:00:00+00:00,"Nov 15, 2026 at 2:00 PM",33
-fitness,US,now 7-d,2026-11-15T07:00:00+00:00,"Nov 15, 2026 at 3:00 PM",40
-fitness,US,now 7-d,2026-11-15T08:00:00+00:00,"Nov 15, 2026 at 4:00 PM",27
-fitness,US,now 7-d,2026-11-15T09:00:00+00:00,"Nov 15, 2026 at 5:00 PM",27
-fitness,US,now 7-d,2026-11-15T10:00:00+00:00,"Nov 15, 2026 at 6:00 PM",33
-fitness,US,now 7-d,2026-11-15T11:00:00+00:00,"Nov 15, 2026 at 7:00 PM",57
-fitness,US,now 7-d,2026-11-15T12:00:00+00:00,"Nov 15, 2026 at 8:00 PM",44
-fitness,US,now 7-d,2026-11-15T13:00:00+00:00,"Nov 15, 2026 at 9:00 PM",34
-fitness,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",34
-fitness,US,now 7-d,2026-11-15T15:00:00+00:00,"Nov 15, 2026 at 11:00 PM",32
-fitness,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",34
-fitness,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",33
-fitness,US,now 7-d,2026-11-15T18:00:00+00:00,"Nov 16, 2026 at 2:00 AM",29
-fitness,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",30
-fitness,US,now 7-d,2026-11-15T20:00:00+00:00,"Nov 16, 2026 at 4:00 AM",31
-fitness,US,now 7-d,2026-11-15T21:00:00+00:00,"Nov 16, 2026 at 5:00 AM",32
-fitness,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",35
-fitness,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",35
-fitness,US,now 7-d,2026-11-16T00:00:00+00:00,"Nov 16, 2026 at 8:00 AM",32
-fitness,US,now 7-d,2026-11-16T01:00:00+00:00,"Nov 16, 2026 at 9:00 AM",34
-fitness,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",33
-fitness,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",31
-fitness,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",30
-fitness,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",30
-fitness,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",33
-fitness,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",29
-anthony mackie,US,now 7-d,2026-11-09T07:00:00+00:00,"Nov 9, 2026 at 3:00 PM",13
-anthony mackie,US,now 7-d,2026-11-09T08:00:00+00:00,"Nov 9, 2026 at 4:00 PM",23
-anthony mackie,US,now 7-d,2026-11-09T13:00:00+00:00,"Nov 9, 2026 at 9:00 PM",4
-anthony mackie,US,now 7-d,2026-11-09T14:00:00+00:00,"Nov 9, 2026 at 10:00 PM",4
-anthony mackie,US,now 7-d,2026-11-09T15:00:00+00:00,"Nov 9, 2026 at 11:00 PM",3
-anthony mackie,US,now 7-d,2026-11-09T16:00:00+00:00,"Nov 10, 2026 at 12:00 AM",5
-anthony mackie,US,now 7-d,2026-11-09T17:00:00+00:00,"Nov 10, 2026 at 1:00 AM",5
-anthony mackie,US,now 7-d,2026-11-09T18:00:00+00:00,"Nov 10, 2026 at 2:00 AM",5
-anthony mackie,US,now 7-d,2026-11-09T19:00:00+00:00,"Nov 10, 2026 at 3:00 AM",5
-anthony mackie,US,now 7-d,2026-11-09T20:00:00+00:00,"Nov 10, 2026 at 4:00 AM",9
-anthony mackie,US,now 7-d,2026-11-09T21:00:00+00:00,"Nov 10, 2026 at 5:00 AM",8
-anthony mackie,US,now 7-d,2026-11-09T22:00:00+00:00,"Nov 10, 2026 at 6:00 AM",7
-anthony mackie,US,now 7-d,2026-11-09T23:00:00+00:00,"Nov 10, 2026 at 7:00 AM",6
-anthony mackie,US,now 7-d,2026-11-10T00:00:00+00:00,"Nov 10, 2026 at 8:00 AM",10
-anthony mackie,US,now 7-d,2026-11-10T01:00:00+00:00,"Nov 10, 2026 at 9:00 AM",12
-anthony mackie,US,now 7-d,2026-11-10T02:00:00+00:00,"Nov 10, 2026 at 10:00 AM",10
-anthony mackie,US,now 7-d,2026-11-10T03:00:00+00:00,"Nov 10, 2026 at 11:00 AM",11
-anthony mackie,US,now 7-d,2026-11-10T04:00:00+00:00,"Nov 10, 2026 at 12:00 PM",11
-anthony mackie,US,now 7-d,2026-11-10T05:00:00+00:00,"Nov 10, 2026 at 1:00 PM",11
-anthony mackie,US,now 7-d,2026-11-10T06:00:00+00:00,"Nov 10, 2026 at 2:00 PM",12
-anthony mackie,US,now 7-d,2026-11-10T07:00:00+00:00,"Nov 10, 2026 at 3:00 PM",12
-anthony mackie,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",20
-anthony mackie,US,now 7-d,2026-11-10T11:00:00+00:00,"Nov 10, 2026 at 7:00 PM",12
-anthony mackie,US,now 7-d,2026-11-10T13:00:00+00:00,"Nov 10, 2026 at 9:00 PM",6
-anthony mackie,US,now 7-d,2026-11-10T14:00:00+00:00,"Nov 10, 2026 at 10:00 PM",4
-anthony mackie,US,now 7-d,2026-11-10T15:00:00+00:00,"Nov 10, 2026 at 11:00 PM",6
-anthony mackie,US,now 7-d,2026-11-10T16:00:00+00:00,"Nov 11, 2026 at 12:00 AM",4
-anthony mackie,US,now 7-d,2026-11-10T17:00:00+00:00,"Nov 11, 2026 at 1:00 AM",7
-anthony mackie,US,now 7-d,2026-11-10T18:00:00+00:00,"Nov 11, 2026 at 2:00 AM",6
-anthony mackie,US,now 7-d,2026-11-10T19:00:00+00:00,"Nov 11, 2026 at 3:00 AM",6
-anthony mackie,US,now 7-d,2026-11-10T20:00:00+00:00,"Nov 11, 2026 at 4:00 AM",6
-anthony mackie,US,now 7-d,2026-11-10T21:00:00+00:00,"Nov 11, 2026 at 5:00 AM",7
-anthony mackie,US,now 7-d,2026-11-10T22:00:00+00:00,"Nov 11, 2026 at 6:00 AM",10
-anthony mackie,US,now 7-d,2026-11-10T23:00:00+00:00,"Nov 11, 2026 at 7:00 AM",10
-anthony mackie,US,now 7-d,2026-11-11T00:00:00+00:00,"Nov 11, 2026 at 8:00 AM",13
-anthony mackie,US,now 7-d,2026-11-11T01:00:00+00:00,"Nov 11, 2026 at 9:00 AM",14
-anthony mackie,US,now 7-d,2026-11-11T02:00:00+00:00,"Nov 11, 2026 at 10:00 AM",17
-anthony mackie,US,now 7-d,2026-11-11T03:00:00+00:00,"Nov 11, 2026 at 11:00 AM",16
-anthony mackie,US,now 7-d,2026-11-11T04:00:00+00:00,"Nov 11, 2026 at 12:00 PM",28
-anthony mackie,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",16
-anthony mackie,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",11
-anthony mackie,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",18
-anthony mackie,US,now 7-d,2026-11-11T08:00:00+00:00,"Nov 11, 2026 at 4:00 PM",18
-anthony mackie,US,now 7-d,2026-11-11T13:00:00+00:00,"Nov 11, 2026 at 9:00 PM",6
-anthony mackie,US,now 7-d,2026-11-11T14:00:00+00:00,"Nov 11, 2026 at 10:00 PM",6
-anthony mackie,US,now 7-d,2026-11-11T15:00:00+00:00,"Nov 11, 2026 at 11:00 PM",9
-anthony mackie,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",7
-anthony mackie,US,now 7-d,2026-11-11T17:00:00+00:00,"Nov 12, 2026 at 1:00 AM",8
-anthony mackie,US,now 7-d,2026-11-11T18:00:00+00:00,"Nov 12, 2026 at 2:00 AM",9
-anthony mackie,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",11
-anthony mackie,US,now 7-d,2026-11-11T20:00:00+00:00,"Nov 12, 2026 at 4:00 AM",12
-anthony mackie,US,now 7-d,2026-11-11T21:00:00+00:00,"Nov 12, 2026 at 5:00 AM",10
-anthony mackie,US,now 7-d,2026-11-11T22:00:00+00:00,"Nov 12, 2026 at 6:00 AM",12
-anthony mackie,US,now 7-d,2026-11-11T23:00:00+00:00,"Nov 12, 2026 at 7:00 AM",19
-anthony mackie,US,now 7-d,2026-11-12T00:00:00+00:00,"Nov 12, 2026 at 8:00 AM",48
-anthony mackie,US,now 7-d,2026-11-12T01:00:00+00:00,"Nov 12, 2026 at 9:00 AM",56
-anthony mackie,US,now 7-d,2026-11-12T02:00:00+00:00,"Nov 12, 2026 at 10:00 AM",45
-anthony mackie,US,now 7-d,2026-11-12T03:00:00+00:00,"Nov 12, 2026 at 11:00 AM",42
-anthony mackie,US,now 7-d,2026-11-12T04:00:00+00:00,"Nov 12, 2026 at 12:00 PM",40
-anthony mackie,US,now 7-d,2026-11-12T05:00:00+00:00,"Nov 12, 2026 at 1:00 PM",38
-anthony mackie,US,now 7-d,2026-11-12T06:00:00+00:00,"Nov 12, 2026 at 2:00 PM",36
-anthony mackie,US,now 7-d,2026-11-12T07:00:00+00:00,"Nov 12, 2026 at 3:00 PM",23
-anthony mackie,US,now 7-d,2026-11-12T08:00:00+00:00,"Nov 12, 2026 at 4:00 PM",23
-anthony mackie,US,now 7-d,2026-11-12T09:00:00+00:00,"Nov 12, 2026 at 5:00 PM",29
-anthony mackie,US,now 7-d,2026-11-12T10:00:00+00:00,"Nov 12, 2026 at 6:00 PM",39
-anthony mackie,US,now 7-d,2026-11-12T11:00:00+00:00,"Nov 12, 2026 at 7:00 PM",23
-anthony mackie,US,now 7-d,2026-11-12T12:00:00+00:00,"Nov 12, 2026 at 8:00 PM",20
-anthony mackie,US,now 7-d,2026-11-12T13:00:00+00:00,"Nov 12, 2026 at 9:00 PM",15
-anthony mackie,US,now 7-d,2026-11-12T14:00:00+00:00,"Nov 12, 2026 at 10:00 PM",19
-anthony mackie,US,now 7-d,2026-11-12T15:00:00+00:00,"Nov 12, 2026 at 11:00 PM",21
-anthony mackie,US,now 7-d,2026-11-12T16:00:00+00:00,"Nov 13, 2026 at 12:00 AM",18
-anthony mackie,US,now 7-d,2026-11-12T17:00:00+00:00,"Nov 13, 2026 at 1:00 AM",12
-anthony mackie,US,now 7-d,2026-11-12T18:00:00+00:00,"Nov 13, 2026 at 2:00 AM",11
-anthony mackie,US,now 7-d,2026-11-12T19:00:00+00:00,"Nov 13, 2026 at 3:00 AM",11
-anthony mackie,US,now 7-d,2026-11-12T20:00:00+00:00,"Nov 13, 2026 at 4:00 AM",11
-anthony mackie,US,now 7-d,2026-11-12T21:00:00+00:00,"Nov 13, 2026 at 5:00 AM",7
-anthony mackie,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",9
-anthony mackie,US,now 7-d,2026-11-12T23:00:00+00:00,"Nov 13, 2026 at 7:00 AM",14
-anthony mackie,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",15
-anthony mackie,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",13
-anthony mackie,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",35
-anthony mackie,US,now 7-d,2026-11-13T03:00:00+00:00,"Nov 13, 2026 at 11:00 AM",17
-anthony mackie,US,now 7-d,2026-11-13T04:00:00+00:00,"Nov 13, 2026 at 12:00 PM",19
-anthony mackie,US,now 7-d,2026-11-13T05:00:00+00:00,"Nov 13, 2026 at 1:00 PM",22
-anthony mackie,US,now 7-d,2026-11-13T06:00:00+00:00,"Nov 13, 2026 at 2:00 PM",21
-anthony mackie,US,now 7-d,2026-11-13T07:00:00+00:00,"Nov 13, 2026 at 3:00 PM",16
-anthony mackie,US,now 7-d,2026-11-13T08:00:00+00:00,"Nov 13, 2026 at 4:00 PM",26
-anthony mackie,US,now 7-d,2026-11-13T12:00:00+00:00,"Nov 13, 2026 at 8:00 PM",11
-anthony mackie,US,now 7-d,2026-11-13T13:00:00+00:00,"Nov 13, 2026 at 9:00 PM",91
-anthony mackie,US,now 7-d,2026-11-13T14:00:00+00:00,"Nov 13, 2026 at 10:00 PM",64
-anthony mackie,US,now 7-d,2026-11-13T15:00:00+00:00,"Nov 13, 2026 at 11:00 PM",33
-anthony mackie,US,now 7-d,2026-11-13T16:00:00+00:00,"Nov 14, 2026 at 12:00 AM",23
-anthony mackie,US,now 7-d,2026-11-13T17:00:00+00:00,"Nov 14, 2026 at 1:00 AM",17
-anthony mackie,US,now 7-d,2026-11-13T18:00:00+00:00,"Nov 14, 2026 at 2:00 AM",13
-anthony mackie,US,now 7-d,2026-11-13T19:00:00+00:00,"Nov 14, 2026 at 3:00 AM",13
-anthony mackie,US,now 7-d,2026-11-13T20:00:00+00:00,"Nov 14, 2026 at 4:00 AM",19
-anthony mackie,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",15
-anthony mackie,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",21
-anthony mackie,US,now 7-d,2026-11-13T23:00:00+00:00,"Nov 14, 2026 at 7:00 AM",21
-anthony mackie,US,now 7-d,2026-11-14T00:00:00+00:00,"Nov 14, 2026 at 8:00 AM",22
-anthony mackie,US,now 7-d,2026-11-14T01:00:00+00:00,"Nov 14, 2026 at 9:00 AM",25
-anthony mackie,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",22
-anthony mackie,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",28
-anthony mackie,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",28
-anthony mackie,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",32
-anthony mackie,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",31
-anthony mackie,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",31
-anthony mackie,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",19
-anthony mackie,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",22
-anthony mackie,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",11
-anthony mackie,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",12
-anthony mackie,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",11
-anthony mackie,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",13
-anthony mackie,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",12
-anthony mackie,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",14
-anthony mackie,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",13
-anthony mackie,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",16
-anthony mackie,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",16
-anthony mackie,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",15
-anthony mackie,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",15
-anthony mackie,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",19
-anthony mackie,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",16
-anthony mackie,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",30
-anthony mackie,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",22
-anthony mackie,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",25
-anthony mackie,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",23
-anthony mackie,US,now 7-d,2026-11-15T05:00:00+00:00,"Nov 15, 2026 at 1:00 PM",27
-anthony mackie,US,now 7-d,2026-11-15T06:00:00+00:00,"Nov 15, 2026 at 2:00 PM",26
-anthony mackie,US,now 7-d,2026-11-15T07:00:00+00:00,"Nov 15, 2026 at 3:00 PM",24
-anthony mackie,US,now 7-d,2026-11-15T08:00:00+00:00,"Nov 15, 2026 at 4:00 PM",26
-anthony mackie,US,now 7-d,2026-11-15T09:00:00+00:00,"Nov 15, 2026 at 5:00 PM",28
-anthony mackie,US,now 7-d,2026-11-15T12:00:00+00:00,"Nov 15, 2026 at 8:00 PM",11
-anthony mackie,US,now 7-d,2026-11-15T13:00:00+00:00,"Nov 15, 2026 at 9:00 PM",10
-anthony mackie,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",12
-anthony mackie,US,now 7-d,2026-11-15T15:00:00+00:00,"Nov 15, 2026 at 11:00 PM",21
-anthony mackie,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",13
-anthony mackie,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",12
-anthony mackie,US,now 7-d,2026-11-15T18:00:00+00:00,"Nov 16, 2026 at 2:00 AM",11
-anthony mackie,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",10
-anthony mackie,US,now 7-d,2026-11-15T20:00:00+00:00,"Nov 16, 2026 at 4:00 AM",12
-anthony mackie,US,now 7-d,2026-11-15T21:00:00+00:00,"Nov 16, 2026 at 5:00 AM",10
-anthony mackie,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",14
-anthony mackie,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",14
-anthony mackie,US,now 7-d,2026-11-16T00:00:00+00:00,"Nov 16, 2026 at 8:00 AM",16
-anthony mackie,US,now 7-d,2026-11-16T01:00:00+00:00,"Nov 16, 2026 at 9:00 AM",17
-anthony mackie,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",23
-anthony mackie,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",32
-anthony mackie,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",22
-anthony mackie,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",31
-anthony mackie,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",100
-anthony mackie,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",68
-alex bolt,US,now 7-d,2026-11-10T05:00:00+00:00,"Nov 10, 2026 at 1:00 PM",5
-alex bolt,US,now 7-d,2026-11-10T06:00:00+00:00,"Nov 10, 2026 at 2:00 PM",7
-alex bolt,US,now 7-d,2026-11-10T07:00:00+00:00,"Nov 10, 2026 at 3:00 PM",13
-alex bolt,US,now 7-d,2026-11-10T08:00:00+00:00,"Nov 10, 2026 at 4:00 PM",42
-alex bolt,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",27
-alex bolt,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",6
-alex bolt,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",19
-alex bolt,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",19
-alex bolt,US,now 7-d,2026-11-11T08:00:00+00:00,"Nov 11, 2026 at 4:00 PM",31
-alex bolt,US,now 7-d,2026-11-11T09:00:00+00:00,"Nov 11, 2026 at 5:00 PM",53
-alex bolt,US,now 7-d,2026-11-11T10:00:00+00:00,"Nov 11, 2026 at 6:00 PM",88
-alex bolt,US,now 7-d,2026-11-11T11:00:00+00:00,"Nov 11, 2026 at 7:00 PM",12
-alex bolt,US,now 7-d,2026-11-11T12:00:00+00:00,"Nov 11, 2026 at 8:00 PM",7
-alex bolt,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",3
-alex bolt,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",2
-alex bolt,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",3
-alex bolt,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",8
-alex bolt,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",9
-alex bolt,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",4
-alex bolt,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",4
-alex bolt,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",13
-alex bolt,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",30
-alex bolt,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",65
-alex bolt,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",100
+norway vs denmark,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",5
+norway vs denmark,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",3
+norway vs denmark,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",4
+norway vs denmark,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",3
+norway vs denmark,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",3
+norway vs denmark,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",7
+norway vs denmark,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",10
+norway vs denmark,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",11
+norway vs denmark,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",19
+norway vs denmark,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",14
+norway vs denmark,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",24
+norway vs denmark,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",30
+norway vs denmark,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",16
+norway vs denmark,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",17
+norway vs denmark,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",12
+norway vs denmark,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",16
+norway vs denmark,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",23
+norway vs denmark,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",22
+norway vs denmark,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",43
+norway vs denmark,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",100
+norway vs denmark,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",52
+norway vs denmark,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",55
+norway vs denmark,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",31
+norway vs denmark,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",20
+norway vs denmark,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",10
+norway vs denmark,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",10
+norway vs denmark,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",7
+norway vs denmark,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",7
+norway vs denmark,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",6
+norway vs denmark,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",6
+norway vs denmark,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",4
+norway vs denmark,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",4
+norway vs denmark,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",4
+norway vs denmark,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",6
+norway vs denmark,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",4
+norway vs denmark,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",8
+norway vs denmark,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",8
+norway vs denmark,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",10
+norway vs denmark,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",10
+norway vs denmark,US,now 7-d,2026-11-16T13:00:00+00:00,"Nov 16, 2026 at 9:00 PM",6
+norway vs denmark,US,now 7-d,2026-11-16T14:00:00+00:00,"Nov 16, 2026 at 10:00 PM",4
+norway vs denmark,US,now 7-d,2026-11-16T15:00:00+00:00,"Nov 16, 2026 at 11:00 PM",5
+norway vs denmark,US,now 7-d,2026-11-16T16:00:00+00:00,"Nov 17, 2026 at 12:00 AM",7
+norway vs denmark,US,now 7-d,2026-11-16T17:00:00+00:00,"Nov 17, 2026 at 1:00 AM",7
+norway vs denmark,US,now 7-d,2026-11-16T18:00:00+00:00,"Nov 17, 2026 at 2:00 AM",9
+norway vs denmark,US,now 7-d,2026-11-16T19:00:00+00:00,"Nov 17, 2026 at 3:00 AM",8
+norway vs denmark,US,now 7-d,2026-11-16T20:00:00+00:00,"Nov 17, 2026 at 4:00 AM",8
+norway vs denmark,US,now 7-d,2026-11-16T21:00:00+00:00,"Nov 17, 2026 at 5:00 AM",16
+norway vs denmark,US,now 7-d,2026-11-16T22:00:00+00:00,"Nov 17, 2026 at 6:00 AM",18
+norway vs denmark,US,now 7-d,2026-11-16T23:00:00+00:00,"Nov 17, 2026 at 7:00 AM",15
+norway vs denmark,US,now 7-d,2026-11-17T00:00:00+00:00,"Nov 17, 2026 at 8:00 AM",13
+norway vs denmark,US,now 7-d,2026-11-17T01:00:00+00:00,"Nov 17, 2026 at 9:00 AM",14
+norway vs denmark,US,now 7-d,2026-11-17T02:00:00+00:00,"Nov 17, 2026 at 10:00 AM",24
+norway vs denmark,US,now 7-d,2026-11-17T03:00:00+00:00,"Nov 17, 2026 at 11:00 AM",33
+norway vs denmark,US,now 7-d,2026-11-17T04:00:00+00:00,"Nov 17, 2026 at 12:00 PM",53
+norway vs denmark,US,now 7-d,2026-11-17T05:00:00+00:00,"Nov 17, 2026 at 1:00 PM",76
+norway vs denmark,US,now 7-d,2026-11-17T06:00:00+00:00,"Nov 17, 2026 at 2:00 PM",76
+norway vs denmark,US,now 7-d,2026-11-17T07:00:00+00:00,"Nov 17, 2026 at 3:00 PM",72
+norway vs denmark,US,now 7-d,2026-11-17T08:00:00+00:00,"Nov 17, 2026 at 4:00 PM",95
+government jobs,US,now 7-d,2026-11-10T08:00:00+00:00,"Nov 10, 2026 at 4:00 PM",78
+government jobs,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",76
+government jobs,US,now 7-d,2026-11-10T10:00:00+00:00,"Nov 10, 2026 at 6:00 PM",62
+government jobs,US,now 7-d,2026-11-10T11:00:00+00:00,"Nov 10, 2026 at 7:00 PM",59
+government jobs,US,now 7-d,2026-11-10T12:00:00+00:00,"Nov 10, 2026 at 8:00 PM",70
+government jobs,US,now 7-d,2026-11-10T13:00:00+00:00,"Nov 10, 2026 at 9:00 PM",68
+government jobs,US,now 7-d,2026-11-10T14:00:00+00:00,"Nov 10, 2026 at 10:00 PM",72
+government jobs,US,now 7-d,2026-11-10T15:00:00+00:00,"Nov 10, 2026 at 11:00 PM",92
+government jobs,US,now 7-d,2026-11-10T16:00:00+00:00,"Nov 11, 2026 at 12:00 AM",96
+government jobs,US,now 7-d,2026-11-10T17:00:00+00:00,"Nov 11, 2026 at 1:00 AM",94
+government jobs,US,now 7-d,2026-11-10T18:00:00+00:00,"Nov 11, 2026 at 2:00 AM",96
+government jobs,US,now 7-d,2026-11-10T19:00:00+00:00,"Nov 11, 2026 at 3:00 AM",100
+government jobs,US,now 7-d,2026-11-10T20:00:00+00:00,"Nov 11, 2026 at 4:00 AM",87
+government jobs,US,now 7-d,2026-11-10T21:00:00+00:00,"Nov 11, 2026 at 5:00 AM",78
+government jobs,US,now 7-d,2026-11-10T22:00:00+00:00,"Nov 11, 2026 at 6:00 AM",78
+government jobs,US,now 7-d,2026-11-10T23:00:00+00:00,"Nov 11, 2026 at 7:00 AM",70
+government jobs,US,now 7-d,2026-11-11T00:00:00+00:00,"Nov 11, 2026 at 8:00 AM",77
+government jobs,US,now 7-d,2026-11-11T01:00:00+00:00,"Nov 11, 2026 at 9:00 AM",71
+government jobs,US,now 7-d,2026-11-11T02:00:00+00:00,"Nov 11, 2026 at 10:00 AM",72
+government jobs,US,now 7-d,2026-11-11T03:00:00+00:00,"Nov 11, 2026 at 11:00 AM",70
+government jobs,US,now 7-d,2026-11-11T04:00:00+00:00,"Nov 11, 2026 at 12:00 PM",75
+government jobs,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",73
+government jobs,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",88
+government jobs,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",88
+government jobs,US,now 7-d,2026-11-11T08:00:00+00:00,"Nov 11, 2026 at 4:00 PM",57
+government jobs,US,now 7-d,2026-11-11T09:00:00+00:00,"Nov 11, 2026 at 5:00 PM",71
+government jobs,US,now 7-d,2026-11-11T10:00:00+00:00,"Nov 11, 2026 at 6:00 PM",43
+government jobs,US,now 7-d,2026-11-11T11:00:00+00:00,"Nov 11, 2026 at 7:00 PM",64
+government jobs,US,now 7-d,2026-11-11T12:00:00+00:00,"Nov 11, 2026 at 8:00 PM",58
+government jobs,US,now 7-d,2026-11-11T13:00:00+00:00,"Nov 11, 2026 at 9:00 PM",67
+government jobs,US,now 7-d,2026-11-11T14:00:00+00:00,"Nov 11, 2026 at 10:00 PM",61
+government jobs,US,now 7-d,2026-11-11T15:00:00+00:00,"Nov 11, 2026 at 11:00 PM",77
+government jobs,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",77
+government jobs,US,now 7-d,2026-11-11T17:00:00+00:00,"Nov 12, 2026 at 1:00 AM",75
+government jobs,US,now 7-d,2026-11-11T18:00:00+00:00,"Nov 12, 2026 at 2:00 AM",69
+government jobs,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",70
+government jobs,US,now 7-d,2026-11-11T20:00:00+00:00,"Nov 12, 2026 at 4:00 AM",70
+government jobs,US,now 7-d,2026-11-11T21:00:00+00:00,"Nov 12, 2026 at 5:00 AM",63
+government jobs,US,now 7-d,2026-11-11T22:00:00+00:00,"Nov 12, 2026 at 6:00 AM",62
+government jobs,US,now 7-d,2026-11-11T23:00:00+00:00,"Nov 12, 2026 at 7:00 AM",65
+government jobs,US,now 7-d,2026-11-12T00:00:00+00:00,"Nov 12, 2026 at 8:00 AM",63
+government jobs,US,now 7-d,2026-11-12T01:00:00+00:00,"Nov 12, 2026 at 9:00 AM",58
+government jobs,US,now 7-d,2026-11-12T02:00:00+00:00,"Nov 12, 2026 at 10:00 AM",62
+government jobs,US,now 7-d,2026-11-12T03:00:00+00:00,"Nov 12, 2026 at 11:00 AM",58
+government jobs,US,now 7-d,2026-11-12T04:00:00+00:00,"Nov 12, 2026 at 12:00 PM",65
+government jobs,US,now 7-d,2026-11-12T05:00:00+00:00,"Nov 12, 2026 at 1:00 PM",76
+government jobs,US,now 7-d,2026-11-12T06:00:00+00:00,"Nov 12, 2026 at 2:00 PM",89
+government jobs,US,now 7-d,2026-11-12T07:00:00+00:00,"Nov 12, 2026 at 3:00 PM",75
+government jobs,US,now 7-d,2026-11-12T08:00:00+00:00,"Nov 12, 2026 at 4:00 PM",62
+government jobs,US,now 7-d,2026-11-12T09:00:00+00:00,"Nov 12, 2026 at 5:00 PM",55
+government jobs,US,now 7-d,2026-11-12T10:00:00+00:00,"Nov 12, 2026 at 6:00 PM",77
+government jobs,US,now 7-d,2026-11-12T11:00:00+00:00,"Nov 12, 2026 at 7:00 PM",49
+government jobs,US,now 7-d,2026-11-12T12:00:00+00:00,"Nov 12, 2026 at 8:00 PM",53
+government jobs,US,now 7-d,2026-11-12T13:00:00+00:00,"Nov 12, 2026 at 9:00 PM",65
+government jobs,US,now 7-d,2026-11-12T14:00:00+00:00,"Nov 12, 2026 at 10:00 PM",77
+government jobs,US,now 7-d,2026-11-12T15:00:00+00:00,"Nov 12, 2026 at 11:00 PM",85
+government jobs,US,now 7-d,2026-11-12T16:00:00+00:00,"Nov 13, 2026 at 12:00 AM",77
+government jobs,US,now 7-d,2026-11-12T17:00:00+00:00,"Nov 13, 2026 at 1:00 AM",89
+government jobs,US,now 7-d,2026-11-12T18:00:00+00:00,"Nov 13, 2026 at 2:00 AM",86
+government jobs,US,now 7-d,2026-11-12T19:00:00+00:00,"Nov 13, 2026 at 3:00 AM",91
+government jobs,US,now 7-d,2026-11-12T20:00:00+00:00,"Nov 13, 2026 at 4:00 AM",79
+government jobs,US,now 7-d,2026-11-12T21:00:00+00:00,"Nov 13, 2026 at 5:00 AM",71
+government jobs,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",68
+government jobs,US,now 7-d,2026-11-12T23:00:00+00:00,"Nov 13, 2026 at 7:00 AM",71
+government jobs,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",59
+government jobs,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",68
+government jobs,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",61
+government jobs,US,now 7-d,2026-11-13T03:00:00+00:00,"Nov 13, 2026 at 11:00 AM",68
+government jobs,US,now 7-d,2026-11-13T04:00:00+00:00,"Nov 13, 2026 at 12:00 PM",74
+government jobs,US,now 7-d,2026-11-13T05:00:00+00:00,"Nov 13, 2026 at 1:00 PM",82
+government jobs,US,now 7-d,2026-11-13T06:00:00+00:00,"Nov 13, 2026 at 2:00 PM",78
+government jobs,US,now 7-d,2026-11-13T07:00:00+00:00,"Nov 13, 2026 at 3:00 PM",78
+government jobs,US,now 7-d,2026-11-13T08:00:00+00:00,"Nov 13, 2026 at 4:00 PM",53
+government jobs,US,now 7-d,2026-11-13T09:00:00+00:00,"Nov 13, 2026 at 5:00 PM",71
+government jobs,US,now 7-d,2026-11-13T10:00:00+00:00,"Nov 13, 2026 at 6:00 PM",55
+government jobs,US,now 7-d,2026-11-13T11:00:00+00:00,"Nov 13, 2026 at 7:00 PM",44
+government jobs,US,now 7-d,2026-11-13T12:00:00+00:00,"Nov 13, 2026 at 8:00 PM",51
+government jobs,US,now 7-d,2026-11-13T13:00:00+00:00,"Nov 13, 2026 at 9:00 PM",63
+government jobs,US,now 7-d,2026-11-13T14:00:00+00:00,"Nov 13, 2026 at 10:00 PM",72
+government jobs,US,now 7-d,2026-11-13T15:00:00+00:00,"Nov 13, 2026 at 11:00 PM",73
+government jobs,US,now 7-d,2026-11-13T16:00:00+00:00,"Nov 14, 2026 at 12:00 AM",79
+government jobs,US,now 7-d,2026-11-13T17:00:00+00:00,"Nov 14, 2026 at 1:00 AM",84
+government jobs,US,now 7-d,2026-11-13T18:00:00+00:00,"Nov 14, 2026 at 2:00 AM",71
+government jobs,US,now 7-d,2026-11-13T19:00:00+00:00,"Nov 14, 2026 at 3:00 AM",77
+government jobs,US,now 7-d,2026-11-13T20:00:00+00:00,"Nov 14, 2026 at 4:00 AM",78
+government jobs,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",61
+government jobs,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",50
+government jobs,US,now 7-d,2026-11-13T23:00:00+00:00,"Nov 14, 2026 at 7:00 AM",51
+government jobs,US,now 7-d,2026-11-14T00:00:00+00:00,"Nov 14, 2026 at 8:00 AM",48
+government jobs,US,now 7-d,2026-11-14T01:00:00+00:00,"Nov 14, 2026 at 9:00 AM",46
+government jobs,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",43
+government jobs,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",47
+government jobs,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",55
+government jobs,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",63
+government jobs,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",64
+government jobs,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",58
+government jobs,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",60
+government jobs,US,now 7-d,2026-11-14T09:00:00+00:00,"Nov 14, 2026 at 5:00 PM",67
+government jobs,US,now 7-d,2026-11-14T10:00:00+00:00,"Nov 14, 2026 at 6:00 PM",48
+government jobs,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",57
+government jobs,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",51
+government jobs,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",37
+government jobs,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",40
+government jobs,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",36
+government jobs,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",41
+government jobs,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",40
+government jobs,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",41
+government jobs,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",38
+government jobs,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",38
+government jobs,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",41
+government jobs,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",39
+government jobs,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",41
+government jobs,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",39
+government jobs,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",38
+government jobs,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",44
+government jobs,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",43
+government jobs,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",47
+government jobs,US,now 7-d,2026-11-15T05:00:00+00:00,"Nov 15, 2026 at 1:00 PM",47
+government jobs,US,now 7-d,2026-11-15T06:00:00+00:00,"Nov 15, 2026 at 2:00 PM",55
+government jobs,US,now 7-d,2026-11-15T07:00:00+00:00,"Nov 15, 2026 at 3:00 PM",54
+government jobs,US,now 7-d,2026-11-15T08:00:00+00:00,"Nov 15, 2026 at 4:00 PM",56
+government jobs,US,now 7-d,2026-11-15T09:00:00+00:00,"Nov 15, 2026 at 5:00 PM",59
+government jobs,US,now 7-d,2026-11-15T10:00:00+00:00,"Nov 15, 2026 at 6:00 PM",44
+government jobs,US,now 7-d,2026-11-15T11:00:00+00:00,"Nov 15, 2026 at 7:00 PM",50
+government jobs,US,now 7-d,2026-11-15T12:00:00+00:00,"Nov 15, 2026 at 8:00 PM",48
+government jobs,US,now 7-d,2026-11-15T13:00:00+00:00,"Nov 15, 2026 at 9:00 PM",41
+government jobs,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",39
+government jobs,US,now 7-d,2026-11-15T15:00:00+00:00,"Nov 15, 2026 at 11:00 PM",38
+government jobs,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",44
+government jobs,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",44
+government jobs,US,now 7-d,2026-11-15T18:00:00+00:00,"Nov 16, 2026 at 2:00 AM",47
+government jobs,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",44
+government jobs,US,now 7-d,2026-11-15T20:00:00+00:00,"Nov 16, 2026 at 4:00 AM",44
+government jobs,US,now 7-d,2026-11-15T21:00:00+00:00,"Nov 16, 2026 at 5:00 AM",39
+government jobs,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",42
+government jobs,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",45
+government jobs,US,now 7-d,2026-11-16T00:00:00+00:00,"Nov 16, 2026 at 8:00 AM",43
+government jobs,US,now 7-d,2026-11-16T01:00:00+00:00,"Nov 16, 2026 at 9:00 AM",54
+government jobs,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",53
+government jobs,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",58
+government jobs,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",63
+government jobs,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",75
+government jobs,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",83
+government jobs,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",56
+government jobs,US,now 7-d,2026-11-16T08:00:00+00:00,"Nov 16, 2026 at 4:00 PM",76
+government jobs,US,now 7-d,2026-11-16T09:00:00+00:00,"Nov 16, 2026 at 5:00 PM",50
+government jobs,US,now 7-d,2026-11-16T10:00:00+00:00,"Nov 16, 2026 at 6:00 PM",57
+government jobs,US,now 7-d,2026-11-16T11:00:00+00:00,"Nov 16, 2026 at 7:00 PM",41
+government jobs,US,now 7-d,2026-11-16T12:00:00+00:00,"Nov 16, 2026 at 8:00 PM",45
+government jobs,US,now 7-d,2026-11-16T13:00:00+00:00,"Nov 16, 2026 at 9:00 PM",55
+government jobs,US,now 7-d,2026-11-16T14:00:00+00:00,"Nov 16, 2026 at 10:00 PM",79
+government jobs,US,now 7-d,2026-11-16T15:00:00+00:00,"Nov 16, 2026 at 11:00 PM",83
+government jobs,US,now 7-d,2026-11-16T16:00:00+00:00,"Nov 17, 2026 at 12:00 AM",78
+government jobs,US,now 7-d,2026-11-16T17:00:00+00:00,"Nov 17, 2026 at 1:00 AM",79
+government jobs,US,now 7-d,2026-11-16T18:00:00+00:00,"Nov 17, 2026 at 2:00 AM",87
+government jobs,US,now 7-d,2026-11-16T19:00:00+00:00,"Nov 17, 2026 at 3:00 AM",80
+government jobs,US,now 7-d,2026-11-16T20:00:00+00:00,"Nov 17, 2026 at 4:00 AM",75
+government jobs,US,now 7-d,2026-11-16T21:00:00+00:00,"Nov 17, 2026 at 5:00 AM",77
+government jobs,US,now 7-d,2026-11-16T22:00:00+00:00,"Nov 17, 2026 at 6:00 AM",66
+government jobs,US,now 7-d,2026-11-16T23:00:00+00:00,"Nov 17, 2026 at 7:00 AM",64
+government jobs,US,now 7-d,2026-11-17T00:00:00+00:00,"Nov 17, 2026 at 8:00 AM",65
+government jobs,US,now 7-d,2026-11-17T01:00:00+00:00,"Nov 17, 2026 at 9:00 AM",54
+government jobs,US,now 7-d,2026-11-17T02:00:00+00:00,"Nov 17, 2026 at 10:00 AM",62
+government jobs,US,now 7-d,2026-11-17T03:00:00+00:00,"Nov 17, 2026 at 11:00 AM",75
+government jobs,US,now 7-d,2026-11-17T04:00:00+00:00,"Nov 17, 2026 at 12:00 PM",73
+government jobs,US,now 7-d,2026-11-17T05:00:00+00:00,"Nov 17, 2026 at 1:00 PM",72
+government jobs,US,now 7-d,2026-11-17T06:00:00+00:00,"Nov 17, 2026 at 2:00 PM",80
+government jobs,US,now 7-d,2026-11-17T07:00:00+00:00,"Nov 17, 2026 at 3:00 PM",74
+government jobs,US,now 7-d,2026-11-17T08:00:00+00:00,"Nov 17, 2026 at 4:00 PM",92
+pluto,US,now 7-d,2026-11-10T08:00:00+00:00,"Nov 10, 2026 at 4:00 PM",100
+pluto,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",94
+pluto,US,now 7-d,2026-11-10T10:00:00+00:00,"Nov 10, 2026 at 6:00 PM",73
+pluto,US,now 7-d,2026-11-10T11:00:00+00:00,"Nov 10, 2026 at 7:00 PM",76
+pluto,US,now 7-d,2026-11-10T12:00:00+00:00,"Nov 10, 2026 at 8:00 PM",62
+pluto,US,now 7-d,2026-11-10T13:00:00+00:00,"Nov 10, 2026 at 9:00 PM",60
+pluto,US,now 7-d,2026-11-10T14:00:00+00:00,"Nov 10, 2026 at 10:00 PM",54
+pluto,US,now 7-d,2026-11-10T15:00:00+00:00,"Nov 10, 2026 at 11:00 PM",57
+pluto,US,now 7-d,2026-11-10T16:00:00+00:00,"Nov 11, 2026 at 12:00 AM",55
+pluto,US,now 7-d,2026-11-10T17:00:00+00:00,"Nov 11, 2026 at 1:00 AM",61
+pluto,US,now 7-d,2026-11-10T18:00:00+00:00,"Nov 11, 2026 at 2:00 AM",60
+pluto,US,now 7-d,2026-11-10T19:00:00+00:00,"Nov 11, 2026 at 3:00 AM",55
+pluto,US,now 7-d,2026-11-10T20:00:00+00:00,"Nov 11, 2026 at 4:00 AM",57
+pluto,US,now 7-d,2026-11-10T21:00:00+00:00,"Nov 11, 2026 at 5:00 AM",49
+pluto,US,now 7-d,2026-11-10T22:00:00+00:00,"Nov 11, 2026 at 6:00 AM",57
+pluto,US,now 7-d,2026-11-10T23:00:00+00:00,"Nov 11, 2026 at 7:00 AM",59
+pluto,US,now 7-d,2026-11-11T00:00:00+00:00,"Nov 11, 2026 at 8:00 AM",66
+pluto,US,now 7-d,2026-11-11T01:00:00+00:00,"Nov 11, 2026 at 9:00 AM",72
+pluto,US,now 7-d,2026-11-11T02:00:00+00:00,"Nov 11, 2026 at 10:00 AM",74
+pluto,US,now 7-d,2026-11-11T03:00:00+00:00,"Nov 11, 2026 at 11:00 AM",77
+pluto,US,now 7-d,2026-11-11T04:00:00+00:00,"Nov 11, 2026 at 12:00 PM",80
+pluto,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",85
+pluto,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",79
+pluto,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",87
+pluto,US,now 7-d,2026-11-11T08:00:00+00:00,"Nov 11, 2026 at 4:00 PM",86
+pluto,US,now 7-d,2026-11-11T09:00:00+00:00,"Nov 11, 2026 at 5:00 PM",88
+pluto,US,now 7-d,2026-11-11T10:00:00+00:00,"Nov 11, 2026 at 6:00 PM",75
+pluto,US,now 7-d,2026-11-11T11:00:00+00:00,"Nov 11, 2026 at 7:00 PM",61
+pluto,US,now 7-d,2026-11-11T12:00:00+00:00,"Nov 11, 2026 at 8:00 PM",46
+pluto,US,now 7-d,2026-11-11T13:00:00+00:00,"Nov 11, 2026 at 9:00 PM",48
+pluto,US,now 7-d,2026-11-11T14:00:00+00:00,"Nov 11, 2026 at 10:00 PM",53
+pluto,US,now 7-d,2026-11-11T15:00:00+00:00,"Nov 11, 2026 at 11:00 PM",52
+pluto,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",53
+pluto,US,now 7-d,2026-11-11T17:00:00+00:00,"Nov 12, 2026 at 1:00 AM",53
+pluto,US,now 7-d,2026-11-11T18:00:00+00:00,"Nov 12, 2026 at 2:00 AM",54
+pluto,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",53
+pluto,US,now 7-d,2026-11-11T20:00:00+00:00,"Nov 12, 2026 at 4:00 AM",51
+pluto,US,now 7-d,2026-11-11T21:00:00+00:00,"Nov 12, 2026 at 5:00 AM",53
+pluto,US,now 7-d,2026-11-11T22:00:00+00:00,"Nov 12, 2026 at 6:00 AM",52
+pluto,US,now 7-d,2026-11-11T23:00:00+00:00,"Nov 12, 2026 at 7:00 AM",56
+pluto,US,now 7-d,2026-11-12T00:00:00+00:00,"Nov 12, 2026 at 8:00 AM",65
+pluto,US,now 7-d,2026-11-12T01:00:00+00:00,"Nov 12, 2026 at 9:00 AM",72
+pluto,US,now 7-d,2026-11-12T02:00:00+00:00,"Nov 12, 2026 at 10:00 AM",74
+pluto,US,now 7-d,2026-11-12T03:00:00+00:00,"Nov 12, 2026 at 11:00 AM",77
+pluto,US,now 7-d,2026-11-12T04:00:00+00:00,"Nov 12, 2026 at 12:00 PM",89
+pluto,US,now 7-d,2026-11-12T05:00:00+00:00,"Nov 12, 2026 at 1:00 PM",86
+pluto,US,now 7-d,2026-11-12T06:00:00+00:00,"Nov 12, 2026 at 2:00 PM",90
+pluto,US,now 7-d,2026-11-12T07:00:00+00:00,"Nov 12, 2026 at 3:00 PM",72
+pluto,US,now 7-d,2026-11-12T08:00:00+00:00,"Nov 12, 2026 at 4:00 PM",72
+pluto,US,now 7-d,2026-11-12T09:00:00+00:00,"Nov 12, 2026 at 5:00 PM",77
+pluto,US,now 7-d,2026-11-12T10:00:00+00:00,"Nov 12, 2026 at 6:00 PM",58
+pluto,US,now 7-d,2026-11-12T11:00:00+00:00,"Nov 12, 2026 at 7:00 PM",51
+pluto,US,now 7-d,2026-11-12T12:00:00+00:00,"Nov 12, 2026 at 8:00 PM",50
+pluto,US,now 7-d,2026-11-12T13:00:00+00:00,"Nov 12, 2026 at 9:00 PM",51
+pluto,US,now 7-d,2026-11-12T14:00:00+00:00,"Nov 12, 2026 at 10:00 PM",54
+pluto,US,now 7-d,2026-11-12T15:00:00+00:00,"Nov 12, 2026 at 11:00 PM",52
+pluto,US,now 7-d,2026-11-12T16:00:00+00:00,"Nov 13, 2026 at 12:00 AM",54
+pluto,US,now 7-d,2026-11-12T17:00:00+00:00,"Nov 13, 2026 at 1:00 AM",52
+pluto,US,now 7-d,2026-11-12T18:00:00+00:00,"Nov 13, 2026 at 2:00 AM",55
+pluto,US,now 7-d,2026-11-12T19:00:00+00:00,"Nov 13, 2026 at 3:00 AM",53
+pluto,US,now 7-d,2026-11-12T20:00:00+00:00,"Nov 13, 2026 at 4:00 AM",50
+pluto,US,now 7-d,2026-11-12T21:00:00+00:00,"Nov 13, 2026 at 5:00 AM",52
+pluto,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",52
+pluto,US,now 7-d,2026-11-12T23:00:00+00:00,"Nov 13, 2026 at 7:00 AM",55
+pluto,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",60
+pluto,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",64
+pluto,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",63
+pluto,US,now 7-d,2026-11-13T03:00:00+00:00,"Nov 13, 2026 at 11:00 AM",63
+pluto,US,now 7-d,2026-11-13T04:00:00+00:00,"Nov 13, 2026 at 12:00 PM",68
+pluto,US,now 7-d,2026-11-13T05:00:00+00:00,"Nov 13, 2026 at 1:00 PM",77
+pluto,US,now 7-d,2026-11-13T06:00:00+00:00,"Nov 13, 2026 at 2:00 PM",83
+pluto,US,now 7-d,2026-11-13T07:00:00+00:00,"Nov 13, 2026 at 3:00 PM",73
+pluto,US,now 7-d,2026-11-13T08:00:00+00:00,"Nov 13, 2026 at 4:00 PM",77
+pluto,US,now 7-d,2026-11-13T09:00:00+00:00,"Nov 13, 2026 at 5:00 PM",75
+pluto,US,now 7-d,2026-11-13T10:00:00+00:00,"Nov 13, 2026 at 6:00 PM",54
+pluto,US,now 7-d,2026-11-13T11:00:00+00:00,"Nov 13, 2026 at 7:00 PM",42
+pluto,US,now 7-d,2026-11-13T12:00:00+00:00,"Nov 13, 2026 at 8:00 PM",46
+pluto,US,now 7-d,2026-11-13T13:00:00+00:00,"Nov 13, 2026 at 9:00 PM",47
+pluto,US,now 7-d,2026-11-13T14:00:00+00:00,"Nov 13, 2026 at 10:00 PM",51
+pluto,US,now 7-d,2026-11-13T15:00:00+00:00,"Nov 13, 2026 at 11:00 PM",52
+pluto,US,now 7-d,2026-11-13T16:00:00+00:00,"Nov 14, 2026 at 12:00 AM",55
+pluto,US,now 7-d,2026-11-13T17:00:00+00:00,"Nov 14, 2026 at 1:00 AM",54
+pluto,US,now 7-d,2026-11-13T18:00:00+00:00,"Nov 14, 2026 at 2:00 AM",55
+pluto,US,now 7-d,2026-11-13T19:00:00+00:00,"Nov 14, 2026 at 3:00 AM",59
+pluto,US,now 7-d,2026-11-13T20:00:00+00:00,"Nov 14, 2026 at 4:00 AM",52
+pluto,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",46
+pluto,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",49
+pluto,US,now 7-d,2026-11-13T23:00:00+00:00,"Nov 14, 2026 at 7:00 AM",55
+pluto,US,now 7-d,2026-11-14T00:00:00+00:00,"Nov 14, 2026 at 8:00 AM",63
+pluto,US,now 7-d,2026-11-14T01:00:00+00:00,"Nov 14, 2026 at 9:00 AM",62
+pluto,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",71
+pluto,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",76
+pluto,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",76
+pluto,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",76
+pluto,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",87
+pluto,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",88
+pluto,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",93
+pluto,US,now 7-d,2026-11-14T09:00:00+00:00,"Nov 14, 2026 at 5:00 PM",86
+pluto,US,now 7-d,2026-11-14T10:00:00+00:00,"Nov 14, 2026 at 6:00 PM",81
+pluto,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",59
+pluto,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",53
+pluto,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",45
+pluto,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",45
+pluto,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",46
+pluto,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",47
+pluto,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",48
+pluto,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",47
+pluto,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",52
+pluto,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",50
+pluto,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",50
+pluto,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",57
+pluto,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",63
+pluto,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",67
+pluto,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",73
+pluto,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",73
+pluto,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",74
+pluto,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",78
+pluto,US,now 7-d,2026-11-15T05:00:00+00:00,"Nov 15, 2026 at 1:00 PM",88
+pluto,US,now 7-d,2026-11-15T06:00:00+00:00,"Nov 15, 2026 at 2:00 PM",78
+pluto,US,now 7-d,2026-11-15T07:00:00+00:00,"Nov 15, 2026 at 3:00 PM",85
+pluto,US,now 7-d,2026-11-15T08:00:00+00:00,"Nov 15, 2026 at 4:00 PM",81
+pluto,US,now 7-d,2026-11-15T09:00:00+00:00,"Nov 15, 2026 at 5:00 PM",92
+pluto,US,now 7-d,2026-11-15T10:00:00+00:00,"Nov 15, 2026 at 6:00 PM",82
+pluto,US,now 7-d,2026-11-15T11:00:00+00:00,"Nov 15, 2026 at 7:00 PM",59
+pluto,US,now 7-d,2026-11-15T12:00:00+00:00,"Nov 15, 2026 at 8:00 PM",50
+pluto,US,now 7-d,2026-11-15T13:00:00+00:00,"Nov 15, 2026 at 9:00 PM",46
+pluto,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",43
+pluto,US,now 7-d,2026-11-15T15:00:00+00:00,"Nov 15, 2026 at 11:00 PM",46
+pluto,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",45
+pluto,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",45
+pluto,US,now 7-d,2026-11-15T18:00:00+00:00,"Nov 16, 2026 at 2:00 AM",49
+pluto,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",51
+pluto,US,now 7-d,2026-11-15T20:00:00+00:00,"Nov 16, 2026 at 4:00 AM",48
+pluto,US,now 7-d,2026-11-15T21:00:00+00:00,"Nov 16, 2026 at 5:00 AM",51
+pluto,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",57
+pluto,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",63
+pluto,US,now 7-d,2026-11-16T00:00:00+00:00,"Nov 16, 2026 at 8:00 AM",68
+pluto,US,now 7-d,2026-11-16T01:00:00+00:00,"Nov 16, 2026 at 9:00 AM",67
+pluto,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",74
+pluto,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",81
+pluto,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",88
+pluto,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",89
+pluto,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",82
+pluto,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",79
+pluto,US,now 7-d,2026-11-16T08:00:00+00:00,"Nov 16, 2026 at 4:00 PM",90
+pluto,US,now 7-d,2026-11-16T09:00:00+00:00,"Nov 16, 2026 at 5:00 PM",81
+pluto,US,now 7-d,2026-11-16T10:00:00+00:00,"Nov 16, 2026 at 6:00 PM",55
+pluto,US,now 7-d,2026-11-16T11:00:00+00:00,"Nov 16, 2026 at 7:00 PM",43
+pluto,US,now 7-d,2026-11-16T12:00:00+00:00,"Nov 16, 2026 at 8:00 PM",43
+pluto,US,now 7-d,2026-11-16T13:00:00+00:00,"Nov 16, 2026 at 9:00 PM",45
+pluto,US,now 7-d,2026-11-16T14:00:00+00:00,"Nov 16, 2026 at 10:00 PM",45
+pluto,US,now 7-d,2026-11-16T15:00:00+00:00,"Nov 16, 2026 at 11:00 PM",48
+pluto,US,now 7-d,2026-11-16T16:00:00+00:00,"Nov 17, 2026 at 12:00 AM",47
+pluto,US,now 7-d,2026-11-16T17:00:00+00:00,"Nov 17, 2026 at 1:00 AM",49
+pluto,US,now 7-d,2026-11-16T18:00:00+00:00,"Nov 17, 2026 at 2:00 AM",48
+pluto,US,now 7-d,2026-11-16T19:00:00+00:00,"Nov 17, 2026 at 3:00 AM",46
+pluto,US,now 7-d,2026-11-16T20:00:00+00:00,"Nov 17, 2026 at 4:00 AM",43
+pluto,US,now 7-d,2026-11-16T21:00:00+00:00,"Nov 17, 2026 at 5:00 AM",43
+pluto,US,now 7-d,2026-11-16T22:00:00+00:00,"Nov 17, 2026 at 6:00 AM",50
+pluto,US,now 7-d,2026-11-16T23:00:00+00:00,"Nov 17, 2026 at 7:00 AM",53
+pluto,US,now 7-d,2026-11-17T00:00:00+00:00,"Nov 17, 2026 at 8:00 AM",57
+pluto,US,now 7-d,2026-11-17T01:00:00+00:00,"Nov 17, 2026 at 9:00 AM",59
+pluto,US,now 7-d,2026-11-17T02:00:00+00:00,"Nov 17, 2026 at 10:00 AM",60
+pluto,US,now 7-d,2026-11-17T03:00:00+00:00,"Nov 17, 2026 at 11:00 AM",62
+pluto,US,now 7-d,2026-11-17T04:00:00+00:00,"Nov 17, 2026 at 12:00 PM",66
+pluto,US,now 7-d,2026-11-17T05:00:00+00:00,"Nov 17, 2026 at 1:00 PM",76
+pluto,US,now 7-d,2026-11-17T06:00:00+00:00,"Nov 17, 2026 at 2:00 PM",78
+pluto,US,now 7-d,2026-11-17T07:00:00+00:00,"Nov 17, 2026 at 3:00 PM",71
+pluto,US,now 7-d,2026-11-17T08:00:00+00:00,"Nov 17, 2026 at 4:00 PM",81
+sam claflin,US,now 7-d,2026-11-10T08:00:00+00:00,"Nov 10, 2026 at 4:00 PM",73
+sam claflin,US,now 7-d,2026-11-10T09:00:00+00:00,"Nov 10, 2026 at 5:00 PM",49
+sam claflin,US,now 7-d,2026-11-10T10:00:00+00:00,"Nov 10, 2026 at 6:00 PM",46
+sam claflin,US,now 7-d,2026-11-10T11:00:00+00:00,"Nov 10, 2026 at 7:00 PM",35
+sam claflin,US,now 7-d,2026-11-10T12:00:00+00:00,"Nov 10, 2026 at 8:00 PM",59
+sam claflin,US,now 7-d,2026-11-10T13:00:00+00:00,"Nov 10, 2026 at 9:00 PM",36
+sam claflin,US,now 7-d,2026-11-10T14:00:00+00:00,"Nov 10, 2026 at 10:00 PM",44
+sam claflin,US,now 7-d,2026-11-10T15:00:00+00:00,"Nov 10, 2026 at 11:00 PM",43
+sam claflin,US,now 7-d,2026-11-10T16:00:00+00:00,"Nov 11, 2026 at 12:00 AM",26
+sam claflin,US,now 7-d,2026-11-10T17:00:00+00:00,"Nov 11, 2026 at 1:00 AM",25
+sam claflin,US,now 7-d,2026-11-10T18:00:00+00:00,"Nov 11, 2026 at 2:00 AM",28
+sam claflin,US,now 7-d,2026-11-10T19:00:00+00:00,"Nov 11, 2026 at 3:00 AM",23
+sam claflin,US,now 7-d,2026-11-10T20:00:00+00:00,"Nov 11, 2026 at 4:00 AM",30
+sam claflin,US,now 7-d,2026-11-10T21:00:00+00:00,"Nov 11, 2026 at 5:00 AM",35
+sam claflin,US,now 7-d,2026-11-10T22:00:00+00:00,"Nov 11, 2026 at 6:00 AM",37
+sam claflin,US,now 7-d,2026-11-10T23:00:00+00:00,"Nov 11, 2026 at 7:00 AM",31
+sam claflin,US,now 7-d,2026-11-11T00:00:00+00:00,"Nov 11, 2026 at 8:00 AM",42
+sam claflin,US,now 7-d,2026-11-11T01:00:00+00:00,"Nov 11, 2026 at 9:00 AM",67
+sam claflin,US,now 7-d,2026-11-11T02:00:00+00:00,"Nov 11, 2026 at 10:00 AM",65
+sam claflin,US,now 7-d,2026-11-11T03:00:00+00:00,"Nov 11, 2026 at 11:00 AM",73
+sam claflin,US,now 7-d,2026-11-11T04:00:00+00:00,"Nov 11, 2026 at 12:00 PM",95
+sam claflin,US,now 7-d,2026-11-11T05:00:00+00:00,"Nov 11, 2026 at 1:00 PM",84
+sam claflin,US,now 7-d,2026-11-11T06:00:00+00:00,"Nov 11, 2026 at 2:00 PM",82
+sam claflin,US,now 7-d,2026-11-11T07:00:00+00:00,"Nov 11, 2026 at 3:00 PM",100
+sam claflin,US,now 7-d,2026-11-11T09:00:00+00:00,"Nov 11, 2026 at 5:00 PM",68
+sam claflin,US,now 7-d,2026-11-11T11:00:00+00:00,"Nov 11, 2026 at 7:00 PM",38
+sam claflin,US,now 7-d,2026-11-11T12:00:00+00:00,"Nov 11, 2026 at 8:00 PM",26
+sam claflin,US,now 7-d,2026-11-11T13:00:00+00:00,"Nov 11, 2026 at 9:00 PM",32
+sam claflin,US,now 7-d,2026-11-11T14:00:00+00:00,"Nov 11, 2026 at 10:00 PM",32
+sam claflin,US,now 7-d,2026-11-11T15:00:00+00:00,"Nov 11, 2026 at 11:00 PM",27
+sam claflin,US,now 7-d,2026-11-11T16:00:00+00:00,"Nov 12, 2026 at 12:00 AM",19
+sam claflin,US,now 7-d,2026-11-11T17:00:00+00:00,"Nov 12, 2026 at 1:00 AM",28
+sam claflin,US,now 7-d,2026-11-11T18:00:00+00:00,"Nov 12, 2026 at 2:00 AM",33
+sam claflin,US,now 7-d,2026-11-11T19:00:00+00:00,"Nov 12, 2026 at 3:00 AM",27
+sam claflin,US,now 7-d,2026-11-11T20:00:00+00:00,"Nov 12, 2026 at 4:00 AM",23
+sam claflin,US,now 7-d,2026-11-11T21:00:00+00:00,"Nov 12, 2026 at 5:00 AM",26
+sam claflin,US,now 7-d,2026-11-11T22:00:00+00:00,"Nov 12, 2026 at 6:00 AM",28
+sam claflin,US,now 7-d,2026-11-11T23:00:00+00:00,"Nov 12, 2026 at 7:00 AM",35
+sam claflin,US,now 7-d,2026-11-12T00:00:00+00:00,"Nov 12, 2026 at 8:00 AM",40
+sam claflin,US,now 7-d,2026-11-12T01:00:00+00:00,"Nov 12, 2026 at 9:00 AM",43
+sam claflin,US,now 7-d,2026-11-12T02:00:00+00:00,"Nov 12, 2026 at 10:00 AM",41
+sam claflin,US,now 7-d,2026-11-12T03:00:00+00:00,"Nov 12, 2026 at 11:00 AM",63
+sam claflin,US,now 7-d,2026-11-12T04:00:00+00:00,"Nov 12, 2026 at 12:00 PM",52
+sam claflin,US,now 7-d,2026-11-12T05:00:00+00:00,"Nov 12, 2026 at 1:00 PM",50
+sam claflin,US,now 7-d,2026-11-12T06:00:00+00:00,"Nov 12, 2026 at 2:00 PM",53
+sam claflin,US,now 7-d,2026-11-12T07:00:00+00:00,"Nov 12, 2026 at 3:00 PM",59
+sam claflin,US,now 7-d,2026-11-12T08:00:00+00:00,"Nov 12, 2026 at 4:00 PM",39
+sam claflin,US,now 7-d,2026-11-12T13:00:00+00:00,"Nov 12, 2026 at 9:00 PM",12
+sam claflin,US,now 7-d,2026-11-12T14:00:00+00:00,"Nov 12, 2026 at 10:00 PM",26
+sam claflin,US,now 7-d,2026-11-12T15:00:00+00:00,"Nov 12, 2026 at 11:00 PM",37
+sam claflin,US,now 7-d,2026-11-12T16:00:00+00:00,"Nov 13, 2026 at 12:00 AM",30
+sam claflin,US,now 7-d,2026-11-12T17:00:00+00:00,"Nov 13, 2026 at 1:00 AM",38
+sam claflin,US,now 7-d,2026-11-12T18:00:00+00:00,"Nov 13, 2026 at 2:00 AM",33
+sam claflin,US,now 7-d,2026-11-12T19:00:00+00:00,"Nov 13, 2026 at 3:00 AM",33
+sam claflin,US,now 7-d,2026-11-12T20:00:00+00:00,"Nov 13, 2026 at 4:00 AM",33
+sam claflin,US,now 7-d,2026-11-12T21:00:00+00:00,"Nov 13, 2026 at 5:00 AM",36
+sam claflin,US,now 7-d,2026-11-12T22:00:00+00:00,"Nov 13, 2026 at 6:00 AM",35
+sam claflin,US,now 7-d,2026-11-12T23:00:00+00:00,"Nov 13, 2026 at 7:00 AM",35
+sam claflin,US,now 7-d,2026-11-13T00:00:00+00:00,"Nov 13, 2026 at 8:00 AM",41
+sam claflin,US,now 7-d,2026-11-13T01:00:00+00:00,"Nov 13, 2026 at 9:00 AM",53
+sam claflin,US,now 7-d,2026-11-13T02:00:00+00:00,"Nov 13, 2026 at 10:00 AM",58
+sam claflin,US,now 7-d,2026-11-13T03:00:00+00:00,"Nov 13, 2026 at 11:00 AM",59
+sam claflin,US,now 7-d,2026-11-13T04:00:00+00:00,"Nov 13, 2026 at 12:00 PM",55
+sam claflin,US,now 7-d,2026-11-13T05:00:00+00:00,"Nov 13, 2026 at 1:00 PM",80
+sam claflin,US,now 7-d,2026-11-13T06:00:00+00:00,"Nov 13, 2026 at 2:00 PM",65
+sam claflin,US,now 7-d,2026-11-13T07:00:00+00:00,"Nov 13, 2026 at 3:00 PM",60
+sam claflin,US,now 7-d,2026-11-13T08:00:00+00:00,"Nov 13, 2026 at 4:00 PM",71
+sam claflin,US,now 7-d,2026-11-13T09:00:00+00:00,"Nov 13, 2026 at 5:00 PM",49
+sam claflin,US,now 7-d,2026-11-13T10:00:00+00:00,"Nov 13, 2026 at 6:00 PM",49
+sam claflin,US,now 7-d,2026-11-13T11:00:00+00:00,"Nov 13, 2026 at 7:00 PM",51
+sam claflin,US,now 7-d,2026-11-13T12:00:00+00:00,"Nov 13, 2026 at 8:00 PM",39
+sam claflin,US,now 7-d,2026-11-13T13:00:00+00:00,"Nov 13, 2026 at 9:00 PM",52
+sam claflin,US,now 7-d,2026-11-13T14:00:00+00:00,"Nov 13, 2026 at 10:00 PM",30
+sam claflin,US,now 7-d,2026-11-13T15:00:00+00:00,"Nov 13, 2026 at 11:00 PM",22
+sam claflin,US,now 7-d,2026-11-13T16:00:00+00:00,"Nov 14, 2026 at 12:00 AM",22
+sam claflin,US,now 7-d,2026-11-13T17:00:00+00:00,"Nov 14, 2026 at 1:00 AM",28
+sam claflin,US,now 7-d,2026-11-13T18:00:00+00:00,"Nov 14, 2026 at 2:00 AM",23
+sam claflin,US,now 7-d,2026-11-13T19:00:00+00:00,"Nov 14, 2026 at 3:00 AM",20
+sam claflin,US,now 7-d,2026-11-13T20:00:00+00:00,"Nov 14, 2026 at 4:00 AM",28
+sam claflin,US,now 7-d,2026-11-13T21:00:00+00:00,"Nov 14, 2026 at 5:00 AM",22
+sam claflin,US,now 7-d,2026-11-13T22:00:00+00:00,"Nov 14, 2026 at 6:00 AM",23
+sam claflin,US,now 7-d,2026-11-13T23:00:00+00:00,"Nov 14, 2026 at 7:00 AM",30
+sam claflin,US,now 7-d,2026-11-14T00:00:00+00:00,"Nov 14, 2026 at 8:00 AM",40
+sam claflin,US,now 7-d,2026-11-14T01:00:00+00:00,"Nov 14, 2026 at 9:00 AM",43
+sam claflin,US,now 7-d,2026-11-14T02:00:00+00:00,"Nov 14, 2026 at 10:00 AM",60
+sam claflin,US,now 7-d,2026-11-14T03:00:00+00:00,"Nov 14, 2026 at 11:00 AM",74
+sam claflin,US,now 7-d,2026-11-14T04:00:00+00:00,"Nov 14, 2026 at 12:00 PM",77
+sam claflin,US,now 7-d,2026-11-14T05:00:00+00:00,"Nov 14, 2026 at 1:00 PM",83
+sam claflin,US,now 7-d,2026-11-14T06:00:00+00:00,"Nov 14, 2026 at 2:00 PM",56
+sam claflin,US,now 7-d,2026-11-14T07:00:00+00:00,"Nov 14, 2026 at 3:00 PM",62
+sam claflin,US,now 7-d,2026-11-14T08:00:00+00:00,"Nov 14, 2026 at 4:00 PM",49
+sam claflin,US,now 7-d,2026-11-14T10:00:00+00:00,"Nov 14, 2026 at 6:00 PM",44
+sam claflin,US,now 7-d,2026-11-14T11:00:00+00:00,"Nov 14, 2026 at 7:00 PM",59
+sam claflin,US,now 7-d,2026-11-14T12:00:00+00:00,"Nov 14, 2026 at 8:00 PM",34
+sam claflin,US,now 7-d,2026-11-14T13:00:00+00:00,"Nov 14, 2026 at 9:00 PM",28
+sam claflin,US,now 7-d,2026-11-14T14:00:00+00:00,"Nov 14, 2026 at 10:00 PM",23
+sam claflin,US,now 7-d,2026-11-14T15:00:00+00:00,"Nov 14, 2026 at 11:00 PM",30
+sam claflin,US,now 7-d,2026-11-14T16:00:00+00:00,"Nov 15, 2026 at 12:00 AM",22
+sam claflin,US,now 7-d,2026-11-14T17:00:00+00:00,"Nov 15, 2026 at 1:00 AM",24
+sam claflin,US,now 7-d,2026-11-14T18:00:00+00:00,"Nov 15, 2026 at 2:00 AM",31
+sam claflin,US,now 7-d,2026-11-14T19:00:00+00:00,"Nov 15, 2026 at 3:00 AM",24
+sam claflin,US,now 7-d,2026-11-14T20:00:00+00:00,"Nov 15, 2026 at 4:00 AM",30
+sam claflin,US,now 7-d,2026-11-14T21:00:00+00:00,"Nov 15, 2026 at 5:00 AM",27
+sam claflin,US,now 7-d,2026-11-14T22:00:00+00:00,"Nov 15, 2026 at 6:00 AM",27
+sam claflin,US,now 7-d,2026-11-14T23:00:00+00:00,"Nov 15, 2026 at 7:00 AM",35
+sam claflin,US,now 7-d,2026-11-15T00:00:00+00:00,"Nov 15, 2026 at 8:00 AM",47
+sam claflin,US,now 7-d,2026-11-15T01:00:00+00:00,"Nov 15, 2026 at 9:00 AM",44
+sam claflin,US,now 7-d,2026-11-15T02:00:00+00:00,"Nov 15, 2026 at 10:00 AM",59
+sam claflin,US,now 7-d,2026-11-15T03:00:00+00:00,"Nov 15, 2026 at 11:00 AM",68
+sam claflin,US,now 7-d,2026-11-15T04:00:00+00:00,"Nov 15, 2026 at 12:00 PM",76
+sam claflin,US,now 7-d,2026-11-15T05:00:00+00:00,"Nov 15, 2026 at 1:00 PM",87
+sam claflin,US,now 7-d,2026-11-15T06:00:00+00:00,"Nov 15, 2026 at 2:00 PM",80
+sam claflin,US,now 7-d,2026-11-15T07:00:00+00:00,"Nov 15, 2026 at 3:00 PM",59
+sam claflin,US,now 7-d,2026-11-15T08:00:00+00:00,"Nov 15, 2026 at 4:00 PM",72
+sam claflin,US,now 7-d,2026-11-15T12:00:00+00:00,"Nov 15, 2026 at 8:00 PM",36
+sam claflin,US,now 7-d,2026-11-15T13:00:00+00:00,"Nov 15, 2026 at 9:00 PM",19
+sam claflin,US,now 7-d,2026-11-15T14:00:00+00:00,"Nov 15, 2026 at 10:00 PM",23
+sam claflin,US,now 7-d,2026-11-15T15:00:00+00:00,"Nov 15, 2026 at 11:00 PM",21
+sam claflin,US,now 7-d,2026-11-15T16:00:00+00:00,"Nov 16, 2026 at 12:00 AM",33
+sam claflin,US,now 7-d,2026-11-15T17:00:00+00:00,"Nov 16, 2026 at 1:00 AM",36
+sam claflin,US,now 7-d,2026-11-15T18:00:00+00:00,"Nov 16, 2026 at 2:00 AM",33
+sam claflin,US,now 7-d,2026-11-15T19:00:00+00:00,"Nov 16, 2026 at 3:00 AM",33
+sam claflin,US,now 7-d,2026-11-15T20:00:00+00:00,"Nov 16, 2026 at 4:00 AM",39
+sam claflin,US,now 7-d,2026-11-15T21:00:00+00:00,"Nov 16, 2026 at 5:00 AM",39
+sam claflin,US,now 7-d,2026-11-15T22:00:00+00:00,"Nov 16, 2026 at 6:00 AM",39
+sam claflin,US,now 7-d,2026-11-15T23:00:00+00:00,"Nov 16, 2026 at 7:00 AM",44
+sam claflin,US,now 7-d,2026-11-16T00:00:00+00:00,"Nov 16, 2026 at 8:00 AM",42
+sam claflin,US,now 7-d,2026-11-16T01:00:00+00:00,"Nov 16, 2026 at 9:00 AM",56
+sam claflin,US,now 7-d,2026-11-16T02:00:00+00:00,"Nov 16, 2026 at 10:00 AM",64
+sam claflin,US,now 7-d,2026-11-16T03:00:00+00:00,"Nov 16, 2026 at 11:00 AM",60
+sam claflin,US,now 7-d,2026-11-16T04:00:00+00:00,"Nov 16, 2026 at 12:00 PM",71
+sam claflin,US,now 7-d,2026-11-16T05:00:00+00:00,"Nov 16, 2026 at 1:00 PM",58
+sam claflin,US,now 7-d,2026-11-16T06:00:00+00:00,"Nov 16, 2026 at 2:00 PM",36
+sam claflin,US,now 7-d,2026-11-16T07:00:00+00:00,"Nov 16, 2026 at 3:00 PM",54
+sam claflin,US,now 7-d,2026-11-16T08:00:00+00:00,"Nov 16, 2026 at 4:00 PM",64
+sam claflin,US,now 7-d,2026-11-16T11:00:00+00:00,"Nov 16, 2026 at 7:00 PM",24
+sam claflin,US,now 7-d,2026-11-16T13:00:00+00:00,"Nov 16, 2026 at 9:00 PM",15
+sam claflin,US,now 7-d,2026-11-16T14:00:00+00:00,"Nov 16, 2026 at 10:00 PM",15
+sam claflin,US,now 7-d,2026-11-16T15:00:00+00:00,"Nov 16, 2026 at 11:00 PM",20
+sam claflin,US,now 7-d,2026-11-16T16:00:00+00:00,"Nov 17, 2026 at 12:00 AM",18
+sam claflin,US,now 7-d,2026-11-16T17:00:00+00:00,"Nov 17, 2026 at 1:00 AM",27
+sam claflin,US,now 7-d,2026-11-16T18:00:00+00:00,"Nov 17, 2026 at 2:00 AM",14
+sam claflin,US,now 7-d,2026-11-16T19:00:00+00:00,"Nov 17, 2026 at 3:00 AM",15
+sam claflin,US,now 7-d,2026-11-16T20:00:00+00:00,"Nov 17, 2026 at 4:00 AM",24
+sam claflin,US,now 7-d,2026-11-16T21:00:00+00:00,"Nov 17, 2026 at 5:00 AM",15
+sam claflin,US,now 7-d,2026-11-16T22:00:00+00:00,"Nov 17, 2026 at 6:00 AM",19
+sam claflin,US,now 7-d,2026-11-16T23:00:00+00:00,"Nov 17, 2026 at 7:00 AM",27
+sam claflin,US,now 7-d,2026-11-17T00:00:00+00:00,"Nov 17, 2026 at 8:00 AM",33
+sam claflin,US,now 7-d,2026-11-17T01:00:00+00:00,"Nov 17, 2026 at 9:00 AM",56
+sam claflin,US,now 7-d,2026-11-17T02:00:00+00:00,"Nov 17, 2026 at 10:00 AM",71
+sam claflin,US,now 7-d,2026-11-17T03:00:00+00:00,"Nov 17, 2026 at 11:00 AM",77
+sam claflin,US,now 7-d,2026-11-17T04:00:00+00:00,"Nov 17, 2026 at 12:00 PM",75
+sam claflin,US,now 7-d,2026-11-17T05:00:00+00:00,"Nov 17, 2026 at 1:00 PM",97
+sam claflin,US,now 7-d,2026-11-17T06:00:00+00:00,"Nov 17, 2026 at 2:00 PM",76
+sam claflin,US,now 7-d,2026-11-17T07:00:00+00:00,"Nov 17, 2026 at 3:00 PM",93
+sam claflin,US,now 7-d,2026-11-17T08:00:00+00:00,"Nov 17, 2026 at 4:00 PM",96

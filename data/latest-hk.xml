@@ -6,261 +6,282 @@
 		<link>https://trends.google.com/trending/rss?geo=HK</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=HK" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>银行</title>
+			<title>鄺球</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 22:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_aWCES9CqrYZnWNqAc53cVgKCjmKp326VwuESmuDmipWXSLjuhcOMwcBs6wg</ht:picture>
-			<ht:picture_source>新浪财经</ht:picture_source>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK-OkWDVP87aqUsfB1nxJfbDrY0qS0QLeBhn1TqlmA5W3MxBZvIBzMBGmK7eY</ht:picture>
+			<ht:picture_source>Yahoo</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>7只银行股今日创历史新高 青岛银行今年上涨超五成</ht:news_item_title>
+				<ht:news_item_title>持續更新｜蔡天鳳案Day39 鄺港傑：事發兩版本自己皆沒動手 鄺球將作供</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://cj.sina.cn/articles/view/1651428902/626ece2602001lqze</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_aWCES9CqrYZnWNqAc53cVgKCjmKp326VwuESmuDmipWXSLjuhcOMwcBs6wg</ht:news_item_picture>
-				<ht:news_item_source>新浪财经</ht:news_item_source>
+				<ht:news_item_url>https://hk.news.yahoo.com/%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%EF%BD%9C%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88day39-%E6%8E%A7%E6%96%B9%E5%88%97%E5%A4%9A%E5%80%8B%E5%9C%B0%E9%BB%9E%E5%8F%AF%E5%81%9C%E6%B3%8A-%E8%B3%AA%E7%96%91%E9%84%BA%E6%B8%AF%E5%82%91%E7%9F%A5%E8%94%A1%E5%8F%97%E8%A5%B2%E5%BE%8C%E6%B2%92%E5%8D%94%E5%8A%A9-034524109.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK-OkWDVP87aqUsfB1nxJfbDrY0qS0QLeBhn1TqlmA5W3MxBZvIBzMBGmK7eY</ht:news_item_picture>
+				<ht:news_item_source>Yahoo</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>“银伟大”继续狂飙 多股盘中创新高！4股前三季净利增速超10%(名单)</ht:news_item_title>
+				<ht:news_item_title>蔡天鳳案｜鄺球認曾粗口罵蔡及篤其膊頭一次 透露曾試過「生蛇」</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://wap.eastmoney.com/a/202611163931651238.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu70HdSMNEmqnVxoDM-jCxnl6ilAqNrVFPQqtnka9W3ou919-nP-JZxD2MFA0</ht:news_item_picture>
-				<ht:news_item_source>东方财富</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>一边股价创新高， 一边增持稳信心</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.sohu.com/a/1102012408_121426544?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7Z6bQdftZshP5sV4tanEz5wjvG7HkvtzrIYM1lDbHM5Yz68ApLDzGg4T2OZM</ht:news_item_picture>
-				<ht:news_item_source>Sohu</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>加權指數</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 22:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gAg-C8L4BAXX07W8c_wuVtyPCHuODaAskoeaUFj9rrgMSi7bYINef4m8HTM</ht:picture>
-			<ht:picture_source>Yahoo 財經</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>〈焦點股〉光通訊遍地慘綠超過10檔亮燈跌停 台股仍待消化輝達利空</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://hk.finance.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E5%85%89%E9%80%9A%E8%A8%8A%E9%81%8D%E5%9C%B0%E6%85%98%E7%B6%A0%E8%B6%85%E9%81%8E10%E6%AA%94%E4%BA%AE%E7%87%88%E8%B7%8C%E5%81%9C-%E5%8F%B0%E8%82%A1%E4%BB%8D%E5%BE%85%E6%B6%88%E5%8C%96%E8%BC%9D%E9%81%94%E5%88%A9%E7%A9%BA-045755631.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gAg-C8L4BAXX07W8c_wuVtyPCHuODaAskoeaUFj9rrgMSi7bYINef4m8HTM</ht:news_item_picture>
-				<ht:news_item_source>Yahoo 財經</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>亞股大怒神又來！韓股下挫3.5％ 日經狂瀉逾1300點</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ec.ltn.com.tw/article/breakingnews/5642075</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToxMNXQtrTmmlERI12Z34aCNJJg7KqsrvTwM1AaUn_PsrpcfWw8mhfzK5HGvM</ht:news_item_picture>
-				<ht:news_item_source>自由財經</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>台股收挫2,635點或6.03% 創7月17 日後最大跌市</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bastillepost.com/hongkong/article/17191467-%E5%8F%B0%E8%82%A1%E6%94%B6%E6%8C%AB2635%E9%BB%9E%E6%88%966-03-%E5%89%B57%E6%9C%8817%E6%97%A5%E5%BE%8C%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B8%82</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEsy3H2HOi1Ycm7Ptv_xrjp2w6PDxQocfZ-QZN5T8by7L0Yfpm6WWAFFaGaTA</ht:news_item_picture>
-				<ht:news_item_source>巴士的報</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>傳承教育</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 21:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCupW5eN5cIK2W8lhnuQ7eV83sf8kR36Ahy9hF1UGgJJxquguMgTzsDclqmWc</ht:picture>
-			<ht:picture_source>香港01</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>補習天王林溢欣簽約傳承教育13年！ 獲1.5億獎金兼保底月薪90萬</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411161/%E8%A3%9C%E7%BF%92%E5%A4%A9%E7%8E%8B%E6%9E%97%E6%BA%A2%E6%AC%A3%E7%B0%BD%E7%B4%84%E5%82%B3%E6%89%BF%E6%95%99%E8%82%B213%E5%B9%B4-%E7%8D%B21-5%E5%84%84%E7%8D%8E%E9%87%91%E5%85%BC%E4%BF%9D%E5%BA%95%E6%9C%88%E8%96%AA90%E8%90%AC</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCupW5eN5cIK2W8lhnuQ7eV83sf8kR36Ahy9hF1UGgJJxquguMgTzsDclqmWc</ht:news_item_picture>
+				<ht:news_item_url>https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411758/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E7%90%83%E8%AA%8D%E6%9B%BE%E7%B2%97%E5%8F%A3%E7%BD%B5%E8%94%A1%E5%8F%8A%E7%AF%A4%E5%85%B6%E8%86%8A%E9%A0%AD%E4%B8%80%E6%AC%A1-%E9%80%8F%E9%9C%B2%E6%9B%BE%E8%A9%A6%E9%81%8E-%E7%94%9F%E8%9B%87</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKpv4HL9Y0aeybeTE4bpj04tjgOUhQoHpiNoVVRBMXFIiWtpWw-ZxWxwcU9WM</ht:news_item_picture>
 				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>補習天王｜林溢欣與傳承教育簽13年長約 簽約獎金高達1.5億元</ht:news_item_title>
+				<ht:news_item_title>鄺球開始作供 稱曾向蔡天鳳提供3千萬元購置物業</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://hk.finance.yahoo.com/news/%E8%A3%9C%E7%BF%92%E5%A4%A9%E7%8E%8B-%E6%9E%97%E6%BA%A2%E6%AC%A3%E8%88%87%E5%82%B3%E6%89%BF%E6%95%99%E8%82%B2%E7%B0%BD13%E5%B9%B4%E9%95%B7%E7%B4%84-%E7%B0%BD%E7%B4%84%E7%8D%8E%E9%87%91%E9%AB%98%E9%81%941-5%E5%84%84%E5%85%83-072622279.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1AhLyhubrPwQIJvMbbrJGsSwSP_C6gRo0jTfy0Qn8Sn85k-oDqiRYWZY15S4</ht:news_item_picture>
-				<ht:news_item_source>Yahoo 財經</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>親子財經｜傳承重押林溢欣13年長約 人口下行下補習行業走向IP集中化</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://hk.news.yahoo.com/%E8%A6%AA%E5%AD%90%E8%B2%A1%E7%B6%93-%E5%82%B3%E6%89%BF%E9%87%8D%E6%8A%BC%E6%9E%97%E6%BA%A2%E6%AC%A313%E5%B9%B4%E9%95%B7%E7%B4%84-%E4%BA%BA%E5%8F%A3%E4%B8%8B%E8%A1%8C%E4%B8%8B%E8%A3%9C%E7%BF%92%E8%A1%8C%E6%A5%AD%E8%B5%B0%E5%90%91ip%E9%9B%86%E4%B8%AD%E5%8C%96-040000024.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H55VsUgfyYQHBKldvO09I2RiqXikAUKePqEFqunPHoWJDBu77-Uo6wiViIM</ht:news_item_picture>
-				<ht:news_item_source>Yahoo</ht:news_item_source>
+				<ht:news_item_url>https://news.rthk.hk/rthk/ch/component/k2/1878131-20261117.htm</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw9fN2fVqHxttBlrHAjva6hcyMdpFNdPFT6_1sJJDPs0Kc1mum3UpsAARl5fw</ht:news_item_picture>
+				<ht:news_item_source>RTHK News</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>兒媳</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 21:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5xw4S6WHHCDoSFMNYTw1P2Dcd9mZR2RmlUb6IIBMP4mWljMfjZoHbqGmeYc</ht:picture>
-			<ht:picture_source>Sohu</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>儿子跪求婆婆向孕肚儿媳认错，调解节目真相曝光，婆婆一句话让全场沉默</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.sohu.com/a/1101983245_122094388?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5xw4S6WHHCDoSFMNYTw1P2Dcd9mZR2RmlUb6IIBMP4mWljMfjZoHbqGmeYc</ht:news_item_picture>
-				<ht:news_item_source>Sohu</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>娜然工作室晒健身照疑回应怀孕传闻 平坦腹部打破传言</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.china.com/socialgd/10000169/20261115/49873380.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dchEBmyFitEhlduEJ176pyc5hWv4x7sb6KyI-TTyj_0yecBq7wQ--Yg0Lgc</ht:news_item_picture>
-				<ht:news_item_source>中华网</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>霍启山娜然婚礼请柬曝光，四个字太刺眼，章子怡20年前为何没等到</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://c.m.163.com/news/a/LBQIMB3N0517WCAS.html?spss=backflow-index-hotlist</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7LnVdYDNxGzJ2-SYYnMEyDcTjhj_BiqG8LihF38xeaFYRLrk45g4xecEKTEM</ht:news_item_picture>
-				<ht:news_item_source>网易新闻客户端</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>香港快運</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 21:20:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>中田乃愛</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 20:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpJe5oTjgfF3t7vX5a8oz94Xm8x4w1oK2eD2ptHXPCPxpKOcjH_9mowZi4rd8</ht:picture>
-			<ht:picture_source>Yahoo!ニュース</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>俳優の中田乃愛さんが死去 ２３歳の若さで 所属事務所が発表 「ウルトラマンテオ」出演中だった（デイリースポーツ）</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.yahoo.co.jp/articles/3287053ffb374fd128ed61a3693f73f3eaefc7ef</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpJe5oTjgfF3t7vX5a8oz94Xm8x4w1oK2eD2ptHXPCPxpKOcjH_9mowZi4rd8</ht:news_item_picture>
-				<ht:news_item_source>Yahoo!ニュース</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>中田乃愛さん、死去 23歳 「東宝シンデレラ」ファイナリスト 『ウルトラマンテオ』出演【報告全文】</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.oricon.co.jp/news/2493123/full/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3E_CGABO46DBaeaUn_McEKt-9IC-ts0W22QLndBq48SrJig0Ru1SHcZ7EKCQ</ht:news_item_picture>
-				<ht:news_item_source>オリコンニュース</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Juice＝Juice</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.sponichi.co.jp/entertainment/news/2026/11/16/gazo/20261116s10041000142000p.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTigZnKjT6NTwkhfJEQC37byVmN_Wv1ZN0xH52wH1oFM81KbqSxbfwcz-NqxbI</ht:news_item_picture>
-				<ht:news_item_source>スポニチ Sponichi Annex</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>女神配对计划2</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 19:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStMtBpWX1AVltJL2iVu6A06FnLmCBQI20wVf960LlYLUtLBvp2kIq7BLSlAz0</ht:picture>
-			<ht:picture_source>星島頭條</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>女神配对计划2｜阮嘉敏劝吴旭东回乡照顾病母 东东痛心落泪拒返西安 网民反应两极惹议</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.stheadline.com/zh-hans/film-drama/3637638/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%AF%B9%E8%AE%A1%E5%88%922%E9%98%AE%E5%98%89%E6%95%8F%E5%8A%9D%E5%90%B4%E6%97%AD%E4%B8%9C%E5%9B%9E%E4%B9%A1%E7%85%A7%E9%A1%BE%E7%97%85%E6%AF%8D-%E4%B8%9C%E4%B8%9C%E7%97%9B%E5%BF%83%E8%90%BD%E6%B3%AA%E6%8B%92%E8%BF%94%E8%A5%BF%E5%AE%89-%E7%BD%91%E6%B0%91%E5%8F%8D%E5%BA%94%E4%B8%A4%E6%9E%81%E6%83%B9%E8%AE%AE</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStMtBpWX1AVltJL2iVu6A06FnLmCBQI20wVf960LlYLUtLBvp2kIq7BLSlAz0</ht:news_item_picture>
-				<ht:news_item_source>星島頭條</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>女神配對計劃2｜吳俊峰剖白過往情傷認有陰影 結婚對象需滿足這1條件</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tvb.com/varietynews-c/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-%E5%90%B3%E4%BF%8A%E5%B3%B0%E5%89%96%E7%99%BD%E9%81%8E%E5%BE%80%E6%83%85%E5%82%B7%E8%AA%8D%E6%9C%89%E9%99%B0%E5%BD%B1-%E7%B5%90%E5%A9%9A%E5%B0%8D%E8%B1%A1%E9%9C%80%E6%BB%BF%E8%B6%B3%E9%80%991%E6%A2%9D%E4%BB%B6-1017048</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnJ6WA_Tuqe2wq7QdovIDPh-pflJY7ljIv441_INnr90KFbiimQhzAJ6rtw6w</ht:news_item_picture>
-				<ht:news_item_source>TVB</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>陳若思被翻舊帳 同鍾培生原來有關係？ 曾戴靚錶港姐面試嚇親馮盈盈</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://eastweek.stheadline.com/focus/22779/%E9%99%B3%E8%8B%A5%E6%80%9D%E8%A2%AB%E7%BF%BB%E8%88%8A%E5%B8%B3-%E5%90%8C%E9%8D%BE%E5%9F%B9%E7%94%9F%E5%8E%9F%E4%BE%86%E6%9C%89%E9%97%9C%E4%BF%82-%E6%9B%BE%E6%88%B4%E9%9D%9A%E9%8C%B6%E6%B8%AF%E5%A7%90%E9%9D%A2%E8%A9%A6%E5%9A%87%E8%A6%AA%E9%A6%AE%E7%9B%88%E7%9B%88</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcE5zuosi_BQkombA4IpbhgBfukBa296eb8qKzWqKc7Ge0S4gsdC7vSXRf7PQ</ht:news_item_picture>
-				<ht:news_item_source>東周刊</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>斑馬線</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 19:00:00 -0800</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>财富</title>
+			<title>yoasobi 香港</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 18:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM38_A2c9KssGLwYllR8rarrFvRWNGV6nEJC-UzcK5qgxUINudlU-ICtkbijw</ht:picture>
-			<ht:picture_source>新浪财经_金融信息服务商</ht:picture_source>
+			<pubDate>Mon, 16 Nov 2026 23:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUZ26ugxQgwZ-JAZwPSajnyTRc2bZe8lKCbY5hIiM_r0euTrAYrxH_0ZVzTM</ht:picture>
+			<ht:picture_source>香港01</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>投融资循环如何转起来：一场年会追问资本市场的投资回报共生之道</ht:news_item_title>
+				<ht:news_item_title>YOASOBI香港演唱会2027｜门票公售攻略$980起+购票连结+座位表</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://finance.sina.cn/2026-11-15/detail-iniyvkxx1823780.d.html?vt=4</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM38_A2c9KssGLwYllR8rarrFvRWNGV6nEJC-UzcK5qgxUINudlU-ICtkbijw</ht:news_item_picture>
-				<ht:news_item_source>新浪财经_金融信息服务商</ht:news_item_source>
+				<ht:news_item_url>https://global.hk01.com/%E4%BC%97%E4%B9%90%E8%BF%B7/60301591/yoasobi%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A2027-%E9%97%A8%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-980%E8%B5%B7-%E8%B4%AD%E7%A5%A8%E8%BF%9E%E7%BB%93-%E5%BA%A7%E4%BD%8D%E8%A1%A8</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUZ26ugxQgwZ-JAZwPSajnyTRc2bZe8lKCbY5hIiM_r0euTrAYrxH_0ZVzTM</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>吴清：长钱长投的制度体系不断完善</ht:news_item_title>
+				<ht:news_item_title>YOASOBI香港演唱會2027｜門票公售攻略$980起+購票連結+座位表</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://wap.eastmoney.com/a/202611143931313466.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtlaOOwXmBGGyKw5XmXQe0HTJccUny_4FYpHiTDIdbMOAzN4QLLvmC55or0I</ht:news_item_picture>
-				<ht:news_item_source>东方财富</ht:news_item_source>
+				<ht:news_item_url>https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60301591/yoasobi%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-980%E8%B5%B7-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUZ26ugxQgwZ-JAZwPSajnyTRc2bZe8lKCbY5hIiM_r0euTrAYrxH_0ZVzTM</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>吴清：研究评估量化、减持等制度的优化和公平合理的监管安排 | 焦点资讯</ht:news_item_title>
+				<ht:news_item_title>YOASOBI重臨香港！明年1月亞博連開兩場今早10時優先預售！公售明日下午3時兩場票價$980起</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yicai.com/video/103441605.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5RsT_iAE75wIM69jNzLQjHnhHW75AIjb0StycgMxMH8_wlrkwxGefkxs2NvY</ht:news_item_picture>
-				<ht:news_item_source>第一财经</ht:news_item_source>
+				<ht:news_item_url>https://www.orangenews.hk/entnews/Vb5ysIs/YOASOBI%E9%87%8D%E8%87%A8%E9%A6%99%E6%B8%AF-%E6%98%8E%E5%B9%B41%E6%9C%88%E4%BA%9E%E5%8D%9A%E9%80%A3%E9%96%8B%E5%85%A9%E5%A0%B4-%E4%BB%8A%E6%97%A910%E6%99%82%E5%84%AA%E5%85%88%E9%A0%90%E5%94%AE-%E5%85%AC%E5%94%AE%E6%98%8E%E6%97%A5%E4%B8%8B%E5%8D%883%E6%99%82-%E5%85%A9%E5%A0%B4%E7%A5%A8%E5%83%B9-980%E8%B5%B7.shtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWjc0Wmju4neNRdC-0JPWv7Lf_ELwcvOWg6lv2m38orRwA24KRegxg2dWWbU</ht:news_item_picture>
+				<ht:news_item_source>橙新聞</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>方博</title>
+			<title>啟田邨</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 22:50:00 -0800</pubDate>
+			<ht:picture/>
+			<ht:picture_source/>
+		</item>
+		<item>
+			<title>休班警</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=HK</link>
-			<pubDate>Sun, 15 Nov 2026 18:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmSqSgeSjLZzTilFoOsxnzuRrpoibR1V1y3c5RKls-iQIRa4E74REBEYJZ8TY</ht:picture>
-			<ht:picture_source>新华网</ht:picture_source>
+			<pubDate>Mon, 16 Nov 2026 22:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq_xUJP4PTJt6x7chApBamrXNUjZpMG80a6B8v-wIqvsg6ZcQk3P9NloaSQ7Y</ht:picture>
+			<ht:picture_source>香港01</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>乒乓球前国手方博夺得复出后首冠</ht:news_item_title>
+				<ht:news_item_title>休班水警與妻涉宿舍內襲擊女外傭 被控16罪 案件明日再提訊</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://app.xinhuanet.com/news/article.html?articleId=202611161f4a9c7a48c242b0bcd4a3b38ca75652</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmSqSgeSjLZzTilFoOsxnzuRrpoibR1V1y3c5RKls-iQIRa4E74REBEYJZ8TY</ht:news_item_picture>
-				<ht:news_item_source>新华网</ht:news_item_source>
+				<ht:news_item_url>https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411618/%E4%BC%91%E7%8F%AD%E6%B0%B4%E8%AD%A6%E8%88%87%E5%A6%BB%E6%B6%89%E5%AE%BF%E8%88%8D%E5%85%A7%E8%A5%B2%E6%93%8A%E5%A5%B3%E5%A4%96%E5%82%AD-%E8%A2%AB%E6%8E%A716%E7%BD%AA-%E6%A1%88%E4%BB%B6%E6%98%8E%E6%97%A5%E5%86%8D%E6%8F%90%E8%A8%8A</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq_xUJP4PTJt6x7chApBamrXNUjZpMG80a6B8v-wIqvsg6ZcQk3P9NloaSQ7Y</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>方博发声：我不是人中龙凤，但绝非等闲之辈</ht:news_item_title>
+				<ht:news_item_title>公務員涉扶手電梯偷拍裙底 事主獲女途人告知「後面嗰男人影你」 對質時片段被刪除</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.ifeng.com/c/8y5ubj1apTq</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTDyo8ZDUh6jwc1b0bLouOWjGW-lDAc4DKXw69KcuEi9dJOyKOUqUU6AsXXok</ht:news_item_picture>
-				<ht:news_item_source>凤凰网</ht:news_item_source>
+				<ht:news_item_url>https://www.stheadline.com/society/3638048/%E5%85%AC%E5%8B%99%E5%93%A1%E6%B6%89%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95-%E4%BA%8B%E4%B8%BB%E7%8D%B2%E5%A5%B3%E9%80%94%E4%BA%BA%E5%91%8A%E7%9F%A5%E5%BE%8C%E9%9D%A2%E5%97%B0%E7%94%B7%E4%BA%BA%E5%BD%B1%E4%BD%A0-%E5%B0%8D%E8%B3%AA%E6%99%82%E7%89%87%E6%AE%B5%E8%A2%AB%E5%88%AA%E9%99%A4</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8IcpP_5Cd_hjMLRrRAULsGRruCLH9k3MWFEn5emnylYwklvdqF74krA67_FE</ht:news_item_picture>
+				<ht:news_item_source>星島頭條</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>4-1！乒坛冠军出炉：34岁方博决赛强势爆发，夺复出后WTT男单首冠</ht:news_item_title>
+				<ht:news_item_title>男警港鐵站偷拍裙底春罪成 被判處120小時社會服務令</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.qq.com/rain/a/20261115A0DGV300</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqC3CeD38oF3L_RnzlRSuEhsc7JfE3i5NwoEIotGoNa-8ZK1rlONdXHPCEAU</ht:news_item_picture>
-				<ht:news_item_source>腾讯新闻</ht:news_item_source>
+				<ht:news_item_url>https://hk.on.cc/hk/bkn/cnt/news/20261117/bkn-20261117151906796-1117_00822_001.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThEbxIdso1EQ1rXe6hH9JRpWrRQw96ny9hafFrbpwYmgT8qBnH2eZOaUBNA4I</ht:news_item_picture>
+				<ht:news_item_source>on.cc東網</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>貓</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 22:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz-tV5BCf5WKRvstvxTd9esANR7UuB0zSEwg2KEZPL7iuZfxZWy00ontYPRaM</ht:picture>
+			<ht:picture_source>The Guardian</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Miaow! What your cat is really trying to tell you</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.theguardian.com/lifeandstyle/2026/nov/16/miaow-what-your-cat-is-really-trying-to-tell-you</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz-tV5BCf5WKRvstvxTd9esANR7UuB0zSEwg2KEZPL7iuZfxZWy00ontYPRaM</ht:news_item_picture>
+				<ht:news_item_source>The Guardian</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Cats Really Do Meow at Us To Get Our Attention</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://gizmodo.com/heres-why-your-cat-meows-so-much-at-you-2000840450</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OrqX1LSFfKLna8ADCpiEFwQiCLl0Ty0_SSe-_OSYmPp5fWOBHPjEnhVmJ0E</ht:news_item_picture>
+				<ht:news_item_source>Gizmodo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Science Has Finally Shown That Your Cat Meows to Demand That You Fix Their World</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.sciencealert.com/science-has-finally-shown-that-your-cat-meows-to-demand-that-you-fix-their-world</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LLoZeEngzZVdKbaocVTLIiszNtT5INWjEwSryy67kRB7PdCyE6U4It28vAY</ht:news_item_picture>
+				<ht:news_item_source>ScienceAlert</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>yoasobi 演唱會</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 22:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUZ26ugxQgwZ-JAZwPSajnyTRc2bZe8lKCbY5hIiM_r0euTrAYrxH_0ZVzTM</ht:picture>
+			<ht:picture_source>香港01</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>YOASOBI香港演唱會2027｜門票公售攻略$980起+購票連結+座位表</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60301591/yoasobi%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-980%E8%B5%B7-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUZ26ugxQgwZ-JAZwPSajnyTRc2bZe8lKCbY5hIiM_r0euTrAYrxH_0ZVzTM</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>YOASOBI重臨香港！明年1月亞博連開兩場今早10時優先預售！公售明日下午3時兩場票價$980起</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.orangenews.hk/entnews/Vb5ysIs/YOASOBI%E9%87%8D%E8%87%A8%E9%A6%99%E6%B8%AF-%E6%98%8E%E5%B9%B41%E6%9C%88%E4%BA%9E%E5%8D%9A%E9%80%A3%E9%96%8B%E5%85%A9%E5%A0%B4-%E4%BB%8A%E6%97%A910%E6%99%82%E5%84%AA%E5%85%88%E9%A0%90%E5%94%AE-%E5%85%AC%E5%94%AE%E6%98%8E%E6%97%A5%E4%B8%8B%E5%8D%883%E6%99%82-%E5%85%A9%E5%A0%B4%E7%A5%A8%E5%83%B9-980%E8%B5%B7.shtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWjc0Wmju4neNRdC-0JPWv7Lf_ELwcvOWg6lv2m38orRwA24KRegxg2dWWbU</ht:news_item_picture>
+				<ht:news_item_source>橙新聞</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>人氣天團事隔3年宣布香港演唱會 一連兩場誓掀搶飛潮 即睇優先預售詳情</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.ulifestyle.com.hk/activity/detail/20117863/yoasobi%E6%BC%94%E5%94%B1%E6%9C%83-yoasobi%E4%BA%8B%E9%9A%94-%E5%B9%B4%E5%86%8D%E5%BA%A6%E4%BE%86%E6%B8%AF%E9%96%8B%E5%94%B1-%E9%96%80%E7%A5%A8-%E7%A5%A8%E5%83%B9-%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE%E6%97%A5%E6%9C%9F-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvysX8dgW-aJqKKwQzX2HN6UKv2SYrgiJh0hpUX-H14bS10T1dcKujWsJyoc</ht:news_item_picture>
+				<ht:news_item_source>UHK 港生活</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>英皇娛樂</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 22:00:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iGfCfY9IA2ujaCm6hdTHwhAbk7iYTFQzv3vM_Fv54zatb0VnW2-E2rn6NKY</ht:picture>
+			<ht:picture_source>Yahoo 財經</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>英皇娛樂｜英皇藝人「升呢」做董事 謝霆鋒及容祖兒獲委任 楊受成：全新視野邁向新里程</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://hk.finance.yahoo.com/news/%E8%8B%B1%E7%9A%87%E5%A8%9B%E6%A8%82-%E8%8B%B1%E7%9A%87%E8%97%9D%E4%BA%BA-%E5%8D%87%E5%91%A2-%E5%81%9A%E8%91%A3%E4%BA%8B-%E8%AC%9D%E9%9C%86%E9%8B%92%E5%8F%8A%E5%AE%B9%E7%A5%96%E5%85%92%E7%8D%B2%E5%A7%94%E4%BB%BB-063000514.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iGfCfY9IA2ujaCm6hdTHwhAbk7iYTFQzv3vM_Fv54zatb0VnW2-E2rn6NKY</ht:news_item_picture>
+				<ht:news_item_source>Yahoo 財經</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>英皇娛樂升格藝人話事 謝霆鋒、容祖兒入局任董事</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411638/%E8%8B%B1%E7%9A%87%E5%A8%9B%E6%A8%82%E5%8D%87%E6%A0%BC%E8%97%9D%E4%BA%BA%E8%A9%B1%E4%BA%8B-%E8%AC%9D%E9%9C%86%E9%8B%92-%E5%AE%B9%E7%A5%96%E5%85%92%E5%85%A5%E5%B1%80%E4%BB%BB%E8%91%A3%E4%BA%8B</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8g0sIwYvfdkI30VoQ5AajRdejDWrZ1Z6GaLSWo0-2uya637zHE0FBdslzE5M</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>謝霆鋒及容祖兒加入英皇娛樂集團董事局</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hkej.com/instantnews/current/article/4567285/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2oNHQ1CuT_cBAAi9tO79xYoLU7Qfx6qnA837Em4y0jeAKaLcuzmqxsSLzgzM</ht:news_item_picture>
+				<ht:news_item_source>信報網站</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>港 漂</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 21:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCRRkQt48PHa-WhCGgkiFjlx3t507Pv0ApA5uGYZjd2-eNA4hLuyabU9GgNmc</ht:picture>
+			<ht:picture_source>星島頭條</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>港鐵1神級設計獲港漂狂讚！設計顯眼清晰超貼心 內地網民共鳴：這細節確實優秀</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.stheadline.com/lifetips/3637758/%E6%B8%AF%E9%90%B51%E7%A5%9E%E7%B4%9A%E8%A8%AD%E8%A8%88%E7%8D%B2%E6%B8%AF%E6%BC%82%E7%8B%82%E8%AE%9A%E8%A8%AD%E8%A8%88%E9%A1%AF%E7%9C%BC%E6%B8%85%E6%99%B0%E8%B6%85%E8%B2%BC%E5%BF%83-%E5%85%A7%E5%9C%B0%E7%B6%B2%E6%B0%91%E5%85%B1%E9%B3%B4%E9%80%99%E7%B4%B0%E7%AF%80%E7%A2%BA%E5%AF%A6%E5%84%AA%E7%A7%80</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCRRkQt48PHa-WhCGgkiFjlx3t507Pv0ApA5uGYZjd2-eNA4hLuyabU9GgNmc</ht:news_item_picture>
+				<ht:news_item_source>星島頭條</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>港鐵入閘機前「簡約資訊屏」獲內地網民激讚！網民熱議：大字清晰無廣告勝過內地地鐵</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://utravel.com.hk/news/detail/20118407/%E6%B8%AF%E9%90%B5%E5%85%A5%E9%96%98%E6%A9%9F%E5%89%8D-%E7%B0%A1%E7%B4%84%E8%B3%87%E8%A8%8A%E5%B1%8F-%E7%8D%B2%E5%85%A7%E5%9C%B0%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0-%E5%A4%A7%E5%AD%97%E6%B8%85%E6%99%B0%E7%84%A1%E5%BB%A3%E5%91%8A%E5%8B%9D%E9%81%8E%E5%85%A7%E5%9C%B0%E5%9C%B0%E9%90%B5</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvWmtn0PZNtG_yTqS-NeU7FSiPwRySUsmAQZQXMkCnvWvVYmXJ4a3BbUq7VNA</ht:news_item_picture>
+				<ht:news_item_source>U Travel</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>港漂家庭來港2月大呻難適應！力數3大缺點決回流：還是比不上北京</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hk01.com/%E9%96%8B%E7%BD%90/60409422/%E6%B8%AF%E6%BC%82%E5%AE%B6%E5%BA%AD%E4%BE%86%E6%B8%AF2%E6%9C%88%E5%A4%A7%E5%91%BB%E9%9B%A3%E9%81%A9%E6%87%89-%E5%8A%9B%E6%95%B83%E5%A4%A7%E7%BC%BA%E9%BB%9E%E6%B1%BA%E5%9B%9E%E6%B5%81-%E9%82%84%E6%98%AF%E6%AF%94%E4%B8%8D%E4%B8%8A%E5%8C%97%E4%BA%AC</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKompIhFuMup7MrJu2Iyte2Bjs5sQ8Xksp1l0NnqbF5bgtgeHqlj2kpoNiSyc</ht:news_item_picture>
+				<ht:news_item_source>香港01</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>柏納多·席瓦</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 21:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTxOSA5EhWZNQe4EJVIfTOY8wMx_v8vIgqLEWzuNzcnY9XgG2TuYbme5uW8R8</ht:picture>
+			<ht:picture_source>Sports Illustrated</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Another Damning Injury Blow Leaves Real Madrid Scrambling for Solutions</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.si.com/soccer/another-damning-injury-blow-real-madrid-scrambling</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTxOSA5EhWZNQe4EJVIfTOY8wMx_v8vIgqLEWzuNzcnY9XgG2TuYbme5uW8R8</ht:news_item_picture>
+				<ht:news_item_source>Sports Illustrated</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>He left after talks with Jesus: Ronaldo scenario repeated in Portugal camp</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.goal.com/en/news/he-left-after-talks-with-jesus-ronaldo-scenario-repeated-in-portugal-camp/blt25ec354965ed6479</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0_I7tFVG4E8Cu98HAoJwrEKsDqD6XuAsv9yJbZdO3A0z9gGNPEQiBaZJYMuY</ht:news_item_picture>
+				<ht:news_item_source>Goal.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Bernardo Silva escapes serious injury, will be available after the break</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.managingmadrid.com/115495/bernardo-silva-escapes-serious-injury-will-be-available-after-the-break</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqH5B-1A7230ctycQwgHyiK9FeJEcYvVyVdwTrTliqAk-nxEFIue2ihNP89M</ht:news_item_picture>
+				<ht:news_item_source>Managing Madrid</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>blackpink</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=HK</link>
+			<pubDate>Mon, 16 Nov 2026 21:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mO8zD2InrtVrg_FlTQgojCyVi67UUN-jJrV1o9IgGn5mEZSPvpLECS1__Xg</ht:picture>
+			<ht:picture_source>Korea JoongAng Daily</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Jennie, IVE and KiiiKiii earn Grammy nominations</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.koreajoongangdaily.com/entertainment/jennie-ive-and-kiiikiii-earn-grammy-nominations/12973440</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mO8zD2InrtVrg_FlTQgojCyVi67UUN-jJrV1o9IgGn5mEZSPvpLECS1__Xg</ht:news_item_picture>
+				<ht:news_item_source>Korea JoongAng Daily</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>It started with a solo song by Tame Impala. Four months later, Jenny&apos;s voice was added.One remix too..</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.mk.co.kr/en/entertain/12210795</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5EOuZmu1NYgJ6Zo_c9QYD4-Z5GCJx-FELRxcFzRGi69BQ4sqxy5Upbvcvths</ht:news_item_picture>
+				<ht:news_item_source>매일경제</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>BLACKPINK&apos;s Jennie Nominated for Two Grammy Awards with &quot;Dracula&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.sbs.co.kr/english/article.do?news_id=N1008848982</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoDkXdMZ2lielyU7P3CAKFK6WrAj-YWaxQAxoGEdWW-kXE9rQJLFbay5QQ2Y</ht:news_item_picture>
+				<ht:news_item_source>SBS 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
