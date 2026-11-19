@@ -1,24 +1,27 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['昆廷·格蘭姆斯', '段永平', 'hko', 'bobby au-yeung']
-explore[昆廷·格蘭姆斯] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 昆廷·格蘭姆斯: 5 点, 峰值 100
-explore[段永平] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 段永平: 5 点, 峰值 100
-explore[hko] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK hko: 144 点, 峰值 100
-explore[bobby au-yeung] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK bobby au-yeung: 3 点, 峰值 100
-写出 data/iot/HK-2026-11-18.csv (157 行)
-写出 data/iot/latest-hk.csv (157 行)
-US 关键词: ['nba standings', 'flash flooding florida', 'matisse thybulle', 'fuel']
-explore[nba standings] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK nba standings: 169 点, 峰值 100
-explore[flash flooding florida] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK flash flooding florida: 3 点, 峰值 100
-explore[matisse thybulle] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK matisse thybulle: 100 点, 峰值 100
-explore[fuel] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK fuel: 169 点, 峰值 100
-写出 data/iot/US-2026-11-18.csv (441 行)
-写出 data/iot/latest-us.csv (441 行)
-完成，共 598 行
+HK 关键词: ['鄺港智', '飛機', '粵菜', '湖人對爵士']
+explore[鄺港智] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 鄺港智: 39 点, 峰值 100
+explore[飛機] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 飛機: 165 点, 峰值 100
+explore[粵菜] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 粵菜: 12 点, 峰值 100
+explore[湖人對爵士] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 湖人對爵士: 5 点, 峰值 100
+写出 data/iot/HK-2026-11-19.csv (221 行)
+写出 data/iot/latest-hk.csv (221 行)
+US 关键词: ['san diego', 'should i spare arnold gta 6', 'truck accident lawyer', 'app']
+explore[san diego] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK san diego: 168 点, 峰值 100
+explore[should i spare arnold gta 6] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK should i spare arnold gta 6: 9 点, 峰值 100
+explore[truck accident lawyer] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK truck accident lawyer: 168 点, 峰值 100
+explore[app] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+multiline[app] HTTP 429 限流，等 45s 重试
+multiline[app] HTTP 429 限流，等 45s 重试
+multiline[app] 重试次数用尽
+FAIL app: 无数据点
+写出 data/iot/US-2026-11-19.csv (345 行)
+写出 data/iot/latest-us.csv (345 行)
+完成，共 566 行
