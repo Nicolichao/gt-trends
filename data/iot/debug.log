@@ -1,27 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['鄺港智', '飛機', '粵菜', '湖人對爵士']
-explore[鄺港智] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 鄺港智: 39 点, 峰值 100
-explore[飛機] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 飛機: 165 点, 峰值 100
-explore[粵菜] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 粵菜: 12 点, 峰值 100
-explore[湖人對爵士] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 湖人對爵士: 5 点, 峰值 100
-写出 data/iot/HK-2026-11-19.csv (221 行)
-写出 data/iot/latest-hk.csv (221 行)
-US 关键词: ['san diego', 'should i spare arnold gta 6', 'truck accident lawyer', 'app']
-explore[san diego] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK san diego: 168 点, 峰值 100
-explore[should i spare arnold gta 6] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK should i spare arnold gta 6: 9 点, 峰值 100
+HK 关键词: ['香港寒冷天氣警告', '廁所', 'mama 2026', '麦当劳']
+explore[香港寒冷天氣警告] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 香港寒冷天氣警告: 5 点, 峰值 100
+explore[廁所] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 廁所: 136 点, 峰值 100
+explore[mama 2026] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK mama 2026: 91 点, 峰值 100
+explore[麦当劳] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 麦当劳: 39 点, 峰值 100
+写出 data/iot/HK-2026-11-20.csv (271 行)
+写出 data/iot/latest-hk.csv (271 行)
+US 关键词: ['apple store black friday deals', 'daycare', 'truck accident lawyer', '5.4 magnitude earthquake']
+explore[apple store black friday deals] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK apple store black friday deals: 71 点, 峰值 100
+explore[daycare] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK daycare: 169 点, 峰值 100
 explore[truck accident lawyer] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK truck accident lawyer: 168 点, 峰值 100
-explore[app] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-multiline[app] HTTP 429 限流，等 45s 重试
-multiline[app] HTTP 429 限流，等 45s 重试
-multiline[app] 重试次数用尽
-FAIL app: 无数据点
-写出 data/iot/US-2026-11-19.csv (345 行)
-写出 data/iot/latest-us.csv (345 行)
-完成，共 566 行
+OK truck accident lawyer: 169 点, 峰值 100
+explore[5.4 magnitude earthquake] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 5.4 magnitude earthquake: 2 点, 峰值 100
+写出 data/iot/US-2026-11-20.csv (411 行)
+写出 data/iot/latest-us.csv (411 行)
+完成，共 682 行
