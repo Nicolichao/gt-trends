@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['香港寒冷天氣警告', '廁所', 'mama 2026', '麦当劳']
-explore[香港寒冷天氣警告] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 香港寒冷天氣警告: 5 点, 峰值 100
-explore[廁所] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 廁所: 136 点, 峰值 100
-explore[mama 2026] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK mama 2026: 91 点, 峰值 100
-explore[麦当劳] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 麦当劳: 39 点, 峰值 100
-写出 data/iot/HK-2026-11-20.csv (271 行)
-写出 data/iot/latest-hk.csv (271 行)
-US 关键词: ['apple store black friday deals', 'daycare', 'truck accident lawyer', '5.4 magnitude earthquake']
-explore[apple store black friday deals] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK apple store black friday deals: 71 点, 峰值 100
-explore[daycare] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK daycare: 169 点, 峰值 100
-explore[truck accident lawyer] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK truck accident lawyer: 169 点, 峰值 100
-explore[5.4 magnitude earthquake] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 5.4 magnitude earthquake: 2 点, 峰值 100
-写出 data/iot/US-2026-11-20.csv (411 行)
-写出 data/iot/latest-us.csv (411 行)
-完成，共 682 行
+HK 关键词: ['mama 2026 live', '方力申渡海泳', '萧正楠', '香港赛马会']
+explore[mama 2026 live] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK mama 2026 live: 14 点, 峰值 100
+explore[方力申渡海泳] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 方力申渡海泳: 6 点, 峰值 100
+explore[萧正楠] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 萧正楠: 7 点, 峰值 100
+explore[香港赛马会] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 香港赛马会: 13 点, 峰值 100
+写出 data/iot/HK-2026-11-21.csv (40 行)
+写出 data/iot/latest-hk.csv (40 行)
+US 关键词: ['aus vs eng', 'earthquake seattle', 'how many endings in gta 6', 'dom mar fan']
+explore[aus vs eng] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK aus vs eng: 76 点, 峰值 100
+explore[earthquake seattle] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK earthquake seattle: 6 点, 峰值 100
+explore[how many endings in gta 6] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK how many endings in gta 6: 50 点, 峰值 100
+explore[dom mar fan] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK dom mar fan: 19 点, 峰值 100
+写出 data/iot/US-2026-11-21.csv (151 行)
+写出 data/iot/latest-us.csv (151 行)
+完成，共 191 行
