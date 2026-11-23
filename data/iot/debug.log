@@ -1,24 +1,26 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['大衛·拉亞', 'f1', '俠盜獵車手vi', '浪漫勇士']
-explore[大衛·拉亞] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 大衛·拉亞: 6 点, 峰值 100
-explore[f1] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK f1: 150 点, 峰值 100
-explore[俠盜獵車手vi] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 俠盜獵車手vi: 15 点, 峰值 100
-explore[浪漫勇士] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 浪漫勇士: 21 点, 峰值 100
-写出 data/iot/HK-2026-11-22.csv (192 行)
-写出 data/iot/latest-hk.csv (192 行)
-US 关键词: ['metacritic gta vi', 'russian missiles poland', 'vicki gta 6 voice actor', 'gta 6 chapter 2 mission list']
-explore[metacritic gta vi] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK metacritic gta vi: 118 点, 峰值 100
-explore[russian missiles poland] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK russian missiles poland: 38 点, 峰值 100
-explore[vicki gta 6 voice actor] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK vicki gta 6 voice actor: 71 点, 峰值 100
-explore[gta 6 chapter 2 mission list] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK gta 6 chapter 2 mission list: 50 点, 峰值 100
-写出 data/iot/US-2026-11-22.csv (277 行)
-写出 data/iot/latest-us.csv (277 行)
-完成，共 469 行
+HK 关键词: ['陳健波', '陳以誠', 'travel ban', '郭碧婷']
+explore[陳健波] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 陳健波: 6 点, 峰值 100
+explore[陳以誠] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 陳以誠: 3 点, 峰值 100
+explore[travel ban] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK travel ban: 7 点, 峰值 100
+explore[郭碧婷] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 郭碧婷: 3 点, 峰值 100
+写出 data/iot/HK-2026-11-23.csv (19 行)
+写出 data/iot/latest-hk.csv (19 行)
+US 关键词: ['sa vs ban', 'elon musk', '黎曼猜想', 'sam houser']
+explore[sa vs ban] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK sa vs ban: 94 点, 峰值 100
+explore[elon musk] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+multiline[elon musk] HTTP 429 限流，等 45s 重试
+OK elon musk: 169 点, 峰值 100
+explore[黎曼猜想] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+multiline[黎曼猜想] HTTP 429 限流，等 45s 重试
+OK 黎曼猜想: 66 点, 峰值 100
+explore[sam houser] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK sam houser: 144 点, 峰值 100
+写出 data/iot/US-2026-11-23.csv (473 行)
+写出 data/iot/latest-us.csv (473 行)
+完成，共 492 行

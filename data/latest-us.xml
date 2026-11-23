@@ -6,163 +6,87 @@
 		<link>https://trends.google.com/trending/rss?geo=US</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=US" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>president trump</title>
+			<title>sam houser</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 23:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuOnCClbVX2GtozPjitewx0TM8ZZ1eBdPGP42PcOuQdXWz80XTF9kStq_OIA0</ht:picture>
-			<ht:picture_source>The Hill</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgurHaHj_OU0e4LlPYWHudStLQmVAZI6-ib1n5lcCqgRzt3YksmAix04DoOmE</ht:picture>
+			<ht:picture_source>Rockstar Games</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Trump’s grip on GOP tested as MAGA allies head for exit</ht:news_item_title>
+				<ht:news_item_title>Grand Theft Auto VI Now Available</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuOnCClbVX2GtozPjitewx0TM8ZZ1eBdPGP42PcOuQdXWz80XTF9kStq_OIA0</ht:news_item_picture>
-				<ht:news_item_source>The Hill</ht:news_item_source>
+				<ht:news_item_url>https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgurHaHj_OU0e4LlPYWHudStLQmVAZI6-ib1n5lcCqgRzt3YksmAix04DoOmE</ht:news_item_picture>
+				<ht:news_item_source>Rockstar Games</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>The Struggle Has Begun</ht:news_item_title>
+				<ht:news_item_title>‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nybooks.com/online/2026/11/18/the-struggle-has-begun-midterms-trump/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS7Cq0ThOOrRf8DS6mHCnSXcqKyEdMwsS0aw67hVyza3Z6u1y98Lp8vMln5Y</ht:news_item_picture>
-				<ht:news_item_source>The New York Review of Books</ht:news_item_source>
+				<ht:news_item_url>https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg7Eh3nZ98dgsSBmwfQbnHag79aRWa8lIJy1SJhMBx1pdxyKYtaZS86IRDt70</ht:news_item_picture>
+				<ht:news_item_source>Variety</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Poll: Republicans have a MAGA dilemma after their midterm losses</ht:news_item_title>
+				<ht:news_item_title>Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.politico.com/news/2026/11/15/tpp-trump-coalition-maga-breaks-01164574</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDvd79izGCqz_UYEXimEvLep2WnYrOuwVH3KeyZhR5mLC6NOF4i4tkArBxkfM</ht:news_item_picture>
-				<ht:news_item_source>Politico</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>russian missiles poland</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 23:10:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgTtAQrasGnZQuP7w-EjSPxD5wtKQj27_Jgnd-8AlnaMmimZ32WDoYewrO20g</ht:picture>
-			<ht:picture_source>Reuters</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>NATO will defend every inch of Polish territory, Rutte says</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgTtAQrasGnZQuP7w-EjSPxD5wtKQj27_Jgnd-8AlnaMmimZ32WDoYewrO20g</ht:news_item_picture>
-				<ht:news_item_source>Reuters</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Poland says Russian missiles hit its territory; Trump calls it a mistake</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShsyEI5GJTJYCH3JikDLNWnLA6gZ05EH1YCotuFVdnaIhDER6vels_X59jii8</ht:news_item_picture>
-				<ht:news_item_source>The Washington Post</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Russian missiles hit Poland: What happened, and could NATO respond?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNevjOI9sEXqTviWrw2YeRSBLvCYpEMqT4FqMGMIF-FBZ2wJHVGj2xomTYLZw</ht:news_item_picture>
-				<ht:news_item_source>Al Jazeera</ht:news_item_source>
+				<ht:news_item_url>http://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRh5pHOp7JuE8-1UXd--lK1yIcEjDRAfWpRyWdqU3oL7yVyIbAMJ3iW21GF5eo</ht:news_item_picture>
+				<ht:news_item_source>Take-Two Interactive Software, Inc.</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>powerball winner</title>
+			<title>king charles</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 23:00:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJw15wOSYYH3IKSl4jXhwsu-luPL2iUtjnVz9FY9_nEUDLAS5Bo_sX3wU9JQA</ht:picture>
-			<ht:picture_source>USA Today</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz7gfhiW4dg7Bn_Arqy2F8N251km2z7rkhS0PyfIwWYIEIerAJSopcVIgx9k4</ht:picture>
+			<ht:picture_source>BBC</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Powerball winning numbers for Nov. 21: $114M jackpot</ht:news_item_title>
+				<ht:news_item_title>Molly Meldrum: Australian music legend dies aged 83</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.usatoday.com/story/money/lottery/2026/11/21/powerball-winning-numbers-november-21-2026/92884986007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJw15wOSYYH3IKSl4jXhwsu-luPL2iUtjnVz9FY9_nEUDLAS5Bo_sX3wU9JQA</ht:news_item_picture>
-				<ht:news_item_source>USA Today</ht:news_item_source>
+				<ht:news_item_url>https://www.bbc.com/news/articles/c3qj57rkd2k1o</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz7gfhiW4dg7Bn_Arqy2F8N251km2z7rkhS0PyfIwWYIEIerAJSopcVIgx9k4</ht:news_item_picture>
+				<ht:news_item_source>BBC</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Powerball: See the winning numbers in Saturday’s $114 million drawing; one ticket in Florida won</ht:news_item_title>
+				<ht:news_item_title>Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yahoo.com/news/us/articles/powerball-see-winning-numbers-saturday-052244798.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUDc5vHlm7qez_n5cskiaWKh_I6nsF-6STrUXlPX_xXXFOeoUz0PkwW86sIg</ht:news_item_picture>
+				<ht:news_item_url>https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS00bBf7i0EApqthkmQJTlIfQzDSIFz9z-OHdJvDhwuY88o_d3tUwqIez7nAo0</ht:news_item_picture>
+				<ht:news_item_source>The Guardian</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Molly Meldrum to Receive State Funeral as Kylie Minogue, Jimmy Barnes Lead Tributes</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/molly-meldrum-receive-state-funeral-065552747.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJdDIzDghNL0bGPumDkbY_hr8ZPiDnGlhs3MwapQiX4xa4FO7l0ZIc5B5WvoY</ht:news_item_picture>
 				<ht:news_item_source>Yahoo</ht:news_item_source>
 			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Powerball numbers tonight, Nov. 21? Powerball winning numbers last night</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.indystar.com/story/money/lottery/2026/11/21/powerball-numbers-tonight-nov-21-2026-winning-powerball-numbers-last-night-drawing-11-21-26-lottery/92864808007/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFfcxyaln5ttq3lmQkvkauwMdYMq4EUl6w1nJLGXkz_Abgw7nti9RJxVEg-4g</ht:news_item_picture>
-				<ht:news_item_source>IndyStar</ht:news_item_source>
-			</ht:news_item>
 		</item>
 		<item>
-			<title>criminal profile gta 6</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<title>gta 6 vicki</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJNjQbG0-B-AiOnJri-HG4MRRKAPSBmeVwci9ciMQpEyyUnEfyYjiQM0Yrx-Y</ht:picture>
-			<ht:picture_source>Red Bull</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:50:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMKJ2PAbgJHFRKwjqBnCkbX5HBiOQR1BgEhy-nr7KIir61WD27sKNLVghlfY4</ht:picture>
+			<ht:picture_source>escorenews.com</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>GTA 6 Criminal Profile: How the system works</ht:news_item_title>
+				<ht:news_item_title>Can you romance Vicki in GTA 6. How to see her naked in strip club and order a private dance</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.redbull.com/us-en/gta-6-criminal-profile-levels-explained</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJNjQbG0-B-AiOnJri-HG4MRRKAPSBmeVwci9ciMQpEyyUnEfyYjiQM0Yrx-Y</ht:news_item_picture>
-				<ht:news_item_source>Red Bull</ht:news_item_source>
+				<ht:news_item_url>https://escorenews.com/en/article/82871-can-you-romance-vicki-in-gta-6-how-to-see-her-naked-in-strip-club-and-order-a-private-dance</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMKJ2PAbgJHFRKwjqBnCkbX5HBiOQR1BgEhy-nr7KIir61WD27sKNLVghlfY4</ht:news_item_picture>
+				<ht:news_item_source>escorenews.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>6 Signs Grand Theft Auto VI Is Coming Between You and Your Partner</ht:news_item_title>
+				<ht:news_item_title>Bye Mandy, GTA 6 players have moved onto being infatuated with goth girl Vicki</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.psychologytoday.com/us/blog/un-numb/202611/6-signs-grand-theft-auto-vi-is-coming-between-you-and-your-partner</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWOik9viZvkivlPuop9jDz8-6_xcDhfcbnLVN-GmDU_XEA-1h1d74sjvJSE6M</ht:news_item_picture>
-				<ht:news_item_source>Psychology Today</ht:news_item_source>
+				<ht:news_item_url>https://www.gamingbible.com/news/gta-6-vicki-fans-obsessed-774161-20261122</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwZT7cDU7pWhBdsnN4M8aHMFvWuxEVEtTpS6JTGONzzJEUwQXjlo3FKm4_jV8</ht:news_item_picture>
+				<ht:news_item_source>GAMINGbible</ht:news_item_source>
 			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.foxnews.com/lifestyle/grand-theft-auto-vi-mania-endanger-marriages-relationship-coach-exposes-red-flag</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuHFn6vk6tzlfCJGUkxmSpVyPugcyYYNU97y-fCe-7TXm6E-oMSMEpLQ6ZaG8</ht:news_item_picture>
-				<ht:news_item_source>Fox News</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>lucia voice actor</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:50:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBPNTUJ-hsGbgwEYexf_4rUsHDmSeDjR0XAbnSqpgZj7YTf0QR5GcAgZEzo6g</ht:picture>
-			<ht:picture_source>Yahoo</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>The ‘GTA 6’ cast has been revealed: Meet the voice actors behind Lucia, Jason and more</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yahoo.com/entertainment/celebrity/article/the-gta-6-cast-has-been-revealed-meet-the-voice-actors-behind-lucia-jason-and-more-155230217.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBPNTUJ-hsGbgwEYexf_4rUsHDmSeDjR0XAbnSqpgZj7YTf0QR5GcAgZEzo6g</ht:news_item_picture>
-				<ht:news_item_source>Yahoo</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘GTA VI’ finally reveals the actors, voices and familiar names behind Vice City</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://apnews.com/article/grand-theft-auto-6-actors-0ef831c452fe3a3fd4909ea7069ec118</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMdXEaXN6Fw3KIRqnTVAWCCEAtiS1qhgpOskNFa46kejovljaGemsm7mTO3jU</ht:news_item_picture>
-				<ht:news_item_source>AP News</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.today.com/popculture/news/manni-l-perez-gta-6-lucia-caminos-everything-to-know-rcna610095</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT05kjwrBYX-lcuM3Uf66HDH1E_MhJOBIOl6sfAWvMlnSd8wJyaVwBYXvgzUkI</ht:news_item_picture>
-				<ht:news_item_source>TODAY.com</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>vicki gta 6 voice actor</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDHfUeKW1iQhS3j-XwD22vreaR3d888MZ3H29av2qn179GprUKfz5oAHJ4</ht:picture>
-			<ht:picture_source>Radio Times</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>Who is Taryn Manning? GTA 6 Vicki actor and singer</ht:news_item_title>
 				<ht:news_item_snippet/>
@@ -170,139 +94,215 @@
 				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDHfUeKW1iQhS3j-XwD22vreaR3d888MZ3H29av2qn179GprUKfz5oAHJ4</ht:news_item_picture>
 				<ht:news_item_source>Radio Times</ht:news_item_source>
 			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘GTA 6’: Where You Know Vicki Actress Taryn Manning From</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mensjournal.com/news/gta-6-where-you-know-vicki-actress-taryn-manning-from</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBHLB6ZlfoLRydC95tG2vraGalFvdb6Bxc3RqpUTRklJF1SVvwvNI6JI76a4</ht:news_item_picture>
-				<ht:news_item_source>Men&apos;s Journal</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Can you romance Vicki in GTA 6. How to see her naked in strip club and order a private dance</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://escorenews.com/en/article/82871-can-you-romance-vicki-in-gta-6-how-to-see-her-naked-in-strip-club-and-order-a-private-dance</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDR0NrqRJ6mkbxTV5F_SH1L4yCGcQYubHOhq3h1EJJ3KexqjivWWA97ejHXfk</ht:news_item_picture>
-				<ht:news_item_source>escorenews.com</ht:news_item_source>
-			</ht:news_item>
 		</item>
 		<item>
-			<title>robert downey jr</title>
+			<title>stranger things</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:40:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC0pF1hQknJoVabIcKadkjjE-8ehNNnHRnIrQbfPanOJuOqa5Ue-NDXXaP_mY</ht:picture>
-			<ht:picture_source>ScreenRant</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEF_JmTZZ__k8nw26L2ZJ9T2B9j5wEuRkPaEQ3QPOMpXbK-V1yQa9OWmCv22c</ht:picture>
+			<ht:picture_source>AL.com</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Doctor Doom’s Scrapped MCU Variant Unveiled In New Avengers: Doomsday Release</ht:news_item_title>
+				<ht:news_item_title>‘Stranger Things’ actress makes guest appearance at Alabama football game</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://screenrant.com/avengers-doomsday-doctor-doom-scrappedvariant/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC0pF1hQknJoVabIcKadkjjE-8ehNNnHRnIrQbfPanOJuOqa5Ue-NDXXaP_mY</ht:news_item_picture>
-				<ht:news_item_source>ScreenRant</ht:news_item_source>
+				<ht:news_item_url>https://www.al.com/alabamafootball/2026/11/stranger-things-actress-makes-guest-appearance-at-alabama-football-game.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEF_JmTZZ__k8nw26L2ZJ9T2B9j5wEuRkPaEQ3QPOMpXbK-V1yQa9OWmCv22c</ht:news_item_picture>
+				<ht:news_item_source>AL.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Bow Before the New Marvel Legends God Emperor Doom</ht:news_item_title>
+				<ht:news_item_title>Licensable picture: Nov 21, 2026; Tuscaloosa, AL, USA; Calista Craig, an actress who is in the cast of Stranger Things, dances with the Alabama</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://bleedingcool.com/collectibles/bow-before-the-new-marvel-legends-god-emperor-doom/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbHAsaKk_K293eDiZiHDgHtzCTemgwksKxWCM-M0jxmSvlsGiuGVBWC-pDfkY</ht:news_item_picture>
-				<ht:news_item_source>Bleeding Cool News</ht:news_item_source>
+				<ht:news_item_url>https://www.reutersconnect.com/item/nov-21-2026-tuscaloosa-al-usa-calista-craig-an-actress-who-is-in-the-cast-of-stranger-things-dances-with-the-alabama/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTY1MjM</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajHbH0MiDvDVRMf5cZWEXYmNrRrQDpOe4v-DGSDWKo4TmZS_Zn0t0989MxGk</ht:news_item_picture>
+				<ht:news_item_source>Reuters Connect</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Doctor Doom’s Scrapped ‘Avengers: Doomsday’ Costume Just Became a Stunning Collectible as First Look is Revealed</ht:news_item_title>
+				<ht:news_item_title>Stranger Things Star Joins Alabama Game as Netflix Plans 2028 Spinoff</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.imdb.com/news/ni66121852/?ref_=int_nwr_3</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIZn9pw2kdoaWg4et7QI-TVbJhjuwhJnJi57IRCgvu7iN5ElljX058OHLyyAc</ht:news_item_picture>
-				<ht:news_item_source>IMDb</ht:news_item_source>
+				<ht:news_item_url>https://www.limapagi.id/en/stranger-things-alabama-netflix-spinoff</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMkaPRZkhTKVaGRsqeHKW2_POLCnaKE7XqJ7hsLSmqF4HR_pOys-RVoNp5cc</ht:news_item_picture>
+				<ht:news_item_source>Limapagi</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>metacritic gta vi</title>
-			<ht:approx_traffic>10000+</ht:approx_traffic>
+			<title>swimming</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:30:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3cmFfMho0T2y-eevQWEcu6epqp965J_6OT7mTY26Rm23vbhLLzD2IRQFaDrg</ht:picture>
-			<ht:picture_source>Forbes</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzUXk_QjgeREmgf0CJ6nfaXk91WCYJYPUtgxPwasEXoJjOFQB6UHb-iqc2o8k</ht:picture>
+			<ht:picture_source>Yahoo Sports</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>‘Grand Theft Auto 6’ Is Being Review Bombed On Metacritic</ht:news_item_title>
+				<ht:news_item_title>Greenwich girls swimming holds off Ridgefield for second straight State Open title</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.forbes.com/sites/paultassi/2026/11/21/grand-theft-auto-6-is-being-review-bombed-on-metacritic/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3cmFfMho0T2y-eevQWEcu6epqp965J_6OT7mTY26Rm23vbhLLzD2IRQFaDrg</ht:news_item_picture>
-				<ht:news_item_source>Forbes</ht:news_item_source>
+				<ht:news_item_url>https://sports.yahoo.com/articles/greenwich-girls-swimming-holds-off-035618020.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzUXk_QjgeREmgf0CJ6nfaXk91WCYJYPUtgxPwasEXoJjOFQB6UHb-iqc2o8k</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Ranked: The Highest-Rated Video Games of All Time</ht:news_item_title>
+				<ht:news_item_title>2026 CIAC girls swimming State Open: Top seeds, contenders and what to know</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.visualcapitalist.com/highest-rated-video-games-on-metacritic/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Rxp3xSu2HuVKiZm_1sDxYMn26Cugt0mqWTNsth2IpDX_CWSHxSnmami-ROk</ht:news_item_picture>
-				<ht:news_item_source>Visual Capitalist</ht:news_item_source>
+				<ht:news_item_url>https://www.ctinsider.com/gametimect/article/ciac-girls-swimming-state-open-championship-2026-22541709.php</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREYxFYEacyEMbPGEnwpuM1YA08NUHj87uSIGmGGVKIba97eaq0-xDivOj7Ygc</ht:news_item_picture>
+				<ht:news_item_source>CT Insider</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>GTA 6 fans list every &apos;legitimate&apos; complaint as GOTY gets reviewbombed</ht:news_item_title>
+				<ht:news_item_title>Greenwich holds off Ridgefield for 4th straight Class LL girls swimming title, 33rd overall</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.gamingbible.com/news/gta-6-fans-list-every-legitimate-complaint-as-goty-gets-reviewbombed-648908-20261121</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRltWkDhq_1masE3ccXTonmr2JXW2uZ2QoCCOUhfMUs6d7-gUCaOnRI0jdEiQ</ht:news_item_picture>
-				<ht:news_item_source>GAMINGbible</ht:news_item_source>
+				<ht:news_item_url>https://www.ctinsider.com/gametimect/article/girls-swimming-class-ll-state-championship-ciac-22535838.php</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwOpfijMYHZwJzSsUZa2BuCDzK0kKHwi3W9tWiXdFqmqOnTTS_Uiz_3C-EmZI</ht:news_item_picture>
+				<ht:news_item_source>CT Insider</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>gta 6 chapter 2 mission list</title>
+			<title>elon musk</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnH5c6NWMBq0zSLZLLTOmkTFfL-g9qrRnuJJ20Iz9GoivuFKHVlRGzP5cBeac</ht:picture>
-			<ht:picture_source>Red Bull</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:40:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRq47VExAmUKJHpfMS2hE7Jnu_NrqFVQsoowmNduJRFKanEXRVZle7qF35-E</ht:picture>
+			<ht:picture_source>Yahoo Finance</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>GTA 6: A guide to every mission and chapter</ht:news_item_title>
+				<ht:news_item_title>Elon Musk Says 2027 AI Cash Crunch Will Be ‘Nuts’ — Analysts Still See SpaceX Emerging As The Biggest AI Hyperscaler</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.redbull.com/int-en/gta-6-complete-mission-list</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnH5c6NWMBq0zSLZLLTOmkTFfL-g9qrRnuJJ20Iz9GoivuFKHVlRGzP5cBeac</ht:news_item_picture>
-				<ht:news_item_source>Red Bull</ht:news_item_source>
+				<ht:news_item_url>https://finance.yahoo.com/technology/ai/articles/elon-musk-says-2027-ai-023231321.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRq47VExAmUKJHpfMS2hE7Jnu_NrqFVQsoowmNduJRFKanEXRVZle7qF35-E</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>All main story missions in GTA 6</ht:news_item_title>
+				<ht:news_item_title>Elon Musk warns data center delays could leave AI companies short on cash: &apos;Going to be nuts&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.polygon.com/gta-6-mission-chapter-list-how-many/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1UzgLoG78Bz2gpqORX2zLaS7HG9lRNtwCZVJXlS-MMOQ_rNtQsaYmPcFA4L8</ht:news_item_picture>
-				<ht:news_item_source>Polygon.com</ht:news_item_source>
+				<ht:news_item_url>https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiI7_EwtnJLrYYJXjigx6bN4n0rmCm4l_wblTnociWYn0Lyh6TlSqLN3qr5gg</ht:news_item_picture>
+				<ht:news_item_source>Business Insider</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>How long it takes to play &apos;GTA 6&apos;: Story playthrough and achievements</ht:news_item_title>
+				<ht:news_item_title>AI ​​industry will likely face a severe funding shortage next year: Elon Musk</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://mashable.com/entertainment/how-long-will-it-take-to-play-gta-6</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYwZAw5JkiJkkTPtjD09NtC9S4iKG9I8Q0UvM1PrW5NPGnutiuTUsaKd3K8lA</ht:news_item_picture>
-				<ht:news_item_source>Mashable</ht:news_item_source>
+				<ht:news_item_url>https://www.thestandard.com.hk/innovation/article/349255/AI-industry-will-likely-face-a-severe-funding-shortage-next-year-Elon-Musk</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE2Za5axdbmXgmxp-HzQleCYv6LBONUZliYbZ1b8yNmJJ9Gzg7ZNJHY4O-L2o</ht:news_item_picture>
+				<ht:news_item_source>The Standard (HK)</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>donnie gta 6</title>
+			<title>黎曼猜想</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Sun, 22 Nov 2026 23:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGDP-H_KUuvF001wqrBYGoExeJW853oh30aE4KDUPU059a7YvMxpxGPoXmYmQ</ht:picture>
+			<ht:picture_source>BBC</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Anthropic公司或许已解决重大数学难题：黎曼猜想</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.bbc.com/zhongwen/articles/cwe85gr487dno/simp</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGDP-H_KUuvF001wqrBYGoExeJW853oh30aE4KDUPU059a7YvMxpxGPoXmYmQ</ht:news_item_picture>
+				<ht:news_item_source>BBC</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Anthropic数学家称Claude攻克了数学界最著名难题</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://cn.wsj.com/articles/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-f000b8ed</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXbNNQm8GL29MRXU4phjChNaGiTgVDJHnTnSF29jxhKR5DV7KYXPrlVq4Hq4</ht:news_item_picture>
+				<ht:news_item_source>华尔街日报中文网</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Claude协助数学家形式化证明黎曼猜想，引发对知识精英新闻节食与算法神话的反思</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.huxiu.com/article/4907555.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyrDfTPrgnWBa4XdmdXYqdo6KrVttJJtiv6w6NGqrghyBLTovOOG3NpI1BYM</ht:news_item_picture>
+				<ht:news_item_source>虎嗅</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>joe jonas</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Sun, 22 Nov 2026 23:30:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3sf90f7qFUACeoMTq3uVo4rrLfk_Z8YIIh28t5AvDxR2TpLst_kRu1ZptebA</ht:picture>
+			<ht:picture_source>Us Weekly</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Joe Jonas and Girlfriend Tatiana Gabriela Split After 1 Year of Dating: ‘Things Shifted’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.usmagazine.com/celebrity-news/news/joe-jonas-and-tatiana-gabriela-split-after-1-year-of-dating/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3sf90f7qFUACeoMTq3uVo4rrLfk_Z8YIIh28t5AvDxR2TpLst_kRu1ZptebA</ht:news_item_picture>
+				<ht:news_item_source>Us Weekly</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Joe Jonas Splits from Girlfriend Tatiana Gabriela After Year of Dating</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.imdb.com/es/news/ni66111283/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrI9AGlX6enXbIVBQU0E91scDTDgZl6g9oxbZBVM5JwtTAqD92kvORr9T0kog</ht:news_item_picture>
+				<ht:news_item_source>IMDb</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Joe Jonas Dating History: Full List of His Famous Ex-Girlfriends Revealed</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yahoo.com/entertainment/celebrity/articles/joe-jonas-dating-history-full-225333301.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFeT5UCGJdLu0BcEpPmCJG-5Ob1xVhEaseE0peOKtsfVQrshA1brt25GThljE</ht:news_item_picture>
+				<ht:news_item_source>Yahoo</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>sa vs ban</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=US</link>
+			<pubDate>Sun, 22 Nov 2026 23:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1wUXDZlVj15XHcBT04Ypuemqd6TRJw61ZaL0kz5JKZm-8S9VcH9gIU628sS0</ht:picture>
+			<ht:picture_source>Cricinfo</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&apos;It&apos;s quite a smooth transition&apos;- Markram on stepping in for Bavuma</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cricinfo.com/story/aiden-markram-says-it-s-quite-a-smooth-transition-to-be-leading-south-africa-again-1563619</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1wUXDZlVj15XHcBT04Ypuemqd6TRJw61ZaL0kz5JKZm-8S9VcH9gIU628sS0</ht:news_item_picture>
+				<ht:news_item_source>Cricinfo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>South Africa vs Bangladesh, 2nd Test: Injuries won&apos;t take the sting out of Centurion Test</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cricbuzz.com/cricket-news/141019/south-africa-vs-bangladesh-2nd-test-injuries-wont-take-the-sting-out-of-centurion-test-cricbuzzcom</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNAZkFCP_2-CgJWleUFo6_wDFGOMmWGYUuPkFshstUm2b7ZLPeEQSqlQhOxMM</ht:news_item_picture>
+				<ht:news_item_source>Cricbuzz</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Rain delays toss as Centurion Test awaits start</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.thedailystar.net/sports/cricket/news/rain-delays-toss-centurion-test-awaits-start-4331056</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcTXq8sah4C9tGUDRz8mXOqHugYvxWQokc9wGkIzHGse_eT_I5UwPBrVr4b9o</ht:news_item_picture>
+				<ht:news_item_source>The Daily Star</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>paul walker</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=US</link>
-			<pubDate>Sat, 21 Nov 2026 22:20:00 -0800</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZgveDo91s7T1FDNTCV0mSvbEsC2AzxneCbUwdimdczwaa9lWzMnTVpK8sxxQ</ht:picture>
-			<ht:picture_source>SVG</ht:picture_source>
+			<pubDate>Sun, 22 Nov 2026 23:20:00 -0800</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmi-Tpd3A7eHbLdk6deRgqxLTnDR3oF793IbC-ogsyWrqpcwWr3hcRueZDwKM</ht:picture>
+			<ht:picture_source>VICE</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>GTA 6&apos;s First Major Death Might Be The Most Disturbing In The Entire Franchise</ht:news_item_title>
+				<ht:news_item_title>Where to Find Paul Walker’s 1995 Mitsubishi Eclipse in GTA 6</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.svg.com/2321148/gta-6-donnie-death-explained/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZgveDo91s7T1FDNTCV0mSvbEsC2AzxneCbUwdimdczwaa9lWzMnTVpK8sxxQ</ht:news_item_picture>
-				<ht:news_item_source>SVG</ht:news_item_source>
+				<ht:news_item_url>https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmi-Tpd3A7eHbLdk6deRgqxLTnDR3oF793IbC-ogsyWrqpcwWr3hcRueZDwKM</ht:news_item_picture>
+				<ht:news_item_source>VICE</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Who Plays Donnie In GTA 6?</ht:news_item_title>
+				<ht:news_item_title>GTA 6 - How to Find the Fast and the Furious Car Easter Egg</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tech.yahoo.com/gaming/articles/plays-donnie-gta-6-010000008.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS84rbLVRBzM3tKW3xdVG6Mbiy-a_NVtIyqYUrbVLAmOpNvdC5x8h6lRXpe9tU</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Tech</ht:news_item_source>
+				<ht:news_item_url>https://www.ign.com/videos/gta-6-how-to-find-the-fast-and-the-furious-car-easter-egg</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw4PdJS8FBxlvrfv0Rpl7KUU1MreVbNURHIKlu-sStWpmDRdhfK24j_CHQfPo</ht:news_item_picture>
+				<ht:news_item_source>IGN</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>GTA 6 Reveals Donnie Death and Brad Carter Voice Role</ht:news_item_title>
+				<ht:news_item_title>Where To Find The Paul Walker &apos;Fast And Furious&apos; Tribute Car In GTA 6</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://demokratis.co.id/en/gta6-donnie-brad-carter</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSruy5Try7tAMHkvlD-XQSsSgx8X1lxwwK4b-YrMlERRHTnAKSNINilHldpvJI</ht:news_item_picture>
-				<ht:news_item_source>Demokratis.co.id</ht:news_item_source>
+				<ht:news_item_url>https://www.jalopnik.com/2322396/gta-6-grand-theft-auto-paul-walker-fast-and-furious-toyota-supra-turbo-tribute/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbmWQD2Q_uY_E2qC0vkQ_YNl9iCmdn6ss1nSP97gYiLlE3178NZELPUar1ayU</ht:news_item_picture>
+				<ht:news_item_source>Jalopnik</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
