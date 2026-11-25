@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['譚詠麟', '俠盜獵車手vi', '港怡醫院', '货币']
-explore[譚詠麟] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 譚詠麟: 17 点, 峰值 100
-explore[俠盜獵車手vi] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 俠盜獵車手vi: 35 点, 峰值 100
-explore[港怡醫院] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 港怡醫院: 31 点, 峰值 100
-explore[货币] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 货币: 74 点, 峰值 100
-写出 data/iot/HK-2026-11-24.csv (157 行)
-写出 data/iot/latest-hk.csv (157 行)
-US 关键词: ['black friday sale deals', 'is fortnite down', 'frente frío', 'horse']
-explore[black friday sale deals] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK black friday sale deals: 169 点, 峰值 100
-explore[is fortnite down] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK is fortnite down: 111 点, 峰值 100
-explore[frente frío] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK frente frío: 51 点, 峰值 100
-explore[horse] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK horse: 169 点, 峰值 100
-写出 data/iot/US-2026-11-24.csv (500 行)
-写出 data/iot/latest-us.csv (500 行)
-完成，共 657 行
+HK 关键词: ['潘國靈', '遣返', '霍宏聲', '周志文']
+explore[潘國靈] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 潘國靈: 6 点, 峰值 100
+explore[遣返] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 遣返: 3 点, 峰值 100
+explore[霍宏聲] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 霍宏聲: 5 点, 峰值 100
+explore[周志文] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 周志文: 6 点, 峰值 100
+写出 data/iot/HK-2026-11-25.csv (20 行)
+写出 data/iot/latest-hk.csv (20 行)
+US 关键词: ['google play', 'the mosquito bowl', 'hltv', 'how to open vaults in gta 6']
+explore[google play] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK google play: 169 点, 峰值 100
+explore[the mosquito bowl] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK the mosquito bowl: 139 点, 峰值 100
+explore[hltv] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK hltv: 166 点, 峰值 100
+explore[how to open vaults in gta 6] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK how to open vaults in gta 6: 68 点, 峰值 100
+写出 data/iot/US-2026-11-25.csv (542 行)
+写出 data/iot/latest-us.csv (542 行)
+完成，共 562 行
