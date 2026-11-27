@@ -1,24 +1,24 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['smartone', '佳 宝 食品 超級 市場', '林子祥', '蘇民峰']
-explore[smartone] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK smartone: 127 点, 峰值 100
-explore[佳 宝 食品 超級 市場] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 佳 宝 食品 超級 市場: 22 点, 峰值 100
-explore[林子祥] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 林子祥: 141 点, 峰值 100
-explore[蘇民峰] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 蘇民峰: 12 点, 峰值 100
-写出 data/iot/HK-2026-11-26.csv (302 行)
-写出 data/iot/latest-hk.csv (302 行)
-US 关键词: ['mcdonalds', 'in n out', 'dennys', 'dominion power outage']
-explore[mcdonalds] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK mcdonalds: 169 点, 峰值 100
-explore[in n out] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK in n out: 169 点, 峰值 100
-explore[dennys] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK dennys: 169 点, 峰值 100
-explore[dominion power outage] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK dominion power outage: 29 点, 峰值 100
-写出 data/iot/US-2026-11-26.csv (536 行)
-写出 data/iot/latest-us.csv (536 行)
-完成，共 838 行
+HK 关键词: ['阮嘉敏', 'aeon', '中九龍繞道', '中年好声音']
+explore[阮嘉敏] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 阮嘉敏: 21 点, 峰值 100
+explore[aeon] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK aeon: 146 点, 峰值 100
+explore[中九龍繞道] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 中九龍繞道: 13 点, 峰值 100
+explore[中年好声音] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 中年好声音: 9 点, 峰值 100
+写出 data/iot/HK-2026-11-27.csv (189 行)
+写出 data/iot/latest-hk.csv (189 行)
+US 关键词: ['iran attacks kuwait', 'aus vs eng', 'gta6 pc port', 'seth meyers']
+explore[iran attacks kuwait] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK iran attacks kuwait: 4 点, 峰值 100
+explore[aus vs eng] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK aus vs eng: 62 点, 峰值 100
+explore[gta6 pc port] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK gta6 pc port: 127 点, 峰值 100
+explore[seth meyers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK seth meyers: 165 点, 峰值 100
+写出 data/iot/US-2026-11-27.csv (358 行)
+写出 data/iot/latest-us.csv (358 行)
+完成，共 547 行
