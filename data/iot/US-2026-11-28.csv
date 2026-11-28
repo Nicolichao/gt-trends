@@ -1,0 +1,520 @@
+keyword,geo,timeframe,point_time,formatted_time,value
+gordon ramsay,US,now 7-d,2026-11-21T08:00:00+00:00,"Nov 21, 2026 at 4:00 PM",35
+gordon ramsay,US,now 7-d,2026-11-21T09:00:00+00:00,"Nov 21, 2026 at 5:00 PM",36
+gordon ramsay,US,now 7-d,2026-11-21T10:00:00+00:00,"Nov 21, 2026 at 6:00 PM",26
+gordon ramsay,US,now 7-d,2026-11-21T11:00:00+00:00,"Nov 21, 2026 at 7:00 PM",15
+gordon ramsay,US,now 7-d,2026-11-21T12:00:00+00:00,"Nov 21, 2026 at 8:00 PM",25
+gordon ramsay,US,now 7-d,2026-11-21T13:00:00+00:00,"Nov 21, 2026 at 9:00 PM",26
+gordon ramsay,US,now 7-d,2026-11-21T14:00:00+00:00,"Nov 21, 2026 at 10:00 PM",29
+gordon ramsay,US,now 7-d,2026-11-21T15:00:00+00:00,"Nov 21, 2026 at 11:00 PM",34
+gordon ramsay,US,now 7-d,2026-11-21T16:00:00+00:00,"Nov 22, 2026 at 12:00 AM",31
+gordon ramsay,US,now 7-d,2026-11-21T17:00:00+00:00,"Nov 22, 2026 at 1:00 AM",35
+gordon ramsay,US,now 7-d,2026-11-21T18:00:00+00:00,"Nov 22, 2026 at 2:00 AM",34
+gordon ramsay,US,now 7-d,2026-11-21T19:00:00+00:00,"Nov 22, 2026 at 3:00 AM",35
+gordon ramsay,US,now 7-d,2026-11-21T20:00:00+00:00,"Nov 22, 2026 at 4:00 AM",34
+gordon ramsay,US,now 7-d,2026-11-21T21:00:00+00:00,"Nov 22, 2026 at 5:00 AM",36
+gordon ramsay,US,now 7-d,2026-11-21T22:00:00+00:00,"Nov 22, 2026 at 6:00 AM",37
+gordon ramsay,US,now 7-d,2026-11-21T23:00:00+00:00,"Nov 22, 2026 at 7:00 AM",42
+gordon ramsay,US,now 7-d,2026-11-22T00:00:00+00:00,"Nov 22, 2026 at 8:00 AM",43
+gordon ramsay,US,now 7-d,2026-11-22T01:00:00+00:00,"Nov 22, 2026 at 9:00 AM",39
+gordon ramsay,US,now 7-d,2026-11-22T02:00:00+00:00,"Nov 22, 2026 at 10:00 AM",46
+gordon ramsay,US,now 7-d,2026-11-22T03:00:00+00:00,"Nov 22, 2026 at 11:00 AM",48
+gordon ramsay,US,now 7-d,2026-11-22T04:00:00+00:00,"Nov 22, 2026 at 12:00 PM",41
+gordon ramsay,US,now 7-d,2026-11-22T05:00:00+00:00,"Nov 22, 2026 at 1:00 PM",44
+gordon ramsay,US,now 7-d,2026-11-22T06:00:00+00:00,"Nov 22, 2026 at 2:00 PM",43
+gordon ramsay,US,now 7-d,2026-11-22T07:00:00+00:00,"Nov 22, 2026 at 3:00 PM",43
+gordon ramsay,US,now 7-d,2026-11-22T08:00:00+00:00,"Nov 22, 2026 at 4:00 PM",36
+gordon ramsay,US,now 7-d,2026-11-22T09:00:00+00:00,"Nov 22, 2026 at 5:00 PM",29
+gordon ramsay,US,now 7-d,2026-11-22T10:00:00+00:00,"Nov 22, 2026 at 6:00 PM",22
+gordon ramsay,US,now 7-d,2026-11-22T11:00:00+00:00,"Nov 22, 2026 at 7:00 PM",25
+gordon ramsay,US,now 7-d,2026-11-22T12:00:00+00:00,"Nov 22, 2026 at 8:00 PM",27
+gordon ramsay,US,now 7-d,2026-11-22T13:00:00+00:00,"Nov 22, 2026 at 9:00 PM",30
+gordon ramsay,US,now 7-d,2026-11-22T14:00:00+00:00,"Nov 22, 2026 at 10:00 PM",32
+gordon ramsay,US,now 7-d,2026-11-22T15:00:00+00:00,"Nov 22, 2026 at 11:00 PM",36
+gordon ramsay,US,now 7-d,2026-11-22T16:00:00+00:00,"Nov 23, 2026 at 12:00 AM",32
+gordon ramsay,US,now 7-d,2026-11-22T17:00:00+00:00,"Nov 23, 2026 at 1:00 AM",34
+gordon ramsay,US,now 7-d,2026-11-22T18:00:00+00:00,"Nov 23, 2026 at 2:00 AM",33
+gordon ramsay,US,now 7-d,2026-11-22T19:00:00+00:00,"Nov 23, 2026 at 3:00 AM",35
+gordon ramsay,US,now 7-d,2026-11-22T20:00:00+00:00,"Nov 23, 2026 at 4:00 AM",32
+gordon ramsay,US,now 7-d,2026-11-22T21:00:00+00:00,"Nov 23, 2026 at 5:00 AM",39
+gordon ramsay,US,now 7-d,2026-11-22T22:00:00+00:00,"Nov 23, 2026 at 6:00 AM",45
+gordon ramsay,US,now 7-d,2026-11-22T23:00:00+00:00,"Nov 23, 2026 at 7:00 AM",42
+gordon ramsay,US,now 7-d,2026-11-23T00:00:00+00:00,"Nov 23, 2026 at 8:00 AM",40
+gordon ramsay,US,now 7-d,2026-11-23T01:00:00+00:00,"Nov 23, 2026 at 9:00 AM",40
+gordon ramsay,US,now 7-d,2026-11-23T02:00:00+00:00,"Nov 23, 2026 at 10:00 AM",41
+gordon ramsay,US,now 7-d,2026-11-23T03:00:00+00:00,"Nov 23, 2026 at 11:00 AM",40
+gordon ramsay,US,now 7-d,2026-11-23T04:00:00+00:00,"Nov 23, 2026 at 12:00 PM",43
+gordon ramsay,US,now 7-d,2026-11-23T05:00:00+00:00,"Nov 23, 2026 at 1:00 PM",43
+gordon ramsay,US,now 7-d,2026-11-23T06:00:00+00:00,"Nov 23, 2026 at 2:00 PM",42
+gordon ramsay,US,now 7-d,2026-11-23T07:00:00+00:00,"Nov 23, 2026 at 3:00 PM",33
+gordon ramsay,US,now 7-d,2026-11-23T08:00:00+00:00,"Nov 23, 2026 at 4:00 PM",28
+gordon ramsay,US,now 7-d,2026-11-23T09:00:00+00:00,"Nov 23, 2026 at 5:00 PM",26
+gordon ramsay,US,now 7-d,2026-11-23T10:00:00+00:00,"Nov 23, 2026 at 6:00 PM",23
+gordon ramsay,US,now 7-d,2026-11-23T11:00:00+00:00,"Nov 23, 2026 at 7:00 PM",21
+gordon ramsay,US,now 7-d,2026-11-23T12:00:00+00:00,"Nov 23, 2026 at 8:00 PM",15
+gordon ramsay,US,now 7-d,2026-11-23T13:00:00+00:00,"Nov 23, 2026 at 9:00 PM",18
+gordon ramsay,US,now 7-d,2026-11-23T14:00:00+00:00,"Nov 23, 2026 at 10:00 PM",20
+gordon ramsay,US,now 7-d,2026-11-23T15:00:00+00:00,"Nov 23, 2026 at 11:00 PM",21
+gordon ramsay,US,now 7-d,2026-11-23T16:00:00+00:00,"Nov 24, 2026 at 12:00 AM",23
+gordon ramsay,US,now 7-d,2026-11-23T17:00:00+00:00,"Nov 24, 2026 at 1:00 AM",24
+gordon ramsay,US,now 7-d,2026-11-23T18:00:00+00:00,"Nov 24, 2026 at 2:00 AM",23
+gordon ramsay,US,now 7-d,2026-11-23T19:00:00+00:00,"Nov 24, 2026 at 3:00 AM",25
+gordon ramsay,US,now 7-d,2026-11-23T20:00:00+00:00,"Nov 24, 2026 at 4:00 AM",25
+gordon ramsay,US,now 7-d,2026-11-23T21:00:00+00:00,"Nov 24, 2026 at 5:00 AM",26
+gordon ramsay,US,now 7-d,2026-11-23T22:00:00+00:00,"Nov 24, 2026 at 6:00 AM",32
+gordon ramsay,US,now 7-d,2026-11-23T23:00:00+00:00,"Nov 24, 2026 at 7:00 AM",35
+gordon ramsay,US,now 7-d,2026-11-24T00:00:00+00:00,"Nov 24, 2026 at 8:00 AM",46
+gordon ramsay,US,now 7-d,2026-11-24T01:00:00+00:00,"Nov 24, 2026 at 9:00 AM",43
+gordon ramsay,US,now 7-d,2026-11-24T02:00:00+00:00,"Nov 24, 2026 at 10:00 AM",44
+gordon ramsay,US,now 7-d,2026-11-24T03:00:00+00:00,"Nov 24, 2026 at 11:00 AM",42
+gordon ramsay,US,now 7-d,2026-11-24T04:00:00+00:00,"Nov 24, 2026 at 12:00 PM",36
+gordon ramsay,US,now 7-d,2026-11-24T05:00:00+00:00,"Nov 24, 2026 at 1:00 PM",36
+gordon ramsay,US,now 7-d,2026-11-24T06:00:00+00:00,"Nov 24, 2026 at 2:00 PM",42
+gordon ramsay,US,now 7-d,2026-11-24T07:00:00+00:00,"Nov 24, 2026 at 3:00 PM",34
+gordon ramsay,US,now 7-d,2026-11-24T08:00:00+00:00,"Nov 24, 2026 at 4:00 PM",29
+gordon ramsay,US,now 7-d,2026-11-24T09:00:00+00:00,"Nov 24, 2026 at 5:00 PM",18
+gordon ramsay,US,now 7-d,2026-11-24T10:00:00+00:00,"Nov 24, 2026 at 6:00 PM",16
+gordon ramsay,US,now 7-d,2026-11-24T11:00:00+00:00,"Nov 24, 2026 at 7:00 PM",20
+gordon ramsay,US,now 7-d,2026-11-24T12:00:00+00:00,"Nov 24, 2026 at 8:00 PM",19
+gordon ramsay,US,now 7-d,2026-11-24T13:00:00+00:00,"Nov 24, 2026 at 9:00 PM",19
+gordon ramsay,US,now 7-d,2026-11-24T14:00:00+00:00,"Nov 24, 2026 at 10:00 PM",20
+gordon ramsay,US,now 7-d,2026-11-24T15:00:00+00:00,"Nov 24, 2026 at 11:00 PM",23
+gordon ramsay,US,now 7-d,2026-11-24T16:00:00+00:00,"Nov 25, 2026 at 12:00 AM",21
+gordon ramsay,US,now 7-d,2026-11-24T17:00:00+00:00,"Nov 25, 2026 at 1:00 AM",27
+gordon ramsay,US,now 7-d,2026-11-24T18:00:00+00:00,"Nov 25, 2026 at 2:00 AM",29
+gordon ramsay,US,now 7-d,2026-11-24T19:00:00+00:00,"Nov 25, 2026 at 3:00 AM",27
+gordon ramsay,US,now 7-d,2026-11-24T20:00:00+00:00,"Nov 25, 2026 at 4:00 AM",24
+gordon ramsay,US,now 7-d,2026-11-24T21:00:00+00:00,"Nov 25, 2026 at 5:00 AM",29
+gordon ramsay,US,now 7-d,2026-11-24T22:00:00+00:00,"Nov 25, 2026 at 6:00 AM",32
+gordon ramsay,US,now 7-d,2026-11-24T23:00:00+00:00,"Nov 25, 2026 at 7:00 AM",40
+gordon ramsay,US,now 7-d,2026-11-25T00:00:00+00:00,"Nov 25, 2026 at 8:00 AM",47
+gordon ramsay,US,now 7-d,2026-11-25T01:00:00+00:00,"Nov 25, 2026 at 9:00 AM",43
+gordon ramsay,US,now 7-d,2026-11-25T02:00:00+00:00,"Nov 25, 2026 at 10:00 AM",42
+gordon ramsay,US,now 7-d,2026-11-25T03:00:00+00:00,"Nov 25, 2026 at 11:00 AM",45
+gordon ramsay,US,now 7-d,2026-11-25T04:00:00+00:00,"Nov 25, 2026 at 12:00 PM",46
+gordon ramsay,US,now 7-d,2026-11-25T05:00:00+00:00,"Nov 25, 2026 at 1:00 PM",38
+gordon ramsay,US,now 7-d,2026-11-25T06:00:00+00:00,"Nov 25, 2026 at 2:00 PM",42
+gordon ramsay,US,now 7-d,2026-11-25T07:00:00+00:00,"Nov 25, 2026 at 3:00 PM",38
+gordon ramsay,US,now 7-d,2026-11-25T08:00:00+00:00,"Nov 25, 2026 at 4:00 PM",35
+gordon ramsay,US,now 7-d,2026-11-25T09:00:00+00:00,"Nov 25, 2026 at 5:00 PM",27
+gordon ramsay,US,now 7-d,2026-11-25T10:00:00+00:00,"Nov 25, 2026 at 6:00 PM",25
+gordon ramsay,US,now 7-d,2026-11-25T11:00:00+00:00,"Nov 25, 2026 at 7:00 PM",19
+gordon ramsay,US,now 7-d,2026-11-25T12:00:00+00:00,"Nov 25, 2026 at 8:00 PM",24
+gordon ramsay,US,now 7-d,2026-11-25T13:00:00+00:00,"Nov 25, 2026 at 9:00 PM",28
+gordon ramsay,US,now 7-d,2026-11-25T14:00:00+00:00,"Nov 25, 2026 at 10:00 PM",27
+gordon ramsay,US,now 7-d,2026-11-25T15:00:00+00:00,"Nov 25, 2026 at 11:00 PM",28
+gordon ramsay,US,now 7-d,2026-11-25T16:00:00+00:00,"Nov 26, 2026 at 12:00 AM",29
+gordon ramsay,US,now 7-d,2026-11-25T17:00:00+00:00,"Nov 26, 2026 at 1:00 AM",51
+gordon ramsay,US,now 7-d,2026-11-25T18:00:00+00:00,"Nov 26, 2026 at 2:00 AM",44
+gordon ramsay,US,now 7-d,2026-11-25T19:00:00+00:00,"Nov 26, 2026 at 3:00 AM",44
+gordon ramsay,US,now 7-d,2026-11-25T20:00:00+00:00,"Nov 26, 2026 at 4:00 AM",49
+gordon ramsay,US,now 7-d,2026-11-25T21:00:00+00:00,"Nov 26, 2026 at 5:00 AM",51
+gordon ramsay,US,now 7-d,2026-11-25T22:00:00+00:00,"Nov 26, 2026 at 6:00 AM",54
+gordon ramsay,US,now 7-d,2026-11-25T23:00:00+00:00,"Nov 26, 2026 at 7:00 AM",63
+gordon ramsay,US,now 7-d,2026-11-26T00:00:00+00:00,"Nov 26, 2026 at 8:00 AM",59
+gordon ramsay,US,now 7-d,2026-11-26T01:00:00+00:00,"Nov 26, 2026 at 9:00 AM",63
+gordon ramsay,US,now 7-d,2026-11-26T02:00:00+00:00,"Nov 26, 2026 at 10:00 AM",67
+gordon ramsay,US,now 7-d,2026-11-26T03:00:00+00:00,"Nov 26, 2026 at 11:00 AM",63
+gordon ramsay,US,now 7-d,2026-11-26T04:00:00+00:00,"Nov 26, 2026 at 12:00 PM",58
+gordon ramsay,US,now 7-d,2026-11-26T05:00:00+00:00,"Nov 26, 2026 at 1:00 PM",68
+gordon ramsay,US,now 7-d,2026-11-26T06:00:00+00:00,"Nov 26, 2026 at 2:00 PM",57
+gordon ramsay,US,now 7-d,2026-11-26T07:00:00+00:00,"Nov 26, 2026 at 3:00 PM",57
+gordon ramsay,US,now 7-d,2026-11-26T08:00:00+00:00,"Nov 26, 2026 at 4:00 PM",48
+gordon ramsay,US,now 7-d,2026-11-26T09:00:00+00:00,"Nov 26, 2026 at 5:00 PM",34
+gordon ramsay,US,now 7-d,2026-11-26T10:00:00+00:00,"Nov 26, 2026 at 6:00 PM",57
+gordon ramsay,US,now 7-d,2026-11-26T11:00:00+00:00,"Nov 26, 2026 at 7:00 PM",55
+gordon ramsay,US,now 7-d,2026-11-26T12:00:00+00:00,"Nov 26, 2026 at 8:00 PM",67
+gordon ramsay,US,now 7-d,2026-11-26T13:00:00+00:00,"Nov 26, 2026 at 9:00 PM",69
+gordon ramsay,US,now 7-d,2026-11-26T14:00:00+00:00,"Nov 26, 2026 at 10:00 PM",90
+gordon ramsay,US,now 7-d,2026-11-26T15:00:00+00:00,"Nov 26, 2026 at 11:00 PM",100
+gordon ramsay,US,now 7-d,2026-11-26T16:00:00+00:00,"Nov 27, 2026 at 12:00 AM",93
+gordon ramsay,US,now 7-d,2026-11-26T17:00:00+00:00,"Nov 27, 2026 at 1:00 AM",86
+gordon ramsay,US,now 7-d,2026-11-26T18:00:00+00:00,"Nov 27, 2026 at 2:00 AM",85
+gordon ramsay,US,now 7-d,2026-11-26T19:00:00+00:00,"Nov 27, 2026 at 3:00 AM",78
+gordon ramsay,US,now 7-d,2026-11-26T20:00:00+00:00,"Nov 27, 2026 at 4:00 AM",72
+gordon ramsay,US,now 7-d,2026-11-26T21:00:00+00:00,"Nov 27, 2026 at 5:00 AM",69
+gordon ramsay,US,now 7-d,2026-11-26T22:00:00+00:00,"Nov 27, 2026 at 6:00 AM",70
+gordon ramsay,US,now 7-d,2026-11-26T23:00:00+00:00,"Nov 27, 2026 at 7:00 AM",66
+gordon ramsay,US,now 7-d,2026-11-27T00:00:00+00:00,"Nov 27, 2026 at 8:00 AM",61
+gordon ramsay,US,now 7-d,2026-11-27T01:00:00+00:00,"Nov 27, 2026 at 9:00 AM",57
+gordon ramsay,US,now 7-d,2026-11-27T02:00:00+00:00,"Nov 27, 2026 at 10:00 AM",63
+gordon ramsay,US,now 7-d,2026-11-27T03:00:00+00:00,"Nov 27, 2026 at 11:00 AM",66
+gordon ramsay,US,now 7-d,2026-11-27T04:00:00+00:00,"Nov 27, 2026 at 12:00 PM",54
+gordon ramsay,US,now 7-d,2026-11-27T05:00:00+00:00,"Nov 27, 2026 at 1:00 PM",58
+gordon ramsay,US,now 7-d,2026-11-27T06:00:00+00:00,"Nov 27, 2026 at 2:00 PM",52
+gordon ramsay,US,now 7-d,2026-11-27T07:00:00+00:00,"Nov 27, 2026 at 3:00 PM",48
+gordon ramsay,US,now 7-d,2026-11-27T08:00:00+00:00,"Nov 27, 2026 at 4:00 PM",46
+gordon ramsay,US,now 7-d,2026-11-27T09:00:00+00:00,"Nov 27, 2026 at 5:00 PM",31
+gordon ramsay,US,now 7-d,2026-11-27T10:00:00+00:00,"Nov 27, 2026 at 6:00 PM",32
+gordon ramsay,US,now 7-d,2026-11-27T11:00:00+00:00,"Nov 27, 2026 at 7:00 PM",28
+gordon ramsay,US,now 7-d,2026-11-27T12:00:00+00:00,"Nov 27, 2026 at 8:00 PM",32
+gordon ramsay,US,now 7-d,2026-11-27T13:00:00+00:00,"Nov 27, 2026 at 9:00 PM",31
+gordon ramsay,US,now 7-d,2026-11-27T14:00:00+00:00,"Nov 27, 2026 at 10:00 PM",26
+gordon ramsay,US,now 7-d,2026-11-27T15:00:00+00:00,"Nov 27, 2026 at 11:00 PM",29
+gordon ramsay,US,now 7-d,2026-11-27T16:00:00+00:00,"Nov 28, 2026 at 12:00 AM",31
+gordon ramsay,US,now 7-d,2026-11-27T17:00:00+00:00,"Nov 28, 2026 at 1:00 AM",32
+gordon ramsay,US,now 7-d,2026-11-27T18:00:00+00:00,"Nov 28, 2026 at 2:00 AM",31
+gordon ramsay,US,now 7-d,2026-11-27T19:00:00+00:00,"Nov 28, 2026 at 3:00 AM",29
+gordon ramsay,US,now 7-d,2026-11-27T20:00:00+00:00,"Nov 28, 2026 at 4:00 AM",29
+gordon ramsay,US,now 7-d,2026-11-27T21:00:00+00:00,"Nov 28, 2026 at 5:00 AM",28
+gordon ramsay,US,now 7-d,2026-11-27T22:00:00+00:00,"Nov 28, 2026 at 6:00 AM",31
+gordon ramsay,US,now 7-d,2026-11-27T23:00:00+00:00,"Nov 28, 2026 at 7:00 AM",36
+gordon ramsay,US,now 7-d,2026-11-28T00:00:00+00:00,"Nov 28, 2026 at 8:00 AM",35
+gordon ramsay,US,now 7-d,2026-11-28T01:00:00+00:00,"Nov 28, 2026 at 9:00 AM",34
+gordon ramsay,US,now 7-d,2026-11-28T02:00:00+00:00,"Nov 28, 2026 at 10:00 AM",38
+gordon ramsay,US,now 7-d,2026-11-28T03:00:00+00:00,"Nov 28, 2026 at 11:00 AM",39
+gordon ramsay,US,now 7-d,2026-11-28T04:00:00+00:00,"Nov 28, 2026 at 12:00 PM",37
+gordon ramsay,US,now 7-d,2026-11-28T05:00:00+00:00,"Nov 28, 2026 at 1:00 PM",60
+gordon ramsay,US,now 7-d,2026-11-28T06:00:00+00:00,"Nov 28, 2026 at 2:00 PM",39
+gordon ramsay,US,now 7-d,2026-11-28T07:00:00+00:00,"Nov 28, 2026 at 3:00 PM",34
+gordon ramsay,US,now 7-d,2026-11-28T08:00:00+00:00,"Nov 28, 2026 at 4:00 PM",35
+開票,US,now 7-d,2026-11-22T17:00:00+00:00,"Nov 23, 2026 at 1:00 AM",1
+開票,US,now 7-d,2026-11-27T15:00:00+00:00,"Nov 27, 2026 at 11:00 PM",1
+開票,US,now 7-d,2026-11-27T17:00:00+00:00,"Nov 28, 2026 at 1:00 AM",1
+開票,US,now 7-d,2026-11-27T19:00:00+00:00,"Nov 28, 2026 at 3:00 AM",1
+開票,US,now 7-d,2026-11-27T20:00:00+00:00,"Nov 28, 2026 at 4:00 AM",0
+開票,US,now 7-d,2026-11-27T21:00:00+00:00,"Nov 28, 2026 at 5:00 AM",1
+開票,US,now 7-d,2026-11-27T22:00:00+00:00,"Nov 28, 2026 at 6:00 AM",1
+開票,US,now 7-d,2026-11-27T23:00:00+00:00,"Nov 28, 2026 at 7:00 AM",1
+開票,US,now 7-d,2026-11-28T00:00:00+00:00,"Nov 28, 2026 at 8:00 AM",1
+開票,US,now 7-d,2026-11-28T01:00:00+00:00,"Nov 28, 2026 at 9:00 AM",2
+開票,US,now 7-d,2026-11-28T02:00:00+00:00,"Nov 28, 2026 at 10:00 AM",3
+開票,US,now 7-d,2026-11-28T03:00:00+00:00,"Nov 28, 2026 at 11:00 AM",4
+開票,US,now 7-d,2026-11-28T04:00:00+00:00,"Nov 28, 2026 at 12:00 PM",5
+開票,US,now 7-d,2026-11-28T05:00:00+00:00,"Nov 28, 2026 at 1:00 PM",9
+開票,US,now 7-d,2026-11-28T06:00:00+00:00,"Nov 28, 2026 at 2:00 PM",12
+開票,US,now 7-d,2026-11-28T07:00:00+00:00,"Nov 28, 2026 at 3:00 PM",26
+開票,US,now 7-d,2026-11-28T08:00:00+00:00,"Nov 28, 2026 at 4:00 PM",100
+prisoners,US,now 7-d,2026-11-21T08:00:00+00:00,"Nov 21, 2026 at 4:00 PM",80
+prisoners,US,now 7-d,2026-11-21T09:00:00+00:00,"Nov 21, 2026 at 5:00 PM",82
+prisoners,US,now 7-d,2026-11-21T10:00:00+00:00,"Nov 21, 2026 at 6:00 PM",85
+prisoners,US,now 7-d,2026-11-21T11:00:00+00:00,"Nov 21, 2026 at 7:00 PM",51
+prisoners,US,now 7-d,2026-11-21T12:00:00+00:00,"Nov 21, 2026 at 8:00 PM",61
+prisoners,US,now 7-d,2026-11-21T13:00:00+00:00,"Nov 21, 2026 at 9:00 PM",43
+prisoners,US,now 7-d,2026-11-21T14:00:00+00:00,"Nov 21, 2026 at 10:00 PM",45
+prisoners,US,now 7-d,2026-11-21T15:00:00+00:00,"Nov 21, 2026 at 11:00 PM",44
+prisoners,US,now 7-d,2026-11-21T16:00:00+00:00,"Nov 22, 2026 at 12:00 AM",42
+prisoners,US,now 7-d,2026-11-21T17:00:00+00:00,"Nov 22, 2026 at 1:00 AM",42
+prisoners,US,now 7-d,2026-11-21T18:00:00+00:00,"Nov 22, 2026 at 2:00 AM",51
+prisoners,US,now 7-d,2026-11-21T19:00:00+00:00,"Nov 22, 2026 at 3:00 AM",49
+prisoners,US,now 7-d,2026-11-21T20:00:00+00:00,"Nov 22, 2026 at 4:00 AM",45
+prisoners,US,now 7-d,2026-11-21T21:00:00+00:00,"Nov 22, 2026 at 5:00 AM",59
+prisoners,US,now 7-d,2026-11-21T22:00:00+00:00,"Nov 22, 2026 at 6:00 AM",57
+prisoners,US,now 7-d,2026-11-21T23:00:00+00:00,"Nov 22, 2026 at 7:00 AM",63
+prisoners,US,now 7-d,2026-11-22T00:00:00+00:00,"Nov 22, 2026 at 8:00 AM",72
+prisoners,US,now 7-d,2026-11-22T01:00:00+00:00,"Nov 22, 2026 at 9:00 AM",91
+prisoners,US,now 7-d,2026-11-22T02:00:00+00:00,"Nov 22, 2026 at 10:00 AM",84
+prisoners,US,now 7-d,2026-11-22T03:00:00+00:00,"Nov 22, 2026 at 11:00 AM",96
+prisoners,US,now 7-d,2026-11-22T04:00:00+00:00,"Nov 22, 2026 at 12:00 PM",97
+prisoners,US,now 7-d,2026-11-22T05:00:00+00:00,"Nov 22, 2026 at 1:00 PM",92
+prisoners,US,now 7-d,2026-11-22T06:00:00+00:00,"Nov 22, 2026 at 2:00 PM",90
+prisoners,US,now 7-d,2026-11-22T07:00:00+00:00,"Nov 22, 2026 at 3:00 PM",94
+prisoners,US,now 7-d,2026-11-22T08:00:00+00:00,"Nov 22, 2026 at 4:00 PM",90
+prisoners,US,now 7-d,2026-11-22T09:00:00+00:00,"Nov 22, 2026 at 5:00 PM",67
+prisoners,US,now 7-d,2026-11-22T10:00:00+00:00,"Nov 22, 2026 at 6:00 PM",73
+prisoners,US,now 7-d,2026-11-22T11:00:00+00:00,"Nov 22, 2026 at 7:00 PM",58
+prisoners,US,now 7-d,2026-11-22T12:00:00+00:00,"Nov 22, 2026 at 8:00 PM",41
+prisoners,US,now 7-d,2026-11-22T13:00:00+00:00,"Nov 22, 2026 at 9:00 PM",49
+prisoners,US,now 7-d,2026-11-22T14:00:00+00:00,"Nov 22, 2026 at 10:00 PM",51
+prisoners,US,now 7-d,2026-11-22T15:00:00+00:00,"Nov 22, 2026 at 11:00 PM",48
+prisoners,US,now 7-d,2026-11-22T16:00:00+00:00,"Nov 23, 2026 at 12:00 AM",51
+prisoners,US,now 7-d,2026-11-22T17:00:00+00:00,"Nov 23, 2026 at 1:00 AM",57
+prisoners,US,now 7-d,2026-11-22T18:00:00+00:00,"Nov 23, 2026 at 2:00 AM",48
+prisoners,US,now 7-d,2026-11-22T19:00:00+00:00,"Nov 23, 2026 at 3:00 AM",52
+prisoners,US,now 7-d,2026-11-22T20:00:00+00:00,"Nov 23, 2026 at 4:00 AM",59
+prisoners,US,now 7-d,2026-11-22T21:00:00+00:00,"Nov 23, 2026 at 5:00 AM",57
+prisoners,US,now 7-d,2026-11-22T22:00:00+00:00,"Nov 23, 2026 at 6:00 AM",64
+prisoners,US,now 7-d,2026-11-22T23:00:00+00:00,"Nov 23, 2026 at 7:00 AM",66
+prisoners,US,now 7-d,2026-11-23T00:00:00+00:00,"Nov 23, 2026 at 8:00 AM",82
+prisoners,US,now 7-d,2026-11-23T01:00:00+00:00,"Nov 23, 2026 at 9:00 AM",93
+prisoners,US,now 7-d,2026-11-23T02:00:00+00:00,"Nov 23, 2026 at 10:00 AM",100
+prisoners,US,now 7-d,2026-11-23T03:00:00+00:00,"Nov 23, 2026 at 11:00 AM",94
+prisoners,US,now 7-d,2026-11-23T04:00:00+00:00,"Nov 23, 2026 at 12:00 PM",98
+prisoners,US,now 7-d,2026-11-23T05:00:00+00:00,"Nov 23, 2026 at 1:00 PM",90
+prisoners,US,now 7-d,2026-11-23T06:00:00+00:00,"Nov 23, 2026 at 2:00 PM",89
+prisoners,US,now 7-d,2026-11-23T07:00:00+00:00,"Nov 23, 2026 at 3:00 PM",71
+prisoners,US,now 7-d,2026-11-23T08:00:00+00:00,"Nov 23, 2026 at 4:00 PM",69
+prisoners,US,now 7-d,2026-11-23T09:00:00+00:00,"Nov 23, 2026 at 5:00 PM",62
+prisoners,US,now 7-d,2026-11-23T10:00:00+00:00,"Nov 23, 2026 at 6:00 PM",46
+prisoners,US,now 7-d,2026-11-23T11:00:00+00:00,"Nov 23, 2026 at 7:00 PM",50
+prisoners,US,now 7-d,2026-11-23T12:00:00+00:00,"Nov 23, 2026 at 8:00 PM",51
+prisoners,US,now 7-d,2026-11-23T13:00:00+00:00,"Nov 23, 2026 at 9:00 PM",49
+prisoners,US,now 7-d,2026-11-23T14:00:00+00:00,"Nov 23, 2026 at 10:00 PM",47
+prisoners,US,now 7-d,2026-11-23T15:00:00+00:00,"Nov 23, 2026 at 11:00 PM",50
+prisoners,US,now 7-d,2026-11-23T16:00:00+00:00,"Nov 24, 2026 at 12:00 AM",46
+prisoners,US,now 7-d,2026-11-23T17:00:00+00:00,"Nov 24, 2026 at 1:00 AM",50
+prisoners,US,now 7-d,2026-11-23T18:00:00+00:00,"Nov 24, 2026 at 2:00 AM",50
+prisoners,US,now 7-d,2026-11-23T19:00:00+00:00,"Nov 24, 2026 at 3:00 AM",54
+prisoners,US,now 7-d,2026-11-23T20:00:00+00:00,"Nov 24, 2026 at 4:00 AM",54
+prisoners,US,now 7-d,2026-11-23T21:00:00+00:00,"Nov 24, 2026 at 5:00 AM",60
+prisoners,US,now 7-d,2026-11-23T22:00:00+00:00,"Nov 24, 2026 at 6:00 AM",70
+prisoners,US,now 7-d,2026-11-23T23:00:00+00:00,"Nov 24, 2026 at 7:00 AM",74
+prisoners,US,now 7-d,2026-11-24T00:00:00+00:00,"Nov 24, 2026 at 8:00 AM",74
+prisoners,US,now 7-d,2026-11-24T01:00:00+00:00,"Nov 24, 2026 at 9:00 AM",73
+prisoners,US,now 7-d,2026-11-24T02:00:00+00:00,"Nov 24, 2026 at 10:00 AM",81
+prisoners,US,now 7-d,2026-11-24T03:00:00+00:00,"Nov 24, 2026 at 11:00 AM",78
+prisoners,US,now 7-d,2026-11-24T04:00:00+00:00,"Nov 24, 2026 at 12:00 PM",76
+prisoners,US,now 7-d,2026-11-24T05:00:00+00:00,"Nov 24, 2026 at 1:00 PM",88
+prisoners,US,now 7-d,2026-11-24T06:00:00+00:00,"Nov 24, 2026 at 2:00 PM",83
+prisoners,US,now 7-d,2026-11-24T07:00:00+00:00,"Nov 24, 2026 at 3:00 PM",100
+prisoners,US,now 7-d,2026-11-24T08:00:00+00:00,"Nov 24, 2026 at 4:00 PM",71
+prisoners,US,now 7-d,2026-11-24T09:00:00+00:00,"Nov 24, 2026 at 5:00 PM",76
+prisoners,US,now 7-d,2026-11-24T10:00:00+00:00,"Nov 24, 2026 at 6:00 PM",48
+prisoners,US,now 7-d,2026-11-24T11:00:00+00:00,"Nov 24, 2026 at 7:00 PM",51
+prisoners,US,now 7-d,2026-11-24T12:00:00+00:00,"Nov 24, 2026 at 8:00 PM",44
+prisoners,US,now 7-d,2026-11-24T13:00:00+00:00,"Nov 24, 2026 at 9:00 PM",50
+prisoners,US,now 7-d,2026-11-24T14:00:00+00:00,"Nov 24, 2026 at 10:00 PM",44
+prisoners,US,now 7-d,2026-11-24T15:00:00+00:00,"Nov 24, 2026 at 11:00 PM",46
+prisoners,US,now 7-d,2026-11-24T16:00:00+00:00,"Nov 25, 2026 at 12:00 AM",47
+prisoners,US,now 7-d,2026-11-24T17:00:00+00:00,"Nov 25, 2026 at 1:00 AM",46
+prisoners,US,now 7-d,2026-11-24T18:00:00+00:00,"Nov 25, 2026 at 2:00 AM",52
+prisoners,US,now 7-d,2026-11-24T19:00:00+00:00,"Nov 25, 2026 at 3:00 AM",46
+prisoners,US,now 7-d,2026-11-24T20:00:00+00:00,"Nov 25, 2026 at 4:00 AM",51
+prisoners,US,now 7-d,2026-11-24T21:00:00+00:00,"Nov 25, 2026 at 5:00 AM",47
+prisoners,US,now 7-d,2026-11-24T22:00:00+00:00,"Nov 25, 2026 at 6:00 AM",46
+prisoners,US,now 7-d,2026-11-24T23:00:00+00:00,"Nov 25, 2026 at 7:00 AM",58
+prisoners,US,now 7-d,2026-11-25T00:00:00+00:00,"Nov 25, 2026 at 8:00 AM",71
+prisoners,US,now 7-d,2026-11-25T01:00:00+00:00,"Nov 25, 2026 at 9:00 AM",75
+prisoners,US,now 7-d,2026-11-25T02:00:00+00:00,"Nov 25, 2026 at 10:00 AM",82
+prisoners,US,now 7-d,2026-11-25T03:00:00+00:00,"Nov 25, 2026 at 11:00 AM",86
+prisoners,US,now 7-d,2026-11-25T04:00:00+00:00,"Nov 25, 2026 at 12:00 PM",84
+prisoners,US,now 7-d,2026-11-25T05:00:00+00:00,"Nov 25, 2026 at 1:00 PM",86
+prisoners,US,now 7-d,2026-11-25T06:00:00+00:00,"Nov 25, 2026 at 2:00 PM",78
+prisoners,US,now 7-d,2026-11-25T07:00:00+00:00,"Nov 25, 2026 at 3:00 PM",91
+prisoners,US,now 7-d,2026-11-25T08:00:00+00:00,"Nov 25, 2026 at 4:00 PM",70
+prisoners,US,now 7-d,2026-11-25T09:00:00+00:00,"Nov 25, 2026 at 5:00 PM",62
+prisoners,US,now 7-d,2026-11-25T10:00:00+00:00,"Nov 25, 2026 at 6:00 PM",54
+prisoners,US,now 7-d,2026-11-25T11:00:00+00:00,"Nov 25, 2026 at 7:00 PM",48
+prisoners,US,now 7-d,2026-11-25T12:00:00+00:00,"Nov 25, 2026 at 8:00 PM",44
+prisoners,US,now 7-d,2026-11-25T13:00:00+00:00,"Nov 25, 2026 at 9:00 PM",40
+prisoners,US,now 7-d,2026-11-25T14:00:00+00:00,"Nov 25, 2026 at 10:00 PM",41
+prisoners,US,now 7-d,2026-11-25T15:00:00+00:00,"Nov 25, 2026 at 11:00 PM",39
+prisoners,US,now 7-d,2026-11-25T16:00:00+00:00,"Nov 26, 2026 at 12:00 AM",36
+prisoners,US,now 7-d,2026-11-25T17:00:00+00:00,"Nov 26, 2026 at 1:00 AM",43
+prisoners,US,now 7-d,2026-11-25T18:00:00+00:00,"Nov 26, 2026 at 2:00 AM",48
+prisoners,US,now 7-d,2026-11-25T19:00:00+00:00,"Nov 26, 2026 at 3:00 AM",57
+prisoners,US,now 7-d,2026-11-25T20:00:00+00:00,"Nov 26, 2026 at 4:00 AM",58
+prisoners,US,now 7-d,2026-11-25T21:00:00+00:00,"Nov 26, 2026 at 5:00 AM",54
+prisoners,US,now 7-d,2026-11-25T22:00:00+00:00,"Nov 26, 2026 at 6:00 AM",58
+prisoners,US,now 7-d,2026-11-25T23:00:00+00:00,"Nov 26, 2026 at 7:00 AM",61
+prisoners,US,now 7-d,2026-11-26T00:00:00+00:00,"Nov 26, 2026 at 8:00 AM",63
+prisoners,US,now 7-d,2026-11-26T01:00:00+00:00,"Nov 26, 2026 at 9:00 AM",67
+prisoners,US,now 7-d,2026-11-26T02:00:00+00:00,"Nov 26, 2026 at 10:00 AM",76
+prisoners,US,now 7-d,2026-11-26T03:00:00+00:00,"Nov 26, 2026 at 11:00 AM",81
+prisoners,US,now 7-d,2026-11-26T04:00:00+00:00,"Nov 26, 2026 at 12:00 PM",89
+prisoners,US,now 7-d,2026-11-26T05:00:00+00:00,"Nov 26, 2026 at 1:00 PM",91
+prisoners,US,now 7-d,2026-11-26T06:00:00+00:00,"Nov 26, 2026 at 2:00 PM",79
+prisoners,US,now 7-d,2026-11-26T07:00:00+00:00,"Nov 26, 2026 at 3:00 PM",82
+prisoners,US,now 7-d,2026-11-26T08:00:00+00:00,"Nov 26, 2026 at 4:00 PM",77
+prisoners,US,now 7-d,2026-11-26T09:00:00+00:00,"Nov 26, 2026 at 5:00 PM",82
+prisoners,US,now 7-d,2026-11-26T10:00:00+00:00,"Nov 26, 2026 at 6:00 PM",65
+prisoners,US,now 7-d,2026-11-26T11:00:00+00:00,"Nov 26, 2026 at 7:00 PM",50
+prisoners,US,now 7-d,2026-11-26T12:00:00+00:00,"Nov 26, 2026 at 8:00 PM",45
+prisoners,US,now 7-d,2026-11-26T13:00:00+00:00,"Nov 26, 2026 at 9:00 PM",43
+prisoners,US,now 7-d,2026-11-26T14:00:00+00:00,"Nov 26, 2026 at 10:00 PM",43
+prisoners,US,now 7-d,2026-11-26T15:00:00+00:00,"Nov 26, 2026 at 11:00 PM",43
+prisoners,US,now 7-d,2026-11-26T16:00:00+00:00,"Nov 27, 2026 at 12:00 AM",45
+prisoners,US,now 7-d,2026-11-26T17:00:00+00:00,"Nov 27, 2026 at 1:00 AM",48
+prisoners,US,now 7-d,2026-11-26T18:00:00+00:00,"Nov 27, 2026 at 2:00 AM",47
+prisoners,US,now 7-d,2026-11-26T19:00:00+00:00,"Nov 27, 2026 at 3:00 AM",45
+prisoners,US,now 7-d,2026-11-26T20:00:00+00:00,"Nov 27, 2026 at 4:00 AM",48
+prisoners,US,now 7-d,2026-11-26T21:00:00+00:00,"Nov 27, 2026 at 5:00 AM",45
+prisoners,US,now 7-d,2026-11-26T22:00:00+00:00,"Nov 27, 2026 at 6:00 AM",64
+prisoners,US,now 7-d,2026-11-26T23:00:00+00:00,"Nov 27, 2026 at 7:00 AM",69
+prisoners,US,now 7-d,2026-11-27T00:00:00+00:00,"Nov 27, 2026 at 8:00 AM",75
+prisoners,US,now 7-d,2026-11-27T01:00:00+00:00,"Nov 27, 2026 at 9:00 AM",77
+prisoners,US,now 7-d,2026-11-27T02:00:00+00:00,"Nov 27, 2026 at 10:00 AM",90
+prisoners,US,now 7-d,2026-11-27T03:00:00+00:00,"Nov 27, 2026 at 11:00 AM",87
+prisoners,US,now 7-d,2026-11-27T04:00:00+00:00,"Nov 27, 2026 at 12:00 PM",94
+prisoners,US,now 7-d,2026-11-27T05:00:00+00:00,"Nov 27, 2026 at 1:00 PM",92
+prisoners,US,now 7-d,2026-11-27T06:00:00+00:00,"Nov 27, 2026 at 2:00 PM",99
+prisoners,US,now 7-d,2026-11-27T07:00:00+00:00,"Nov 27, 2026 at 3:00 PM",89
+prisoners,US,now 7-d,2026-11-27T08:00:00+00:00,"Nov 27, 2026 at 4:00 PM",85
+prisoners,US,now 7-d,2026-11-27T09:00:00+00:00,"Nov 27, 2026 at 5:00 PM",58
+prisoners,US,now 7-d,2026-11-27T10:00:00+00:00,"Nov 27, 2026 at 6:00 PM",50
+prisoners,US,now 7-d,2026-11-27T11:00:00+00:00,"Nov 27, 2026 at 7:00 PM",32
+prisoners,US,now 7-d,2026-11-27T12:00:00+00:00,"Nov 27, 2026 at 8:00 PM",34
+prisoners,US,now 7-d,2026-11-27T13:00:00+00:00,"Nov 27, 2026 at 9:00 PM",33
+prisoners,US,now 7-d,2026-11-27T14:00:00+00:00,"Nov 27, 2026 at 10:00 PM",33
+prisoners,US,now 7-d,2026-11-27T15:00:00+00:00,"Nov 27, 2026 at 11:00 PM",33
+prisoners,US,now 7-d,2026-11-27T16:00:00+00:00,"Nov 28, 2026 at 12:00 AM",39
+prisoners,US,now 7-d,2026-11-27T17:00:00+00:00,"Nov 28, 2026 at 1:00 AM",39
+prisoners,US,now 7-d,2026-11-27T18:00:00+00:00,"Nov 28, 2026 at 2:00 AM",39
+prisoners,US,now 7-d,2026-11-27T19:00:00+00:00,"Nov 28, 2026 at 3:00 AM",43
+prisoners,US,now 7-d,2026-11-27T20:00:00+00:00,"Nov 28, 2026 at 4:00 AM",39
+prisoners,US,now 7-d,2026-11-27T21:00:00+00:00,"Nov 28, 2026 at 5:00 AM",35
+prisoners,US,now 7-d,2026-11-27T22:00:00+00:00,"Nov 28, 2026 at 6:00 AM",45
+prisoners,US,now 7-d,2026-11-27T23:00:00+00:00,"Nov 28, 2026 at 7:00 AM",58
+prisoners,US,now 7-d,2026-11-28T00:00:00+00:00,"Nov 28, 2026 at 8:00 AM",71
+prisoners,US,now 7-d,2026-11-28T01:00:00+00:00,"Nov 28, 2026 at 9:00 AM",72
+prisoners,US,now 7-d,2026-11-28T02:00:00+00:00,"Nov 28, 2026 at 10:00 AM",81
+prisoners,US,now 7-d,2026-11-28T03:00:00+00:00,"Nov 28, 2026 at 11:00 AM",88
+prisoners,US,now 7-d,2026-11-28T04:00:00+00:00,"Nov 28, 2026 at 12:00 PM",88
+prisoners,US,now 7-d,2026-11-28T05:00:00+00:00,"Nov 28, 2026 at 1:00 PM",98
+prisoners,US,now 7-d,2026-11-28T06:00:00+00:00,"Nov 28, 2026 at 2:00 PM",90
+prisoners,US,now 7-d,2026-11-28T07:00:00+00:00,"Nov 28, 2026 at 3:00 PM",93
+prisoners,US,now 7-d,2026-11-28T08:00:00+00:00,"Nov 28, 2026 at 4:00 PM",91
+ocelot jugular gta 6,US,now 7-d,2026-11-21T08:00:00+00:00,"Nov 21, 2026 at 4:00 PM",21
+ocelot jugular gta 6,US,now 7-d,2026-11-21T09:00:00+00:00,"Nov 21, 2026 at 5:00 PM",21
+ocelot jugular gta 6,US,now 7-d,2026-11-21T11:00:00+00:00,"Nov 21, 2026 at 7:00 PM",11
+ocelot jugular gta 6,US,now 7-d,2026-11-21T15:00:00+00:00,"Nov 21, 2026 at 11:00 PM",5
+ocelot jugular gta 6,US,now 7-d,2026-11-21T16:00:00+00:00,"Nov 22, 2026 at 12:00 AM",3
+ocelot jugular gta 6,US,now 7-d,2026-11-21T17:00:00+00:00,"Nov 22, 2026 at 1:00 AM",4
+ocelot jugular gta 6,US,now 7-d,2026-11-21T18:00:00+00:00,"Nov 22, 2026 at 2:00 AM",5
+ocelot jugular gta 6,US,now 7-d,2026-11-21T19:00:00+00:00,"Nov 22, 2026 at 3:00 AM",4
+ocelot jugular gta 6,US,now 7-d,2026-11-21T20:00:00+00:00,"Nov 22, 2026 at 4:00 AM",6
+ocelot jugular gta 6,US,now 7-d,2026-11-21T21:00:00+00:00,"Nov 22, 2026 at 5:00 AM",8
+ocelot jugular gta 6,US,now 7-d,2026-11-21T22:00:00+00:00,"Nov 22, 2026 at 6:00 AM",8
+ocelot jugular gta 6,US,now 7-d,2026-11-21T23:00:00+00:00,"Nov 22, 2026 at 7:00 AM",8
+ocelot jugular gta 6,US,now 7-d,2026-11-22T00:00:00+00:00,"Nov 22, 2026 at 8:00 AM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-22T01:00:00+00:00,"Nov 22, 2026 at 9:00 AM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-22T02:00:00+00:00,"Nov 22, 2026 at 10:00 AM",11
+ocelot jugular gta 6,US,now 7-d,2026-11-22T03:00:00+00:00,"Nov 22, 2026 at 11:00 AM",12
+ocelot jugular gta 6,US,now 7-d,2026-11-22T04:00:00+00:00,"Nov 22, 2026 at 12:00 PM",14
+ocelot jugular gta 6,US,now 7-d,2026-11-22T05:00:00+00:00,"Nov 22, 2026 at 1:00 PM",26
+ocelot jugular gta 6,US,now 7-d,2026-11-22T06:00:00+00:00,"Nov 22, 2026 at 2:00 PM",34
+ocelot jugular gta 6,US,now 7-d,2026-11-22T07:00:00+00:00,"Nov 22, 2026 at 3:00 PM",34
+ocelot jugular gta 6,US,now 7-d,2026-11-22T08:00:00+00:00,"Nov 22, 2026 at 4:00 PM",44
+ocelot jugular gta 6,US,now 7-d,2026-11-22T09:00:00+00:00,"Nov 22, 2026 at 5:00 PM",42
+ocelot jugular gta 6,US,now 7-d,2026-11-22T10:00:00+00:00,"Nov 22, 2026 at 6:00 PM",30
+ocelot jugular gta 6,US,now 7-d,2026-11-22T12:00:00+00:00,"Nov 22, 2026 at 8:00 PM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-22T13:00:00+00:00,"Nov 22, 2026 at 9:00 PM",6
+ocelot jugular gta 6,US,now 7-d,2026-11-22T14:00:00+00:00,"Nov 22, 2026 at 10:00 PM",6
+ocelot jugular gta 6,US,now 7-d,2026-11-22T15:00:00+00:00,"Nov 22, 2026 at 11:00 PM",5
+ocelot jugular gta 6,US,now 7-d,2026-11-22T16:00:00+00:00,"Nov 23, 2026 at 12:00 AM",6
+ocelot jugular gta 6,US,now 7-d,2026-11-22T17:00:00+00:00,"Nov 23, 2026 at 1:00 AM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-22T18:00:00+00:00,"Nov 23, 2026 at 2:00 AM",10
+ocelot jugular gta 6,US,now 7-d,2026-11-22T19:00:00+00:00,"Nov 23, 2026 at 3:00 AM",12
+ocelot jugular gta 6,US,now 7-d,2026-11-22T20:00:00+00:00,"Nov 23, 2026 at 4:00 AM",13
+ocelot jugular gta 6,US,now 7-d,2026-11-22T21:00:00+00:00,"Nov 23, 2026 at 5:00 AM",14
+ocelot jugular gta 6,US,now 7-d,2026-11-22T22:00:00+00:00,"Nov 23, 2026 at 6:00 AM",14
+ocelot jugular gta 6,US,now 7-d,2026-11-22T23:00:00+00:00,"Nov 23, 2026 at 7:00 AM",17
+ocelot jugular gta 6,US,now 7-d,2026-11-23T00:00:00+00:00,"Nov 23, 2026 at 8:00 AM",18
+ocelot jugular gta 6,US,now 7-d,2026-11-23T01:00:00+00:00,"Nov 23, 2026 at 9:00 AM",22
+ocelot jugular gta 6,US,now 7-d,2026-11-23T02:00:00+00:00,"Nov 23, 2026 at 10:00 AM",17
+ocelot jugular gta 6,US,now 7-d,2026-11-23T03:00:00+00:00,"Nov 23, 2026 at 11:00 AM",22
+ocelot jugular gta 6,US,now 7-d,2026-11-23T04:00:00+00:00,"Nov 23, 2026 at 12:00 PM",31
+ocelot jugular gta 6,US,now 7-d,2026-11-23T05:00:00+00:00,"Nov 23, 2026 at 1:00 PM",35
+ocelot jugular gta 6,US,now 7-d,2026-11-23T06:00:00+00:00,"Nov 23, 2026 at 2:00 PM",43
+ocelot jugular gta 6,US,now 7-d,2026-11-23T07:00:00+00:00,"Nov 23, 2026 at 3:00 PM",44
+ocelot jugular gta 6,US,now 7-d,2026-11-23T08:00:00+00:00,"Nov 23, 2026 at 4:00 PM",55
+ocelot jugular gta 6,US,now 7-d,2026-11-23T09:00:00+00:00,"Nov 23, 2026 at 5:00 PM",53
+ocelot jugular gta 6,US,now 7-d,2026-11-23T10:00:00+00:00,"Nov 23, 2026 at 6:00 PM",38
+ocelot jugular gta 6,US,now 7-d,2026-11-23T11:00:00+00:00,"Nov 23, 2026 at 7:00 PM",20
+ocelot jugular gta 6,US,now 7-d,2026-11-23T12:00:00+00:00,"Nov 23, 2026 at 8:00 PM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-23T13:00:00+00:00,"Nov 23, 2026 at 9:00 PM",5
+ocelot jugular gta 6,US,now 7-d,2026-11-23T14:00:00+00:00,"Nov 23, 2026 at 10:00 PM",7
+ocelot jugular gta 6,US,now 7-d,2026-11-23T15:00:00+00:00,"Nov 23, 2026 at 11:00 PM",7
+ocelot jugular gta 6,US,now 7-d,2026-11-23T16:00:00+00:00,"Nov 24, 2026 at 12:00 AM",5
+ocelot jugular gta 6,US,now 7-d,2026-11-23T17:00:00+00:00,"Nov 24, 2026 at 1:00 AM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-23T18:00:00+00:00,"Nov 24, 2026 at 2:00 AM",10
+ocelot jugular gta 6,US,now 7-d,2026-11-23T19:00:00+00:00,"Nov 24, 2026 at 3:00 AM",13
+ocelot jugular gta 6,US,now 7-d,2026-11-23T20:00:00+00:00,"Nov 24, 2026 at 4:00 AM",13
+ocelot jugular gta 6,US,now 7-d,2026-11-23T21:00:00+00:00,"Nov 24, 2026 at 5:00 AM",17
+ocelot jugular gta 6,US,now 7-d,2026-11-23T22:00:00+00:00,"Nov 24, 2026 at 6:00 AM",19
+ocelot jugular gta 6,US,now 7-d,2026-11-23T23:00:00+00:00,"Nov 24, 2026 at 7:00 AM",21
+ocelot jugular gta 6,US,now 7-d,2026-11-24T00:00:00+00:00,"Nov 24, 2026 at 8:00 AM",23
+ocelot jugular gta 6,US,now 7-d,2026-11-24T01:00:00+00:00,"Nov 24, 2026 at 9:00 AM",23
+ocelot jugular gta 6,US,now 7-d,2026-11-24T02:00:00+00:00,"Nov 24, 2026 at 10:00 AM",25
+ocelot jugular gta 6,US,now 7-d,2026-11-24T03:00:00+00:00,"Nov 24, 2026 at 11:00 AM",32
+ocelot jugular gta 6,US,now 7-d,2026-11-24T04:00:00+00:00,"Nov 24, 2026 at 12:00 PM",41
+ocelot jugular gta 6,US,now 7-d,2026-11-24T05:00:00+00:00,"Nov 24, 2026 at 1:00 PM",49
+ocelot jugular gta 6,US,now 7-d,2026-11-24T06:00:00+00:00,"Nov 24, 2026 at 2:00 PM",54
+ocelot jugular gta 6,US,now 7-d,2026-11-24T07:00:00+00:00,"Nov 24, 2026 at 3:00 PM",56
+ocelot jugular gta 6,US,now 7-d,2026-11-24T08:00:00+00:00,"Nov 24, 2026 at 4:00 PM",68
+ocelot jugular gta 6,US,now 7-d,2026-11-24T09:00:00+00:00,"Nov 24, 2026 at 5:00 PM",56
+ocelot jugular gta 6,US,now 7-d,2026-11-24T10:00:00+00:00,"Nov 24, 2026 at 6:00 PM",30
+ocelot jugular gta 6,US,now 7-d,2026-11-24T11:00:00+00:00,"Nov 24, 2026 at 7:00 PM",20
+ocelot jugular gta 6,US,now 7-d,2026-11-24T12:00:00+00:00,"Nov 24, 2026 at 8:00 PM",13
+ocelot jugular gta 6,US,now 7-d,2026-11-24T13:00:00+00:00,"Nov 24, 2026 at 9:00 PM",10
+ocelot jugular gta 6,US,now 7-d,2026-11-24T14:00:00+00:00,"Nov 24, 2026 at 10:00 PM",7
+ocelot jugular gta 6,US,now 7-d,2026-11-24T15:00:00+00:00,"Nov 24, 2026 at 11:00 PM",7
+ocelot jugular gta 6,US,now 7-d,2026-11-24T16:00:00+00:00,"Nov 25, 2026 at 12:00 AM",10
+ocelot jugular gta 6,US,now 7-d,2026-11-24T17:00:00+00:00,"Nov 25, 2026 at 1:00 AM",11
+ocelot jugular gta 6,US,now 7-d,2026-11-24T18:00:00+00:00,"Nov 25, 2026 at 2:00 AM",14
+ocelot jugular gta 6,US,now 7-d,2026-11-24T19:00:00+00:00,"Nov 25, 2026 at 3:00 AM",15
+ocelot jugular gta 6,US,now 7-d,2026-11-24T20:00:00+00:00,"Nov 25, 2026 at 4:00 AM",17
+ocelot jugular gta 6,US,now 7-d,2026-11-24T21:00:00+00:00,"Nov 25, 2026 at 5:00 AM",18
+ocelot jugular gta 6,US,now 7-d,2026-11-24T22:00:00+00:00,"Nov 25, 2026 at 6:00 AM",24
+ocelot jugular gta 6,US,now 7-d,2026-11-24T23:00:00+00:00,"Nov 25, 2026 at 7:00 AM",27
+ocelot jugular gta 6,US,now 7-d,2026-11-25T00:00:00+00:00,"Nov 25, 2026 at 8:00 AM",30
+ocelot jugular gta 6,US,now 7-d,2026-11-25T01:00:00+00:00,"Nov 25, 2026 at 9:00 AM",35
+ocelot jugular gta 6,US,now 7-d,2026-11-25T02:00:00+00:00,"Nov 25, 2026 at 10:00 AM",42
+ocelot jugular gta 6,US,now 7-d,2026-11-25T03:00:00+00:00,"Nov 25, 2026 at 11:00 AM",44
+ocelot jugular gta 6,US,now 7-d,2026-11-25T04:00:00+00:00,"Nov 25, 2026 at 12:00 PM",48
+ocelot jugular gta 6,US,now 7-d,2026-11-25T05:00:00+00:00,"Nov 25, 2026 at 1:00 PM",64
+ocelot jugular gta 6,US,now 7-d,2026-11-25T06:00:00+00:00,"Nov 25, 2026 at 2:00 PM",72
+ocelot jugular gta 6,US,now 7-d,2026-11-25T07:00:00+00:00,"Nov 25, 2026 at 3:00 PM",76
+ocelot jugular gta 6,US,now 7-d,2026-11-25T08:00:00+00:00,"Nov 25, 2026 at 4:00 PM",80
+ocelot jugular gta 6,US,now 7-d,2026-11-25T09:00:00+00:00,"Nov 25, 2026 at 5:00 PM",42
+ocelot jugular gta 6,US,now 7-d,2026-11-25T10:00:00+00:00,"Nov 25, 2026 at 6:00 PM",55
+ocelot jugular gta 6,US,now 7-d,2026-11-25T11:00:00+00:00,"Nov 25, 2026 at 7:00 PM",22
+ocelot jugular gta 6,US,now 7-d,2026-11-25T12:00:00+00:00,"Nov 25, 2026 at 8:00 PM",13
+ocelot jugular gta 6,US,now 7-d,2026-11-25T13:00:00+00:00,"Nov 25, 2026 at 9:00 PM",9
+ocelot jugular gta 6,US,now 7-d,2026-11-25T14:00:00+00:00,"Nov 25, 2026 at 10:00 PM",11
+ocelot jugular gta 6,US,now 7-d,2026-11-25T15:00:00+00:00,"Nov 25, 2026 at 11:00 PM",12
+ocelot jugular gta 6,US,now 7-d,2026-11-25T16:00:00+00:00,"Nov 26, 2026 at 12:00 AM",15
+ocelot jugular gta 6,US,now 7-d,2026-11-25T17:00:00+00:00,"Nov 26, 2026 at 1:00 AM",19
+ocelot jugular gta 6,US,now 7-d,2026-11-25T18:00:00+00:00,"Nov 26, 2026 at 2:00 AM",21
+ocelot jugular gta 6,US,now 7-d,2026-11-25T19:00:00+00:00,"Nov 26, 2026 at 3:00 AM",21
+ocelot jugular gta 6,US,now 7-d,2026-11-25T20:00:00+00:00,"Nov 26, 2026 at 4:00 AM",25
+ocelot jugular gta 6,US,now 7-d,2026-11-25T21:00:00+00:00,"Nov 26, 2026 at 5:00 AM",27
+ocelot jugular gta 6,US,now 7-d,2026-11-25T22:00:00+00:00,"Nov 26, 2026 at 6:00 AM",27
+ocelot jugular gta 6,US,now 7-d,2026-11-25T23:00:00+00:00,"Nov 26, 2026 at 7:00 AM",31
+ocelot jugular gta 6,US,now 7-d,2026-11-26T00:00:00+00:00,"Nov 26, 2026 at 8:00 AM",35
+ocelot jugular gta 6,US,now 7-d,2026-11-26T01:00:00+00:00,"Nov 26, 2026 at 9:00 AM",33
+ocelot jugular gta 6,US,now 7-d,2026-11-26T02:00:00+00:00,"Nov 26, 2026 at 10:00 AM",40
+ocelot jugular gta 6,US,now 7-d,2026-11-26T03:00:00+00:00,"Nov 26, 2026 at 11:00 AM",47
+ocelot jugular gta 6,US,now 7-d,2026-11-26T04:00:00+00:00,"Nov 26, 2026 at 12:00 PM",53
+ocelot jugular gta 6,US,now 7-d,2026-11-26T05:00:00+00:00,"Nov 26, 2026 at 1:00 PM",69
+ocelot jugular gta 6,US,now 7-d,2026-11-26T06:00:00+00:00,"Nov 26, 2026 at 2:00 PM",80
+ocelot jugular gta 6,US,now 7-d,2026-11-26T07:00:00+00:00,"Nov 26, 2026 at 3:00 PM",86
+ocelot jugular gta 6,US,now 7-d,2026-11-26T08:00:00+00:00,"Nov 26, 2026 at 4:00 PM",87
+ocelot jugular gta 6,US,now 7-d,2026-11-26T09:00:00+00:00,"Nov 26, 2026 at 5:00 PM",77
+ocelot jugular gta 6,US,now 7-d,2026-11-26T10:00:00+00:00,"Nov 26, 2026 at 6:00 PM",64
+ocelot jugular gta 6,US,now 7-d,2026-11-26T11:00:00+00:00,"Nov 26, 2026 at 7:00 PM",28
+ocelot jugular gta 6,US,now 7-d,2026-11-26T12:00:00+00:00,"Nov 26, 2026 at 8:00 PM",16
+ocelot jugular gta 6,US,now 7-d,2026-11-26T13:00:00+00:00,"Nov 26, 2026 at 9:00 PM",15
+ocelot jugular gta 6,US,now 7-d,2026-11-26T14:00:00+00:00,"Nov 26, 2026 at 10:00 PM",16
+ocelot jugular gta 6,US,now 7-d,2026-11-26T15:00:00+00:00,"Nov 26, 2026 at 11:00 PM",19
+ocelot jugular gta 6,US,now 7-d,2026-11-26T16:00:00+00:00,"Nov 27, 2026 at 12:00 AM",19
+ocelot jugular gta 6,US,now 7-d,2026-11-26T17:00:00+00:00,"Nov 27, 2026 at 1:00 AM",22
+ocelot jugular gta 6,US,now 7-d,2026-11-26T18:00:00+00:00,"Nov 27, 2026 at 2:00 AM",24
+ocelot jugular gta 6,US,now 7-d,2026-11-26T19:00:00+00:00,"Nov 27, 2026 at 3:00 AM",24
+ocelot jugular gta 6,US,now 7-d,2026-11-26T20:00:00+00:00,"Nov 27, 2026 at 4:00 AM",31
+ocelot jugular gta 6,US,now 7-d,2026-11-26T21:00:00+00:00,"Nov 27, 2026 at 5:00 AM",29
+ocelot jugular gta 6,US,now 7-d,2026-11-26T22:00:00+00:00,"Nov 27, 2026 at 6:00 AM",27
+ocelot jugular gta 6,US,now 7-d,2026-11-26T23:00:00+00:00,"Nov 27, 2026 at 7:00 AM",28
+ocelot jugular gta 6,US,now 7-d,2026-11-27T00:00:00+00:00,"Nov 27, 2026 at 8:00 AM",34
+ocelot jugular gta 6,US,now 7-d,2026-11-27T01:00:00+00:00,"Nov 27, 2026 at 9:00 AM",28
+ocelot jugular gta 6,US,now 7-d,2026-11-27T02:00:00+00:00,"Nov 27, 2026 at 10:00 AM",40
+ocelot jugular gta 6,US,now 7-d,2026-11-27T03:00:00+00:00,"Nov 27, 2026 at 11:00 AM",46
+ocelot jugular gta 6,US,now 7-d,2026-11-27T04:00:00+00:00,"Nov 27, 2026 at 12:00 PM",61
+ocelot jugular gta 6,US,now 7-d,2026-11-27T05:00:00+00:00,"Nov 27, 2026 at 1:00 PM",71
+ocelot jugular gta 6,US,now 7-d,2026-11-27T06:00:00+00:00,"Nov 27, 2026 at 2:00 PM",90
+ocelot jugular gta 6,US,now 7-d,2026-11-27T07:00:00+00:00,"Nov 27, 2026 at 3:00 PM",95
+ocelot jugular gta 6,US,now 7-d,2026-11-27T08:00:00+00:00,"Nov 27, 2026 at 4:00 PM",83
+ocelot jugular gta 6,US,now 7-d,2026-11-27T09:00:00+00:00,"Nov 27, 2026 at 5:00 PM",100
+ocelot jugular gta 6,US,now 7-d,2026-11-27T10:00:00+00:00,"Nov 27, 2026 at 6:00 PM",56
+ocelot jugular gta 6,US,now 7-d,2026-11-27T11:00:00+00:00,"Nov 27, 2026 at 7:00 PM",36
+ocelot jugular gta 6,US,now 7-d,2026-11-27T12:00:00+00:00,"Nov 27, 2026 at 8:00 PM",17
+ocelot jugular gta 6,US,now 7-d,2026-11-27T13:00:00+00:00,"Nov 27, 2026 at 9:00 PM",13
+ocelot jugular gta 6,US,now 7-d,2026-11-27T14:00:00+00:00,"Nov 27, 2026 at 10:00 PM",11
+ocelot jugular gta 6,US,now 7-d,2026-11-27T15:00:00+00:00,"Nov 27, 2026 at 11:00 PM",15
+ocelot jugular gta 6,US,now 7-d,2026-11-27T16:00:00+00:00,"Nov 28, 2026 at 12:00 AM",20
+ocelot jugular gta 6,US,now 7-d,2026-11-27T17:00:00+00:00,"Nov 28, 2026 at 1:00 AM",21
+ocelot jugular gta 6,US,now 7-d,2026-11-27T18:00:00+00:00,"Nov 28, 2026 at 2:00 AM",24
+ocelot jugular gta 6,US,now 7-d,2026-11-27T19:00:00+00:00,"Nov 28, 2026 at 3:00 AM",25
+ocelot jugular gta 6,US,now 7-d,2026-11-27T20:00:00+00:00,"Nov 28, 2026 at 4:00 AM",28
+ocelot jugular gta 6,US,now 7-d,2026-11-27T21:00:00+00:00,"Nov 28, 2026 at 5:00 AM",26
+ocelot jugular gta 6,US,now 7-d,2026-11-27T22:00:00+00:00,"Nov 28, 2026 at 6:00 AM",27
+ocelot jugular gta 6,US,now 7-d,2026-11-27T23:00:00+00:00,"Nov 28, 2026 at 7:00 AM",33
+ocelot jugular gta 6,US,now 7-d,2026-11-28T00:00:00+00:00,"Nov 28, 2026 at 8:00 AM",33
+ocelot jugular gta 6,US,now 7-d,2026-11-28T01:00:00+00:00,"Nov 28, 2026 at 9:00 AM",33
+ocelot jugular gta 6,US,now 7-d,2026-11-28T02:00:00+00:00,"Nov 28, 2026 at 10:00 AM",36
+ocelot jugular gta 6,US,now 7-d,2026-11-28T03:00:00+00:00,"Nov 28, 2026 at 11:00 AM",43
+ocelot jugular gta 6,US,now 7-d,2026-11-28T04:00:00+00:00,"Nov 28, 2026 at 12:00 PM",53
+ocelot jugular gta 6,US,now 7-d,2026-11-28T05:00:00+00:00,"Nov 28, 2026 at 1:00 PM",73
+ocelot jugular gta 6,US,now 7-d,2026-11-28T06:00:00+00:00,"Nov 28, 2026 at 2:00 PM",74
+ocelot jugular gta 6,US,now 7-d,2026-11-28T07:00:00+00:00,"Nov 28, 2026 at 3:00 PM",95
+ocelot jugular gta 6,US,now 7-d,2026-11-28T08:00:00+00:00,"Nov 28, 2026 at 4:00 PM",92

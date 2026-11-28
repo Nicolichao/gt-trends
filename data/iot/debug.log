@@ -1,24 +1,25 @@
 预热首页 HTTP 200，cookies=['NID']
-HK 关键词: ['阮嘉敏', 'aeon', '中九龍繞道', '中年好声音']
-explore[阮嘉敏] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 阮嘉敏: 21 点, 峰值 100
-explore[aeon] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK aeon: 146 点, 峰值 100
-explore[中九龍繞道] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 中九龍繞道: 13 点, 峰值 100
-explore[中年好声音] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK 中年好声音: 9 点, 峰值 100
-写出 data/iot/HK-2026-11-27.csv (189 行)
-写出 data/iot/latest-hk.csv (189 行)
-US 关键词: ['iran attacks kuwait', 'aus vs eng', 'gta6 pc port', 'seth meyers']
-explore[iran attacks kuwait] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK iran attacks kuwait: 4 点, 峰值 100
-explore[aus vs eng] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK aus vs eng: 62 点, 峰值 100
-explore[gta6 pc port] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK gta6 pc port: 127 点, 峰值 100
-explore[seth meyers] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
-OK seth meyers: 165 点, 峰值 100
-写出 data/iot/US-2026-11-27.csv (358 行)
-写出 data/iot/latest-us.csv (358 行)
-完成，共 547 行
+HK 关键词: ['八达通', '中 年 好 聲音 4', '屯門', '鄧萃雯']
+explore[八达通] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+multiline[八达通] HTTP 429 限流，等 45s 重试
+OK 八达通: 43 点, 峰值 100
+explore[中 年 好 聲音 4] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 中 年 好 聲音 4: 3 点, 峰值 100
+explore[屯門] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 屯門: 168 点, 峰值 100
+explore[鄧萃雯] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 鄧萃雯: 11 点, 峰值 100
+写出 data/iot/HK-2026-11-28.csv (225 行)
+写出 data/iot/latest-hk.csv (225 行)
+US 关键词: ['gordon ramsay', '開票', 'prisoners', 'ocelot jugular gta 6']
+explore[gordon ramsay] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK gordon ramsay: 169 点, 峰值 100
+explore[開票] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK 開票: 17 点, 峰值 100
+explore[prisoners] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK prisoners: 169 点, 峰值 100
+explore[ocelot jugular gta 6] widgets=['TIMESERIES', 'GEO_MAP', 'RELATED_TOPICS', 'RELATED_QUERIES']
+OK ocelot jugular gta 6: 164 点, 峰值 100
+写出 data/iot/US-2026-11-28.csv (519 行)
+写出 data/iot/latest-us.csv (519 行)
+完成，共 744 行
